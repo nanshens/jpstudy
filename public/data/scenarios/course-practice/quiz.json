@@ -1,0 +1,22 @@
+[
+{"id":"cp-q01","question":"起步前 3 件确认事是?","options":["刹车/油门/方向盘","后视镜/座椅/安全带","门/灯/油表","转速/油量/灯光"],"answerIndex":1,"explanation":"Mirror, Seat, Seatbelt,三件确认。"},
+{"id":"cp-q02","question":"AT 车的 P 挡是什么?","options":["前进","倒车","驻车","空挡"],"explanation":"Park,驻车挡。","answerIndex":2,"explanation":""},
+{"id":"cp-q03","question":"D レンジ是 AT 车的什么挡?","options":["前进挡","倒车挡","驻车挡","空挡"],"answerIndex":0,"explanation":"Drive,前进挡。"},
+{"id":"cp-q04","question":"半联动(半クラ)的目的是?","options":["快速起步","平顺起步不熄火","紧急刹车","转弯控制"],"answerIndex":1,"explanation":"半联动让离合慢慢咬合,避免熄火或窜车。"},
+{"id":"cp-q05","question":"直角弯(クランク)的口诀?","options":["外大内小","内大外小","前后大","左右大"],"answerIndex":1,"explanation":"S 弯/直角弯:内大外小,慢进快出。"},
+{"id":"cp-q06","question":"压到缘石叫什么?","options":["脱轮","乗り上げ","蛇行","急発進"],"answerIndex":1,"explanation":"乗り上げ = 骑上路沿,考试扣分。"},
+{"id":"cp-q07","question":"脱轮是考试中如何处理?","options":["扣 10 分","扣 50 分","一発不合格","没事"],"answerIndex":2,"explanation":"脱轮一発不合格,立刻中止。"},
+{"id":"cp-q08","question":"纵列停车要先打哪个灯?","options":["左","右","双闪","都不用"],"answerIndex":1,"explanation":"右边路边停车,先打右转向灯。"},
+{"id":"cp-q09","question":"右转前要先看哪里?","options":["左后视镜","右后视镜","仪表盘","副驾"],"answerIndex":1,"explanation":"右转要后视镜 + 右后方 + 盲区。"},
+{"id":"cp-q10","question":"左转时车身会向哪边切?","options":["外侧","内侧","不变","前侧"],"answerIndex":1,"explanation":"内轮差:左转时左侧向内侧切。"},
+{"id":"cp-q11","question":"起步前忘系安全带会?","options":["没事","扣 5 分","扣 20 分","一発不合格"],"answerIndex":2,"explanation":"忘系安全带是一発不合格级别。"},
+{"id":"cp-q12","question":"坡道起步时手刹什么时候放?","options":["起步前","起步后","感觉震动后","到坡顶"],"answerIndex":2,"explanation":"感到震动,离合咬合,这时放手刹。"},
+{"id":"cp-q13","question":"S 弯的要点是?","options":["快速通过","车身不脱线","一直打满","直行通过"],"answerIndex":1,"explanation":"S 弯要让车身始终在通道内,不能压线。"},
+{"id":"cp-q14","question":"转向灯要提前多少米打?","options":["10 米","30 米","100 米","不打"],"answerIndex":1,"explanation":"转向前 30 米打转向灯。"},
+{"id":"cp-q15","question":"1 阶段普通 AT 教习时数最少?","options":["10 时限","12 时限","15 时限","19 时限"],"answerIndex":1,"explanation":"AT 1 阶段最少 12 时限,MT 1 阶段最少 15 时限。"},
+{"id":"cp-q16","question":"修了检定(1 阶段末)是考什么?","options":["路上驾驶","场内技能","学科笔试","应急救护"],"answerIndex":1,"explanation":"1 阶段末是场内技能考(修了检定)。"},
+{"id":"cp-q17","question":"哪种操作会一発不合格?","options":["忘打转向灯","压线","脱轮","急刹车"],"answerIndex":2,"explanation":"脱轮 = 一発不合格。其它是扣分。"},
+{"id":"cp-q18","question":"方向盘转动时,手不要放哪里?","options":["12 点钟方向","6 点钟方向","3 点钟方向","9 点钟方向"],"answerIndex":3,"explanation":"9 点钟位置不能单手握,影响气囊弹出。"},
+{"id":"cp-q19","question":"后视镜调整要能看见什么?","options":["只看后窗","地平线在镜中央,后车占镜中","只看地面","只看天空"],"answerIndex":1,"explanation":"地平线在镜中央,后车占镜中。"},
+{"id":"cp-q20","question":"入库(平行駐車)时的方向盘操作?","options":["一直打满","来回切换","打死不动","顺时针一直打"],"answerIndex":1,"explanation":"45 度切、回正、再切反方向,来回切换。"}
+]

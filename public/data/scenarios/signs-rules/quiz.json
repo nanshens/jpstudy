@@ -1,0 +1,22 @@
+[
+{"id":"sr-q01","question":"道路标志 4 大类是?","options":["红/黄/蓝/绿","規制/警戒/指示/案内","圆/三角/方/菱","禁/警/指/案"],"answerIndex":1,"explanation":"4 大类:規制/警戒/指示/案内。"},
+{"id":"sr-q02","question":"止まれ标志是什么?","options":["红圆","红倒三角","黄三角","蓝方"],"answerIndex":1,"explanation":"红底倒三角白字「止まれ」。"},
+{"id":"sr-q03","question":"徐行标志是什么?","options":["红圆","红三角","蓝底斜线","黄三角"],"answerIndex":2,"explanation":"蓝底白色斜向下线。"},
+{"id":"sr-q04","question":"最高速度 40 是什么标志?","options":["红圈白 40","蓝圈白 40","黄底黑 40","绿底白 40"],"answerIndex":0,"explanation":"红圈白数字是限速。"},
+{"id":"sr-q05","question":"警告标志颜色?","options":["红色","黄色","蓝色","绿色"],"answerIndex":1,"explanation":"黄色三角=警告。"},
+{"id":"sr-q06","question":"单行道标志?","options":["红圆","蓝底白箭头","黄三角","绿方"],"answerIndex":1,"explanation":"蓝底白箭头=单行。"},
+{"id":"sr-q07","question":"禁止驶入?","options":["红圆白横杠","红三角","黄方","蓝圆"],"answerIndex":0,"explanation":"红圆白横杠=禁止驶入。"},
+{"id":"sr-q08","question":"禁止停车?","options":["蓝 P","红圆斜杠 P","黄方","绿方"],"answerIndex":1,"explanation":"红圆斜杠 P=禁止停车。"},
+{"id":"sr-q09","question":"禁止右转?","options":["红圆白右箭头+斜杠","蓝圆","黄三角","绿方"],"answerIndex":0,"explanation":"红圆+右箭头+斜杠=禁右。"},
+{"id":"sr-q10","question":"禁止掉头?","options":["红圆 U 形+斜杠","蓝圆 U","黄三角","绿方"],"answerIndex":0,"explanation":"红圆+U 形+斜杠=禁掉头。"},
+{"id":"sr-q11","question":"黄实线是什么?","options":["人行横道","中央线","车道线","停止线"],"answerIndex":1,"explanation":"黄实线=中央线,不可压。"},
+{"id":"sr-q12","question":"白色实线能否跨越?","options":["可以","不可以","看情况","随便"],"answerIndex":1,"explanation":"白实线不能跨。"},
+{"id":"sr-q13","question":"新手标志?","options":["绿色十字","黄绿叶","红色三角","蓝色方"],"answerIndex":1,"explanation":"🔰 是黄绿色叶子。"},
+{"id":"sr-q14","question":"仮免学科要答对几题?","options":["70/95","80/95","90/95","100/95"],"answerIndex":2,"explanation":"95 题中答对 90 题。"},
+{"id":"sr-q15","question":"一般道法定速度?","options":["40 km/h","50 km/h","60 km/h","80 km/h"],"answerIndex":2,"explanation":"一般道路法定 60 km/h。"},
+{"id":"sr-q16","question":"高速法定速度?","options":["80 km/h","100 km/h","120 km/h","100 km/h(部分 80)"],"answerIndex":3,"explanation":"高速一般 100,部分 80。"},
+{"id":"sr-q17","question":"未系安全带扣分?","options":["0 分","1 分","2 分","3 分"],"answerIndex":1,"explanation":"未系安全带扣 1 分。"},
+{"id":"sr-q18","question":"携带電話使用扣分?","options":["1 分","3 分","6 分","一発不合格"],"answerIndex":1,"explanation":"使用手机扣 3 分,罚款 18,000 日元。"},
+{"id":"sr-q19","question":"一発不合格项目不包括?","options":["闯红灯","未临时停车","系安全带","安全确认义务违反"],"answerIndex":2,"explanation":"系安全带扣分,不是一発不合格。"},
+{"id":"sr-q20","question":"累積 6 点以上会怎样?","options":["吊销驾照","停止驾照","没收驾照","没事"],"answerIndex":1,"explanation":"累積 6-8 点驾照停止 30 日;9-11 点停止 60 日;12 点吊销。"}
+]
