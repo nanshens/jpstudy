@@ -1,11 +1,12 @@
 import { NavLink, Outlet, useLocation } from 'react-router-dom';
-import { Home, BookOpen, Languages, Compass } from 'lucide-react';
+import { Home, BookOpen, Languages, Compass, ListChecks } from 'lucide-react';
 import { cn } from '@/lib/cn';
 
 const NAV = [
   { to: '/', label: '首页', icon: Home, end: true },
   { to: '/kana', label: '五十音', icon: Languages },
   { to: '/scenarios', label: '场景', icon: Compass },
+  { to: '/mixed-test', label: '综合测试', icon: ListChecks },
 ];
 
 export function AppShell() {
@@ -56,7 +57,7 @@ export function AppShell() {
 
       {/* Mobile bottom nav */}
       <nav className="md:hidden fixed bottom-0 inset-x-0 z-30 border-t bg-background/95 backdrop-blur">
-        <div className="grid grid-cols-3 h-16">
+        <div className="grid grid-cols-4 h-16">
           {NAV.map((n) => (
             <NavLink
               key={n.to}

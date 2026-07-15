@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { ArrowRight, BookOpen, Languages, Volume2, GraduationCap, MessageCircle, Headphones, ClipboardCheck, Sparkles, Car } from 'lucide-react';
+import { ArrowRight, BookOpen, Languages, Volume2, GraduationCap, MessageCircle, Headphones, ClipboardCheck, Sparkles, Car, ListChecks } from 'lucide-react';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { speak } from '@/lib/speech';
@@ -28,6 +28,11 @@ export function Home() {
           <Button asChild size="lg">
             <Link to="/scenarios">
               <Car className="h-4 w-4" /> 进入学习场景 <ArrowRight className="h-4 w-4" />
+            </Link>
+          </Button>
+          <Button asChild size="lg" variant="outline">
+            <Link to="/mixed-test">
+              <ListChecks className="h-4 w-4" /> 综合测试
             </Link>
           </Button>
           <Button asChild size="lg" variant="outline">
