@@ -1,0 +1,223 @@
+{
+  "seion": [
+    {
+      "consonant": "あ行",
+      "cells": [
+        { "hiragana": "あ", "katakana": "ア", "romaji": "a", "example": { "word": "あめ", "reading": "雨", "meaning": "雨" } },
+        { "hiragana": "い", "katakana": "イ", "romaji": "i", "example": { "word": "いえ", "reading": "家", "meaning": "家" } },
+        { "hiragana": "う", "katakana": "ウ", "romaji": "u", "example": { "word": "うみ", "reading": "海", "meaning": "海" } },
+        { "hiragana": "え", "katakana": "エ", "romaji": "e", "example": { "word": "えき", "reading": "駅", "meaning": "车站" } },
+        { "hiragana": "お", "katakana": "オ", "romaji": "o", "example": { "word": "おちゃ", "reading": "お茶", "meaning": "茶" } }
+      ]
+    },
+    {
+      "consonant": "か行",
+      "cells": [
+        { "hiragana": "か", "katakana": "カ", "romaji": "ka", "example": { "word": "かさ", "reading": "傘", "meaning": "伞" } },
+        { "hiragana": "き", "katakana": "キ", "romaji": "ki", "example": { "word": "きた", "reading": "北", "meaning": "北" } },
+        { "hiragana": "く", "katakana": "ク", "romaji": "ku", "example": { "word": "くるま", "reading": "車", "meaning": "车" } },
+        { "hiragana": "け", "katakana": "ケ", "romaji": "ke", "example": { "word": "けん", "reading": "県", "meaning": "县" } },
+        { "hiragana": "こ", "katakana": "コ", "romaji": "ko", "example": { "word": "ここ", "reading": "此処", "meaning": "这里" } }
+      ]
+    },
+    {
+      "consonant": "さ行",
+      "cells": [
+        { "hiragana": "さ", "katakana": "サ", "romaji": "sa", "example": { "word": "さかな", "reading": "魚", "meaning": "鱼" } },
+        { "hiragana": "し", "katakana": "シ", "romaji": "shi", "example": { "word": "しんごう", "reading": "信号", "meaning": "信号灯" } },
+        { "hiragana": "す", "katakana": "ス", "romaji": "su", "example": { "word": "すし", "reading": "寿司", "meaning": "寿司" } },
+        { "hiragana": "せ", "katakana": "セ", "romaji": "se", "example": { "word": "せんせい", "reading": "先生", "meaning": "老师" } },
+        { "hiragana": "そ", "katakana": "ソ", "romaji": "so", "example": { "word": "そら", "reading": "空", "meaning": "天空" } }
+      ]
+    },
+    {
+      "consonant": "た行",
+      "cells": [
+        { "hiragana": "た", "katakana": "タ", "romaji": "ta", "example": { "word": "たまご", "reading": "卵", "meaning": "鸡蛋" } },
+        { "hiragana": "ち", "katakana": "チ", "romaji": "chi", "example": { "word": "ちず", "reading": "地図", "meaning": "地图" } },
+        { "hiragana": "つ", "katakana": "ツ", "romaji": "tsu", "example": { "word": "つき", "reading": "月", "meaning": "月亮" } },
+        { "hiragana": "て", "katakana": "テ", "romaji": "te", "example": { "word": "てがみ", "reading": "手紙", "meaning": "信" } },
+        { "hiragana": "と", "katakana": "ト", "romaji": "to", "example": { "word": "とり", "reading": "鳥", "meaning": "鸟" } }
+      ]
+    },
+    {
+      "consonant": "な行",
+      "cells": [
+        { "hiragana": "な", "katakana": "ナ", "romaji": "na", "example": { "word": "なまえ", "reading": "名前", "meaning": "名字" } },
+        { "hiragana": "に", "katakana": "ニ", "romaji": "ni", "example": { "word": "にほん", "reading": "日本", "meaning": "日本" } },
+        { "hiragana": "ぬ", "katakana": "ヌ", "romaji": "nu", "example": { "word": "いぬ", "reading": "犬", "meaning": "狗" } },
+        { "hiragana": "ね", "katakana": "ネ", "romaji": "ne", "example": { "word": "ねこ", "reading": "猫", "meaning": "猫" } },
+        { "hiragana": "の", "katakana": "ノ", "romaji": "no", "example": { "word": "のむ", "reading": "飲む", "meaning": "喝" } }
+      ]
+    },
+    {
+      "consonant": "は行",
+      "cells": [
+        { "hiragana": "は", "katakana": "ハ", "romaji": "ha", "example": { "word": "はし", "reading": "橋", "meaning": "桥" } },
+        { "hiragana": "ひ", "katakana": "ヒ", "romaji": "hi", "example": { "word": "ひと", "reading": "人", "meaning": "人" } },
+        { "hiragana": "ふ", "katakana": "フ", "romaji": "fu", "example": { "word": "ふゆ", "reading": "冬", "meaning": "冬天" } },
+        { "hiragana": "へ", "katakana": "ヘ", "romaji": "he", "example": { "word": "へや", "reading": "部屋", "meaning": "房间" } },
+        { "hiragana": "ほ", "katakana": "ホ", "romaji": "ho", "example": { "word": "ほそい", "reading": "細い", "meaning": "细" } }
+      ]
+    },
+    {
+      "consonant": "ま行",
+      "cells": [
+        { "hiragana": "ま", "katakana": "マ", "romaji": "ma", "example": { "word": "まど", "reading": "窓", "meaning": "窗户" } },
+        { "hiragana": "み", "katakana": "ミ", "romaji": "mi", "example": { "word": "みず", "reading": "水", "meaning": "水" } },
+        { "hiragana": "む", "katakana": "ム", "romaji": "mu", "example": { "word": "むかし", "reading": "昔", "meaning": "以前" } },
+        { "hiragana": "め", "katakana": "メ", "romaji": "me", "example": { "word": "め", "reading": "目", "meaning": "眼睛" } },
+        { "hiragana": "も", "katakana": "モ", "romaji": "mo", "example": { "word": "もり", "reading": "森", "meaning": "森林" } }
+      ]
+    },
+    {
+      "consonant": "や行",
+      "cells": [
+        { "hiragana": "や", "katakana": "ヤ", "romaji": "ya", "example": { "word": "やま", "reading": "山", "meaning": "山" } },
+        { "hiragana": "", "katakana": "", "romaji": "" },
+        { "hiragana": "ゆ", "katakana": "ユ", "romaji": "yu", "example": { "word": "ゆき", "reading": "雪", "meaning": "雪" } },
+        { "hiragana": "", "katakana": "", "romaji": "" },
+        { "hiragana": "よ", "katakana": "ヨ", "romaji": "yo", "example": { "word": "よる", "reading": "夜", "meaning": "夜晚" } }
+      ]
+    },
+    {
+      "consonant": "ら行",
+      "cells": [
+        { "hiragana": "ら", "katakana": "ラ", "romaji": "ra", "example": { "word": "らいねん", "reading": "来年", "meaning": "明年" } },
+        { "hiragana": "り", "katakana": "リ", "romaji": "ri", "example": { "word": "りんご", "reading": "林檎", "meaning": "苹果" } },
+        { "hiragana": "る", "katakana": "ル", "romaji": "ru", "example": { "word": "るす", "reading": "留守", "meaning": "不在家" } },
+        { "hiragana": "れ", "katakana": "レ", "romaji": "re", "example": { "word": "れきし", "reading": "歴史", "meaning": "历史" } },
+        { "hiragana": "ろ", "katakana": "ロ", "romaji": "ro", "example": { "word": "ろうそく", "reading": "蝋燭", "meaning": "蜡烛" } }
+      ]
+    },
+    {
+      "consonant": "わ行",
+      "cells": [
+        { "hiragana": "わ", "katakana": "ワ", "romaji": "wa", "example": { "word": "わたし", "reading": "私", "meaning": "我" } },
+        { "hiragana": "", "katakana": "", "romaji": "" },
+        { "hiragana": "", "katakana": "", "romaji": "" },
+        { "hiragana": "", "katakana": "", "romaji": "" },
+        { "hiragana": "を", "katakana": "ヲ", "romaji": "wo", "example": { "word": "ほんを", "reading": "本を", "meaning": "书(宾语)" } }
+      ]
+    },
+    {
+      "consonant": "",
+      "cells": [
+        { "hiragana": "", "katakana": "", "romaji": "" },
+        { "hiragana": "", "katakana": "", "romaji": "" },
+        { "hiragana": "", "katakana": "", "romaji": "" },
+        { "hiragana": "", "katakana": "", "romaji": "" },
+        { "hiragana": "ん", "katakana": "ン", "romaji": "n", "example": { "word": "にほん", "reading": "日本", "meaning": "日本" } }
+      ]
+    }
+  ],
+  "dakuten": [
+    {
+      "consonant": "が行", "isDakuten": true,
+      "cells": [
+        { "hiragana": "が", "katakana": "ガ", "romaji": "ga" },
+        { "hiragana": "ぎ", "katakana": "ギ", "romaji": "gi" },
+        { "hiragana": "ぐ", "katakana": "グ", "romaji": "gu" },
+        { "hiragana": "げ", "katakana": "ゲ", "romaji": "ge" },
+        { "hiragana": "ご", "katakana": "ゴ", "romaji": "go" }
+      ]
+    },
+    {
+      "consonant": "ざ行", "isDakuten": true,
+      "cells": [
+        { "hiragana": "ざ", "katakana": "ザ", "romaji": "za" },
+        { "hiragana": "じ", "katakana": "ジ", "romaji": "ji" },
+        { "hiragana": "ず", "katakana": "ズ", "romaji": "zu" },
+        { "hiragana": "ぜ", "katakana": "ゼ", "romaji": "ze" },
+        { "hiragana": "ぞ", "katakana": "ゾ", "romaji": "zo" }
+      ]
+    },
+    {
+      "consonant": "だ行", "isDakuten": true,
+      "cells": [
+        { "hiragana": "だ", "katakana": "ダ", "romaji": "da" },
+        { "hiragana": "ぢ", "katakana": "ヂ", "romaji": "ji" },
+        { "hiragana": "づ", "katakana": "ヅ", "romaji": "zu" },
+        { "hiragana": "で", "katakana": "デ", "romaji": "de" },
+        { "hiragana": "ど", "katakana": "ド", "romaji": "do" }
+      ]
+    },
+    {
+      "consonant": "ば行", "isDakuten": true,
+      "cells": [
+        { "hiragana": "ば", "katakana": "バ", "romaji": "ba" },
+        { "hiragana": "び", "katakana": "ビ", "romaji": "bi" },
+        { "hiragana": "ぶ", "katakana": "ブ", "romaji": "bu" },
+        { "hiragana": "べ", "katakana": "ベ", "romaji": "be" },
+        { "hiragana": "ぼ", "katakana": "ボ", "romaji": "bo" }
+      ]
+    },
+    {
+      "consonant": "ぱ行", "isDakuten": true,
+      "cells": [
+        { "hiragana": "ぱ", "katakana": "パ", "romaji": "pa" },
+        { "hiragana": "ぴ", "katakana": "ピ", "romaji": "pi" },
+        { "hiragana": "ぷ", "katakana": "プ", "romaji": "pu" },
+        { "hiragana": "ぺ", "katakana": "ペ", "romaji": "pe" },
+        { "hiragana": "ぽ", "katakana": "ポ", "romaji": "po" }
+      ]
+    }
+  ],
+  "combo": [
+    { "consonant": "きゃ行", "isCombination": true, "cells": [
+      { "hiragana": "きゃ", "katakana": "キャ", "romaji": "kya" },
+      { "hiragana": "きゅ", "katakana": "キュ", "romaji": "kyu" },
+      { "hiragana": "きょ", "katakana": "キョ", "romaji": "kyo" }
+    ] },
+    { "consonant": "しゃ行", "isCombination": true, "cells": [
+      { "hiragana": "しゃ", "katakana": "シャ", "romaji": "sha" },
+      { "hiragana": "しゅ", "katakana": "シュ", "romaji": "shu" },
+      { "hiragana": "しょ", "katakana": "ショ", "romaji": "sho" }
+    ] },
+    { "consonant": "ちゃ行", "isCombination": true, "cells": [
+      { "hiragana": "ちゃ", "katakana": "チャ", "romaji": "cha" },
+      { "hiragana": "ちゅ", "katakana": "チュ", "romaji": "chu" },
+      { "hiragana": "ちょ", "katakana": "チョ", "romaji": "cho" }
+    ] },
+    { "consonant": "にゃ行", "isCombination": true, "cells": [
+      { "hiragana": "にゃ", "katakana": "ニャ", "romaji": "nya" },
+      { "hiragana": "にゅ", "katakana": "ニュ", "romaji": "nyu" },
+      { "hiragana": "にょ", "katakana": "ニョ", "romaji": "nyo" }
+    ] },
+    { "consonant": "ひゃ行", "isCombination": true, "cells": [
+      { "hiragana": "ひゃ", "katakana": "ヒャ", "romaji": "hya" },
+      { "hiragana": "ひゅ", "katakana": "ヒュ", "romaji": "hyu" },
+      { "hiragana": "ひょ", "katakana": "ヒョ", "romaji": "hyo" }
+    ] },
+    { "consonant": "みゃ行", "isCombination": true, "cells": [
+      { "hiragana": "みゃ", "katakana": "ミャ", "romaji": "mya" },
+      { "hiragana": "みゅ", "katakana": "ミュ", "romaji": "myu" },
+      { "hiragana": "みょ", "katakana": "ミョ", "romaji": "myo" }
+    ] },
+    { "consonant": "りゃ行", "isCombination": true, "cells": [
+      { "hiragana": "りゃ", "katakana": "リャ", "romaji": "rya" },
+      { "hiragana": "りゅ", "katakana": "リュ", "romaji": "ryu" },
+      { "hiragana": "りょ", "katakana": "リョ", "romaji": "ryo" }
+    ] },
+    { "consonant": "ぎゃ行", "isCombination": true, "cells": [
+      { "hiragana": "ぎゃ", "katakana": "ギャ", "romaji": "gya" },
+      { "hiragana": "ぎゅ", "katakana": "ギュ", "romaji": "gyu" },
+      { "hiragana": "ぎょ", "katakana": "ギョ", "romaji": "gyo" }
+    ] },
+    { "consonant": "じゃ行", "isCombination": true, "cells": [
+      { "hiragana": "じゃ", "katakana": "ジャ", "romaji": "ja" },
+      { "hiragana": "じゅ", "katakana": "ジュ", "romaji": "ju" },
+      { "hiragana": "じょ", "katakana": "ジョ", "romaji": "jo" }
+    ] },
+    { "consonant": "びゃ行", "isCombination": true, "cells": [
+      { "hiragana": "びゃ", "katakana": "ビャ", "romaji": "bya" },
+      { "hiragana": "びゅ", "katakana": "ビュ", "romaji": "byu" },
+      { "hiragana": "びょ", "katakana": "ビョ", "romaji": "byo" }
+    ] },
+    { "consonant": "ぴゃ行", "isCombination": true, "cells": [
+      { "hiragana": "ぴゃ", "katakana": "ピャ", "romaji": "pya" },
+      { "hiragana": "ぴゅ", "katakana": "ピュ", "romaji": "pyu" },
+      { "hiragana": "ぴょ", "katakana": "ピョ", "romaji": "pyo" }
+    ] }
+  ]
+}

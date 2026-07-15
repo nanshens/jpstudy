@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "w-instructor",
+    "jp": "教官",
+    "reading": "きょうかん",
+    "romaji": "kyoukan",
+    "meaning": "教官,教练",
+    "tag": [
+      "人物"
+    ]
+  },
+  {
+    "id": "w-student",
+    "jp": "教習生",
+    "reading": "きょうしゅうせい",
+    "meaning": "学员",
+    "tag": [
+      "人物"
+    ]
+  },
+  {
+    "id": "w-sham",
+    "jp": "仮免許",
+    "reading": "かりめんきょ",
+    "meaning": "临时驾照(假驾照)",
+    "tag": [
+      "人物",
+      "手续"
+    ]
+  },
+  {
+    "id": "w-honmen",
+    "jp": "本免許",
+    "reading": "ほんめんきょ",
+    "meaning": "正式驾照",
+    "tag": [
+      "人物",
+      "手续"
+    ]
+  },
+  {
+    "id": "w-myna",
+    "jp": "外国人",
+    "reading": "がいこくじん",
+    "meaning": "外国人",
+    "tag": [
+      "人物"
+    ]
+  },
+  {
+    "id": "w-myname",
+    "jp": "名前",
+    "reading": "なまえ",
+    "meaning": "名字",
+    "tag": [
+      "人物",
+      "基础"
+    ]
+  },
+  {
+    "id": "w-desuka",
+    "jp": "〜さんですか",
+    "reading": "さんですか",
+    "meaning": "是~先生/女士吗?",
+    "tag": [
+      "人物",
+      "基础"
+    ]
+  },
+  {
+    "id": "w-handle",
+    "jp": "ハンドル",
+    "reading": "はんどる",
+    "meaning": "方向盘",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-brake",
+    "jp": "ブレーキ",
+    "reading": "ブレーキ",
+    "meaning": "刹车",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-accel",
+    "jp": "アクセル",
+    "reading": "アクセル",
+    "meaning": "油门",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-clutch",
+    "jp": "クラッチ",
+    "reading": "クラッチ",
+    "meaning": "离合器(仅MT)",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-gear",
+    "jp": "ギア",
+    "reading": "ギア",
+    "meaning": "档位",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-shift",
+    "jp": "シフト",
+    "reading": "シフト",
+    "meaning": "换挡",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-pbrake",
+    "jp": "サイドブレーキ",
+    "reading": "さいどブレーキ",
+    "meaning": "手刹 / 驻车制动",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-mirror",
+    "jp": "ミラー",
+    "reading": "ミラー",
+    "meaning": "后视镜",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-room-mirror",
+    "jp": "ルームミラー",
+    "reading": "ルームミラー",
+    "meaning": "车内后视镜",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-door-mirror",
+    "jp": "ドアミラー",
+    "reading": "ドアミラー",
+    "meaning": "车外后视镜",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-seat",
+    "jp": "シート",
+    "reading": "シート",
+    "meaning": "座椅",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-seatbelt",
+    "jp": "シートベルト",
+    "reading": "シートベルト",
+    "meaning": "安全带",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-key",
+    "jp": "キー",
+    "reading": "キー",
+    "meaning": "钥匙",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-pedal",
+    "jp": "ペダル",
+    "reading": "ペダル",
+    "meaning": "踏板",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-meter",
+    "jp": "メーター",
+    "reading": "メーター",
+    "meaning": "仪表盘",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-hazard",
+    "jp": "ハザード",
+    "reading": "ハザード",
+    "meaning": "危险报警灯(双闪)",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-winker",
+    "jp": "ウインカー",
+    "reading": "ウインカー",
+    "meaning": "转向灯",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-engine",
+    "jp": "エンジン",
+    "reading": "エンジン",
+    "meaning": "发动机",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-light",
+    "jp": "ライト",
+    "reading": "ライト",
+    "meaning": "灯",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-wheel",
+    "jp": "タイヤ",
+    "reading": "タイヤ",
+    "meaning": "轮胎",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-hon",
+    "jp": "クラクション",
+    "reading": "クラクション",
+    "meaning": "喇叭",
+    "tag": [
+      "车辆部件"
+    ]
+  },
+  {
+    "id": "w-hasshin",
+    "jp": "発進",
+    "reading": "はっしん",
+    "meaning": "起步,启动",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-teishi",
+    "jp": "停止",
+    "reading": "ていし",
+    "meaning": "停止",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-itchiji-teishi",
+    "jp": "一時停止",
+    "reading": "いちじていし",
+    "meaning": "临时停车(让车/让行人)",
+    "tag": [
+      "驾驶操作",
+      "标识"
+    ]
+  },
+  {
+    "id": "w-chusha",
+    "jp": "駐車",
+    "reading": "ちゅうしゃ",
+    "meaning": "停车(长时间)",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-tempo",
+    "jp": "停車",
+    "reading": "ていしゃ",
+    "meaning": "停车(短时)",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-usturn",
+    "jp": "Uターン",
+    "reading": "Uターン",
+    "meaning": "掉头",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-sen-henkou",
+    "jp": "車線変更",
+    "reading": "せんへんこう",
+    "meaning": "变道",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-usetsu",
+    "jp": "右折",
+    "reading": "うせつ",
+    "meaning": "右转",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-sasetsu",
+    "jp": "左折",
+    "reading": "させつ",
+    "meaning": "左转",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-maki-komi",
+    "jp": "巻き込み確認",
+    "reading": "まきこみかくにん",
+    "meaning": "确认转弯内侧",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-meue",
+    "jp": "目視",
+    "reading": "もくし",
+    "meaning": "目视,亲眼确认",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-dassen",
+    "jp": "脱輪",
+    "reading": "だつりん",
+    "meaning": "车轮驶离(路缘)",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-sakamichi",
+    "jp": "坂道発進",
+    "reading": "さかみちはっしん",
+    "meaning": "坡道起步",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-sorimaze",
+    "jp": "通り",
+    "reading": "どおり",
+    "meaning": "街道(通り)",
+    "tag": [
+      "驾驶操作",
+      "道路"
+    ]
+  },
+  {
+    "id": "w-sharyou",
+    "jp": "車両",
+    "reading": "しゃりょう",
+    "meaning": "车辆",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-kiken",
+    "jp": "危険",
+    "reading": "きけん",
+    "meaning": "危险",
+    "tag": [
+      "驾驶操作",
+      "基础"
+    ]
+  },
+  {
+    "id": "w-anzen",
+    "jp": "安全",
+    "reading": "あんぜん",
+    "meaning": "安全",
+    "tag": [
+      "驾驶操作",
+      "基础"
+    ]
+  },
+  {
+    "id": "w-shuudan",
+    "jp": "車間距離",
+    "reading": "しゃかんきょり",
+    "meaning": "车距",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-kudari",
+    "jp": "下り坂",
+    "reading": "くだりざか",
+    "meaning": "下坡",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-nobori",
+    "jp": "上り坂",
+    "reading": "のぼりざか",
+    "meaning": "上坡",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-sorikae",
+    "jp": "切り替えし",
+    "reading": "きりかえし",
+    "meaning": "调头(路口内)",
+    "tag": [
+      "驾驶操作"
+    ]
+  },
+  {
+    "id": "w-kousaten",
+    "jp": "交差点",
+    "reading": "こうさてん",
+    "meaning": "十字路口",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-oudan",
+    "jp": "横断歩道",
+    "reading": "おうだんほどう",
+    "meaning": "人行横道",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-shingou",
+    "jp": "信号",
+    "reading": "しんごう",
+    "meaning": "红绿灯",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-aka",
+    "jp": "赤",
+    "reading": "あか",
+    "meaning": "红",
+    "tag": [
+      "道路",
+      "基础"
+    ]
+  },
+  {
+    "id": "w-ao",
+    "jp": "青",
+    "reading": "あお",
+    "meaning": "绿(日本绿灯)",
+    "tag": [
+      "道路",
+      "基础"
+    ]
+  },
+  {
+    "id": "w-ki",
+    "jp": "黄",
+    "reading": "きいろ",
+    "meaning": "黄",
+    "tag": [
+      "道路",
+      "基础"
+    ]
+  },
+  {
+    "id": "w-ippo",
+    "jp": "一方通行",
+    "reading": "いっぽうつうこう",
+    "meaning": "单行道",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-roji",
+    "jp": "路地",
+    "reading": "ろじ",
+    "meaning": "小巷,小道",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-kosokudoro",
+    "jp": "高速道路",
+    "reading": "こうそくどうろ",
+    "meaning": "高速公路",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-kokudou",
+    "jp": "国道",
+    "reading": "こくどう",
+    "meaning": "国道",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-ken",
+    "jp": "県道",
+    "reading": "けんどう",
+    "meaning": "县道",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-shiroim",
+    "jp": "白い線",
+    "reading": "しろいせん",
+    "meaning": "白线",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-kiiroim",
+    "jp": "黄色い線",
+    "reading": "きいろいせん",
+    "meaning": "黄线(中央线)",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-hodou",
+    "jp": "歩道",
+    "reading": "ほどう",
+    "meaning": "人行道",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-shagai",
+    "jp": "車外",
+    "reading": "しゃがい",
+    "meaning": "车外",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-hokushin",
+    "jp": "歩行者",
+    "reading": "ほこうしゃ",
+    "meaning": "行人",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-taikou",
+    "jp": "対向車",
+    "reading": "たいこうしゃ",
+    "meaning": "对向来车",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-yokogao",
+    "jp": "交差点の向こう側",
+    "reading": "こうさてんのむこうがわ",
+    "meaning": "路口对面",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-eki-mae",
+    "jp": "駅前",
+    "reading": "えきまえ",
+    "meaning": "车站前",
+    "tag": [
+      "道路"
+    ]
+  },
+  {
+    "id": "w-hyoushiki",
+    "jp": "標識",
+    "reading": "ひょうしき",
+    "meaning": "标识,路标",
+    "tag": [
+      "标识"
+    ]
+  },
+  {
+    "id": "w-hyoushi",
+    "jp": "標示",
+    "reading": "ひょうじ",
+    "meaning": "路面标线",
+    "tag": [
+      "标识"
+    ]
+  },
+  {
+    "id": "w-jokou",
+    "jp": "徐行",
+    "reading": "じょこう",
+    "meaning": "慢行,缓行",
+    "tag": [
+      "标识"
+    ]
+  },
+  {
+    "id": "w-chuusha-kinshi",
+    "jp": "駐車禁止",
+    "reading": "ちゅうしゃきんし",
+    "meaning": "禁止停车",
+    "tag": [
+      "标识"
+    ]
+  },
+  {
+    "id": "w-teisha-kinshi",
+    "jp": "停車禁止",
+    "reading": "ていしゃきんし",
+    "meaning": "禁止临时停车",
+    "tag": [
+      "标识"
+    ]
+  },
+  {
+    "id": "w-taiho",
+    "jp": "逮捕",
+    "reading": "たいほ",
+    "meaning": "逮捕",
+    "tag": [
+      "法规",
+      "基础"
+    ]
+  },
+  {
+    "id": "w-bakkin",
+    "jp": "罰金",
+    "reading": "ばっきん",
+    "meaning": "罚款",
+    "tag": [
+      "法规"
+    ]
+  },
+  {
+    "id": "w-koutsu",
+    "jp": "交通ルール",
+    "reading": "こうつうルール",
+    "meaning": "交通规则",
+    "tag": [
+      "法规"
+    ]
+  },
+  {
+    "id": "w-shiken",
+    "jp": "試験",
+    "reading": "しけん",
+    "meaning": "考试",
+    "tag": [
+      "法规",
+      "手续"
+    ]
+  },
+  {
+    "id": "w-menkyo",
+    "jp": "免許",
+    "reading": "めんきょ",
+    "meaning": "驾照,许可证",
+    "tag": [
+      "法规"
+    ]
+  },
+  {
+    "id": "w-gakika",
+    "jp": "学科",
+    "reading": "がっか",
+    "meaning": "理论(学科)",
+    "tag": [
+      "法规",
+      "手续"
+    ]
+  },
+  {
+    "id": "w-gijutsu",
+    "jp": "技能",
+    "reading": "ぎのう",
+    "meaning": "技能(实操)",
+    "tag": [
+      "法规",
+      "手续"
+    ]
+  },
+  {
+    "id": "w-shuuryou",
+    "jp": "修了",
+    "reading": "しゅうりょう",
+    "meaning": "结业,完成",
+    "tag": [
+      "手续"
+    ]
+  },
+  {
+    "id": "w-sotsugyou",
+    "jp": "卒業",
+    "reading": "そつぎょう",
+    "meaning": "毕业",
+    "tag": [
+      "手续"
+    ]
+  },
+  {
+    "id": "w-shingaku",
+    "jp": "入学",
+    "reading": "にゅうがく",
+    "meaning": "入学",
+    "tag": [
+      "手续"
+    ]
+  },
+  {
+    "id": "w-nyuukou",
+    "jp": "入校",
+    "reading": "にゅうこう",
+    "meaning": "入校(教习所)",
+    "tag": [
+      "手续"
+    ]
+  },
+  {
+    "id": "w-kentei",
+    "jp": "検定",
+    "reading": "けんてい",
+    "meaning": "考试,考核",
+    "tag": [
+      "手续"
+    ]
+  },
+  {
+    "id": "w-shiken-kaiko",
+    "jp": "試験会場",
+    "reading": "しけんかいじょう",
+    "meaning": "考场",
+    "tag": [
+      "手续"
+    ]
+  },
+  {
+    "id": "w-nagai",
+    "jp": "長い",
+    "reading": "ながい",
+    "meaning": "长的",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-mijikai",
+    "jp": "短い",
+    "reading": "みじかい",
+    "meaning": "短的",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-hayai",
+    "jp": "速い",
+    "reading": "はやい",
+    "meaning": "快",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-oso",
+    "jp": "遅い",
+    "reading": "おそい",
+    "meaning": "慢,迟",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-yoi",
+    "jp": "良い",
+    "reading": "よい",
+    "meaning": "好的",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-warui",
+    "jp": "悪い",
+    "reading": "わるい",
+    "meaning": "坏的",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-arigatou",
+    "jp": "ありがとうございます",
+    "reading": "ありがとうございます",
+    "meaning": "谢谢",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-sumimasen",
+    "jp": "すみません",
+    "reading": "すみません",
+    "meaning": "不好意思,对不起",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-wakarimashita",
+    "jp": "分かりました",
+    "reading": "わかりました",
+    "meaning": "我明白了",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-wakarimasen",
+    "jp": "分かりません",
+    "reading": "わかりません",
+    "meaning": "我不懂",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-mou-ichido",
+    "jp": "もう一度",
+    "reading": "もういちど",
+    "meaning": "再一次",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-yukkuri",
+    "jp": "ゆっくり",
+    "reading": "ゆっくり",
+    "meaning": "慢慢地",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-yoku",
+    "jp": "よく",
+    "reading": "よく",
+    "meaning": "好好地 / 经常",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-oshiete",
+    "jp": "教えてください",
+    "reading": "おしえてください",
+    "meaning": "请告诉我",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-tasukete",
+    "jp": "助けて",
+    "reading": "たすけて",
+    "meaning": "帮帮我",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-itte-kudasai",
+    "jp": "〜してください",
+    "reading": "してください",
+    "meaning": "请做~",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-yoku-dekimashita",
+    "jp": "よくできました",
+    "reading": "よくできました",
+    "meaning": "做得很好",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-ganbatte",
+    "jp": "頑張ってください",
+    "reading": "がんばってください",
+    "meaning": "请加油",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-kon-nichiwa",
+    "jp": "こんにちは",
+    "reading": "こんにちは",
+    "meaning": "你好",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-ohayou",
+    "jp": "おはようございます",
+    "reading": "おはようございます",
+    "meaning": "早上好",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-mata",
+    "jp": "また",
+    "reading": "また",
+    "meaning": "下次 / 又",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-kyou",
+    "jp": "今日",
+    "reading": "きょう",
+    "meaning": "今天",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-ashita",
+    "jp": "明日",
+    "reading": "あした",
+    "meaning": "明天",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-ima",
+    "jp": "今",
+    "reading": "いま",
+    "meaning": "现在",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-itsu",
+    "jp": "いつ",
+    "reading": "いつ",
+    "meaning": "什么时候",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-doko",
+    "jp": "どこ",
+    "reading": "どこ",
+    "meaning": "哪里",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-dou-yatte",
+    "jp": "どうやって",
+    "reading": "どうやって",
+    "meaning": "怎么做",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-doushite",
+    "jp": "どうして",
+    "reading": "どうして",
+    "meaning": "为什么",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-nan-ji",
+    "jp": "何時",
+    "reading": "なんじ",
+    "meaning": "几点",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-nan-mai",
+    "jp": "何枚",
+    "reading": "なんまい",
+    "meaning": "几张",
+    "tag": [
+      "基础"
+    ]
+  },
+  {
+    "id": "w-megane",
+    "jp": "眼鏡",
+    "reading": "めがね",
+    "meaning": "眼镜",
+    "tag": [
+      "基础",
+      "手续"
+    ]
+  },
+  {
+    "id": "w-shashin",
+    "jp": "写真",
+    "reading": "しゃしん",
+    "meaning": "照片",
+    "tag": [
+      "基础",
+      "手续"
+    ]
+  },
+  {
+    "id": "w-shoumei",
+    "jp": "証明書",
+    "reading": "しょうめいしょ",
+    "meaning": "证明书",
+    "tag": [
+      "基础",
+      "手续"
+    ]
+  },
+  {
+    "id": "w-innshou",
+    "jp": "印象",
+    "reading": "いんしょう",
+    "meaning": "印象",
+    "tag": [
+      "基础"
+    ]
+  }
+]
