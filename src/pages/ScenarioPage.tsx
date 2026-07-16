@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ArrowLeft, BookOpen, GraduationCap, MessageCircle, Headphones, ClipboardCheck, House } from 'lucide-react';
+import { ArrowLeft, BookOpen, GraduationCap, MessageCircle, Headphones, ClipboardCheck, House, FileText } from 'lucide-react';
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 import { loadScenario } from '@/lib/loader';
 import { setProgress } from '@/lib/storage';
@@ -11,10 +11,12 @@ import { GrammarView } from './scenario/Grammar';
 import { DialogsView } from './scenario/Dialogs';
 import { ListeningView } from './scenario/Listening';
 import { QuizView } from './scenario/Quiz';
+import { Textbook } from './scenario/Textbook';
 import type { ScenarioData } from '@/types';
 
-const TAB_KEYS = ['overview', 'words', 'grammar', 'dialogs', 'listening', 'quiz'] as const;
-type TabKey = (typeof TAB_KEYS)[number];
+const BASE_TAB_KEYS = ['overview', 'words', 'grammar', 'dialogs', 'listening', 'quiz'] as const;
+type BaseTabKey = (typeof BASE_TAB_KEYS)[number];
+type TabKey = BaseTabKey | 'textbook';
 
 export function ScenarioPage() {
   const { id } = useParams<{ id: string }>();
@@ -42,6 +44,11 @@ export function ScenarioPage() {
       .catch((e) => { if (!cancelled) setError(e?.message ?? String(e)); });
     return () => { cancelled = true; };
   }, [id, retryKey]);
+
+  // 决定 tab 顺序和是否包含 textbook
+  const tabKeys: TabKey[] = data?.meta.pdf
+    ? ['overview', 'textbook', ...BASE_TAB_KEYS.filter((k) => k !== 'overview')]
+    : [...BASE_TAB_KEYS];
 
   if (error) {
     return <PageError message={`场景加载失败:${error}`} onRetry={() => { setError(null); setRetryKey((k) => k + 1); }} />;
@@ -80,33 +87,83 @@ export function ScenarioPage() {
       <Tabs value={tab} onValueChange={(v) => setTab(v as TabKey)}>
         <div className="overflow-x-auto -mx-4 px-4 md:mx-0 md:px-0">
           <TabsList className="inline-flex w-max md:w-auto">
-            <TabsTrigger value="overview" icon={<House className="h-3.5 w-3.5" />}>概览</TabsTrigger>
-            <TabsTrigger value="words" icon={<BookOpen className="h-3.5 w-3.5" />}>单词</TabsTrigger>
-            <TabsTrigger value="grammar" icon={<GraduationCap className="h-3.5 w-3.5" />}>语法</TabsTrigger>
-            <TabsTrigger value="dialogs" icon={<MessageCircle className="h-3.5 w-3.5" />}>对话</TabsTrigger>
-            <TabsTrigger value="listening" icon={<Headphones className="h-3.5 w-3.5" />}>听力</TabsTrigger>
-            <TabsTrigger value="quiz" icon={<ClipboardCheck className="h-3.5 w-3.5" />}>小测</TabsTrigger>
+            {tabKeys.includes('overview') && (
+              <TabsTrigger value="overview" icon={<House className="h-3.5 w-3.5" />}>概览</TabsTrigger>
+            )}
+            {tabKeys.includes('textbook') && (
+              <TabsTrigger value="textbook" icon={<FileText className="h-3.5 w-3.5" />}>教材</TabsTrigger>
+            )}
+            {tabKeys.includes('words') && (
+              <TabsTrigger value="words" icon={<BookOpen className="h-3.5 w-3.5" />}>单词</TabsTrigger>
+            )}
+            {tabKeys.includes('grammar') && (
+              <TabsTrigger value="grammar" icon={<GraduationCap className="h-3.5 w-3.5" />}>语法</TabsTrigger>
+            )}
+            {tabKeys.includes('dialogs') && (
+              <TabsTrigger value="dialogs" icon={<MessageCircle className="h-3.5 w-3.5" />}>对话</TabsTrigger>
+            )}
+            {tabKeys.includes('listening') && (
+              <TabsTrigger value="listening" icon={<Headphones className="h-3.5 w-3.5" />}>听力</TabsTrigger>
+            )}
+            {tabKeys.includes('quiz') && (
+              <TabsTrigger value="quiz" icon={<ClipboardCheck className="h-3.5 w-3.5" />}>小测</TabsTrigger>
+            )}
           </TabsList>
         </div>
 
-        <TabsContent value="overview">
-          <Overview data={data} />
-        </TabsContent>
-        <TabsContent value="words">
-          <WordsView data={data} />
-        </TabsContent>
-        <TabsContent value="grammar">
-          <GrammarView data={data} />
-        </TabsContent>
-        <TabsContent value="dialogs">
-          <DialogsView data={data} />
-        </TabsContent>
-        <TabsContent value="listening">
-          <ListeningView data={data} />
-        </TabsContent>
-        <TabsContent value="quiz">
-          <QuizView data={data} onComplete={(score) => setProgress(data.meta.id, { quizBest: score })} />
-        </TabsContent>
+        {tabKeys.includes('overview') && (
+          <TabsContent value="overview">
+            <Overview data={data} />
+          </TabsContent>
+        )}
+        {tabKeys.includes('textbook') && data.meta.pdf && (
+          <TabsContent value="textbook">
+            <Textbook
+              pdfUrl={data.meta.pdf}
+              label={data.meta.pdfLabel}
+              imageList={[
+                { src: '/data/traffic-rules/images/IMG_5859.jpeg', label: '練習問題 1 (1-25)' },
+                { src: '/data/traffic-rules/images/IMG_5860.jpeg', label: '練習問題 1 (26-50)' },
+                { src: '/data/traffic-rules/images/IMG_5861.jpeg', label: '練習問題 2 (1-25)' },
+                { src: '/data/traffic-rules/images/IMG_5862.jpeg', label: '練習問題 2 (26-50)' },
+                { src: '/data/traffic-rules/images/IMG_5863.jpeg', label: '練習問題 3 (1-25)' },
+                { src: '/data/traffic-rules/images/IMG_5864.jpeg', label: '練習問題 3 (26-50)' },
+                { src: '/data/traffic-rules/images/IMG_5865.jpeg', label: '練習問題 4 (1-25)' },
+                { src: '/data/traffic-rules/images/IMG_5866.jpeg', label: '練習問題 4 (26-50)' },
+                { src: '/data/traffic-rules/images/IMG_5867.jpeg', label: '練習問題 5 (1-25)' },
+                { src: '/data/traffic-rules/images/IMG_5868.jpeg', label: '練習問題 5 (26-50)' },
+                { src: '/data/traffic-rules/images/IMG_5869.jpeg', label: '解説 1' },
+                { src: '/data/traffic-rules/images/IMG_5870.jpeg', label: '解説 2-3' },
+                { src: '/data/traffic-rules/images/IMG_5871.jpeg', label: '解説 4-5' },
+              ]}
+            />
+          </TabsContent>
+        )}
+        {tabKeys.includes('words') && (
+          <TabsContent value="words">
+            <WordsView data={data} />
+          </TabsContent>
+        )}
+        {tabKeys.includes('grammar') && (
+          <TabsContent value="grammar">
+            <GrammarView data={data} />
+          </TabsContent>
+        )}
+        {tabKeys.includes('dialogs') && (
+          <TabsContent value="dialogs">
+            <DialogsView data={data} />
+          </TabsContent>
+        )}
+        {tabKeys.includes('listening') && (
+          <TabsContent value="listening">
+            <ListeningView data={data} />
+          </TabsContent>
+        )}
+        {tabKeys.includes('quiz') && (
+          <TabsContent value="quiz">
+            <QuizView data={data} onComplete={(score) => setProgress(data.meta.id, { quizBest: score })} />
+          </TabsContent>
+        )}
       </Tabs>
     </div>
   );

@@ -68,7 +68,7 @@ export interface QuizQuestion {
   explanation?: string;
 }
 
-export type ScenarioTab = 'overview' | 'words' | 'grammar' | 'dialogs' | 'listening' | 'quiz';
+export type ScenarioTab = 'overview' | 'textbook' | 'words' | 'grammar' | 'dialogs' | 'listening' | 'quiz';
 
 export interface ScenarioMeta {
   id: string;
@@ -78,6 +78,10 @@ export interface ScenarioMeta {
   color: string; // tailwind gradient classes
   description: string;
   goals: string[];
+  /** 教材 PDF 文件路径(相对于 public/),设置后会在场景里显示「教材」tab */
+  pdf?: string;
+  /** 教材 PDF 显示名 */
+  pdfLabel?: string;
 }
 
 export interface ScenarioData {
