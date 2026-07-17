@@ -2,10 +2,23 @@ import { useState } from 'react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { DialogReader } from '@/components/feature/DialogReader';
+import { EmptyState } from '@/components/feature/EmptyState';
 import type { ScenarioData } from '@/types';
 
 export function DialogsView({ data }: { data: ScenarioData }) {
   const [active, setActive] = useState(0);
+
+  // 空态:data.dialogs 为空时给出友好提示 + 添加按钮
+  if (data.dialogs.length === 0) {
+    return (
+      <EmptyState
+        title="暂无对话"
+        description="这个场景还没有整理对话数据。可以从单词/语法/小测学起,对话稍后补充。"
+        scenarioId={data.meta.id}
+      />
+    );
+  }
+
   const d = data.dialogs[active];
 
   return (
@@ -30,16 +43,24 @@ export function DialogsView({ data }: { data: ScenarioData }) {
       </div>
 
       <div className="animate-fade-in">
-        <DialogReader dialog={d} />
-
-        <div className="flex justify-between mt-4">
-          <Button variant="ghost" size="sm" disabled={active === 0} onClick={() => setActive((v) => v - 1)}>
-            ← 上一段
-          </Button>
-          <Button variant="ghost" size="sm" disabled={active === data.dialogs.length - 1} onClick={() => setActive((v) => v + 1)}>
-            下一段 →
-          </Button>
-        </div>
+        {d ? (
+          <>
+            <DialogReader dialog={d} />
+            <div className="flex justify-between mt-4">
+              <Button variant="ghost" size="sm" disabled={active === 0} onClick={() => setActive((v) => v - 1)}>
+                ← 上一段
+              </Button>
+              <Button variant="ghost" size="sm" disabled={active === data.dialogs.length - 1} onClick={() => setActive((v) => v + 1)}>
+                下一段 →
+              </Button>
+            </div>
+          </>
+        ) : (
+          <EmptyState
+            title="对话数据格式异常"
+            description={`第 ${active + 1} 段对话缺失,请检查 dialogs.json 中 id=${data.dialogs[0]?.id ?? '?'} 的内容。`}
+          />
+        )}
       </div>
     </div>
   );
