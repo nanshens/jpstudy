@@ -90,6 +90,9 @@ export function MixedTest() {
         if (!sc) continue;
         const meta = metaById.get(sc.meta.id)!;
         for (const q of sc.quiz) {
+          // 综合测试只支持带 options 的题型(choice/truefalse/response/listening)
+          // spelling/spell-audio 需要输入框,综合测试里不混入
+          if (!q.options || q.options.length < 2) continue;
           pool.push({
             ...q,
             scenarioId: sc.meta.id,
@@ -302,7 +305,7 @@ export function MixedTest() {
             </div>
             <p className="text-base font-medium mb-4 leading-relaxed">{q.question}</p>
             <div className="space-y-2">
-              {q.options.map((opt, i) => {
+              {(q.options ?? []).map((opt, i) => {
                 const isPicked = picked === i;
                 const isCorrect = i === q.answerIndex;
                 return (
@@ -406,10 +409,10 @@ export function MixedTest() {
                     </div>
                     <p className="text-xs text-muted-foreground mb-1">{q.question}</p>
                     <p className="text-xs">
-                      <X className="inline h-3 w-3 text-destructive" /> 你的答案: <span className="text-destructive">{q.options[answers[i]!]}</span>
+                      <X className="inline h-3 w-3 text-destructive" /> 你的答案: <span className="text-destructive">{(q.options ?? [])[answers[i]!] ?? '—'}</span>
                     </p>
                     <p className="text-xs mt-0.5">
-                      <Check className="inline h-3 w-3 text-emerald-600" /> 正确答案: <strong>{q.options[q.answerIndex]}</strong>
+                      <Check className="inline h-3 w-3 text-emerald-600" /> 正确答案: <strong>{(q.options ?? [])[q.answerIndex ?? 0]}</strong>
                     </p>
                     {q.explanation && (
                       <p className="text-[11px] text-muted-foreground mt-1">💡 {q.explanation}</p>

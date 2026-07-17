@@ -60,11 +60,44 @@ export interface ListeningItem {
   explanation?: string;
 }
 
+/**
+ * Quiz 题型:
+ *  - 'choice'    选择题(默认,2-4 个 options + answerIndex)
+ *  - 'truefalse' 真假判断(2 个 options「正しい/正しくない」或类似)
+ *  - 'response'  听力选择回答(播放问句的音频,从 options 选回答)
+ *  - 'spelling'  拼写测试(看 kanji 写假名)
+ *  - 'listening' 听力选择(播放音频,看中文选项选正确答案)或听力判断
+ *  - 'spell-audio' 听力拼写(只听音频,输入假名)
+ */
+export type QuizType =
+  | 'choice'
+  | 'truefalse'
+  | 'response'
+  | 'spelling'
+  | 'listening'
+  | 'spell-audio';
+
 export interface QuizQuestion {
   id: string;
+  /** 题型;缺省时根据 options 长度和 audio/answer 字段推断 */
+  type?: QuizType;
+  /** 主题目文本(中文/日文均可,按题型决定) */
   question: string;
-  options: string[];
-  answerIndex: number;
+  /** TTS 要朗读的日文;存在时进入题目就自动播放 */
+  audio?: string;
+  /** 拼写题里显示给用户的 kanji 词(可选) */
+  prompt?: string;
+  /** 选项:choice/truefalse/response 必填 */
+  options?: string[];
+  /** 选择题正确答案 index(0-based) */
+  answerIndex?: number;
+  /**
+   * 拼写题正确答案(假名,允许多个变体用 | 分隔,例如 "いちじ|イチジ")
+   * 也可填英式读音做兜底匹配
+   */
+  answer?: string;
+  /** 拼写题答案格式,给用户做提示 */
+  answerFormat?: 'hiragana' | 'katakana' | 'romaji';
   explanation?: string;
 }
 

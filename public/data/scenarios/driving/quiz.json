@@ -9,7 +9,8 @@
       "请看教官"
     ],
     "answerIndex": 1,
-    "explanation": "ミラー = 后视镜。「〜てください」= 请做~。"
+    "explanation": "ミラー = 后视镜。「〜てください」= 请做~。",
+    "type": "choice"
   },
   {
     "id": "q-002",
@@ -21,7 +22,8 @@
       "方向盘"
     ],
     "answerIndex": 1,
-    "explanation": "サイドブレーキ = 驻车制动(手刹)。"
+    "explanation": "サイドブレーキ = 驻车制动(手刹)。",
+    "type": "choice"
   },
   {
     "id": "q-003",
@@ -33,7 +35,8 @@
       "倒车"
     ],
     "answerIndex": 0,
-    "explanation": "一時停止 = 临时停车(让行/让行人),不是长时间停车。"
+    "explanation": "一時停止 = 临时停车(让行/让行人),不是长时间停车。",
+    "type": "choice"
   },
   {
     "id": "q-004",
@@ -45,7 +48,8 @@
       "请大声说"
     ],
     "answerIndex": 1,
-    "explanation": "「もういちど」= 再一次。「〜てください」= 请做~。"
+    "explanation": "「もういちど」= 再一次。「〜てください」= 请做~。",
+    "type": "choice"
   },
   {
     "id": "q-005",
@@ -57,7 +61,8 @@
       "倒退"
     ],
     "answerIndex": 1,
-    "explanation": "徐行(じょこう) = 慢行,缓行。"
+    "explanation": "徐行(じょこう) = 慢行,缓行。",
+    "type": "choice"
   },
   {
     "id": "q-006",
@@ -69,7 +74,8 @@
       "加油时"
     ],
     "answerIndex": 1,
-    "explanation": "巻き込み = 拐弯时撞到内侧的物体。转弯前/中都要确认。"
+    "explanation": "巻き込み = 拐弯时撞到内侧的物体。转弯前/中都要确认。",
+    "type": "choice"
   },
   {
     "id": "q-007",
@@ -81,7 +87,8 @@
       "变道"
     ],
     "answerIndex": 1,
-    "explanation": "発進(はっしん) = 起步,启动车辆。"
+    "explanation": "発進(はっしん) = 起步,启动车辆。",
+    "type": "choice"
   },
   {
     "id": "q-008",
@@ -93,7 +100,8 @@
       "请开窗"
     ],
     "answerIndex": 1,
-    "explanation": "「シートベルトを締めて」= 系紧安全带。"
+    "explanation": "「シートベルトを締めて」= 系紧安全带。",
+    "type": "choice"
   },
   {
     "id": "q-009",
@@ -105,7 +113,8 @@
       "在机场"
     ],
     "answerIndex": 1,
-    "explanation": "「もう一度」= 再一次。听不清时常用的礼貌请求。"
+    "explanation": "「もう一度」= 再一次。听不清时常用的礼貌请求。",
+    "type": "choice"
   },
   {
     "id": "q-010",
@@ -117,7 +126,8 @@
       "公交车"
     ],
     "answerIndex": 1,
-    "explanation": "対向車 = 对面开过来的车。"
+    "explanation": "対向車 = 对面开过来的车。",
+    "type": "choice"
   },
   {
     "id": "q-011",
@@ -129,7 +139,8 @@
       "音楽を聴いて!"
     ],
     "answerIndex": 1,
-    "explanation": "教习所要求「ゆっくり走って」慢慢开。"
+    "explanation": "教习所要求「ゆっくり走って」慢慢开。",
+    "type": "choice"
   },
   {
     "id": "q-012",
@@ -141,7 +152,8 @@
       "掉头"
     ],
     "answerIndex": 1,
-    "explanation": "車線変更(せんへんこう) = 改变车道,变道。"
+    "explanation": "車線変更(せんへんこう) = 改变车道,变道。",
+    "type": "choice"
   },
   {
     "id": "q-013",
@@ -153,7 +165,8 @@
       "三种颜色"
     ],
     "answerIndex": 1,
-    "explanation": "这三个是驾驶标准动作:看后视镜、亲眼确认、打转向灯。"
+    "explanation": "这三个是驾驶标准动作:看后视镜、亲眼确认、打转向灯。",
+    "type": "choice"
   },
   {
     "id": "q-014",
@@ -165,7 +178,8 @@
       "睡觉时"
     ],
     "answerIndex": 1,
-    "explanation": "危ない(あぶない)= 危险。紧急提醒。"
+    "explanation": "危ない(あぶない)= 危险。紧急提醒。",
+    "type": "choice"
   },
   {
     "id": "q-015",
@@ -177,7 +191,8 @@
       "停车场"
     ],
     "answerIndex": 2,
-    "explanation": "交差点 = 十字路口,红绿灯路口。"
+    "explanation": "交差点 = 十字路口,红绿灯路口。",
+    "type": "choice"
   },
   {
     "id": "q-016",
@@ -189,7 +204,8 @@
       "里和外"
     ],
     "answerIndex": 1,
-    "explanation": "右折(うせつ)= 右转;左折(させつ)= 左转。"
+    "explanation": "右折(うせつ)= 右转;左折(させつ)= 左转。",
+    "type": "choice"
   },
   {
     "id": "q-017",
@@ -201,7 +217,8 @@
       "医生对病人"
     ],
     "answerIndex": 1,
-    "explanation": "「頑張ってください」= 请加油,鼓励对方。"
+    "explanation": "「頑張ってください」= 请加油,鼓励对方。",
+    "type": "choice"
   },
   {
     "id": "q-018",
@@ -213,7 +230,8 @@
       "解りました"
     ],
     "answerIndex": 1,
-    "explanation": "「分かる」= 明白,理解。汉字是「分かる」,过去肯定是「分かった」+「ました」。"
+    "explanation": "「分かる」= 明白,理解。汉字是「分かる」,过去肯定是「分かった」+「ました」。",
+    "type": "choice"
   },
   {
     "id": "q-019",
@@ -225,7 +243,8 @@
       "车钥匙"
     ],
     "answerIndex": 1,
-    "explanation": "標識(ひょうしき) = 标识,路标,标志牌。"
+    "explanation": "標識(ひょうしき) = 标识,路标,标志牌。",
+    "type": "choice"
   },
   {
     "id": "q-020",
@@ -237,6 +256,7 @@
       "学科,身体检查"
     ],
     "answerIndex": 0,
-    "explanation": "学科(がっか)= 理论课。相对应「技能」(ぎのう)= 实操课。"
+    "explanation": "学科(がっか)= 理论课。相对应「技能」(ぎのう)= 实操课。",
+    "type": "choice"
   }
 ]

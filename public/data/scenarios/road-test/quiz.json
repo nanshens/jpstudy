@@ -1,22 +1,262 @@
 [
-{"id":"rt-q01","question":"在日本的车道行驶,基本规则是?","options":["靠左行驶","靠右行驶","中间行驶","随意"],"answerIndex":1,"explanation":"日本是靠左行驶(方向盘在右)。"},
-{"id":"rt-q02","question":"临时停车标志(日语)?","options":["徐行","止まれ","通行禁止","駐車禁止"],"answerIndex":1,"explanation":"止まれ = 临时停车。"},
-{"id":"rt-q03","question":"看到止まれ要做什么?","options":["慢行","完全停车","看情况","鸣笛"],"answerIndex":1,"explanation":"必须完全停,后左右确认。"},
-{"id":"rt-q04","question":"转向灯要在变道前多少米打?","options":["10 米","30 米","100 米","1 米"],"answerIndex":1,"explanation":"变道/转弯前 30 米打转向灯。"},
-{"id":"rt-q05","question":"变道前确认顺序?","options":["后视镜→盲区→转向灯","转向灯→后视镜→盲区","后视镜→转向灯→盲区","盲区→后视镜→转向灯"],"answerIndex":2,"explanation":"顺序:后视镜→转向灯 3 秒→盲区扭头。"},
-{"id":"rt-q06","question":"在人行横道看到行人怎么办?","options":["按喇叭","加速通过","停车让行","鸣笛闪灯"],"answerIndex":2,"explanation":"行人优先,必须让行。"},
-{"id":"rt-q07","question":"右转遇对向直行车怎么办?","options":["抢行","鸣笛","让对向车先过","加速通过"],"answerIndex":2,"explanation":"对向车优先,要等。"},
-{"id":"rt-q08","question":"左转要走哪里?","options":["直接转","路口中心","右侧绕","兜圈子"],"answerIndex":1,"explanation":"左转走路口中心。"},
-{"id":"rt-q09","question":"右转要走哪里?","options":["路口中心","靠右侧小转弯","左侧绕","兜圈子"],"answerIndex":1,"explanation":"右转小转弯,靠右。"},
-{"id":"rt-q10","question":"弯道中能不能踩刹车?","options":["可以","绝对不行","应该","随便"],"answerIndex":1,"explanation":"弯道刹车易侧滑,要提前减速。"},
-{"id":"rt-q11","question":"高速汇入前应该?","options":["慢慢汇入","加速到主线速度再汇入","停车等","按喇叭"],"answerIndex":1,"explanation":"加速车道要先加速再汇入。"},
-{"id":"rt-q12","question":"应急救护顺序?","options":["意识→呼吸→119→CPR","119→意识→呼吸→CPR","CPR→119→意识→呼吸","意识→119→呼吸→CPR"],"answerIndex":3,"explanation":"意识确认→119→呼吸确认→CPR+AED。"},
-{"id":"rt-q13","question":"火灾/救护电话?","options":["110","119","112","911"],"answerIndex":1,"explanation":"119 是救护/消防,110 是警察。"},
-{"id":"rt-q14","question":"发生事故先打哪个电话?","options":["119","110","112","自己处理"],"answerIndex":1,"explanation":"先 110 报警,再处理。"},
-{"id":"rt-q15","question":"ゾーン 30 是什么意思?","options":["高速区","限速 30 区","隧道","停车场"],"answerIndex":1,"explanation":"生活区/学校区,限速 30 公里。"},
-{"id":"rt-q16","question":"对向车来了,应该用什么灯?","options":["远光","近光","双闪","关灯"],"answerIndex":1,"explanation":"对面有车要近光,免眩光。"},
-{"id":"rt-q17","question":"夜间无车时用什么灯?","options":["近光","远光","双闪","关灯"],"answerIndex":1,"explanation":"无对向车可远光,看得远。"},
-{"id":"rt-q18","question":"未在止まれ停车是?","options":["扣 5 分","扣 20 分","一発不合格","没事"],"answerIndex":2,"explanation":"止まれ前不停,一発不合格。"},
-{"id":"rt-q19","question":"开车时使用手机是?","options":["扣 5 分","扣 6 分","一発不合格","没事"],"answerIndex":2,"explanation":"ながらスマホ一発不合格。"},
-{"id":"rt-q20","question":"安全车距应保持多少秒以上?","options":["1 秒","2 秒","5 秒","10 秒"],"answerIndex":1,"explanation":"车距 2 秒以上是法规要求。"}
+  {
+    "id": "rt-q01",
+    "question": "在日本的车道行驶,基本规则是?",
+    "options": [
+      "靠左行驶",
+      "靠右行驶",
+      "中间行驶",
+      "随意"
+    ],
+    "answerIndex": 1,
+    "explanation": "日本是靠左行驶(方向盘在右)。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q02",
+    "question": "临时停车标志(日语)?",
+    "options": [
+      "徐行",
+      "止まれ",
+      "通行禁止",
+      "駐車禁止"
+    ],
+    "answerIndex": 1,
+    "explanation": "止まれ = 临时停车。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q03",
+    "question": "看到止まれ要做什么?",
+    "options": [
+      "慢行",
+      "完全停车",
+      "看情况",
+      "鸣笛"
+    ],
+    "answerIndex": 1,
+    "explanation": "必须完全停,后左右确认。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q04",
+    "question": "转向灯要在变道前多少米打?",
+    "options": [
+      "10 米",
+      "30 米",
+      "100 米",
+      "1 米"
+    ],
+    "answerIndex": 1,
+    "explanation": "变道/转弯前 30 米打转向灯。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q05",
+    "question": "变道前确认顺序?",
+    "options": [
+      "后视镜→盲区→转向灯",
+      "转向灯→后视镜→盲区",
+      "后视镜→转向灯→盲区",
+      "盲区→后视镜→转向灯"
+    ],
+    "answerIndex": 2,
+    "explanation": "顺序:后视镜→转向灯 3 秒→盲区扭头。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q06",
+    "question": "在人行横道看到行人怎么办?",
+    "options": [
+      "按喇叭",
+      "加速通过",
+      "停车让行",
+      "鸣笛闪灯"
+    ],
+    "answerIndex": 2,
+    "explanation": "行人优先,必须让行。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q07",
+    "question": "右转遇对向直行车怎么办?",
+    "options": [
+      "抢行",
+      "鸣笛",
+      "让对向车先过",
+      "加速通过"
+    ],
+    "answerIndex": 2,
+    "explanation": "对向车优先,要等。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q08",
+    "question": "左转要走哪里?",
+    "options": [
+      "直接转",
+      "路口中心",
+      "右侧绕",
+      "兜圈子"
+    ],
+    "answerIndex": 1,
+    "explanation": "左转走路口中心。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q09",
+    "question": "右转要走哪里?",
+    "options": [
+      "路口中心",
+      "靠右侧小转弯",
+      "左侧绕",
+      "兜圈子"
+    ],
+    "answerIndex": 1,
+    "explanation": "右转小转弯,靠右。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q10",
+    "question": "弯道中能不能踩刹车?",
+    "options": [
+      "可以",
+      "绝对不行",
+      "应该",
+      "随便"
+    ],
+    "answerIndex": 1,
+    "explanation": "弯道刹车易侧滑,要提前减速。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q11",
+    "question": "高速汇入前应该?",
+    "options": [
+      "慢慢汇入",
+      "加速到主线速度再汇入",
+      "停车等",
+      "按喇叭"
+    ],
+    "answerIndex": 1,
+    "explanation": "加速车道要先加速再汇入。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q12",
+    "question": "应急救护顺序?",
+    "options": [
+      "意识→呼吸→119→CPR",
+      "119→意识→呼吸→CPR",
+      "CPR→119→意识→呼吸",
+      "意识→119→呼吸→CPR"
+    ],
+    "answerIndex": 3,
+    "explanation": "意识确认→119→呼吸确认→CPR+AED。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q13",
+    "question": "火灾/救护电话?",
+    "options": [
+      "110",
+      "119",
+      "112",
+      "911"
+    ],
+    "answerIndex": 1,
+    "explanation": "119 是救护/消防,110 是警察。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q14",
+    "question": "发生事故先打哪个电话?",
+    "options": [
+      "119",
+      "110",
+      "112",
+      "自己处理"
+    ],
+    "answerIndex": 1,
+    "explanation": "先 110 报警,再处理。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q15",
+    "question": "ゾーン 30 是什么意思?",
+    "options": [
+      "高速区",
+      "限速 30 区",
+      "隧道",
+      "停车场"
+    ],
+    "answerIndex": 1,
+    "explanation": "生活区/学校区,限速 30 公里。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q16",
+    "question": "对向车来了,应该用什么灯?",
+    "options": [
+      "远光",
+      "近光",
+      "双闪",
+      "关灯"
+    ],
+    "answerIndex": 1,
+    "explanation": "对面有车要近光,免眩光。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q17",
+    "question": "夜间无车时用什么灯?",
+    "options": [
+      "近光",
+      "远光",
+      "双闪",
+      "关灯"
+    ],
+    "answerIndex": 1,
+    "explanation": "无对向车可远光,看得远。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q18",
+    "question": "未在止まれ停车是?",
+    "options": [
+      "扣 5 分",
+      "扣 20 分",
+      "一発不合格",
+      "没事"
+    ],
+    "answerIndex": 2,
+    "explanation": "止まれ前不停,一発不合格。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q19",
+    "question": "开车时使用手机是?",
+    "options": [
+      "扣 5 分",
+      "扣 6 分",
+      "一発不合格",
+      "没事"
+    ],
+    "answerIndex": 2,
+    "explanation": "ながらスマホ一発不合格。",
+    "type": "choice"
+  },
+  {
+    "id": "rt-q20",
+    "question": "安全车距应保持多少秒以上?",
+    "options": [
+      "1 秒",
+      "2 秒",
+      "5 秒",
+      "10 秒"
+    ],
+    "answerIndex": 1,
+    "explanation": "车距 2 秒以上是法规要求。",
+    "type": "choice"
+  }
 ]

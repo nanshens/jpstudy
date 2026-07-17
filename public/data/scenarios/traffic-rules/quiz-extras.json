@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "tr-AJ11",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请打转向灯。」吗?",
+    "audio": "ウィンカーを出してください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ウィンカーを出してください。 = 请打转向灯。"
+  },
+  {
+    "id": "tr-S24",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "黄色信号",
+    "answer": "きいろしんごう|kiiro shingou",
+    "answerFormat": "hiragana",
+    "explanation": "黄色信号 = きいろしんごう (黄灯)"
+  },
+  {
+    "id": "tr-AJ16",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「非常感谢。」吗?",
+    "audio": "ありがとうございました。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ありがとうございました。 = 非常感谢。"
+  },
+  {
+    "id": "tr-L08",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "通過",
+    "options": [
+      "通过",
+      "驾驶",
+      "确认",
+      "左转"
+    ],
+    "answerIndex": 0,
+    "explanation": "通過 (つうか) = 通过"
+  },
+  {
+    "id": "tr-SA07",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "危険",
+    "answer": "きけん|kiken",
+    "answerFormat": "hiragana",
+    "explanation": "危険 = きけん (危险)"
+  },
+  {
+    "id": "tr-AJ18",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「这里是十字路口。」吗?",
+    "audio": "交差点です。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 0,
+    "explanation": "交差点です。 = 这里是十字路口。"
+  },
+  {
+    "id": "tr-R12",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "速度を落としてください。",
+    "options": [
+      "はい、落とします。",
+      "上げます。",
+      "止まります。",
+      "右に折ります。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请降低速度→好的,降速"
+  },
+  {
+    "id": "tr-SA01",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "表示",
+    "answer": "ひょうじ|hyouji",
+    "answerFormat": "hiragana",
+    "explanation": "表示 = ひょうじ (表示)"
+  },
+  {
+    "id": "tr-S09",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "路側帯",
+    "answer": "ろそくたい|rosokutai",
+    "answerFormat": "hiragana",
+    "explanation": "路側帯 = ろそくたい (路侧带)"
+  },
+  {
+    "id": "tr-L05",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "練習",
+    "options": [
+      "确认",
+      "右转",
+      "练习",
+      "驾驶"
+    ],
+    "answerIndex": 2,
+    "explanation": "練習 (れんしゅう) = 练习"
+  },
+  {
+    "id": "tr-L14",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "赤信号",
+    "options": [
+      "红色灯",
+      "红灯",
+      "绿色灯",
+      "箭头信号"
+    ],
+    "answerIndex": 1,
+    "explanation": "赤信号 (あかしんごう) = 红灯"
+  },
+  {
+    "id": "tr-L01",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "普通自動車",
+    "options": [
+      "普通汽车",
+      "载客汽车",
+      "紧急车辆",
+      "普通二轮车"
+    ],
+    "answerIndex": 0,
+    "explanation": "普通自動車 (ふつうじどうしゃ) = 普通汽车"
+  },
+  {
+    "id": "tr-S14",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "右折禁止",
+    "answer": "うせつきんし|usetsu kinshi",
+    "answerFormat": "hiragana",
+    "explanation": "右折禁止 = うせつきんし (禁止右转)"
+  },
+  {
+    "id": "tr-R07",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "ミラーを見てください。",
+    "options": [
+      "はい、見ました。",
+      "ありがとうございました。",
+      "左に折ります。",
+      "止まります。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请看后视镜→好的,看了"
+  },
+  {
+    "id": "tr-L22",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "高齢者標識",
+    "options": [
+      "路面标线",
+      "禁止左转",
+      "停",
+      "老年人标志"
+    ],
+    "answerIndex": 3,
+    "explanation": "高齢者標識 (こうれいしゃひょうしき) = 老年人标志"
+  },
+  {
+    "id": "tr-R09",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "右に折ってください。",
+    "options": [
+      "はい、右に折ります。",
+      "左に折ります。",
+      "止まります。",
+      "直進します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请右转→好的,右转"
+  },
+  {
+    "id": "tr-R10",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "一時停止してください。",
+    "options": [
+      "はい、止まります。",
+      "直進します。",
+      "右に折ります。",
+      "左に折ります。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请临时停车→好的,停车"
+  },
+  {
+    "id": "tr-L23",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "矢印信号",
+    "options": [
+      "红色灯",
+      "箭头信号",
+      "红灯",
+      "交通信号灯"
+    ],
+    "answerIndex": 1,
+    "explanation": "矢印信号 (やじるししんごう) = 箭头信号"
+  },
+  {
+    "id": "tr-S15",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "標示",
+    "answer": "ひょうじ|hyouji",
+    "answerFormat": "hiragana",
+    "explanation": "標示 = ひょうじ (路面标线)"
+  },
+  {
+    "id": "tr-S03",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "青色の灯火",
+    "answer": "あおいろのとうか|aoiro no touka",
+    "answerFormat": "hiragana",
+    "explanation": "青色の灯火 = あおいろのとうか (绿色灯)"
+  },
+  {
+    "id": "tr-L02",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "両側",
+    "options": [
+      "离合",
+      "酒驾",
+      "老年人",
+      "两侧"
+    ],
+    "answerIndex": 3,
+    "explanation": "両側 (りょうがわ) = 两侧"
+  },
+  {
+    "id": "tr-L16",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "乗用自動車",
+    "options": [
+      "载客汽车",
+      "中型汽车",
+      "乘用车",
+      "大型汽车"
+    ],
+    "answerIndex": 2,
+    "explanation": "乗用自動車 (じょうようじどうしゃ) = 乘用车"
+  },
+  {
+    "id": "tr-R04",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "今日は何曜日ですか?",
+    "options": [
+      "水曜日です。",
+      "いいえ。",
+      "ありがとうございました。",
+      "おやすみなさい。"
+    ],
+    "answerIndex": 0,
+    "explanation": "今天星期几→星期三"
+  },
+  {
+    "id": "tr-L15",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "点滅信号",
+    "options": [
+      "闪烁信号",
+      "绿色灯",
+      "黄色灯",
+      "红灯"
+    ],
+    "answerIndex": 0,
+    "explanation": "点滅信号 (てんめつしんごう) = 闪烁信号"
+  },
+  {
+    "id": "tr-S21",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "案内標識",
+    "answer": "あんないひょうしき|annai hyoushiki",
+    "answerFormat": "hiragana",
+    "explanation": "案内標識 = あんないひょうしき (指路标志)"
+  },
+  {
+    "id": "tr-AJ19",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「红灯。」吗?",
+    "audio": "信号が赤です。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 0,
+    "explanation": "信号が赤です。 = 红灯。"
+  },
+  {
+    "id": "tr-S02",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "歩道",
+    "answer": "ほどう|hodou",
+    "answerFormat": "hiragana",
+    "explanation": "歩道 = ほどう (人行道)"
+  },
+  {
+    "id": "tr-SA12",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "通行止め",
+    "answer": "つうこうどめ|tsuukou-dome",
+    "answerFormat": "hiragana",
+    "explanation": "通行止め = つうこうどめ (禁止通行)"
+  },
+  {
+    "id": "tr-L12",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "環状交差点",
+    "options": [
+      "单行",
+      "环岛",
+      "中线",
+      "行车道"
+    ],
+    "answerIndex": 1,
+    "explanation": "環状交差点 (かんじょうこうさてん) = 环岛"
+  },
+  {
+    "id": "tr-R08",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "左に折ってください。",
+    "options": [
+      "はい、左に折ります。",
+      "右に折ります。",
+      "止まります。",
+      "直進します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请左转→好的,左转"
+  },
+  {
+    "id": "tr-R06",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "もう一度お願いします。",
+    "options": [
+      "はい、どうぞ。",
+      "いいえ。",
+      "さようなら。",
+      "左に折ってください。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请再说一次→好的,请"
+  },
+  {
+    "id": "tr-SA03",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "両側",
+    "answer": "りょうがわ|ryou-gawa",
+    "answerFormat": "hiragana",
+    "explanation": "両側 = りょうがわ (两侧)"
+  },
+  {
+    "id": "tr-SA10",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "追越車線",
+    "answer": "おいこしゃせん|oikoshi-sasen",
+    "answerFormat": "hiragana",
+    "explanation": "追越車線 = おいこしゃせん (超车道)"
+  },
+  {
+    "id": "tr-R14",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "ウインカーを出してください。",
+    "options": [
+      "はい、出しました。",
+      "止めました。",
+      "閉じました。",
+      "下げました。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请打转向灯→好的,打开了"
+  },
+  {
+    "id": "tr-R01",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "おはようございます。",
+    "options": [
+      "おはようございます。",
+      "こんにちは。",
+      "こんばんは。",
+      "おやすみなさい。"
+    ],
+    "answerIndex": 0,
+    "explanation": "早上好→早上好"
+  },
+  {
+    "id": "tr-S08",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "割り込み",
+    "answer": "わりこみ|warikomi",
+    "answerFormat": "hiragana",
+    "explanation": "割り込み = わりこみ (加塞)"
+  },
+  {
+    "id": "tr-S16",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "通行",
+    "answer": "つうこう|tsuukou",
+    "answerFormat": "hiragana",
+    "explanation": "通行 = つうこう (通行)"
+  },
+  {
+    "id": "tr-S19",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "前方",
+    "answer": "ぜんぽう|zenpou",
+    "answerFormat": "hiragana",
+    "explanation": "前方 = ぜんぽう (前方)"
+  },
+  {
+    "id": "tr-R11",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "発進してください。",
+    "options": [
+      "はい、発進します。",
+      "止まります。",
+      "バックします。",
+      "駐車します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请起步→好的,起步"
+  },
+  {
+    "id": "tr-SA14",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "後続車",
+    "answer": "こうぞくしゃ|kouzokusha",
+    "answerFormat": "hiragana",
+    "explanation": "後続車 = こうぞくしゃ (后车)"
+  },
+  {
+    "id": "tr-AJ20",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「早上好。」吗?",
+    "audio": "さようなら。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 1,
+    "explanation": "さようなら。 = 早上好。"
+  },
+  {
+    "id": "tr-AJ09",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「晚上好。」吗?",
+    "audio": "おはようございます。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 1,
+    "explanation": "おはようございます。 = 晚上好。"
+  },
+  {
+    "id": "tr-L25",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "黄色信号",
+    "options": [
+      "红灯",
+      "闪烁信号",
+      "黄灯",
+      "绿灯"
+    ],
+    "answerIndex": 2,
+    "explanation": "黄色信号 (きいろしんごう) = 黄灯"
+  },
+  {
+    "id": "tr-S10",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "幅寄せ",
+    "answer": "はばよせ|haba-yose",
+    "answerFormat": "hiragana",
+    "explanation": "幅寄せ = はばよせ (挤靠)"
+  },
+  {
+    "id": "tr-L19",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "スクールゾーン",
+    "options": [
+      "通行管制",
+      "应急救护",
+      "交通拥堵",
+      "学校区域"
+    ],
+    "answerIndex": 3,
+    "explanation": "スクールゾーン (スクールゾーン) = 学校区域"
+  },
+  {
+    "id": "tr-L07",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "交差点中央",
+    "options": [
+      "外飘",
+      "对向车道",
+      "后视镜",
+      "路口中央"
+    ],
+    "answerIndex": 3,
+    "explanation": "交差点中央 (こうさてんちゅうおう) = 路口中央"
+  },
+  {
+    "id": "tr-AJ13",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请倒车。」吗?",
+    "audio": "バックしてください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 0,
+    "explanation": "バックしてください。 = 请倒车。"
+  },
+  {
+    "id": "tr-L04",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "規制標識",
+    "options": [
+      "停",
+      "限制标志",
+      "禁止通行",
+      "指路标志"
+    ],
+    "answerIndex": 1,
+    "explanation": "規制標識 (きせいひょうしき) = 限制标志"
+  },
+  {
+    "id": "tr-L11",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "間隔",
+    "options": [
+      "间隔",
+      "必要",
+      "变速杆",
+      "速度"
+    ],
+    "answerIndex": 0,
+    "explanation": "間隔 (かんかく) = 间隔"
+  },
+  {
+    "id": "tr-AJ06",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请挂一挡。」吗?",
+    "audio": "ギアをセカンドに入れてください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ギアをセカンドに入れてください。 = 请挂一挡。"
+  },
+  {
+    "id": "tr-AJ12",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请踩油门。」吗?",
+    "audio": "ブレーキを踏んでください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ブレーキを踏んでください。 = 请踩油门。"
+  },
+  {
+    "id": "tr-SA15",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ふくらみ",
+    "answer": "ふくらみ|fukurami",
+    "answerFormat": "hiragana",
+    "explanation": "ふくらみ = ふくらみ (外飘)"
+  },
+  {
+    "id": "tr-SA13",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "意味",
+    "answer": "いみ|imi",
+    "answerFormat": "hiragana",
+    "explanation": "意味 = いみ (意思/意义)"
+  },
+  {
+    "id": "tr-S22",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "必要",
+    "answer": "ひつよう|hitsuyou",
+    "answerFormat": "hiragana",
+    "explanation": "必要 = ひつよう (必要)"
+  },
+  {
+    "id": "tr-R13",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "ギアをセカンドに入れてください。",
+    "options": [
+      "はい、入れました。",
+      "下げました。",
+      "止めました。",
+      "開けました。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请挂二挡→好的,挂好了"
+  },
+  {
+    "id": "tr-R15",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "お先に失礼します。",
+    "options": [
+      "お疲れさまでした。",
+      "ありがとうございます。",
+      "いただきます。",
+      "おはようございます。"
+    ],
+    "answerIndex": 0,
+    "explanation": "我先走了→辛苦了"
+  },
+  {
+    "id": "tr-R03",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "すみません、入口はどこですか?",
+    "options": [
+      "あちらです。",
+      "ありがとうございます。",
+      "いただきます。",
+      "おやすみなさい。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请问入口在哪里→在那边"
+  },
+  {
+    "id": "tr-SA08",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "止まれ",
+    "answer": "とまれ|tomare",
+    "answerFormat": "hiragana",
+    "explanation": "止まれ = とまれ (停)"
+  },
+  {
+    "id": "tr-S23",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "左折可",
+    "answer": "させつか|sasetsu ka",
+    "answerFormat": "hiragana",
+    "explanation": "左折可 = させつか (可以左转)"
+  },
+  {
+    "id": "tr-SA11",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "普通免許",
+    "answer": "ふつうめんきょ|futsuu menkyo",
+    "answerFormat": "hiragana",
+    "explanation": "普通免許 = ふつうめんきょ (普通驾照)"
+  },
+  {
+    "id": "tr-S25",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "安全速度",
+    "answer": "あんぜんそくど|anzen sokudo",
+    "answerFormat": "hiragana",
+    "explanation": "安全速度 = あんぜんそくど (安全速度)"
+  },
+  {
+    "id": "tr-S17",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "受ける",
+    "answer": "うける|ukeru",
+    "answerFormat": "hiragana",
+    "explanation": "受ける = うける (接受)"
+  },
+  {
+    "id": "tr-L03",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "任意保険",
+    "options": [
+      "肢体障碍",
+      "通行方法",
+      "驾照",
+      "商业险"
+    ],
+    "answerIndex": 3,
+    "explanation": "任意保険 (にんいほけん) = 商业险"
+  },
+  {
+    "id": "tr-L24",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "徐行区間",
+    "options": [
+      "伤者",
+      "慢行路段",
+      "学校区域",
+      "骨折"
+    ],
+    "answerIndex": 1,
+    "explanation": "徐行区間 (じょこうくかん) = 慢行路段"
+  },
+  {
+    "id": "tr-AJ05",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请慢行。」吗?",
+    "audio": "徐行してください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 0,
+    "explanation": "徐行してください。 = 请慢行。"
+  },
+  {
+    "id": "tr-L10",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "標示",
+    "options": [
+      "停",
+      "二轮车以外禁止",
+      "禁止右转",
+      "路面标线"
+    ],
+    "answerIndex": 3,
+    "explanation": "標示 (ひょうじ) = 路面标线"
+  },
+  {
+    "id": "tr-AJ17",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请慢行。」吗?",
+    "audio": "止まれ。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 1,
+    "explanation": "止まれ。 = 请慢行。"
+  },
+  {
+    "id": "tr-L13",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "いかなる",
+    "options": [
+      "那个",
+      "任何/怎样的",
+      "所有/一切",
+      "这样的"
+    ],
+    "answerIndex": 1,
+    "explanation": "いかなる (いかなる) = 任何/怎样的"
+  },
+  {
+    "id": "tr-L18",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "ミラー",
+    "options": [
+      "防止追尾",
+      "后视镜",
+      "情况",
+      "互让"
+    ],
+    "answerIndex": 1,
+    "explanation": "ミラー (ミラー) = 后视镜"
+  },
+  {
+    "id": "tr-AJ03",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请看后视镜。」吗?",
+    "audio": "ミラーを見てください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ミラーを見てください。 = 请看后视镜。"
+  },
+  {
+    "id": "tr-S01",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "交差点進入",
+    "answer": "こうさてんしんにゅう|kousaten shinnyuu",
+    "answerFormat": "hiragana",
+    "explanation": "交差点進入 = こうさてんしんにゅう (进入路口)"
+  },
+  {
+    "id": "tr-L20",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "タクシー",
+    "options": [
+      "出租车",
+      "货车",
+      "公交巴士",
+      "迷你车"
+    ],
+    "answerIndex": 0,
+    "explanation": "タクシー (タクシー) = 出租车"
+  },
+  {
+    "id": "tr-S11",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "手信号",
+    "answer": "てしんごう|te shingou",
+    "answerFormat": "hiragana",
+    "explanation": "手信号 = てしんごう (手信号)"
+  },
+  {
+    "id": "tr-L17",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "追突",
+    "options": [
+      "卷边",
+      "上學/上幼儿园",
+      "追尾",
+      "视觉障碍者"
+    ],
+    "answerIndex": 2,
+    "explanation": "追突 (ついとつ) = 追尾"
+  },
+  {
+    "id": "tr-S06",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "警音器",
+    "answer": "けいおんき|keionki",
+    "answerFormat": "hiragana",
+    "explanation": "警音器 = けいおんき (喇叭)"
+  },
+  {
+    "id": "tr-S13",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "鳴る",
+    "answer": "なる|naru",
+    "answerFormat": "hiragana",
+    "explanation": "鳴る = なる (鸣响)"
+  },
+  {
+    "id": "tr-R05",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "いくらですか?",
+    "options": [
+      "八百円です。",
+      "ありがとうございました。",
+      "おはようございます。",
+      "右に折ってください。"
+    ],
+    "answerIndex": 0,
+    "explanation": "多少钱→八百日元"
+  },
+  {
+    "id": "tr-L21",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "下り勾配",
+    "options": [
+      "下坡",
+      "自行车横穿带",
+      "步行者专用道路",
+      "人行横道"
+    ],
+    "answerIndex": 0,
+    "explanation": "下り勾配 (くだりこうばい) = 下坡"
+  },
+  {
+    "id": "tr-S07",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "空走距離",
+    "answer": "くうそうきょり|kuusou kyori",
+    "answerFormat": "hiragana",
+    "explanation": "空走距離 = くうそうきょり (空走距离)"
+  },
+  {
+    "id": "tr-L06",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "進路変更",
+    "options": [
+      "前方/前面",
+      "后车",
+      "变道",
+      "交通"
+    ],
+    "answerIndex": 2,
+    "explanation": "進路変更 (しんろへんこう) = 变道"
+  },
+  {
+    "id": "tr-S18",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "大型自動車",
+    "answer": "おおがたじどうしゃ|oogata jidousha",
+    "answerFormat": "hiragana",
+    "explanation": "大型自動車 = おおがたじどうしゃ (大型汽车)"
+  },
+  {
+    "id": "tr-SA05",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "一方通行",
+    "answer": "いっぽうつうこう|ippou tsuukou",
+    "answerFormat": "hiragana",
+    "explanation": "一方通行 = いっぽうつうこう (单行)"
+  },
+  {
+    "id": "tr-L09",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "警笛鳴らせ",
+    "options": [
+      "指定方向外禁止",
+      "鸣笛",
+      "禁止超车",
+      "最高速度"
+    ],
+    "answerIndex": 1,
+    "explanation": "警笛鳴らせ (けいてきならせ) = 鸣笛"
+  },
+  {
+    "id": "tr-S20",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "通学路",
+    "answer": "つうがくろ|tsuugakuro",
+    "answerFormat": "hiragana",
+    "explanation": "通学路 = つうがくろ (上学路)"
+  },
+  {
+    "id": "tr-SA04",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "指定",
+    "answer": "してい|shitei",
+    "answerFormat": "hiragana",
+    "explanation": "指定 = してい (指定)"
+  },
+  {
+    "id": "tr-SA02",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "手前",
+    "answer": "てまえ|temae",
+    "answerFormat": "hiragana",
+    "explanation": "手前 = てまえ (前方/前面)"
+  },
+  {
+    "id": "tr-AJ15",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请停车。」吗?",
+    "audio": "駐車してください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 0,
+    "explanation": "駐車してください。 = 请停车。"
+  },
+  {
+    "id": "tr-S12",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "発進",
+    "answer": "はっしん|hasshin",
+    "answerFormat": "hiragana",
+    "explanation": "発進 = はっしん (起步)"
+  },
+  {
+    "id": "tr-AJ07",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「我先告辞了。」吗?",
+    "audio": "お先に失礼します。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 0,
+    "explanation": "お先に失礼します。 = 我先告辞了。"
+  },
+  {
+    "id": "tr-AJ08",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请提高速度。」吗?",
+    "audio": "速度を落としてください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 1,
+    "explanation": "速度を落としてください。 = 请提高速度。"
+  },
+  {
+    "id": "tr-AJ14",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请靠右。」吗?",
+    "audio": "左に寄ってください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 1,
+    "explanation": "左に寄ってください。 = 请靠右。"
+  },
+  {
+    "id": "tr-AJ10",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「非常感谢。」吗?",
+    "audio": "ありがとうございます。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ありがとうございます。 = 非常感谢。"
+  },
+  {
+    "id": "tr-AJ01",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请临时停车。」吗?",
+    "audio": "一時停止してください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 0,
+    "explanation": "一時停止してください。 = 请临时停车。"
+  },
+  {
+    "id": "tr-SA06",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "車線数減少",
+    "answer": "しゃせんすうげんしょう|shasen-suu genshou",
+    "answerFormat": "hiragana",
+    "explanation": "車線数減少 = しゃせんすうげんしょう (车道数减少)"
+  },
+  {
+    "id": "tr-S05",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "自転車専用",
+    "answer": "じてんしゃせんよう|jitensha senyou",
+    "answerFormat": "hiragana",
+    "explanation": "自転車専用 = じてんしゃせんよう (自行车专用)"
+  },
+  {
+    "id": "tr-R02",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "ありがとうございました。",
+    "options": [
+      "どういたしまして。",
+      "おはようございます。",
+      "さようなら。",
+      "いただきます。"
+    ],
+    "answerIndex": 0,
+    "explanation": "谢谢→不客气"
+  },
+  {
+    "id": "tr-AJ04",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请停车。」吗?",
+    "audio": "発進してください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 1,
+    "explanation": "発進してください。 = 请停车。"
+  },
+  {
+    "id": "tr-AJ02",
+    "type": "listening",
+    "question": "听到的句子,中文意思是「请向左转。」吗?",
+    "audio": "右に折ってください。",
+    "options": [
+      "正しい(对)",
+      "正しくない(不对)"
+    ],
+    "answerIndex": 1,
+    "explanation": "右に折ってください。 = 请向左转。"
+  },
+  {
+    "id": "tr-SA09",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "自動車",
+    "answer": "じどうしゃ|jidousha",
+    "answerFormat": "hiragana",
+    "explanation": "自動車 = じどうしゃ (汽车)"
+  },
+  {
+    "id": "tr-S04",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "追い抜き",
+    "answer": "おいぬき|oinuki",
+    "answerFormat": "hiragana",
+    "explanation": "追い抜き = おいぬき (超过)"
+  }
+]

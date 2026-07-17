@@ -1,22 +1,262 @@
 [
-{"id":"en-q01","question":"普通自动车驾照的最低年龄要求是?","options":["16 岁","17 岁","18 岁","20 岁"],"answerIndex":2,"explanation":"普通车(AT/MT)需满 18 岁;原付/普通二轮需 16 岁;中型 20 岁。"},
-{"id":"en-q02","question":"入校时对住民票的时间要求是?","options":["1 个月内","3 个月内","6 个月内","1 年内"],"answerIndex":1,"explanation":"住民票需 3 个月内开具,且需含本籍、个人编号省略。"},
-{"id":"en-q03","question":"仮免申请费全国统一是多少钱?","options":["2,500 日元","2,850 日元","3,000 日元","5,000 日元"],"answerIndex":1,"explanation":"仮免申请费 2,850 日元,非课税。"},
-{"id":"en-q04","question":"AT 合宿最短几天能毕业?","options":["10 天","14 天","15 天","20 天"],"answerIndex":2,"explanation":"普通 AT 合宿最短 15 天;通学则因人而异,通常 1-2 个月。"},
-{"id":"en-q05","question":"适性检查的 3 项内容是?","options":["视力/色觉/听力","视力/反应/判断","体力/视力/听力","色觉/听力/反应"],"answerIndex":0,"explanation":"适性检查标准 3 项:视力(两眼 0.7/单眼 0.3)、色觉(红/青/黄)、听力。"},
-{"id":"en-q06","question":"以下哪种是外籍学员必带的?","options":["护照","在留卡/特别永住者证明","住民票","驾照"],"answerIndex":1,"explanation":"外籍学员必带在留卡(或特别永住者证明)+住民票(全项目)。"},
-{"id":"en-q07","question":"前一天的取消预约是?","options":["免费","1,000 日元","2,000 日元","3,000 日元"],"answerIndex":0,"explanation":"前一日取消免费,当日取消收 2,000 日元手续费(各校可能不同)。"},
-{"id":"en-q08","question":"普通车 AT 学科教习总时数是?","options":["10 小时","16 小时","26 小时","31 小时"],"answerIndex":2,"explanation":"学科 1 阶段 10h + 2 阶段 16h = 26h。"},
-{"id":"en-q09","question":"以下哪种付款方式提到过?","options":["现金","银行转账","信用卡","以上都提过"],"answerIndex":3,"explanation":"主流驾校都支持现金、银行转账、信用卡、贷款。"},
-{"id":"en-q10","question":"普通车 MT 比 AT 贵多少?","options":["差不多","1 万","3 万","5 万"],"answerIndex":2,"explanation":"MT 比 AT 含税贵约 3 万日元(学费+検定费)。"},
-{"id":"en-q11","question":"AT 驾照可以开什么车?","options":["只能开 AT","可以开 AT 和 MT","只能开 MT","什么都不行"],"answerIndex":0,"explanation":"AT 限定驾照只能开 AT 车;想开 MT 需要限定解除。"},
-{"id":"en-q12","question":"入校式通常在哪天举行?","options":["周三","周二或周六","周末","任何时间"],"answerIndex":1,"explanation":"多数驾校入校日是周二和周六(部分周三),具体看各校。"},
-{"id":"en-q13","question":"以下哪个不是入校必带物品?","options":["住民票","认印","笔记本","IC 卡(部分驾校)"],"answerIndex":2,"explanation":"笔记本是建议带,但非必需;其它是必须。"},
-{"id":"en-q14","question":"适性检查当天要戴什么?","options":["什么都不用","戴平时的眼镜/隐形","带泳衣","运动鞋"],"answerIndex":1,"explanation":"视检允许戴矫正眼镜/隐形,以矫正视力为准。"},
-{"id":"en-q15","question":"假设你 3 月 20 日入校,AT 合宿,问几月几日能毕业?","options":["4 月 1 日","4 月 3 日","4 月 4 日","4 月 10 日"],"answerIndex":2,"explanation":"3 月 20 日 + 15 天 = 4 月 3 日;但加上节假日可能延后,通常给 4-5 日缓冲。"},
-{"id":"en-q16","question":"入校费退学时能退吗?","options":["能退","能退一半","看学校","不能退"],"answerIndex":3,"explanation":"入校费(入学金)一般不退,未使用的教习费、検定费可退。"},
-{"id":"en-q17","question":"以下哪个对驾照申请是正确的?","options":["入校时不需要认印","入校时需要认印","只需要签字","用电子签名"],"answerIndex":1,"explanation":"需要认印(普通私章),不能用浸透印或橡皮章。"},
-{"id":"en-q18","question":"在学车过程中想换时间,要提前多久?","options":["1 小时前","当日","前一天","无所谓"],"answerIndex":2,"explanation":"多数驾校改期/取消要至少前一天通知,否则收手续费。"},
-{"id":"en-q19","question":"学科教习第一阶段总时数?","options":["8 小时","10 小时","12 小时","16 小时"],"answerIndex":1,"explanation":"1 阶段学科 10h(必修),2 阶段学科 16h。"},
-{"id":"en-q20","question":"以下关于合宿正确的是?","options":["可以工作日中途通勤","短期集中住宿","必须 1 个月以上","周末才能去"],"answerIndex":1,"explanation":"合宿 = 短期集中住宿学习,通常 2-3 周,期间住驾校宿舍或合作酒店。"}
+  {
+    "id": "en-q01",
+    "question": "普通自动车驾照的最低年龄要求是?",
+    "options": [
+      "16 岁",
+      "17 岁",
+      "18 岁",
+      "20 岁"
+    ],
+    "answerIndex": 2,
+    "explanation": "普通车(AT/MT)需满 18 岁;原付/普通二轮需 16 岁;中型 20 岁。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q02",
+    "question": "入校时对住民票的时间要求是?",
+    "options": [
+      "1 个月内",
+      "3 个月内",
+      "6 个月内",
+      "1 年内"
+    ],
+    "answerIndex": 1,
+    "explanation": "住民票需 3 个月内开具,且需含本籍、个人编号省略。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q03",
+    "question": "仮免申请费全国统一是多少钱?",
+    "options": [
+      "2,500 日元",
+      "2,850 日元",
+      "3,000 日元",
+      "5,000 日元"
+    ],
+    "answerIndex": 1,
+    "explanation": "仮免申请费 2,850 日元,非课税。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q04",
+    "question": "AT 合宿最短几天能毕业?",
+    "options": [
+      "10 天",
+      "14 天",
+      "15 天",
+      "20 天"
+    ],
+    "answerIndex": 2,
+    "explanation": "普通 AT 合宿最短 15 天;通学则因人而异,通常 1-2 个月。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q05",
+    "question": "适性检查的 3 项内容是?",
+    "options": [
+      "视力/色觉/听力",
+      "视力/反应/判断",
+      "体力/视力/听力",
+      "色觉/听力/反应"
+    ],
+    "answerIndex": 0,
+    "explanation": "适性检查标准 3 项:视力(两眼 0.7/单眼 0.3)、色觉(红/青/黄)、听力。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q06",
+    "question": "以下哪种是外籍学员必带的?",
+    "options": [
+      "护照",
+      "在留卡/特别永住者证明",
+      "住民票",
+      "驾照"
+    ],
+    "answerIndex": 1,
+    "explanation": "外籍学员必带在留卡(或特别永住者证明)+住民票(全项目)。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q07",
+    "question": "前一天的取消预约是?",
+    "options": [
+      "免费",
+      "1,000 日元",
+      "2,000 日元",
+      "3,000 日元"
+    ],
+    "answerIndex": 0,
+    "explanation": "前一日取消免费,当日取消收 2,000 日元手续费(各校可能不同)。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q08",
+    "question": "普通车 AT 学科教习总时数是?",
+    "options": [
+      "10 小时",
+      "16 小时",
+      "26 小时",
+      "31 小时"
+    ],
+    "answerIndex": 2,
+    "explanation": "学科 1 阶段 10h + 2 阶段 16h = 26h。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q09",
+    "question": "以下哪种付款方式提到过?",
+    "options": [
+      "现金",
+      "银行转账",
+      "信用卡",
+      "以上都提过"
+    ],
+    "answerIndex": 3,
+    "explanation": "主流驾校都支持现金、银行转账、信用卡、贷款。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q10",
+    "question": "普通车 MT 比 AT 贵多少?",
+    "options": [
+      "差不多",
+      "1 万",
+      "3 万",
+      "5 万"
+    ],
+    "answerIndex": 2,
+    "explanation": "MT 比 AT 含税贵约 3 万日元(学费+検定费)。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q11",
+    "question": "AT 驾照可以开什么车?",
+    "options": [
+      "只能开 AT",
+      "可以开 AT 和 MT",
+      "只能开 MT",
+      "什么都不行"
+    ],
+    "answerIndex": 0,
+    "explanation": "AT 限定驾照只能开 AT 车;想开 MT 需要限定解除。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q12",
+    "question": "入校式通常在哪天举行?",
+    "options": [
+      "周三",
+      "周二或周六",
+      "周末",
+      "任何时间"
+    ],
+    "answerIndex": 1,
+    "explanation": "多数驾校入校日是周二和周六(部分周三),具体看各校。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q13",
+    "question": "以下哪个不是入校必带物品?",
+    "options": [
+      "住民票",
+      "认印",
+      "笔记本",
+      "IC 卡(部分驾校)"
+    ],
+    "answerIndex": 2,
+    "explanation": "笔记本是建议带,但非必需;其它是必须。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q14",
+    "question": "适性检查当天要戴什么?",
+    "options": [
+      "什么都不用",
+      "戴平时的眼镜/隐形",
+      "带泳衣",
+      "运动鞋"
+    ],
+    "answerIndex": 1,
+    "explanation": "视检允许戴矫正眼镜/隐形,以矫正视力为准。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q15",
+    "question": "假设你 3 月 20 日入校,AT 合宿,问几月几日能毕业?",
+    "options": [
+      "4 月 1 日",
+      "4 月 3 日",
+      "4 月 4 日",
+      "4 月 10 日"
+    ],
+    "answerIndex": 2,
+    "explanation": "3 月 20 日 + 15 天 = 4 月 3 日;但加上节假日可能延后,通常给 4-5 日缓冲。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q16",
+    "question": "入校费退学时能退吗?",
+    "options": [
+      "能退",
+      "能退一半",
+      "看学校",
+      "不能退"
+    ],
+    "answerIndex": 3,
+    "explanation": "入校费(入学金)一般不退,未使用的教习费、検定费可退。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q17",
+    "question": "以下哪个对驾照申请是正确的?",
+    "options": [
+      "入校时不需要认印",
+      "入校时需要认印",
+      "只需要签字",
+      "用电子签名"
+    ],
+    "answerIndex": 1,
+    "explanation": "需要认印(普通私章),不能用浸透印或橡皮章。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q18",
+    "question": "在学车过程中想换时间,要提前多久?",
+    "options": [
+      "1 小时前",
+      "当日",
+      "前一天",
+      "无所谓"
+    ],
+    "answerIndex": 2,
+    "explanation": "多数驾校改期/取消要至少前一天通知,否则收手续费。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q19",
+    "question": "学科教习第一阶段总时数?",
+    "options": [
+      "8 小时",
+      "10 小时",
+      "12 小时",
+      "16 小时"
+    ],
+    "answerIndex": 1,
+    "explanation": "1 阶段学科 10h(必修),2 阶段学科 16h。",
+    "type": "choice"
+  },
+  {
+    "id": "en-q20",
+    "question": "以下关于合宿正确的是?",
+    "options": [
+      "可以工作日中途通勤",
+      "短期集中住宿",
+      "必须 1 个月以上",
+      "周末才能去"
+    ],
+    "answerIndex": 1,
+    "explanation": "合宿 = 短期集中住宿学习,通常 2-3 周,期间住驾校宿舍或合作酒店。",
+    "type": "choice"
+  }
 ]
