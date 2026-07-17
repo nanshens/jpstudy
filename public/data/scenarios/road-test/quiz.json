@@ -258,5 +258,353 @@
     "answerIndex": 1,
     "explanation": "车距 2 秒以上是法规要求。",
     "type": "choice"
+  },
+  {
+    "id": "roa-L01",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "歩行者用道路",
+    "options": [
+      "限速",
+      "步行者专用",
+      "优先道路",
+      "停"
+    ],
+    "answerIndex": 1,
+    "explanation": "歩行者用道路 (ほこうしゃようどうろ) = 步行者专用"
+  },
+  {
+    "id": "roa-L02",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "渋滞",
+    "options": [
+      "拥堵",
+      "中央分隔带",
+      "住宅区",
+      "隧道"
+    ],
+    "answerIndex": 0,
+    "explanation": "渋滞 (じゅうたい) = 拥堵"
+  },
+  {
+    "id": "roa-L03",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "急ブレーキ",
+    "options": [
+      "急刹车",
+      "停三秒",
+      "蠕行现象",
+      "顾及周围"
+    ],
+    "answerIndex": 0,
+    "explanation": "急ブレーキ (きゅうブレーキ) = 急刹车"
+  },
+  {
+    "id": "roa-L04",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "矢印信号",
+    "options": [
+      "箭头信号",
+      "信号灯",
+      "黄灯",
+      "信号机"
+    ],
+    "answerIndex": 0,
+    "explanation": "矢印信号 (やじるししんごう) = 箭头信号"
+  },
+  {
+    "id": "roa-L05",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "徐行区間",
+    "options": [
+      "慢行路段",
+      "停车",
+      "路侧带",
+      "近道"
+    ],
+    "answerIndex": 0,
+    "explanation": "徐行区間 (じょこうくかん) = 慢行路段"
+  },
+  {
+    "id": "roa-L06",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "抜け道",
+    "options": [
+      "混乱",
+      "收费站",
+      "近道",
+      "中央分隔带"
+    ],
+    "answerIndex": 2,
+    "explanation": "抜け道 (ぬけみち) = 近道"
+  },
+  {
+    "id": "roa-L07",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "交差点左折",
+    "options": [
+      "骨折",
+      "路口左转",
+      "119(救护/消防)",
+      "确认横穿者"
+    ],
+    "answerIndex": 1,
+    "explanation": "交差点左折 (こうさてんさせつ) = 路口左转"
+  },
+  {
+    "id": "roa-L08",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "料金所",
+    "options": [
+      "加油站",
+      "收费站",
+      "施工中",
+      "混乱"
+    ],
+    "answerIndex": 1,
+    "explanation": "料金所 (りょうきんしょ) = 收费站"
+  },
+  {
+    "id": "roa-R01",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "右に折ってください。",
+    "options": [
+      "はい、右に折ります。",
+      "左に折ります。",
+      "止まります。",
+      "直進します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请右转→好的,右转"
+  },
+  {
+    "id": "roa-R02",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "ウィンカーを出してください。",
+    "options": [
+      "はい、出しました。",
+      "止めました。",
+      "閉じました。",
+      "下げました。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请打转向灯→好的,打了"
+  },
+  {
+    "id": "roa-R03",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "速度を落としてください。",
+    "options": [
+      "はい、落とします。",
+      "上げます。",
+      "止まります。",
+      "右に折ります。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请降低速度→好的,降速"
+  },
+  {
+    "id": "roa-R04",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "前に進みましょう。",
+    "options": [
+      "はい、進みます。",
+      "止まります。",
+      "バックします。",
+      "右に折ります。"
+    ],
+    "answerIndex": 0,
+    "explanation": "往前走吧→好的,前进"
+  },
+  {
+    "id": "roa-S01",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "安全距離",
+    "answer": "あんぜんきょり|anzen kyori",
+    "answerFormat": "hiragana",
+    "explanation": "安全距離 = あんぜんきょり (安全距离)"
+  },
+  {
+    "id": "roa-S02",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "対向車確認",
+    "answer": "たいこうしゃかくにん|taikousha kakunin",
+    "answerFormat": "hiragana",
+    "explanation": "対向車確認 = たいこうしゃかくにん (确认对向车)"
+  },
+  {
+    "id": "roa-S03",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "安全不確認",
+    "answer": "あんぜんふかくにん|anzen fu-kakunin",
+    "answerFormat": "hiragana",
+    "explanation": "安全不確認 = あんぜんふかくにん (未确认安全)"
+  },
+  {
+    "id": "roa-S04",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "工事中",
+    "answer": "こうじちゅう|kouji-chuu",
+    "answerFormat": "hiragana",
+    "explanation": "工事中 = こうじちゅう (施工中)"
+  },
+  {
+    "id": "roa-S05",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "首振り確認",
+    "answer": "くびふりかくにん|kubifuri kakunin",
+    "answerFormat": "hiragana",
+    "explanation": "首振り確認 = くびふりかくにん (扭头确认)"
+  },
+  {
+    "id": "roa-S06",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "減速車線",
+    "answer": "げんそくしゃせん|gensoku shasen",
+    "answerFormat": "hiragana",
+    "explanation": "減速車線 = げんそくしゃせん (减速车道)"
+  },
+  {
+    "id": "roa-S07",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "駐車場",
+    "answer": "ちゅうしゃじょう|chuushajou",
+    "answerFormat": "hiragana",
+    "explanation": "駐車場 = ちゅうしゃじょう (停车场)"
+  },
+  {
+    "id": "roa-S08",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "発進ミス",
+    "answer": "はっしんミス|hasshin misu",
+    "answerFormat": "hiragana",
+    "explanation": "発進ミス = はっしんミス (起步失误)"
+  },
+  {
+    "id": "roa-S09",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "車線変更",
+    "answer": "しゃせんへんこう|shasen henkou",
+    "answerFormat": "hiragana",
+    "explanation": "車線変更 = しゃせんへんこう (变道)"
+  },
+  {
+    "id": "roa-S10",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "対向車",
+    "answer": "たいこうしゃ|taikousha",
+    "answerFormat": "hiragana",
+    "explanation": "対向車 = たいこうしゃ (对向车)"
+  },
+  {
+    "id": "roa-S11",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "二段階停止",
+    "answer": "にだんかいていし|nidankai teishi",
+    "answerFormat": "hiragana",
+    "explanation": "二段階停止 = にだんかいていし (两步停车)"
+  },
+  {
+    "id": "roa-S12",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "合流",
+    "answer": "ごうりゅう|gouryuu",
+    "answerFormat": "hiragana",
+    "explanation": "合流 = ごうりゅう (汇入)"
+  },
+  {
+    "id": "roa-SA01",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "エンスト",
+    "answer": "エンスト|ensuto",
+    "answerFormat": "hiragana",
+    "explanation": "エンスト = エンスト (熄火)"
+  },
+  {
+    "id": "roa-SA02",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "止まり損ね",
+    "answer": "とまりそくね|tomari-sokune",
+    "answerFormat": "hiragana",
+    "explanation": "止まり損ね = とまりそくね (没停稳)"
+  },
+  {
+    "id": "roa-SA03",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "発進遅れ",
+    "answer": "はっしんおくれ|hasshin okure",
+    "answerFormat": "hiragana",
+    "explanation": "発進遅れ = はっしんおくれ (起步太慢)"
+  },
+  {
+    "id": "roa-SA04",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ゾーン30",
+    "answer": "ゾーンサーティ|zoon saati",
+    "answerFormat": "hiragana",
+    "explanation": "ゾーン30 = ゾーンサーティ (限速 30 区域)"
+  },
+  {
+    "id": "roa-SA05",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "赤信号",
+    "answer": "あかしんごう|aka shingou",
+    "answerFormat": "hiragana",
+    "explanation": "赤信号 = あかしんごう (红灯)"
+  },
+  {
+    "id": "roa-SA06",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "青信号",
+    "answer": "あおしんごう|ao shingou",
+    "answerFormat": "hiragana",
+    "explanation": "青信号 = あおしんごう (绿灯)"
+  },
+  {
+    "id": "roa-SA07",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "右折禁止",
+    "answer": "うせつきんし|usetsu kinshi",
+    "answerFormat": "hiragana",
+    "explanation": "右折禁止 = うせつきんし (禁止右转)"
+  },
+  {
+    "id": "roa-SA08",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "左折禁止",
+    "answer": "させつきんし|sasetsu kinshi",
+    "answerFormat": "hiragana",
+    "explanation": "左折禁止 = させつきんし (禁止左转)"
   }
 ]

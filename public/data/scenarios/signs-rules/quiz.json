@@ -258,5 +258,353 @@
     "answerIndex": 1,
     "explanation": "累積 6-8 点驾照停止 30 日;9-11 点停止 60 日;12 点吊销。",
     "type": "choice"
+  },
+  {
+    "id": "sig-L01",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "合流注意",
+    "options": [
+      "禁止超车",
+      "装防滑链",
+      "单行道",
+      "合流注意"
+    ],
+    "answerIndex": 3,
+    "explanation": "合流注意 (ごうりゅうちゅうい) = 合流注意"
+  },
+  {
+    "id": "sig-L02",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "横断歩道",
+    "options": [
+      "停止线",
+      "网格线",
+      "可左转",
+      "人行横道"
+    ],
+    "answerIndex": 3,
+    "explanation": "横断歩道 (おうだんほどう) = 人行横道"
+  },
+  {
+    "id": "sig-L03",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "高所作業",
+    "options": [
+      "专用车道",
+      "限时停车区",
+      "高空作业",
+      "前方有信号灯"
+    ],
+    "answerIndex": 2,
+    "explanation": "高所作業 (こうしょさぎょう) = 高空作业"
+  },
+  {
+    "id": "sig-L04",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "中型自動車",
+    "options": [
+      "轮胎防滑链",
+      "原付自行车",
+      "第二种驾照",
+      "中型汽车"
+    ],
+    "answerIndex": 3,
+    "explanation": "中型自動車 (ちゅうがたじどうしゃ) = 中型汽车"
+  },
+  {
+    "id": "sig-L05",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "優先",
+    "options": [
+      "优先车道",
+      "优先",
+      "可左转",
+      "中央线"
+    ],
+    "answerIndex": 1,
+    "explanation": "優先 (ゆうせん) = 优先"
+  },
+  {
+    "id": "sig-L06",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "止まれ",
+    "options": [
+      "停",
+      "装防滑链",
+      "优先车道",
+      "前方有路口"
+    ],
+    "answerIndex": 0,
+    "explanation": "止まれ (とまれ) = 停"
+  },
+  {
+    "id": "sig-L07",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "高潮注意",
+    "options": [
+      "听障标志",
+      "大潮",
+      "服务区",
+      "雷电"
+    ],
+    "answerIndex": 1,
+    "explanation": "高潮注意 (たかしおちゅうい) = 大潮"
+  },
+  {
+    "id": "sig-L08",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "通行止め",
+    "options": [
+      "禁止通行",
+      "收费站",
+      "单侧交替通行",
+      "禁止进入"
+    ],
+    "answerIndex": 0,
+    "explanation": "通行止め (つうこうどめ) = 禁止通行"
+  },
+  {
+    "id": "sig-R01",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "止まれの標識があります。",
+    "options": [
+      "はい、一時停止します。",
+      "右に折ります。",
+      "発進します。",
+      "加速します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "有停车标志→好的,临时停车"
+  },
+  {
+    "id": "sig-R02",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "徐行してください。",
+    "options": [
+      "はい、ゆっくり進みます。",
+      "止まります。",
+      "右に折ります。",
+      "バックします。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请慢行→好的,慢速前进"
+  },
+  {
+    "id": "sig-R03",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "この標識はどういう意味ですか?",
+    "options": [
+      "一方通行です。",
+      "右に折ります。",
+      "発進します。",
+      "止まります。"
+    ],
+    "answerIndex": 0,
+    "explanation": "这标志什么意思→单行道"
+  },
+  {
+    "id": "sig-R04",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "信号が赤です。",
+    "options": [
+      "はい、止まります。",
+      "進みます。",
+      "右に折ります。",
+      "左に折ります。"
+    ],
+    "answerIndex": 0,
+    "explanation": "红灯→好的,停车"
+  },
+  {
+    "id": "sig-S01",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "徐行",
+    "answer": "じょこう|jokou",
+    "answerFormat": "hiragana",
+    "explanation": "徐行 = じょこう (慢行)"
+  },
+  {
+    "id": "sig-S02",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "規制標識",
+    "answer": "きせいひょうしき|kisei hyoushiki",
+    "answerFormat": "hiragana",
+    "explanation": "規制標識 = きせいひょうしき (規制标志)"
+  },
+  {
+    "id": "sig-S03",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "徐行",
+    "answer": "じょこう|jokou",
+    "answerFormat": "hiragana",
+    "explanation": "徐行 = じょこう (慢行)"
+  },
+  {
+    "id": "sig-S04",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "優先車線",
+    "answer": "ゆうせんしゃせん|yuusen shasen",
+    "answerFormat": "hiragana",
+    "explanation": "優先車線 = ゆうせんしゃせん (优先车道)"
+  },
+  {
+    "id": "sig-S05",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "下り勾配",
+    "answer": "くだりこうばい|kudari koubai",
+    "answerFormat": "hiragana",
+    "explanation": "下り勾配 = くだりこうばい (下坡)"
+  },
+  {
+    "id": "sig-S06",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "中央線",
+    "answer": "ちゅうおうせん|chuuou-sen",
+    "answerFormat": "hiragana",
+    "explanation": "中央線 = ちゅうおうせん (中央线)"
+  },
+  {
+    "id": "sig-S07",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "普通二輪",
+    "answer": "ふつうにりん|futsuu-nirin",
+    "answerFormat": "hiragana",
+    "explanation": "普通二輪 = ふつうにりん (普通二轮)"
+  },
+  {
+    "id": "sig-S08",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "バス専用",
+    "answer": "バスせんよう|basu senyou",
+    "answerFormat": "hiragana",
+    "explanation": "バス専用 = バスせんよう (公交专用)"
+  },
+  {
+    "id": "sig-S09",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "大型自動車",
+    "answer": "おおがたじどうしゃ|oogata jidousha",
+    "answerFormat": "hiragana",
+    "explanation": "大型自動車 = おおがたじどうしゃ (大型汽车)"
+  },
+  {
+    "id": "sig-S10",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "高所作業",
+    "answer": "こうしょさぎょう|kousho sagyou",
+    "answerFormat": "hiragana",
+    "explanation": "高所作業 = こうしょさぎょう (高空作业)"
+  },
+  {
+    "id": "sig-S11",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "交差点あり",
+    "answer": "こうさてんあり|kousaten-ari",
+    "answerFormat": "hiragana",
+    "explanation": "交差点あり = こうさてんあり (前方有路口)"
+  },
+  {
+    "id": "sig-S12",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "右折可",
+    "answer": "うせつか|usetsu-ka",
+    "answerFormat": "hiragana",
+    "explanation": "右折可 = うせつか (可右转)"
+  },
+  {
+    "id": "sig-SA01",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "運転免許証",
+    "answer": "うんてんめんきょしょう|unten menkyoshou",
+    "answerFormat": "hiragana",
+    "explanation": "運転免許証 = うんてんめんきょしょう (驾照)"
+  },
+  {
+    "id": "sig-SA02",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "自転車専用",
+    "answer": "じてんしゃせんよう|jitensha senyou",
+    "answerFormat": "hiragana",
+    "explanation": "自転車専用 = じてんしゃせんよう (自行车专用)"
+  },
+  {
+    "id": "sig-SA03",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "津波注意",
+    "answer": "つなみちゅうい|tsunami chuui",
+    "answerFormat": "hiragana",
+    "explanation": "津波注意 = つなみちゅうい (海啸)"
+  },
+  {
+    "id": "sig-SA04",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "指示線",
+    "answer": "しじせん|shiji-sen",
+    "answerFormat": "hiragana",
+    "explanation": "指示線 = しじせん (指示线)"
+  },
+  {
+    "id": "sig-SA05",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ETC",
+    "answer": "イーティーシー|ETC",
+    "answerFormat": "hiragana",
+    "explanation": "ETC = イーティーシー (自动收费)"
+  },
+  {
+    "id": "sig-SA06",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "故障表示",
+    "answer": "こしょうひょうじ|koshou hyouji",
+    "answerFormat": "hiragana",
+    "explanation": "故障表示 = こしょうひょうじ (故障显示)"
+  },
+  {
+    "id": "sig-SA07",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "普通二輪",
+    "answer": "ふつうにりん|futsuu-nirin",
+    "answerFormat": "hiragana",
+    "explanation": "普通二輪 = ふつうにりん (普通二轮)"
+  },
+  {
+    "id": "sig-SA08",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "道の駅",
+    "answer": "みちのえき|michi no eki",
+    "answerFormat": "hiragana",
+    "explanation": "道の駅 = みちのえき (公路休息站)"
   }
 ]

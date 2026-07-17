@@ -258,5 +258,353 @@
     "answerIndex": 0,
     "explanation": "学科(がっか)= 理论课。相对应「技能」(ぎのう)= 实操课。",
     "type": "choice"
+  },
+  {
+    "id": "dri-L01",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "眼鏡",
+    "options": [
+      "为什么",
+      "你好",
+      "眼镜",
+      "照片"
+    ],
+    "answerIndex": 2,
+    "explanation": "眼鏡 (めがね) = 眼镜"
+  },
+  {
+    "id": "dri-L02",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "黄色い線",
+    "options": [
+      "红绿灯",
+      "车外",
+      "黄线(中央线)",
+      "黄"
+    ],
+    "answerIndex": 2,
+    "explanation": "黄色い線 (きいろいせん) = 黄线(中央线)"
+  },
+  {
+    "id": "dri-L03",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "試験会場",
+    "options": [
+      "考试,考核",
+      "入学",
+      "结业,完成",
+      "考场"
+    ],
+    "answerIndex": 3,
+    "explanation": "試験会場 (しけんかいじょう) = 考场"
+  },
+  {
+    "id": "dri-L04",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "助けて",
+    "options": [
+      "几点",
+      "好好地 / 经常",
+      "帮帮我",
+      "什么时候"
+    ],
+    "answerIndex": 2,
+    "explanation": "助けて (たすけて) = 帮帮我"
+  },
+  {
+    "id": "dri-L05",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "印象",
+    "options": [
+      "早上好",
+      "印象",
+      "为什么",
+      "请加油"
+    ],
+    "answerIndex": 1,
+    "explanation": "印象 (いんしょう) = 印象"
+  },
+  {
+    "id": "dri-L06",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "車外",
+    "options": [
+      "路口对面",
+      "国道",
+      "县道",
+      "车外"
+    ],
+    "answerIndex": 3,
+    "explanation": "車外 (しゃがい) = 车外"
+  },
+  {
+    "id": "dri-L07",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "写真",
+    "options": [
+      "下次 / 又",
+      "我不懂",
+      "证明书",
+      "照片"
+    ],
+    "answerIndex": 3,
+    "explanation": "写真 (しゃしん) = 照片"
+  },
+  {
+    "id": "dri-L08",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "通り",
+    "options": [
+      "右转",
+      "街道(通り)",
+      "变道",
+      "调头(路口内)"
+    ],
+    "answerIndex": 1,
+    "explanation": "通り (どおり) = 街道(通り)"
+  },
+  {
+    "id": "dri-R01",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "ミラーを見てください。",
+    "options": [
+      "はい、見ました。",
+      "右に折ります。",
+      "止まります。",
+      "発進します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "看后视镜→好的,看了"
+  },
+  {
+    "id": "dri-R02",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "左に折ってください。",
+    "options": [
+      "はい、左に折ります。",
+      "右に折ります。",
+      "止まります。",
+      "直進します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请左转→好的,左转"
+  },
+  {
+    "id": "dri-R03",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "一時停止してください。",
+    "options": [
+      "はい、止まります。",
+      "直進します。",
+      "右に折ります。",
+      "左に折ります。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请临时停车→好的,停车"
+  },
+  {
+    "id": "dri-R04",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "発進してください。",
+    "options": [
+      "はい、発進します。",
+      "止まります。",
+      "バックします。",
+      "駐車します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请起步→好的,起步"
+  },
+  {
+    "id": "dri-S01",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "停車",
+    "answer": "ていしゃ|",
+    "answerFormat": "hiragana",
+    "explanation": "停車 = ていしゃ (停车(短时))"
+  },
+  {
+    "id": "dri-S02",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "検定",
+    "answer": "けんてい|",
+    "answerFormat": "hiragana",
+    "explanation": "検定 = けんてい (考试,考核)"
+  },
+  {
+    "id": "dri-S03",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "罰金",
+    "answer": "ばっきん|",
+    "answerFormat": "hiragana",
+    "explanation": "罰金 = ばっきん (罚款)"
+  },
+  {
+    "id": "dri-S04",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "危険",
+    "answer": "きけん|",
+    "answerFormat": "hiragana",
+    "explanation": "危険 = きけん (危险)"
+  },
+  {
+    "id": "dri-S05",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "坂道発進",
+    "answer": "さかみちはっしん|",
+    "answerFormat": "hiragana",
+    "explanation": "坂道発進 = さかみちはっしん (坡道起步)"
+  },
+  {
+    "id": "dri-S06",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "何時",
+    "answer": "なんじ|",
+    "answerFormat": "hiragana",
+    "explanation": "何時 = なんじ (几点)"
+  },
+  {
+    "id": "dri-S07",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "遅い",
+    "answer": "おそい|",
+    "answerFormat": "hiragana",
+    "explanation": "遅い = おそい (慢,迟)"
+  },
+  {
+    "id": "dri-S08",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "速い",
+    "answer": "はやい|",
+    "answerFormat": "hiragana",
+    "explanation": "速い = はやい (快)"
+  },
+  {
+    "id": "dri-S09",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "歩道",
+    "answer": "ほどう|",
+    "answerFormat": "hiragana",
+    "explanation": "歩道 = ほどう (人行道)"
+  },
+  {
+    "id": "dri-S10",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "歩行者",
+    "answer": "ほこうしゃ|",
+    "answerFormat": "hiragana",
+    "explanation": "歩行者 = ほこうしゃ (行人)"
+  },
+  {
+    "id": "dri-S11",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "対向車",
+    "answer": "たいこうしゃ|",
+    "answerFormat": "hiragana",
+    "explanation": "対向車 = たいこうしゃ (对向来车)"
+  },
+  {
+    "id": "dri-S12",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "卒業",
+    "answer": "そつぎょう|",
+    "answerFormat": "hiragana",
+    "explanation": "卒業 = そつぎょう (毕业)"
+  },
+  {
+    "id": "dri-SA01",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "危険",
+    "answer": "きけん|",
+    "answerFormat": "hiragana",
+    "explanation": "危険 = きけん (危险)"
+  },
+  {
+    "id": "dri-SA02",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ゆっくり",
+    "answer": "ゆっくり|",
+    "answerFormat": "hiragana",
+    "explanation": "ゆっくり = ゆっくり (慢慢地)"
+  },
+  {
+    "id": "dri-SA03",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ウインカー",
+    "answer": "ウインカー|",
+    "answerFormat": "hiragana",
+    "explanation": "ウインカー = ウインカー (转向灯)"
+  },
+  {
+    "id": "dri-SA04",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "上り坂",
+    "answer": "のぼりざか|",
+    "answerFormat": "hiragana",
+    "explanation": "上り坂 = のぼりざか (上坡)"
+  },
+  {
+    "id": "dri-SA05",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "試験会場",
+    "answer": "しけんかいじょう|",
+    "answerFormat": "hiragana",
+    "explanation": "試験会場 = しけんかいじょう (考场)"
+  },
+  {
+    "id": "dri-SA06",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "技能",
+    "answer": "ぎのう|",
+    "answerFormat": "hiragana",
+    "explanation": "技能 = ぎのう (技能(实操))"
+  },
+  {
+    "id": "dri-SA07",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "通り",
+    "answer": "どおり|",
+    "answerFormat": "hiragana",
+    "explanation": "通り = どおり (街道(通り))"
+  },
+  {
+    "id": "dri-SA08",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "学科",
+    "answer": "がっか|",
+    "answerFormat": "hiragana",
+    "explanation": "学科 = がっか (理论(学科))"
   }
 ]

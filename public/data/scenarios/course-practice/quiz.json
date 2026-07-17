@@ -258,5 +258,353 @@
     "answerIndex": 1,
     "explanation": "45 度切、回正、再切反方向,来回切换。",
     "type": "choice"
+  },
+  {
+    "id": "cou-L01",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "後退",
+    "options": [
+      "倒车",
+      "起步",
+      "停止线",
+      "方向指示器"
+    ],
+    "answerIndex": 0,
+    "explanation": "後退 (こうたい) = 倒车"
+  },
+  {
+    "id": "cou-L02",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "格納ミラー",
+    "options": [
+      "自动防眩后视镜",
+      "侧镜调整",
+      "室内镜调整",
+      "折叠后视镜"
+    ],
+    "answerIndex": 3,
+    "explanation": "格納ミラー (かくのうミラー) = 折叠后视镜"
+  },
+  {
+    "id": "cou-L03",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "運転姿勢",
+    "options": [
+      "考试官",
+      "效果测试",
+      "驾驶姿势",
+      "副驾座"
+    ],
+    "answerIndex": 2,
+    "explanation": "運転姿勢 (うんてんしせい) = 驾驶姿势"
+  },
+  {
+    "id": "cou-L04",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "破線",
+    "options": [
+      "车道",
+      "安全确认",
+      "虚线",
+      "对向车"
+    ],
+    "answerIndex": 2,
+    "explanation": "破線 (はせん) = 虚线"
+  },
+  {
+    "id": "cou-L05",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "停止線",
+    "options": [
+      "方向盘",
+      "停车",
+      "停止线",
+      "手刹"
+    ],
+    "answerIndex": 2,
+    "explanation": "停止線 (ていしせん) = 停止线"
+  },
+  {
+    "id": "cou-L06",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "脱輪",
+    "options": [
+      "坡道起步",
+      "路肩",
+      "车轮脱落",
+      "纵列停车"
+    ],
+    "answerIndex": 2,
+    "explanation": "脱輪 (だっりん) = 车轮脱落"
+  },
+  {
+    "id": "cou-L07",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "脱出",
+    "options": [
+      "驶入",
+      "驶出",
+      "汇入",
+      "通过"
+    ],
+    "answerIndex": 1,
+    "explanation": "脱出 (だっしゅつ) = 驶出"
+  },
+  {
+    "id": "cou-L08",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "一旦停止",
+    "options": [
+      "换挡杆",
+      "雨刷",
+      "临时停车",
+      "熄火"
+    ],
+    "answerIndex": 2,
+    "explanation": "一旦停止 (いったんていし) = 临时停车"
+  },
+  {
+    "id": "cou-R01",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "ギヤをセカンドに入れてください。",
+    "options": [
+      "はい、入れました。",
+      "下げました。",
+      "止めました。",
+      "開けました。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请挂二挡→好的,挂好了"
+  },
+  {
+    "id": "cou-R02",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "ハンドルを右に切ってください。",
+    "options": [
+      "はい、切ります。",
+      "下げます。",
+      "止めます。",
+      "開けます。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请向右打方向盘→好的,打"
+  },
+  {
+    "id": "cou-R03",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "ブレーキを踏んでください。",
+    "options": [
+      "はい、踏みます。",
+      "上げます。",
+      "切ります。",
+      "開けます。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请踩刹车→好的,踩"
+  },
+  {
+    "id": "cou-R04",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "ゆっくり進んでください。",
+    "options": [
+      "はい、ゆっくり進みます。",
+      "止まります。",
+      "右に折ります。",
+      "バックします。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请慢速前进→好的,慢速前进"
+  },
+  {
+    "id": "cou-S01",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "合流車線",
+    "answer": "ごうりゅうしゃせん|gouryuu shasen",
+    "answerFormat": "hiragana",
+    "explanation": "合流車線 = ごうりゅうしゃせん (加速车道)"
+  },
+  {
+    "id": "cou-S02",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "脱出",
+    "answer": "だっしゅつ|dashshutsu",
+    "answerFormat": "hiragana",
+    "explanation": "脱出 = だっしゅつ (驶出)"
+  },
+  {
+    "id": "cou-S03",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "吹かし",
+    "answer": "ふかし|fukashi",
+    "answerFormat": "hiragana",
+    "explanation": "吹かし = ふかし (轰油门)"
+  },
+  {
+    "id": "cou-S04",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "破線",
+    "answer": "はせん|hasen",
+    "answerFormat": "hiragana",
+    "explanation": "破線 = はせん (虚线)"
+  },
+  {
+    "id": "cou-S05",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "右側通行",
+    "answer": "みぎがわつうこう|migi-gawa tsuukou",
+    "answerFormat": "hiragana",
+    "explanation": "右側通行 = みぎがわつうこう (右侧通行)"
+  },
+  {
+    "id": "cou-S06",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "左側通行",
+    "answer": "ひだりがわつうこう|hidari-gawa tsuukou",
+    "answerFormat": "hiragana",
+    "explanation": "左側通行 = ひだりがわつうこう (左侧通行)"
+  },
+  {
+    "id": "cou-S07",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "左側後方",
+    "answer": "ささくこうほう|sasoku kouhou",
+    "answerFormat": "hiragana",
+    "explanation": "左側後方 = ささくこうほう (左后方)"
+  },
+  {
+    "id": "cou-S08",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "蛇行",
+    "answer": "だこう|dakou",
+    "answerFormat": "hiragana",
+    "explanation": "蛇行 = だこう (蛇行)"
+  },
+  {
+    "id": "cou-S09",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "方向指示器",
+    "answer": "ほうこうしじき|houkou shijiki",
+    "answerFormat": "hiragana",
+    "explanation": "方向指示器 = ほうこうしじき (方向指示器)"
+  },
+  {
+    "id": "cou-S10",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "風量",
+    "answer": "ふうりょう|fuuryou",
+    "answerFormat": "hiragana",
+    "explanation": "風量 = ふうりょう (风量)"
+  },
+  {
+    "id": "cou-S11",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "坂道",
+    "answer": "さかみち|sakamichi",
+    "answerFormat": "hiragana",
+    "explanation": "坂道 = さかみち (坡道)"
+  },
+  {
+    "id": "cou-S12",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "外輪差",
+    "answer": "がいりんさ|gairinsa",
+    "answerFormat": "hiragana",
+    "explanation": "外輪差 = がいりんさ (外轮差)"
+  },
+  {
+    "id": "cou-SA01",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "周囲の安全",
+    "answer": "しゅういのあんぜん|shuui no anzen",
+    "answerFormat": "hiragana",
+    "explanation": "周囲の安全 = しゅういのあんぜん (周围安全)"
+  },
+  {
+    "id": "cou-SA02",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "水温計",
+    "answer": "すいおんけい|suionkei",
+    "answerFormat": "hiragana",
+    "explanation": "水温計 = すいおんけい (水温表)"
+  },
+  {
+    "id": "cou-SA03",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "合図",
+    "answer": "あいず|aizu",
+    "answerFormat": "hiragana",
+    "explanation": "合図 = あいず (示意/打信号)"
+  },
+  {
+    "id": "cou-SA04",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "左側後方",
+    "answer": "ささくこうほう|sasoku kouhou",
+    "answerFormat": "hiragana",
+    "explanation": "左側後方 = ささくこうほう (左后方)"
+  },
+  {
+    "id": "cou-SA05",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "速度不足",
+    "answer": "そくどふそく|sokudo fusoku",
+    "answerFormat": "hiragana",
+    "explanation": "速度不足 = そくどふそく (速度过慢)"
+  },
+  {
+    "id": "cou-SA06",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "卒業",
+    "answer": "そつぎょう|sotsugyou",
+    "answerFormat": "hiragana",
+    "explanation": "卒業 = そつぎょう (毕业(驾校))"
+  },
+  {
+    "id": "cou-SA07",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ウインカー",
+    "answer": "ウインカー|uinkaa",
+    "answerFormat": "hiragana",
+    "explanation": "ウインカー = ウインカー (转向灯)"
+  },
+  {
+    "id": "cou-SA08",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "半クラ",
+    "answer": "はんクラ|han-kura",
+    "answerFormat": "hiragana",
+    "explanation": "半クラ = はんクラ (半联动)"
   }
 ]

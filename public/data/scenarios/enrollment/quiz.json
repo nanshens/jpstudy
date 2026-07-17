@@ -258,5 +258,353 @@
     "answerIndex": 1,
     "explanation": "合宿 = 短期集中住宿学习,通常 2-3 周,期间住驾校宿舍或合作酒店。",
     "type": "choice"
+  },
+  {
+    "id": "enr-L01",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "自炊プラン",
+    "options": [
+      "学生折扣",
+      "女性折扣",
+      "团体折扣",
+      "自己做饭套餐"
+    ],
+    "answerIndex": 3,
+    "explanation": "自炊プラン (すいそうプラン) = 自己做饭套餐"
+  },
+  {
+    "id": "enr-L02",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "税込",
+    "options": [
+      "含税",
+      "适应性检查费",
+      "技能教习费",
+      "追加费用"
+    ],
+    "answerIndex": 0,
+    "explanation": "税込 (ぜいこみ) = 含税"
+  },
+  {
+    "id": "enr-L03",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "高速教習",
+    "options": [
+      "高速教习",
+      "考试日",
+      "新手标志",
+      "驾照考场"
+    ],
+    "answerIndex": 0,
+    "explanation": "高速教習 (こうそくきょうしゅう) = 高速教习"
+  },
+  {
+    "id": "enr-L04",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "路上教習",
+    "options": [
+      "考试日",
+      "新手标志",
+      "高速教习",
+      "路上教习"
+    ],
+    "answerIndex": 3,
+    "explanation": "路上教習 (ろじょうきょうしゅう) = 路上教习"
+  },
+  {
+    "id": "enr-L05",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "効果測定料",
+    "options": [
+      "教习费",
+      "本籍 (户籍地)",
+      "效果测试费",
+      "健康保险证"
+    ],
+    "answerIndex": 2,
+    "explanation": "効果測定料 (こうかそくていりょう) = 效果测试费"
+  },
+  {
+    "id": "enr-L06",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "認印",
+    "options": [
+      "居民票 (证明住址/本籍)",
+      "在留卡",
+      "认印 (普通私章)",
+      "本籍 (户籍地)"
+    ],
+    "answerIndex": 2,
+    "explanation": "認印 (みとめいん) = 认印 (普通私章)"
+  },
+  {
+    "id": "enr-L07",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "先行学科",
+    "options": [
+      "派车单",
+      "适应性检查",
+      "效果测试",
+      "先行学科"
+    ],
+    "answerIndex": 3,
+    "explanation": "先行学科 (せんこうがっか) = 先行学科"
+  },
+  {
+    "id": "enr-L08",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "筆記用具",
+    "options": [
+      "笔",
+      "便利店缴费",
+      "高跟鞋",
+      "信用卡"
+    ],
+    "answerIndex": 0,
+    "explanation": "筆記用具 (ひっきようぐ) = 笔"
+  },
+  {
+    "id": "enr-R01",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "いらっしゃいませ。",
+    "options": [
+      "失礼します。",
+      "ありがとうございます。",
+      "おはようございます。",
+      "いただきます。"
+    ],
+    "answerIndex": 0,
+    "explanation": "欢迎光临→打扰了(到前台)"
+  },
+  {
+    "id": "enr-R02",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "本日はどんなご用件ですか?",
+    "options": [
+      "入校の手続きをお願いします。",
+      "右に折ります。",
+      "ミラーを見ます。",
+      "発進します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请问有什么事→我要办入校手续"
+  },
+  {
+    "id": "enr-R03",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "在留カードを見せてください。",
+    "options": [
+      "はい、どうぞ。",
+      "ありがとうございました。",
+      "左に折ります。",
+      "止まります。"
+    ],
+    "answerIndex": 0,
+    "explanation": "请出示在留卡→好的,请"
+  },
+  {
+    "id": "enr-R04",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "印鑑はありますか?",
+    "options": [
+      "はい、あります。",
+      "ミラーを見ます。",
+      "右に折ります。",
+      "発進します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "有印章吗→有的"
+  },
+  {
+    "id": "enr-S01",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "教習原簿",
+    "answer": "きょうしゅうげんぼ|kyoushuu genbo",
+    "answerFormat": "hiragana",
+    "explanation": "教習原簿 = きょうしゅうげんぼ (教习档案)"
+  },
+  {
+    "id": "enr-S02",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "運動能力",
+    "answer": "うんどうのうりょく|undou nouryoku",
+    "answerFormat": "hiragana",
+    "explanation": "運動能力 = うんどうのうりょく (运动能力)"
+  },
+  {
+    "id": "enr-S03",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "取消処分",
+    "answer": "とりけししょぶん|torikeshi shobun",
+    "answerFormat": "hiragana",
+    "explanation": "取消処分 = とりけししょぶん (吊销处分)"
+  },
+  {
+    "id": "enr-S04",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "教習料金",
+    "answer": "きょうしゅうりょうきん|kyoushuu ryoukin",
+    "answerFormat": "hiragana",
+    "explanation": "教習料金 = きょうしゅうりょうきん (教习费)"
+  },
+  {
+    "id": "enr-S05",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "恐れ入ります",
+    "answer": "おそれいります|osoreirimasu",
+    "answerFormat": "hiragana",
+    "explanation": "恐れ入ります = おそれいります (不好意思 (客气))"
+  },
+  {
+    "id": "enr-S06",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "仮免学科試験",
+    "answer": "かりめんがっかしけん|karimen gakka shiken",
+    "answerFormat": "hiragana",
+    "explanation": "仮免学科試験 = かりめんがっかしけん (仮免笔试)"
+  },
+  {
+    "id": "enr-S07",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "学科教室",
+    "answer": "がっかきょうしつ|gakka kyoushitsu",
+    "answerFormat": "hiragana",
+    "explanation": "学科教室 = がっかきょうしつ (学科教室)"
+  },
+  {
+    "id": "enr-S08",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "学科試験問題",
+    "answer": "がっかしけんもんだい|gakka shiken mondai",
+    "answerFormat": "hiragana",
+    "explanation": "学科試験問題 = がっかしけんもんだい (笔试题目)"
+  },
+  {
+    "id": "enr-S09",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "卒業検定",
+    "answer": "そつぎょうけんてい|sotsugyou kentei",
+    "answerFormat": "hiragana",
+    "explanation": "卒業検定 = そつぎょうけんてい (毕业考试)"
+  },
+  {
+    "id": "enr-S10",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "視力",
+    "answer": "しりょく|shiryoku",
+    "answerFormat": "hiragana",
+    "explanation": "視力 = しりょく (视力)"
+  },
+  {
+    "id": "enr-S11",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "空き状況",
+    "answer": "あきじょうきょう|aki joukyou",
+    "answerFormat": "hiragana",
+    "explanation": "空き状況 = あきじょうきょう (空位情况)"
+  },
+  {
+    "id": "enr-S12",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "聴力",
+    "answer": "ちょうりょく|chouryoku",
+    "answerFormat": "hiragana",
+    "explanation": "聴力 = ちょうりょく (听力)"
+  },
+  {
+    "id": "enr-SA01",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "学科試験問題",
+    "answer": "がっかしけんもんだい|gakka shiken mondai",
+    "answerFormat": "hiragana",
+    "explanation": "学科試験問題 = がっかしけんもんだい (笔试题目)"
+  },
+  {
+    "id": "enr-SA02",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "学割",
+    "answer": "がくわり|gakuwari",
+    "answerFormat": "hiragana",
+    "explanation": "学割 = がくわり (学生折扣)"
+  },
+  {
+    "id": "enr-SA03",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "サンダル",
+    "answer": "サンダル|sandaru",
+    "answerFormat": "hiragana",
+    "explanation": "サンダル = サンダル (凉鞋)"
+  },
+  {
+    "id": "enr-SA04",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "税込",
+    "answer": "ぜいこみ|zeikomi",
+    "answerFormat": "hiragana",
+    "explanation": "税込 = ぜいこみ (含税)"
+  },
+  {
+    "id": "enr-SA05",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "外国籍",
+    "answer": "がいこくせき|gaikokuseki",
+    "answerFormat": "hiragana",
+    "explanation": "外国籍 = がいこくせき (外国国籍)"
+  },
+  {
+    "id": "enr-SA06",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "グル割",
+    "answer": "グルわり|guruwari",
+    "answerFormat": "hiragana",
+    "explanation": "グル割 = グルわり (团体折扣)"
+  },
+  {
+    "id": "enr-SA07",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ボールペン",
+    "answer": "ボールペン|boorupen",
+    "answerFormat": "hiragana",
+    "explanation": "ボールペン = ボールペン (圆珠笔)"
+  },
+  {
+    "id": "enr-SA08",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "実技試験",
+    "answer": "じつぎしけん|jitsugi shiken",
+    "answerFormat": "hiragana",
+    "explanation": "実技試験 = じつぎしけん (实技考试)"
   }
 ]

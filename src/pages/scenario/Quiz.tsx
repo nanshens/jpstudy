@@ -3,7 +3,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { Input } from '@/components/ui/input';
-import { Check, X, RotateCcw, Trophy, Volume2, Headphones, Pencil, MessageSquare } from 'lucide-react';
+import { Check, X, RotateCcw, Trophy, Volume2, Headphones, Pencil, MessageSquare, Sparkles, Settings2 } from 'lucide-react';
 import { cn } from '@/lib/cn';
 import { speak, stopSpeak } from '@/lib/speech';
 import type { QuizQuestion, QuizType, ScenarioData } from '@/types';
@@ -13,14 +13,14 @@ interface Props {
   onComplete?: (score: number) => void;
 }
 
+type Phase = 'config' | 'testing' | 'result';
+const COUNT_OPTIONS = [10, 20, 30, 50, 0] as const; // 0 = 全部
+
 /** 根据题目字段推断类型(向后兼容老数据) */
 function inferType(q: QuizQuestion): QuizType {
   if (q.type) return q.type;
   if (q.answer && !q.options) return q.audio ? 'spell-audio' : 'spelling';
-  if (q.audio) {
-    // 听音频 + 2 个选项 → 真假判断; 4 个选项 → 听力选择
-    return (q.options?.length ?? 0) <= 2 ? 'listening' : 'listening';
-  }
+  if (q.audio) return 'listening';
   if ((q.options?.length ?? 0) === 2) return 'truefalse';
   return 'choice';
 }
@@ -34,16 +34,50 @@ const TYPE_META: Record<QuizType, { label: string; color: string; icon: typeof H
   'spell-audio': { label: '听力拼写', color: 'bg-rose-500/15 text-rose-700 dark:text-rose-300', icon: Headphones },
 };
 
+const TYPE_ORDER: QuizType[] = ['choice', 'truefalse', 'listening', 'response', 'spelling', 'spell-audio'];
+
+/** 洗牌 - Fisher-Yates */
+function shuffle<T>(arr: T[]): T[] {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 export function QuizView({ data, onComplete }: Props) {
+  const [phase, setPhase] = useState<Phase>('config');
+  // 配置
+  const [count, setCount] = useState<number>(0); // 0 = 全部
+  const [enabledTypes, setEnabledTypes] = useState<Set<QuizType>>(
+    () => new Set(TYPE_ORDER),
+  );
+
+  // 实际抽题(洗牌后)
+  const [questions, setQuestions] = useState<QuizQuestion[]>([]);
+
+  // 测试状态
   const [idx, setIdx] = useState(0);
   const [picked, setPicked] = useState<number | null>(null);
   const [revealed, setRevealed] = useState(false);
   const [score, setScore] = useState(0);
-  const [finished, setFinished] = useState(false);
-  /** 每题作答结果: true=正确, false=错误(拼写题:输入字符串;其他:picked index) */
+  /** 每题作答结果 */
   const [answers, setAnswers] = useState<(number | string | null)[]>([]);
 
-  const q = data.quiz[idx];
+  // 题库按类型分组
+  const byType = useMemo(() => {
+    const m: Partial<Record<QuizType, QuizQuestion[]>> = {};
+    for (const q of data.quiz) {
+      const t = inferType(q);
+      (m[t] ??= []).push(q);
+    }
+    return m;
+  }, [data.quiz]);
+  const availableTypes = useMemo(() => TYPE_ORDER.filter((t) => (byType[t]?.length ?? 0) > 0), [byType]);
+  const typeCounts = useMemo(() => Object.fromEntries(availableTypes.map((t) => [t, byType[t]?.length ?? 0])), [byType, availableTypes]);
+
+  const q = questions[idx];
   const type = q ? inferType(q) : 'choice';
 
   // 切题/卸载时停 TTS
@@ -51,19 +85,43 @@ export function QuizView({ data, onComplete }: Props) {
     return () => stopSpeak();
   }, []);
 
-  // 进入新题:自动播 audio(如果有)
+  // 进入新题:自动播 audio
   useEffect(() => {
-    if (!q) return;
+    if (!q || phase !== 'testing') return;
     if (q.audio && (type === 'listening' || type === 'response' || type === 'spell-audio')) {
-      // 给浏览器一点时间加载 voice
       const t = setTimeout(() => {
         speak(q.audio!, { rate: 0.85 }).catch(() => {});
       }, 200);
       return () => clearTimeout(t);
     }
-  }, [idx, q, type]);
+  }, [idx, q, type, phase]);
 
-  if (!q) return null;
+  function toggleType(t: QuizType) {
+    setEnabledTypes((prev) => {
+      const next = new Set(prev);
+      if (next.has(t)) next.delete(t);
+      else next.add(t);
+      return next;
+    });
+  }
+
+  function startTest() {
+    // 1) 收集所选题型 + 洗牌
+    const pool: QuizQuestion[] = [];
+    for (const t of availableTypes) {
+      if (!enabledTypes.has(t)) continue;
+      pool.push(...(byType[t] ?? []));
+    }
+    const shuffled = shuffle(pool);
+    const sliced = count > 0 ? shuffled.slice(0, Math.min(count, shuffled.length)) : shuffled;
+    setQuestions(sliced);
+    setIdx(0);
+    setPicked(null);
+    setRevealed(false);
+    setScore(0);
+    setAnswers([]);
+    setPhase('testing');
+  }
 
   function commitChoice(i: number) {
     if (revealed) return;
@@ -85,9 +143,8 @@ export function QuizView({ data, onComplete }: Props) {
   }
 
   function next() {
-    if (idx === data.quiz.length - 1) {
-      setFinished(true);
-      onComplete?.(score);
+    if (idx === questions.length - 1) {
+      setFinished();
       return;
     }
     setIdx((v) => v + 1);
@@ -95,27 +152,135 @@ export function QuizView({ data, onComplete }: Props) {
     setRevealed(false);
   }
 
+  function setFinished() {
+    setPhase('result');
+    onComplete?.(score);
+  }
+
   function restart() {
+    setPhase('config');
     setIdx(0);
     setPicked(null);
     setRevealed(false);
     setScore(0);
-    setFinished(false);
     setAnswers([]);
+    setQuestions([]);
   }
 
-  if (finished) {
-    const pct = Math.round((score / data.quiz.length) * 100);
+  // ============ CONFIG 阶段 ============
+  if (phase === 'config') {
+    const totalAvailable = availableTypes.reduce((sum, t) => sum + (enabledTypes.has(t) ? (byType[t]?.length ?? 0) : 0), 0);
+    const maxCount = totalAvailable;
+    return (
+      <Card className="max-w-2xl mx-auto">
+        <CardContent className="p-5 md:p-6 space-y-5">
+          <div className="flex items-center gap-2">
+            <Settings2 className="h-5 w-5 text-primary" />
+            <h2 className="text-lg font-semibold">小测设置</h2>
+          </div>
+
+          {/* 题型选择 */}
+          <div className="space-y-2">
+            <div className="flex items-center justify-between text-sm">
+              <span className="font-medium">选择题型</span>
+              <div className="flex gap-2 text-xs">
+                <button
+                  type="button"
+                  onClick={() => setEnabledTypes(new Set(availableTypes))}
+                  className="text-primary hover:underline"
+                >全选</button>
+                <span className="text-muted-foreground">·</span>
+                <button
+                  type="button"
+                  onClick={() => setEnabledTypes(new Set())}
+                  className="text-primary hover:underline"
+                >清空</button>
+              </div>
+            </div>
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
+              {availableTypes.map((t) => {
+                const m = TYPE_META[t];
+                const Icon = m.icon;
+                const enabled = enabledTypes.has(t);
+                const cnt = typeCounts[t];
+                return (
+                  <button
+                    key={t}
+                    type="button"
+                    onClick={() => toggleType(t)}
+                    className={cn(
+                      'rounded-md border p-2.5 text-left text-sm transition-all flex items-center gap-2',
+                      enabled
+                        ? 'border-primary bg-primary/5 ring-1 ring-primary/20'
+                        : 'border-border hover:bg-accent opacity-60',
+                    )}
+                  >
+                    <span className={cn('inline-flex h-7 w-7 items-center justify-center rounded-md', m.color)}>
+                      <Icon className="h-3.5 w-3.5" />
+                    </span>
+                    <div className="flex-1 min-w-0">
+                      <div className="font-medium leading-tight">{m.label}</div>
+                      <div className="text-[11px] text-muted-foreground">{cnt} 题</div>
+                    </div>
+                    {enabled && <Check className="h-4 w-4 text-primary" />}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+
+          {/* 数量 */}
+          <div className="space-y-2">
+            <span className="text-sm font-medium">题目数量</span>
+            <div className="flex flex-wrap gap-2">
+              {COUNT_OPTIONS.map((c) => {
+                const enabled = c === 0 ? true : c <= maxCount;
+                const selected = count === c;
+                return (
+                  <button
+                    key={c}
+                    type="button"
+                    onClick={() => enabled && setCount(c)}
+                    disabled={!enabled}
+                    className={cn(
+                      'rounded-md border px-4 py-2 text-sm transition-all',
+                      selected ? 'border-primary bg-primary text-primary-foreground' : 'border-border hover:bg-accent',
+                      !enabled && 'opacity-40 cursor-not-allowed',
+                    )}
+                  >
+                    {c === 0 ? '全部' : `${c} 题`}
+                  </button>
+                );
+              })}
+            </div>
+            <p className="text-xs text-muted-foreground">
+              已选题库共 <strong className="text-foreground">{totalAvailable}</strong> 题 · 每次随机抽取,顺序打乱
+            </p>
+          </div>
+
+          <Button onClick={startTest} disabled={totalAvailable === 0} className="w-full md:w-auto md:px-8">
+            <Sparkles className="h-4 w-4" /> 开始小测
+          </Button>
+        </CardContent>
+      </Card>
+    );
+  }
+
+  if (!q) return null;
+
+  // ============ RESULT 阶段 ============
+  if (phase === 'result') {
+    const pct = Math.round((score / questions.length) * 100);
     return (
       <Card className="max-w-2xl mx-auto p-8 text-center">
         <Trophy className="h-12 w-12 mx-auto text-amber-500 mb-3" />
         <h2 className="text-2xl font-bold mb-2">测试完成!</h2>
         <p className="text-muted-foreground mb-4">
-          你答对了 <span className="text-2xl font-bold text-primary">{score}</span> / {data.quiz.length} 题 ({pct}%)
+          你答对了 <span className="text-2xl font-bold text-primary">{score}</span> / {questions.length} 题 ({pct}%)
         </p>
         <Progress value={pct} className="mb-6 max-w-xs mx-auto" />
         <div className="space-y-2 text-left max-w-md mx-auto mb-6 max-h-96 overflow-y-auto">
-          {data.quiz.map((qq, i) => {
+          {questions.map((qq, i) => {
             const t = inferType(qq);
             const isSpelling = t === 'spelling' || t === 'spell-audio';
             const ans = answers[i];
@@ -159,27 +324,40 @@ export function QuizView({ data, onComplete }: Props) {
             );
           })}
         </div>
-        <Button onClick={restart}>
-          <RotateCcw className="h-4 w-4" /> 再来一次
-        </Button>
+        <div className="flex gap-2 justify-center">
+          <Button variant="outline" onClick={restart}>
+            <Settings2 className="h-4 w-4" /> 重新设置
+          </Button>
+          <Button onClick={startTest}>
+            <RotateCcw className="h-4 w-4" /> 再来一组
+          </Button>
+        </div>
       </Card>
     );
   }
 
+  // ============ TESTING 阶段 ============
   return (
     <div className="space-y-4 max-w-2xl mx-auto">
       <Card className="p-4">
         <div className="flex items-center justify-between text-xs text-muted-foreground">
-          <span>第 {idx + 1} 题 / 共 {data.quiz.length} 题</span>
+          <span>第 {idx + 1} 题 / 共 {questions.length} 题</span>
           <span>已答对 {score} 题</span>
         </div>
-        <Progress value={((idx + 1) / data.quiz.length) * 100} className="mt-2" />
+        <Progress value={((idx + 1) / questions.length) * 100} className="mt-2" />
       </Card>
 
       <Card>
         <CardContent className="p-5">
           <div className="mb-4 flex items-center gap-2">
             <TypeBadge type={type} />
+            <button
+              type="button"
+              onClick={() => setPhase('config')}
+              className="ml-auto text-xs text-muted-foreground hover:text-foreground inline-flex items-center gap-1"
+            >
+              <Settings2 className="h-3 w-3" /> 改设置
+            </button>
           </div>
           {type === 'spelling' && <SpellingQuestion q={q} revealed={revealed} onSubmit={commitSpelling} />}
           {type === 'spell-audio' && <SpellAudioQuestion q={q} revealed={revealed} onSubmit={commitSpelling} />}
@@ -201,7 +379,7 @@ export function QuizView({ data, onComplete }: Props) {
           {revealed && (
             <div className="mt-4 flex justify-end">
               <Button onClick={next}>
-                {idx === data.quiz.length - 1 ? '查看成绩' : '下一题 →'}
+                {idx === questions.length - 1 ? '查看成绩' : '下一题 →'}
               </Button>
             </div>
           )}
@@ -219,20 +397,6 @@ function TypeBadge({ type }: { type: QuizType }) {
       <Icon className="h-3 w-3" />
       {m.label}
     </span>
-  );
-}
-
-function ReplayButton({ text, label = '重新播放' }: { text: string; label?: string }) {
-  return (
-    <Button
-      variant="outline"
-      size="sm"
-      onClick={() => speak(text, { rate: 0.85 }).catch(() => {})}
-      className="gap-1"
-    >
-      <Volume2 className="h-4 w-4" />
-      {label}
-    </Button>
   );
 }
 
@@ -373,7 +537,6 @@ function ResponseQuestion({
   );
 }
 
-/** 自动播放一次的播放器,带 re-play 按钮 */
 function ListenPlayer({ text }: { text: string }) {
   const [playing, setPlaying] = useState(false);
   const onPlay = () => {
@@ -384,7 +547,6 @@ function ListenPlayer({ text }: { text: string }) {
       onError: () => setPlaying(false),
     }).catch(() => setPlaying(false));
   };
-  // 自动播一次
   useEffect(() => {
     onPlay();
     return () => stopSpeak();
@@ -402,6 +564,20 @@ function ListenPlayer({ text }: { text: string }) {
       </button>
       <span className="text-muted-foreground">{playing ? '正在播放…' : '已自动播放一次,听不清可重播'}</span>
     </div>
+  );
+}
+
+function ReplayButton({ text, label = '重新播放' }: { text: string; label?: string }) {
+  return (
+    <Button
+      variant="outline"
+      size="sm"
+      onClick={() => speak(text, { rate: 0.85 }).catch(() => {})}
+      className="gap-1"
+    >
+      <Volume2 className="h-4 w-4" />
+      {label}
+    </Button>
   );
 }
 
