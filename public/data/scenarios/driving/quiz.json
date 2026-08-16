@@ -606,5 +606,8915 @@
     "answer": "がっか|",
     "answerFormat": "hiragana",
     "explanation": "学科 = がっか (理论(学科))"
+  },
+  {
+    "id": "driving-w-instructor-w1-000",
+    "type": "choice",
+    "question": "教官 是什么意思?",
+    "options": [
+      "教官,教练",
+      "快",
+      "右转",
+      "结业,完成"
+    ],
+    "answerIndex": 0,
+    "explanation": "教官(きょうかん) = 教官,教练"
+  },
+  {
+    "id": "driving-w-instructor-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "教官",
+    "options": [
+      "路面标线",
+      "黄线(中央线)",
+      "教官,教练",
+      "小巷,小道"
+    ],
+    "answerIndex": 2,
+    "explanation": "教官(きょうかん) = 教官,教练"
+  },
+  {
+    "id": "driving-w-instructor-w3-000",
+    "type": "choice",
+    "question": "教官,教练 用日语怎么说?",
+    "options": [
+      "教官",
+      "仮免許",
+      "ハンドル",
+      "ライト"
+    ],
+    "answerIndex": 0,
+    "explanation": "教官(きょうかん) = 教官,教练"
+  },
+  {
+    "id": "driving-w-instructor-w4-000",
+    "type": "choice",
+    "question": "教官 的读音是?",
+    "options": [
+      "シフト",
+      "シートベルト",
+      "きょうかん",
+      "いっぽうつうこう"
+    ],
+    "answerIndex": 2,
+    "explanation": "教官 = きょうかん(教官,教练)"
+  },
+  {
+    "id": "driving-w-instructor-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "教官",
+    "answer": "きょうかん|kyoukan",
+    "answerFormat": "hiragana",
+    "explanation": "教官 = きょうかん(教官,教练)"
+  },
+  {
+    "id": "driving-w-instructor-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "教官",
+    "answer": "きょうかん|kyoukan",
+    "answerFormat": "hiragana",
+    "explanation": "教官 = きょうかん(教官,教练)"
+  },
+  {
+    "id": "driving-w-student-w1-000",
+    "type": "choice",
+    "question": "教習生 是什么意思?",
+    "options": [
+      "学员",
+      "名字",
+      "再一次",
+      "方向盘"
+    ],
+    "answerIndex": 0,
+    "explanation": "教習生(きょうしゅうせい) = 学员"
+  },
+  {
+    "id": "driving-w-student-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "教習生",
+    "options": [
+      "学员",
+      "做得很好",
+      "红",
+      "行人"
+    ],
+    "answerIndex": 0,
+    "explanation": "教習生(きょうしゅうせい) = 学员"
+  },
+  {
+    "id": "driving-w-student-w3-000",
+    "type": "choice",
+    "question": "学员 用日语怎么说?",
+    "options": [
+      "教官",
+      "教習生",
+      "逮捕",
+      "シート"
+    ],
+    "answerIndex": 1,
+    "explanation": "教習生(きょうしゅうせい) = 学员"
+  },
+  {
+    "id": "driving-w-student-w4-000",
+    "type": "choice",
+    "question": "教習生 的读音是?",
+    "options": [
+      "きょうしゅうせい",
+      "わるい",
+      "しゅうりょう",
+      "なまえ"
+    ],
+    "answerIndex": 0,
+    "explanation": "教習生 = きょうしゅうせい(学员)"
+  },
+  {
+    "id": "driving-w-student-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "教習生",
+    "answer": "きょうしゅうせい|",
+    "answerFormat": "hiragana",
+    "explanation": "教習生 = きょうしゅうせい(学员)"
+  },
+  {
+    "id": "driving-w-student-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "教習生",
+    "answer": "きょうしゅうせい|",
+    "answerFormat": "hiragana",
+    "explanation": "教習生 = きょうしゅうせい(学员)"
+  },
+  {
+    "id": "driving-w-sham-w1-000",
+    "type": "choice",
+    "question": "仮免許 是什么意思?",
+    "options": [
+      "几点",
+      "临时驾照(假驾照)",
+      "国道",
+      "帮帮我"
+    ],
+    "answerIndex": 1,
+    "explanation": "仮免許(かりめんきょ) = 临时驾照(假驾照)"
+  },
+  {
+    "id": "driving-w-sham-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "仮免許",
+    "options": [
+      "坡道起步",
+      "目视,亲眼确认",
+      "临时驾照(假驾照)",
+      "危险"
+    ],
+    "answerIndex": 2,
+    "explanation": "仮免許(かりめんきょ) = 临时驾照(假驾照)"
+  },
+  {
+    "id": "driving-w-sham-w3-000",
+    "type": "choice",
+    "question": "临时驾照(假驾照) 用日语怎么说?",
+    "options": [
+      "罰金",
+      "仮免許",
+      "歩行者",
+      "黄"
+    ],
+    "answerIndex": 1,
+    "explanation": "仮免許(かりめんきょ) = 临时驾照(假驾照)"
+  },
+  {
+    "id": "driving-w-sham-w4-000",
+    "type": "choice",
+    "question": "仮免許 的读音是?",
+    "options": [
+      "こうつうルール",
+      "かりめんきょ",
+      "きけん",
+      "さんですか"
+    ],
+    "answerIndex": 1,
+    "explanation": "仮免許 = かりめんきょ(临时驾照(假驾照))"
+  },
+  {
+    "id": "driving-w-sham-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "仮免許",
+    "answer": "かりめんきょ|",
+    "answerFormat": "hiragana",
+    "explanation": "仮免許 = かりめんきょ(临时驾照(假驾照))"
+  },
+  {
+    "id": "driving-w-sham-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "仮免許",
+    "answer": "かりめんきょ|",
+    "answerFormat": "hiragana",
+    "explanation": "仮免許 = かりめんきょ(临时驾照(假驾照))"
+  },
+  {
+    "id": "driving-w-honmen-w1-000",
+    "type": "choice",
+    "question": "本免許 是什么意思?",
+    "options": [
+      "对向来车",
+      "正式驾照",
+      "县道",
+      "路口对面"
+    ],
+    "answerIndex": 1,
+    "explanation": "本免許(ほんめんきょ) = 正式驾照"
+  },
+  {
+    "id": "driving-w-honmen-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "本免許",
+    "options": [
+      "正式驾照",
+      "国道",
+      "考试,考核",
+      "临时停车(让车/让行人)"
+    ],
+    "answerIndex": 0,
+    "explanation": "本免許(ほんめんきょ) = 正式驾照"
+  },
+  {
+    "id": "driving-w-honmen-w3-000",
+    "type": "choice",
+    "question": "正式驾照 用日语怎么说?",
+    "options": [
+      "Uターン",
+      "アクセル",
+      "本免許",
+      "外国人"
+    ],
+    "answerIndex": 2,
+    "explanation": "本免許(ほんめんきょ) = 正式驾照"
+  },
+  {
+    "id": "driving-w-honmen-w4-000",
+    "type": "choice",
+    "question": "本免許 的读音是?",
+    "options": [
+      "めがね",
+      "にゅうこう",
+      "ライト",
+      "ほんめんきょ"
+    ],
+    "answerIndex": 3,
+    "explanation": "本免許 = ほんめんきょ(正式驾照)"
+  },
+  {
+    "id": "driving-w-honmen-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "本免許",
+    "answer": "ほんめんきょ|",
+    "answerFormat": "hiragana",
+    "explanation": "本免許 = ほんめんきょ(正式驾照)"
+  },
+  {
+    "id": "driving-w-honmen-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "本免許",
+    "answer": "ほんめんきょ|",
+    "answerFormat": "hiragana",
+    "explanation": "本免許 = ほんめんきょ(正式驾照)"
+  },
+  {
+    "id": "driving-w-myna-w1-000",
+    "type": "choice",
+    "question": "外国人 是什么意思?",
+    "options": [
+      "外国人",
+      "县道",
+      "十字路口",
+      "车辆"
+    ],
+    "answerIndex": 0,
+    "explanation": "外国人(がいこくじん) = 外国人"
+  },
+  {
+    "id": "driving-w-myna-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "外国人",
+    "options": [
+      "外国人",
+      "坏的",
+      "逮捕",
+      "考试,考核"
+    ],
+    "answerIndex": 0,
+    "explanation": "外国人(がいこくじん) = 外国人"
+  },
+  {
+    "id": "driving-w-myna-w3-000",
+    "type": "choice",
+    "question": "外国人 用日语怎么说?",
+    "options": [
+      "アクセル",
+      "教官",
+      "ありがとうございます",
+      "外国人"
+    ],
+    "answerIndex": 3,
+    "explanation": "外国人(がいこくじん) = 外国人"
+  },
+  {
+    "id": "driving-w-myna-w4-000",
+    "type": "choice",
+    "question": "外国人 的读音是?",
+    "options": [
+      "ていしゃきんし",
+      "ていしゃ",
+      "がいこくじん",
+      "ライト"
+    ],
+    "answerIndex": 2,
+    "explanation": "外国人 = がいこくじん(外国人)"
+  },
+  {
+    "id": "driving-w-myna-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "外国人",
+    "answer": "がいこくじん|",
+    "answerFormat": "hiragana",
+    "explanation": "外国人 = がいこくじん(外国人)"
+  },
+  {
+    "id": "driving-w-myna-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "外国人",
+    "answer": "がいこくじん|",
+    "answerFormat": "hiragana",
+    "explanation": "外国人 = がいこくじん(外国人)"
+  },
+  {
+    "id": "driving-w-myname-w1-000",
+    "type": "choice",
+    "question": "名前 是什么意思?",
+    "options": [
+      "掉头",
+      "慢慢地",
+      "人行横道",
+      "名字"
+    ],
+    "answerIndex": 3,
+    "explanation": "名前(なまえ) = 名字"
+  },
+  {
+    "id": "driving-w-myname-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "名前",
+    "options": [
+      "外国人",
+      "名字",
+      "黄",
+      "左转"
+    ],
+    "answerIndex": 1,
+    "explanation": "名前(なまえ) = 名字"
+  },
+  {
+    "id": "driving-w-myname-w3-000",
+    "type": "choice",
+    "question": "名字 用日语怎么说?",
+    "options": [
+      "交差点",
+      "赤",
+      "外国人",
+      "名前"
+    ],
+    "answerIndex": 3,
+    "explanation": "名前(なまえ) = 名字"
+  },
+  {
+    "id": "driving-w-myname-w4-000",
+    "type": "choice",
+    "question": "名前 的读音是?",
+    "options": [
+      "ばっきん",
+      "どおり",
+      "なまえ",
+      "させつ"
+    ],
+    "answerIndex": 2,
+    "explanation": "名前 = なまえ(名字)"
+  },
+  {
+    "id": "driving-w-myname-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "名前",
+    "answer": "なまえ|",
+    "answerFormat": "hiragana",
+    "explanation": "名前 = なまえ(名字)"
+  },
+  {
+    "id": "driving-w-myname-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "名前",
+    "answer": "なまえ|",
+    "answerFormat": "hiragana",
+    "explanation": "名前 = なまえ(名字)"
+  },
+  {
+    "id": "driving-w-desuka-w1-000",
+    "type": "choice",
+    "question": "〜さんですか 是什么意思?",
+    "options": [
+      "是~先生/女士吗?",
+      "禁止临时停车",
+      "手刹 / 驻车制动",
+      "对向来车"
+    ],
+    "answerIndex": 0,
+    "explanation": "〜さんですか(さんですか) = 是~先生/女士吗?"
+  },
+  {
+    "id": "driving-w-desuka-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "〜さんですか",
+    "options": [
+      "是~先生/女士吗?",
+      "变道",
+      "为什么",
+      "罚款"
+    ],
+    "answerIndex": 0,
+    "explanation": "〜さんですか(さんですか) = 是~先生/女士吗?"
+  },
+  {
+    "id": "driving-w-desuka-w3-000",
+    "type": "choice",
+    "question": "是~先生/女士吗? 用日语怎么说?",
+    "options": [
+      "発進",
+      "ギア",
+      "悪い",
+      "〜さんですか"
+    ],
+    "answerIndex": 3,
+    "explanation": "〜さんですか(さんですか) = 是~先生/女士吗?"
+  },
+  {
+    "id": "driving-w-desuka-w4-000",
+    "type": "choice",
+    "question": "〜さんですか 的读音是?",
+    "options": [
+      "めんきょ",
+      "さんですか",
+      "こくどう",
+      "はんどる"
+    ],
+    "answerIndex": 1,
+    "explanation": "〜さんですか = さんですか(是~先生/女士吗?)"
+  },
+  {
+    "id": "driving-w-desuka-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "〜さんですか",
+    "answer": "さんですか|",
+    "answerFormat": "hiragana",
+    "explanation": "〜さんですか = さんですか(是~先生/女士吗?)"
+  },
+  {
+    "id": "driving-w-desuka-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "〜さんですか",
+    "answer": "さんですか|",
+    "answerFormat": "hiragana",
+    "explanation": "〜さんですか = さんですか(是~先生/女士吗?)"
+  },
+  {
+    "id": "driving-w-handle-w1-000",
+    "type": "choice",
+    "question": "ハンドル 是什么意思?",
+    "options": [
+      "标识,路标",
+      "钥匙",
+      "交通规则",
+      "方向盘"
+    ],
+    "answerIndex": 3,
+    "explanation": "ハンドル(はんどる) = 方向盘"
+  },
+  {
+    "id": "driving-w-handle-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ハンドル",
+    "options": [
+      "怎么做",
+      "方向盘",
+      "证明书",
+      "街道(通り)"
+    ],
+    "answerIndex": 1,
+    "explanation": "ハンドル(はんどる) = 方向盘"
+  },
+  {
+    "id": "driving-w-handle-w3-000",
+    "type": "choice",
+    "question": "方向盘 用日语怎么说?",
+    "options": [
+      "ハンドル",
+      "標識",
+      "分かりました",
+      "仮免許"
+    ],
+    "answerIndex": 0,
+    "explanation": "ハンドル(はんどる) = 方向盘"
+  },
+  {
+    "id": "driving-w-handle-w4-000",
+    "type": "choice",
+    "question": "ハンドル 的读音是?",
+    "options": [
+      "アクセル",
+      "しろいせん",
+      "はんどる",
+      "いちじていし"
+    ],
+    "answerIndex": 2,
+    "explanation": "ハンドル = はんどる(方向盘)"
+  },
+  {
+    "id": "driving-w-handle-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ハンドル",
+    "answer": "はんどる|",
+    "answerFormat": "hiragana",
+    "explanation": "ハンドル = はんどる(方向盘)"
+  },
+  {
+    "id": "driving-w-handle-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ハンドル",
+    "answer": "はんどる|",
+    "answerFormat": "hiragana",
+    "explanation": "ハンドル = はんどる(方向盘)"
+  },
+  {
+    "id": "driving-w-brake-w1-000",
+    "type": "choice",
+    "question": "ブレーキ 是什么意思?",
+    "options": [
+      "今天",
+      "安全",
+      "刹车",
+      "白线"
+    ],
+    "answerIndex": 2,
+    "explanation": "ブレーキ(ブレーキ) = 刹车"
+  },
+  {
+    "id": "driving-w-brake-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ブレーキ",
+    "options": [
+      "红",
+      "下坡",
+      "刹车",
+      "眼镜"
+    ],
+    "answerIndex": 2,
+    "explanation": "ブレーキ(ブレーキ) = 刹车"
+  },
+  {
+    "id": "driving-w-brake-w3-000",
+    "type": "choice",
+    "question": "刹车 用日语怎么说?",
+    "options": [
+      "赤",
+      "ブレーキ",
+      "車外",
+      "キー"
+    ],
+    "answerIndex": 1,
+    "explanation": "ブレーキ(ブレーキ) = 刹车"
+  },
+  {
+    "id": "driving-w-brake-w4-000",
+    "type": "choice",
+    "question": "ブレーキ 的读音是?",
+    "options": [
+      "ハザード",
+      "みじかい",
+      "どこ",
+      "ブレーキ"
+    ],
+    "answerIndex": 3,
+    "explanation": "ブレーキ = ブレーキ(刹车)"
+  },
+  {
+    "id": "driving-w-brake-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ブレーキ",
+    "answer": "ブレーキ|",
+    "answerFormat": "hiragana",
+    "explanation": "ブレーキ = ブレーキ(刹车)"
+  },
+  {
+    "id": "driving-w-brake-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ブレーキ",
+    "answer": "ブレーキ|",
+    "answerFormat": "hiragana",
+    "explanation": "ブレーキ = ブレーキ(刹车)"
+  },
+  {
+    "id": "driving-w-accel-w1-000",
+    "type": "choice",
+    "question": "アクセル 是什么意思?",
+    "options": [
+      "再一次",
+      "油门",
+      "眼镜",
+      "街道(通り)"
+    ],
+    "answerIndex": 1,
+    "explanation": "アクセル(アクセル) = 油门"
+  },
+  {
+    "id": "driving-w-accel-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "アクセル",
+    "options": [
+      "钥匙",
+      "技能(实操)",
+      "油门",
+      "危险"
+    ],
+    "answerIndex": 2,
+    "explanation": "アクセル(アクセル) = 油门"
+  },
+  {
+    "id": "driving-w-accel-w3-000",
+    "type": "choice",
+    "question": "油门 用日语怎么说?",
+    "options": [
+      "駐車禁止",
+      "エンジン",
+      "アクセル",
+      "メーター"
+    ],
+    "answerIndex": 2,
+    "explanation": "アクセル(アクセル) = 油门"
+  },
+  {
+    "id": "driving-w-accel-w4-000",
+    "type": "choice",
+    "question": "アクセル 的读音是?",
+    "options": [
+      "アクセル",
+      "いんしょう",
+      "ながい",
+      "えきまえ"
+    ],
+    "answerIndex": 0,
+    "explanation": "アクセル = アクセル(油门)"
+  },
+  {
+    "id": "driving-w-accel-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "アクセル",
+    "answer": "アクセル|",
+    "answerFormat": "hiragana",
+    "explanation": "アクセル = アクセル(油门)"
+  },
+  {
+    "id": "driving-w-accel-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "アクセル",
+    "answer": "アクセル|",
+    "answerFormat": "hiragana",
+    "explanation": "アクセル = アクセル(油门)"
+  },
+  {
+    "id": "driving-w-clutch-w1-000",
+    "type": "choice",
+    "question": "クラッチ 是什么意思?",
+    "options": [
+      "明天",
+      "临时驾照(假驾照)",
+      "油门",
+      "离合器(仅MT)"
+    ],
+    "answerIndex": 3,
+    "explanation": "クラッチ(クラッチ) = 离合器(仅MT)"
+  },
+  {
+    "id": "driving-w-clutch-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "クラッチ",
+    "options": [
+      "方向盘",
+      "坡道起步",
+      "离合器(仅MT)",
+      "请做~"
+    ],
+    "answerIndex": 2,
+    "explanation": "クラッチ(クラッチ) = 离合器(仅MT)"
+  },
+  {
+    "id": "driving-w-clutch-w3-000",
+    "type": "choice",
+    "question": "离合器(仅MT) 用日语怎么说?",
+    "options": [
+      "車両",
+      "巻き込み確認",
+      "また",
+      "クラッチ"
+    ],
+    "answerIndex": 3,
+    "explanation": "クラッチ(クラッチ) = 离合器(仅MT)"
+  },
+  {
+    "id": "driving-w-clutch-w4-000",
+    "type": "choice",
+    "question": "クラッチ 的读音是?",
+    "options": [
+      "キー",
+      "こうさてんのむこうがわ",
+      "クラッチ",
+      "はやい"
+    ],
+    "answerIndex": 2,
+    "explanation": "クラッチ = クラッチ(离合器(仅MT))"
+  },
+  {
+    "id": "driving-w-clutch-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "クラッチ",
+    "answer": "クラッチ|",
+    "answerFormat": "hiragana",
+    "explanation": "クラッチ = クラッチ(离合器(仅MT))"
+  },
+  {
+    "id": "driving-w-clutch-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "クラッチ",
+    "answer": "クラッチ|",
+    "answerFormat": "hiragana",
+    "explanation": "クラッチ = クラッチ(离合器(仅MT))"
+  },
+  {
+    "id": "driving-w-gear-w1-000",
+    "type": "choice",
+    "question": "ギア 是什么意思?",
+    "options": [
+      "档位",
+      "单行道",
+      "眼镜",
+      "转向灯"
+    ],
+    "answerIndex": 0,
+    "explanation": "ギア(ギア) = 档位"
+  },
+  {
+    "id": "driving-w-gear-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ギア",
+    "options": [
+      "上坡",
+      "白线",
+      "档位",
+      "证明书"
+    ],
+    "answerIndex": 2,
+    "explanation": "ギア(ギア) = 档位"
+  },
+  {
+    "id": "driving-w-gear-w3-000",
+    "type": "choice",
+    "question": "档位 用日语怎么说?",
+    "options": [
+      "安全",
+      "試験",
+      "ギア",
+      "ウインカー"
+    ],
+    "answerIndex": 2,
+    "explanation": "ギア(ギア) = 档位"
+  },
+  {
+    "id": "driving-w-gear-w4-000",
+    "type": "choice",
+    "question": "ギア 的读音是?",
+    "options": [
+      "ギア",
+      "こんにちは",
+      "えきまえ",
+      "がいこくじん"
+    ],
+    "answerIndex": 0,
+    "explanation": "ギア = ギア(档位)"
+  },
+  {
+    "id": "driving-w-gear-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ギア",
+    "answer": "ギア|",
+    "answerFormat": "hiragana",
+    "explanation": "ギア = ギア(档位)"
+  },
+  {
+    "id": "driving-w-gear-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ギア",
+    "answer": "ギア|",
+    "answerFormat": "hiragana",
+    "explanation": "ギア = ギア(档位)"
+  },
+  {
+    "id": "driving-w-shift-w1-000",
+    "type": "choice",
+    "question": "シフト 是什么意思?",
+    "options": [
+      "县道",
+      "方向盘",
+      "换挡",
+      "左转"
+    ],
+    "answerIndex": 2,
+    "explanation": "シフト(シフト) = 换挡"
+  },
+  {
+    "id": "driving-w-shift-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "シフト",
+    "options": [
+      "小巷,小道",
+      "座椅",
+      "换挡",
+      "下坡"
+    ],
+    "answerIndex": 2,
+    "explanation": "シフト(シフト) = 换挡"
+  },
+  {
+    "id": "driving-w-shift-w3-000",
+    "type": "choice",
+    "question": "换挡 用日语怎么说?",
+    "options": [
+      "名前",
+      "シフト",
+      "下り坂",
+      "シート"
+    ],
+    "answerIndex": 1,
+    "explanation": "シフト(シフト) = 换挡"
+  },
+  {
+    "id": "driving-w-shift-w4-000",
+    "type": "choice",
+    "question": "シフト 的读音是?",
+    "options": [
+      "たいほ",
+      "シフト",
+      "おそい",
+      "くだりざか"
+    ],
+    "answerIndex": 1,
+    "explanation": "シフト = シフト(换挡)"
+  },
+  {
+    "id": "driving-w-shift-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "シフト",
+    "answer": "シフト|",
+    "answerFormat": "hiragana",
+    "explanation": "シフト = シフト(换挡)"
+  },
+  {
+    "id": "driving-w-shift-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "シフト",
+    "answer": "シフト|",
+    "answerFormat": "hiragana",
+    "explanation": "シフト = シフト(换挡)"
+  },
+  {
+    "id": "driving-w-pbrake-w1-000",
+    "type": "choice",
+    "question": "サイドブレーキ 是什么意思?",
+    "options": [
+      "手刹 / 驻车制动",
+      "红绿灯",
+      "早上好",
+      "几张"
+    ],
+    "answerIndex": 0,
+    "explanation": "サイドブレーキ(さいどブレーキ) = 手刹 / 驻车制动"
+  },
+  {
+    "id": "driving-w-pbrake-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "サイドブレーキ",
+    "options": [
+      "教官,教练",
+      "手刹 / 驻车制动",
+      "快",
+      "国道"
+    ],
+    "answerIndex": 1,
+    "explanation": "サイドブレーキ(さいどブレーキ) = 手刹 / 驻车制动"
+  },
+  {
+    "id": "driving-w-pbrake-w3-000",
+    "type": "choice",
+    "question": "手刹 / 驻车制动 用日语怎么说?",
+    "options": [
+      "対向車",
+      "下り坂",
+      "サイドブレーキ",
+      "車線変更"
+    ],
+    "answerIndex": 2,
+    "explanation": "サイドブレーキ(さいどブレーキ) = 手刹 / 驻车制动"
+  },
+  {
+    "id": "driving-w-pbrake-w4-000",
+    "type": "choice",
+    "question": "サイドブレーキ 的读音是?",
+    "options": [
+      "がいこくじん",
+      "めんきょ",
+      "さいどブレーキ",
+      "えきまえ"
+    ],
+    "answerIndex": 2,
+    "explanation": "サイドブレーキ = さいどブレーキ(手刹 / 驻车制动)"
+  },
+  {
+    "id": "driving-w-pbrake-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "サイドブレーキ",
+    "answer": "さいどブレーキ|",
+    "answerFormat": "hiragana",
+    "explanation": "サイドブレーキ = さいどブレーキ(手刹 / 驻车制动)"
+  },
+  {
+    "id": "driving-w-pbrake-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "サイドブレーキ",
+    "answer": "さいどブレーキ|",
+    "answerFormat": "hiragana",
+    "explanation": "サイドブレーキ = さいどブレーキ(手刹 / 驻车制动)"
+  },
+  {
+    "id": "driving-w-mirror-w1-000",
+    "type": "choice",
+    "question": "ミラー 是什么意思?",
+    "options": [
+      "请加油",
+      "国道",
+      "怎么做",
+      "后视镜"
+    ],
+    "answerIndex": 3,
+    "explanation": "ミラー(ミラー) = 后视镜"
+  },
+  {
+    "id": "driving-w-mirror-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ミラー",
+    "options": [
+      "我明白了",
+      "明天",
+      "后视镜",
+      "发动机"
+    ],
+    "answerIndex": 2,
+    "explanation": "ミラー(ミラー) = 后视镜"
+  },
+  {
+    "id": "driving-w-mirror-w3-000",
+    "type": "choice",
+    "question": "后视镜 用日语怎么说?",
+    "options": [
+      "教えてください",
+      "ミラー",
+      "写真",
+      "遅い"
+    ],
+    "answerIndex": 1,
+    "explanation": "ミラー(ミラー) = 后视镜"
+  },
+  {
+    "id": "driving-w-mirror-w4-000",
+    "type": "choice",
+    "question": "ミラー 的读音是?",
+    "options": [
+      "うせつ",
+      "きいろいせん",
+      "なんじ",
+      "ミラー"
+    ],
+    "answerIndex": 3,
+    "explanation": "ミラー = ミラー(后视镜)"
+  },
+  {
+    "id": "driving-w-mirror-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ミラー",
+    "answer": "ミラー|",
+    "answerFormat": "hiragana",
+    "explanation": "ミラー = ミラー(后视镜)"
+  },
+  {
+    "id": "driving-w-mirror-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ミラー",
+    "answer": "ミラー|",
+    "answerFormat": "hiragana",
+    "explanation": "ミラー = ミラー(后视镜)"
+  },
+  {
+    "id": "driving-w-room-mirror-w1-000",
+    "type": "choice",
+    "question": "ルームミラー 是什么意思?",
+    "options": [
+      "是~先生/女士吗?",
+      "车内后视镜",
+      "帮帮我",
+      "照片"
+    ],
+    "answerIndex": 1,
+    "explanation": "ルームミラー(ルームミラー) = 车内后视镜"
+  },
+  {
+    "id": "driving-w-room-mirror-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ルームミラー",
+    "options": [
+      "红绿灯",
+      "绿(日本绿灯)",
+      "入学",
+      "车内后视镜"
+    ],
+    "answerIndex": 3,
+    "explanation": "ルームミラー(ルームミラー) = 车内后视镜"
+  },
+  {
+    "id": "driving-w-room-mirror-w3-000",
+    "type": "choice",
+    "question": "车内后视镜 用日语怎么说?",
+    "options": [
+      "Uターン",
+      "ルームミラー",
+      "車両",
+      "何枚"
+    ],
+    "answerIndex": 1,
+    "explanation": "ルームミラー(ルームミラー) = 车内后视镜"
+  },
+  {
+    "id": "driving-w-room-mirror-w4-000",
+    "type": "choice",
+    "question": "ルームミラー 的读音是?",
+    "options": [
+      "よく",
+      "ルームミラー",
+      "そつぎょう",
+      "うせつ"
+    ],
+    "answerIndex": 1,
+    "explanation": "ルームミラー = ルームミラー(车内后视镜)"
+  },
+  {
+    "id": "driving-w-room-mirror-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ルームミラー",
+    "answer": "ルームミラー|",
+    "answerFormat": "hiragana",
+    "explanation": "ルームミラー = ルームミラー(车内后视镜)"
+  },
+  {
+    "id": "driving-w-room-mirror-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ルームミラー",
+    "answer": "ルームミラー|",
+    "answerFormat": "hiragana",
+    "explanation": "ルームミラー = ルームミラー(车内后视镜)"
+  },
+  {
+    "id": "driving-w-door-mirror-w1-000",
+    "type": "choice",
+    "question": "ドアミラー 是什么意思?",
+    "options": [
+      "车站前",
+      "请做~",
+      "哪里",
+      "车外后视镜"
+    ],
+    "answerIndex": 3,
+    "explanation": "ドアミラー(ドアミラー) = 车外后视镜"
+  },
+  {
+    "id": "driving-w-door-mirror-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ドアミラー",
+    "options": [
+      "印象",
+      "坏的",
+      "车外后视镜",
+      "为什么"
+    ],
+    "answerIndex": 2,
+    "explanation": "ドアミラー(ドアミラー) = 车外后视镜"
+  },
+  {
+    "id": "driving-w-door-mirror-w3-000",
+    "type": "choice",
+    "question": "车外后视镜 用日语怎么说?",
+    "options": [
+      "ドアミラー",
+      "よくできました",
+      "路地",
+      "交通ルール"
+    ],
+    "answerIndex": 0,
+    "explanation": "ドアミラー(ドアミラー) = 车外后视镜"
+  },
+  {
+    "id": "driving-w-door-mirror-w4-000",
+    "type": "choice",
+    "question": "ドアミラー 的读音是?",
+    "options": [
+      "おうだんほどう",
+      "ドアミラー",
+      "しゃかんきょり",
+      "ちゅうしゃ"
+    ],
+    "answerIndex": 1,
+    "explanation": "ドアミラー = ドアミラー(车外后视镜)"
+  },
+  {
+    "id": "driving-w-door-mirror-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ドアミラー",
+    "answer": "ドアミラー|",
+    "answerFormat": "hiragana",
+    "explanation": "ドアミラー = ドアミラー(车外后视镜)"
+  },
+  {
+    "id": "driving-w-door-mirror-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ドアミラー",
+    "answer": "ドアミラー|",
+    "answerFormat": "hiragana",
+    "explanation": "ドアミラー = ドアミラー(车外后视镜)"
+  },
+  {
+    "id": "driving-w-seat-w1-000",
+    "type": "choice",
+    "question": "シート 是什么意思?",
+    "options": [
+      "调头(路口内)",
+      "考试",
+      "起步,启动",
+      "座椅"
+    ],
+    "answerIndex": 3,
+    "explanation": "シート(シート) = 座椅"
+  },
+  {
+    "id": "driving-w-seat-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "シート",
+    "options": [
+      "短的",
+      "座椅",
+      "绿(日本绿灯)",
+      "车外后视镜"
+    ],
+    "answerIndex": 1,
+    "explanation": "シート(シート) = 座椅"
+  },
+  {
+    "id": "driving-w-seat-w3-000",
+    "type": "choice",
+    "question": "座椅 用日语怎么说?",
+    "options": [
+      "高速道路",
+      "シート",
+      "エンジン",
+      "いつ"
+    ],
+    "answerIndex": 1,
+    "explanation": "シート(シート) = 座椅"
+  },
+  {
+    "id": "driving-w-seat-w4-000",
+    "type": "choice",
+    "question": "シート 的读音是?",
+    "options": [
+      "よくできました",
+      "しんごう",
+      "シート",
+      "シフト"
+    ],
+    "answerIndex": 2,
+    "explanation": "シート = シート(座椅)"
+  },
+  {
+    "id": "driving-w-seat-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "シート",
+    "answer": "シート|",
+    "answerFormat": "hiragana",
+    "explanation": "シート = シート(座椅)"
+  },
+  {
+    "id": "driving-w-seat-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "シート",
+    "answer": "シート|",
+    "answerFormat": "hiragana",
+    "explanation": "シート = シート(座椅)"
+  },
+  {
+    "id": "driving-w-seatbelt-w1-000",
+    "type": "choice",
+    "question": "シートベルト 是什么意思?",
+    "options": [
+      "安全带",
+      "手刹 / 驻车制动",
+      "路面标线",
+      "结业,完成"
+    ],
+    "answerIndex": 0,
+    "explanation": "シートベルト(シートベルト) = 安全带"
+  },
+  {
+    "id": "driving-w-seatbelt-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "シートベルト",
+    "options": [
+      "座椅",
+      "油门",
+      "踏板",
+      "安全带"
+    ],
+    "answerIndex": 3,
+    "explanation": "シートベルト(シートベルト) = 安全带"
+  },
+  {
+    "id": "driving-w-seatbelt-w3-000",
+    "type": "choice",
+    "question": "安全带 用日语怎么说?",
+    "options": [
+      "教えてください",
+      "サイドブレーキ",
+      "駅前",
+      "シートベルト"
+    ],
+    "answerIndex": 3,
+    "explanation": "シートベルト(シートベルト) = 安全带"
+  },
+  {
+    "id": "driving-w-seatbelt-w4-000",
+    "type": "choice",
+    "question": "シートベルト 的读音是?",
+    "options": [
+      "おそい",
+      "シートベルト",
+      "こんにちは",
+      "あした"
+    ],
+    "answerIndex": 1,
+    "explanation": "シートベルト = シートベルト(安全带)"
+  },
+  {
+    "id": "driving-w-seatbelt-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "シートベルト",
+    "answer": "シートベルト|",
+    "answerFormat": "hiragana",
+    "explanation": "シートベルト = シートベルト(安全带)"
+  },
+  {
+    "id": "driving-w-seatbelt-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "シートベルト",
+    "answer": "シートベルト|",
+    "answerFormat": "hiragana",
+    "explanation": "シートベルト = シートベルト(安全带)"
+  },
+  {
+    "id": "driving-w-key-w1-000",
+    "type": "choice",
+    "question": "キー 是什么意思?",
+    "options": [
+      "离合器(仅MT)",
+      "钥匙",
+      "绿(日本绿灯)",
+      "停车(长时间)"
+    ],
+    "answerIndex": 1,
+    "explanation": "キー(キー) = 钥匙"
+  },
+  {
+    "id": "driving-w-key-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "キー",
+    "options": [
+      "红",
+      "钥匙",
+      "逮捕",
+      "安全"
+    ],
+    "answerIndex": 1,
+    "explanation": "キー(キー) = 钥匙"
+  },
+  {
+    "id": "driving-w-key-w3-000",
+    "type": "choice",
+    "question": "钥匙 用日语怎么说?",
+    "options": [
+      "キー",
+      "ミラー",
+      "サイドブレーキ",
+      "検定"
+    ],
+    "answerIndex": 0,
+    "explanation": "キー(キー) = 钥匙"
+  },
+  {
+    "id": "driving-w-key-w4-000",
+    "type": "choice",
+    "question": "キー 的读音是?",
+    "options": [
+      "がいこくじん",
+      "ながい",
+      "キー",
+      "きいろ"
+    ],
+    "answerIndex": 2,
+    "explanation": "キー = キー(钥匙)"
+  },
+  {
+    "id": "driving-w-key-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "キー",
+    "answer": "キー|",
+    "answerFormat": "hiragana",
+    "explanation": "キー = キー(钥匙)"
+  },
+  {
+    "id": "driving-w-key-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "キー",
+    "answer": "キー|",
+    "answerFormat": "hiragana",
+    "explanation": "キー = キー(钥匙)"
+  },
+  {
+    "id": "driving-w-pedal-w1-000",
+    "type": "choice",
+    "question": "ペダル 是什么意思?",
+    "options": [
+      "坏的",
+      "轮胎",
+      "手刹 / 驻车制动",
+      "踏板"
+    ],
+    "answerIndex": 3,
+    "explanation": "ペダル(ペダル) = 踏板"
+  },
+  {
+    "id": "driving-w-pedal-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ペダル",
+    "options": [
+      "考试,考核",
+      "红",
+      "交通规则",
+      "踏板"
+    ],
+    "answerIndex": 3,
+    "explanation": "ペダル(ペダル) = 踏板"
+  },
+  {
+    "id": "driving-w-pedal-w3-000",
+    "type": "choice",
+    "question": "踏板 用日语怎么说?",
+    "options": [
+      "切り替えし",
+      "信号",
+      "ペダル",
+      "一時停止"
+    ],
+    "answerIndex": 2,
+    "explanation": "ペダル(ペダル) = 踏板"
+  },
+  {
+    "id": "driving-w-pedal-w4-000",
+    "type": "choice",
+    "question": "ペダル 的读音是?",
+    "options": [
+      "ペダル",
+      "よい",
+      "いんしょう",
+      "ながい"
+    ],
+    "answerIndex": 0,
+    "explanation": "ペダル = ペダル(踏板)"
+  },
+  {
+    "id": "driving-w-pedal-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ペダル",
+    "answer": "ペダル|",
+    "answerFormat": "hiragana",
+    "explanation": "ペダル = ペダル(踏板)"
+  },
+  {
+    "id": "driving-w-pedal-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ペダル",
+    "answer": "ペダル|",
+    "answerFormat": "hiragana",
+    "explanation": "ペダル = ペダル(踏板)"
+  },
+  {
+    "id": "driving-w-meter-w1-000",
+    "type": "choice",
+    "question": "メーター 是什么意思?",
+    "options": [
+      "仪表盘",
+      "外国人",
+      "人行道",
+      "交通规则"
+    ],
+    "answerIndex": 0,
+    "explanation": "メーター(メーター) = 仪表盘"
+  },
+  {
+    "id": "driving-w-meter-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "メーター",
+    "options": [
+      "红绿灯",
+      "好好地 / 经常",
+      "仪表盘",
+      "踏板"
+    ],
+    "answerIndex": 2,
+    "explanation": "メーター(メーター) = 仪表盘"
+  },
+  {
+    "id": "driving-w-meter-w3-000",
+    "type": "choice",
+    "question": "仪表盘 用日语怎么说?",
+    "options": [
+      "メーター",
+      "何時",
+      "坂道発進",
+      "試験会場"
+    ],
+    "answerIndex": 0,
+    "explanation": "メーター(メーター) = 仪表盘"
+  },
+  {
+    "id": "driving-w-meter-w4-000",
+    "type": "choice",
+    "question": "メーター 的读音是?",
+    "options": [
+      "なんまい",
+      "ルームミラー",
+      "ていしゃきんし",
+      "メーター"
+    ],
+    "answerIndex": 3,
+    "explanation": "メーター = メーター(仪表盘)"
+  },
+  {
+    "id": "driving-w-meter-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "メーター",
+    "answer": "メーター|",
+    "answerFormat": "hiragana",
+    "explanation": "メーター = メーター(仪表盘)"
+  },
+  {
+    "id": "driving-w-meter-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "メーター",
+    "answer": "メーター|",
+    "answerFormat": "hiragana",
+    "explanation": "メーター = メーター(仪表盘)"
+  },
+  {
+    "id": "driving-w-hazard-w1-000",
+    "type": "choice",
+    "question": "ハザード 是什么意思?",
+    "options": [
+      "危险报警灯(双闪)",
+      "红绿灯",
+      "离合器(仅MT)",
+      "做得很好"
+    ],
+    "answerIndex": 0,
+    "explanation": "ハザード(ハザード) = 危险报警灯(双闪)"
+  },
+  {
+    "id": "driving-w-hazard-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ハザード",
+    "options": [
+      "技能(实操)",
+      "请加油",
+      "目视,亲眼确认",
+      "危险报警灯(双闪)"
+    ],
+    "answerIndex": 3,
+    "explanation": "ハザード(ハザード) = 危险报警灯(双闪)"
+  },
+  {
+    "id": "driving-w-hazard-w3-000",
+    "type": "choice",
+    "question": "危险报警灯(双闪) 用日语怎么说?",
+    "options": [
+      "何枚",
+      "ハザード",
+      "駐車禁止",
+      "停車禁止"
+    ],
+    "answerIndex": 1,
+    "explanation": "ハザード(ハザード) = 危险报警灯(双闪)"
+  },
+  {
+    "id": "driving-w-hazard-w4-000",
+    "type": "choice",
+    "question": "ハザード 的读音是?",
+    "options": [
+      "ひょうしき",
+      "ハザード",
+      "あか",
+      "こうさてん"
+    ],
+    "answerIndex": 1,
+    "explanation": "ハザード = ハザード(危险报警灯(双闪))"
+  },
+  {
+    "id": "driving-w-hazard-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ハザード",
+    "answer": "ハザード|",
+    "answerFormat": "hiragana",
+    "explanation": "ハザード = ハザード(危险报警灯(双闪))"
+  },
+  {
+    "id": "driving-w-hazard-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ハザード",
+    "answer": "ハザード|",
+    "answerFormat": "hiragana",
+    "explanation": "ハザード = ハザード(危险报警灯(双闪))"
+  },
+  {
+    "id": "driving-w-winker-w1-000",
+    "type": "choice",
+    "question": "ウインカー 是什么意思?",
+    "options": [
+      "上坡",
+      "目视,亲眼确认",
+      "转向灯",
+      "下坡"
+    ],
+    "answerIndex": 2,
+    "explanation": "ウインカー(ウインカー) = 转向灯"
+  },
+  {
+    "id": "driving-w-winker-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ウインカー",
+    "options": [
+      "安全带",
+      "标识,路标",
+      "目视,亲眼确认",
+      "转向灯"
+    ],
+    "answerIndex": 3,
+    "explanation": "ウインカー(ウインカー) = 转向灯"
+  },
+  {
+    "id": "driving-w-winker-w3-000",
+    "type": "choice",
+    "question": "转向灯 用日语怎么说?",
+    "options": [
+      "歩道",
+      "ウインカー",
+      "ハンドル",
+      "よくできました"
+    ],
+    "answerIndex": 1,
+    "explanation": "ウインカー(ウインカー) = 转向灯"
+  },
+  {
+    "id": "driving-w-winker-w4-000",
+    "type": "choice",
+    "question": "ウインカー 的读音是?",
+    "options": [
+      "まきこみかくにん",
+      "ウインカー",
+      "してください",
+      "わかりました"
+    ],
+    "answerIndex": 1,
+    "explanation": "ウインカー = ウインカー(转向灯)"
+  },
+  {
+    "id": "driving-w-winker-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ウインカー",
+    "answer": "ウインカー|",
+    "answerFormat": "hiragana",
+    "explanation": "ウインカー = ウインカー(转向灯)"
+  },
+  {
+    "id": "driving-w-winker-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ウインカー",
+    "answer": "ウインカー|",
+    "answerFormat": "hiragana",
+    "explanation": "ウインカー = ウインカー(转向灯)"
+  },
+  {
+    "id": "driving-w-engine-w1-000",
+    "type": "choice",
+    "question": "エンジン 是什么意思?",
+    "options": [
+      "入校(教习所)",
+      "掉头",
+      "考试",
+      "发动机"
+    ],
+    "answerIndex": 3,
+    "explanation": "エンジン(エンジン) = 发动机"
+  },
+  {
+    "id": "driving-w-engine-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "エンジン",
+    "options": [
+      "停车(短时)",
+      "请告诉我",
+      "发动机",
+      "人行道"
+    ],
+    "answerIndex": 2,
+    "explanation": "エンジン(エンジン) = 发动机"
+  },
+  {
+    "id": "driving-w-engine-w3-000",
+    "type": "choice",
+    "question": "发动机 用日语怎么说?",
+    "options": [
+      "今日",
+      "エンジン",
+      "今",
+      "発進"
+    ],
+    "answerIndex": 1,
+    "explanation": "エンジン(エンジン) = 发动机"
+  },
+  {
+    "id": "driving-w-engine-w4-000",
+    "type": "choice",
+    "question": "エンジン 的读音是?",
+    "options": [
+      "きいろいせん",
+      "タイヤ",
+      "どうやって",
+      "エンジン"
+    ],
+    "answerIndex": 3,
+    "explanation": "エンジン = エンジン(发动机)"
+  },
+  {
+    "id": "driving-w-engine-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "エンジン",
+    "answer": "エンジン|",
+    "answerFormat": "hiragana",
+    "explanation": "エンジン = エンジン(发动机)"
+  },
+  {
+    "id": "driving-w-engine-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "エンジン",
+    "answer": "エンジン|",
+    "answerFormat": "hiragana",
+    "explanation": "エンジン = エンジン(发动机)"
+  },
+  {
+    "id": "driving-w-light-w1-000",
+    "type": "choice",
+    "question": "ライト 是什么意思?",
+    "options": [
+      "现在",
+      "灯",
+      "临时停车(让车/让行人)",
+      "教官,教练"
+    ],
+    "answerIndex": 1,
+    "explanation": "ライト(ライト) = 灯"
+  },
+  {
+    "id": "driving-w-light-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ライト",
+    "options": [
+      "灯",
+      "车外",
+      "慢,迟",
+      "理论(学科)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ライト(ライト) = 灯"
+  },
+  {
+    "id": "driving-w-light-w3-000",
+    "type": "choice",
+    "question": "灯 用日语怎么说?",
+    "options": [
+      "アクセル",
+      "悪い",
+      "キー",
+      "ライト"
+    ],
+    "answerIndex": 3,
+    "explanation": "ライト(ライト) = 灯"
+  },
+  {
+    "id": "driving-w-light-w4-000",
+    "type": "choice",
+    "question": "ライト 的读音是?",
+    "options": [
+      "しゃかんきょり",
+      "しょうめいしょ",
+      "ライト",
+      "おそい"
+    ],
+    "answerIndex": 2,
+    "explanation": "ライト = ライト(灯)"
+  },
+  {
+    "id": "driving-w-light-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ライト",
+    "answer": "ライト|",
+    "answerFormat": "hiragana",
+    "explanation": "ライト = ライト(灯)"
+  },
+  {
+    "id": "driving-w-light-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ライト",
+    "answer": "ライト|",
+    "answerFormat": "hiragana",
+    "explanation": "ライト = ライト(灯)"
+  },
+  {
+    "id": "driving-w-wheel-w1-000",
+    "type": "choice",
+    "question": "タイヤ 是什么意思?",
+    "options": [
+      "轮胎",
+      "好的",
+      "结业,完成",
+      "路面标线"
+    ],
+    "answerIndex": 0,
+    "explanation": "タイヤ(タイヤ) = 轮胎"
+  },
+  {
+    "id": "driving-w-wheel-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "タイヤ",
+    "options": [
+      "罚款",
+      "县道",
+      "轮胎",
+      "确认转弯内侧"
+    ],
+    "answerIndex": 2,
+    "explanation": "タイヤ(タイヤ) = 轮胎"
+  },
+  {
+    "id": "driving-w-wheel-w3-000",
+    "type": "choice",
+    "question": "轮胎 用日语怎么说?",
+    "options": [
+      "タイヤ",
+      "歩行者",
+      "分かりません",
+      "入学"
+    ],
+    "answerIndex": 0,
+    "explanation": "タイヤ(タイヤ) = 轮胎"
+  },
+  {
+    "id": "driving-w-wheel-w4-000",
+    "type": "choice",
+    "question": "タイヤ 的读音是?",
+    "options": [
+      "よくできました",
+      "わかりません",
+      "しけん",
+      "タイヤ"
+    ],
+    "answerIndex": 3,
+    "explanation": "タイヤ = タイヤ(轮胎)"
+  },
+  {
+    "id": "driving-w-wheel-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "タイヤ",
+    "answer": "タイヤ|",
+    "answerFormat": "hiragana",
+    "explanation": "タイヤ = タイヤ(轮胎)"
+  },
+  {
+    "id": "driving-w-wheel-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "タイヤ",
+    "answer": "タイヤ|",
+    "answerFormat": "hiragana",
+    "explanation": "タイヤ = タイヤ(轮胎)"
+  },
+  {
+    "id": "driving-w-hon-w1-000",
+    "type": "choice",
+    "question": "クラクション 是什么意思?",
+    "options": [
+      "禁止临时停车",
+      "喇叭",
+      "正式驾照",
+      "交通规则"
+    ],
+    "answerIndex": 1,
+    "explanation": "クラクション(クラクション) = 喇叭"
+  },
+  {
+    "id": "driving-w-hon-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "クラクション",
+    "options": [
+      "喇叭",
+      "转向灯",
+      "刹车",
+      "调头(路口内)"
+    ],
+    "answerIndex": 0,
+    "explanation": "クラクション(クラクション) = 喇叭"
+  },
+  {
+    "id": "driving-w-hon-w3-000",
+    "type": "choice",
+    "question": "喇叭 用日语怎么说?",
+    "options": [
+      "どうして",
+      "Uターン",
+      "証明書",
+      "クラクション"
+    ],
+    "answerIndex": 3,
+    "explanation": "クラクション(クラクション) = 喇叭"
+  },
+  {
+    "id": "driving-w-hon-w4-000",
+    "type": "choice",
+    "question": "クラクション 的读音是?",
+    "options": [
+      "クラッチ",
+      "クラクション",
+      "けんてい",
+      "ひょうしき"
+    ],
+    "answerIndex": 1,
+    "explanation": "クラクション = クラクション(喇叭)"
+  },
+  {
+    "id": "driving-w-hon-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "クラクション",
+    "answer": "クラクション|",
+    "answerFormat": "hiragana",
+    "explanation": "クラクション = クラクション(喇叭)"
+  },
+  {
+    "id": "driving-w-hon-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "クラクション",
+    "answer": "クラクション|",
+    "answerFormat": "hiragana",
+    "explanation": "クラクション = クラクション(喇叭)"
+  },
+  {
+    "id": "driving-w-hasshin-w1-000",
+    "type": "choice",
+    "question": "発進 是什么意思?",
+    "options": [
+      "请加油",
+      "街道(通り)",
+      "起步,启动",
+      "仪表盘"
+    ],
+    "answerIndex": 2,
+    "explanation": "発進(はっしん) = 起步,启动"
+  },
+  {
+    "id": "driving-w-hasshin-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "発進",
+    "options": [
+      "起步,启动",
+      "你好",
+      "慢,迟",
+      "下坡"
+    ],
+    "answerIndex": 0,
+    "explanation": "発進(はっしん) = 起步,启动"
+  },
+  {
+    "id": "driving-w-hasshin-w3-000",
+    "type": "choice",
+    "question": "起步,启动 用日语怎么说?",
+    "options": [
+      "歩道",
+      "一時停止",
+      "発進",
+      "標示"
+    ],
+    "answerIndex": 2,
+    "explanation": "発進(はっしん) = 起步,启动"
+  },
+  {
+    "id": "driving-w-hasshin-w4-000",
+    "type": "choice",
+    "question": "発進 的读音是?",
+    "options": [
+      "はっしん",
+      "きりかえし",
+      "ウインカー",
+      "ライト"
+    ],
+    "answerIndex": 0,
+    "explanation": "発進 = はっしん(起步,启动)"
+  },
+  {
+    "id": "driving-w-hasshin-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "発進",
+    "answer": "はっしん|",
+    "answerFormat": "hiragana",
+    "explanation": "発進 = はっしん(起步,启动)"
+  },
+  {
+    "id": "driving-w-hasshin-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "発進",
+    "answer": "はっしん|",
+    "answerFormat": "hiragana",
+    "explanation": "発進 = はっしん(起步,启动)"
+  },
+  {
+    "id": "driving-w-teishi-w1-000",
+    "type": "choice",
+    "question": "停止 是什么意思?",
+    "options": [
+      "车辆",
+      "停止",
+      "人行道",
+      "下次 / 又"
+    ],
+    "answerIndex": 1,
+    "explanation": "停止(ていし) = 停止"
+  },
+  {
+    "id": "driving-w-teishi-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "停止",
+    "options": [
+      "下次 / 又",
+      "停止",
+      "我明白了",
+      "上坡"
+    ],
+    "answerIndex": 1,
+    "explanation": "停止(ていし) = 停止"
+  },
+  {
+    "id": "driving-w-teishi-w3-000",
+    "type": "choice",
+    "question": "停止 用日语怎么说?",
+    "options": [
+      "停止",
+      "路地",
+      "眼鏡",
+      "〜してください"
+    ],
+    "answerIndex": 0,
+    "explanation": "停止(ていし) = 停止"
+  },
+  {
+    "id": "driving-w-teishi-w4-000",
+    "type": "choice",
+    "question": "停止 的读音是?",
+    "options": [
+      "シフト",
+      "きょう",
+      "させつ",
+      "ていし"
+    ],
+    "answerIndex": 3,
+    "explanation": "停止 = ていし(停止)"
+  },
+  {
+    "id": "driving-w-teishi-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "停止",
+    "answer": "ていし|",
+    "answerFormat": "hiragana",
+    "explanation": "停止 = ていし(停止)"
+  },
+  {
+    "id": "driving-w-teishi-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "停止",
+    "answer": "ていし|",
+    "answerFormat": "hiragana",
+    "explanation": "停止 = ていし(停止)"
+  },
+  {
+    "id": "driving-w-itchiji-teishi-w1-000",
+    "type": "choice",
+    "question": "一時停止 是什么意思?",
+    "options": [
+      "再一次",
+      "换挡",
+      "几点",
+      "临时停车(让车/让行人)"
+    ],
+    "answerIndex": 3,
+    "explanation": "一時停止(いちじていし) = 临时停车(让车/让行人)"
+  },
+  {
+    "id": "driving-w-itchiji-teishi-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "一時停止",
+    "options": [
+      "车辆",
+      "红",
+      "现在",
+      "临时停车(让车/让行人)"
+    ],
+    "answerIndex": 3,
+    "explanation": "一時停止(いちじていし) = 临时停车(让车/让行人)"
+  },
+  {
+    "id": "driving-w-itchiji-teishi-w3-000",
+    "type": "choice",
+    "question": "临时停车(让车/让行人) 用日语怎么说?",
+    "options": [
+      "通り",
+      "よく",
+      "一時停止",
+      "青"
+    ],
+    "answerIndex": 2,
+    "explanation": "一時停止(いちじていし) = 临时停车(让车/让行人)"
+  },
+  {
+    "id": "driving-w-itchiji-teishi-w4-000",
+    "type": "choice",
+    "question": "一時停止 的读音是?",
+    "options": [
+      "ルームミラー",
+      "いちじていし",
+      "ろじ",
+      "ゆっくり"
+    ],
+    "answerIndex": 1,
+    "explanation": "一時停止 = いちじていし(临时停车(让车/让行人))"
+  },
+  {
+    "id": "driving-w-itchiji-teishi-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "一時停止",
+    "answer": "いちじていし|",
+    "answerFormat": "hiragana",
+    "explanation": "一時停止 = いちじていし(临时停车(让车/让行人))"
+  },
+  {
+    "id": "driving-w-itchiji-teishi-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "一時停止",
+    "answer": "いちじていし|",
+    "answerFormat": "hiragana",
+    "explanation": "一時停止 = いちじていし(临时停车(让车/让行人))"
+  },
+  {
+    "id": "driving-w-chusha-w1-000",
+    "type": "choice",
+    "question": "駐車 是什么意思?",
+    "options": [
+      "停车(长时间)",
+      "轮胎",
+      "毕业",
+      "路口对面"
+    ],
+    "answerIndex": 0,
+    "explanation": "駐車(ちゅうしゃ) = 停车(长时间)"
+  },
+  {
+    "id": "driving-w-chusha-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "駐車",
+    "options": [
+      "钥匙",
+      "慢慢地",
+      "停车(长时间)",
+      "行人"
+    ],
+    "answerIndex": 2,
+    "explanation": "駐車(ちゅうしゃ) = 停车(长时间)"
+  },
+  {
+    "id": "driving-w-chusha-w3-000",
+    "type": "choice",
+    "question": "停车(长时间) 用日语怎么说?",
+    "options": [
+      "駅前",
+      "駐車",
+      "入学",
+      "メーター"
+    ],
+    "answerIndex": 1,
+    "explanation": "駐車(ちゅうしゃ) = 停车(长时间)"
+  },
+  {
+    "id": "driving-w-chusha-w4-000",
+    "type": "choice",
+    "question": "駐車 的读音是?",
+    "options": [
+      "けんてい",
+      "あか",
+      "くだりざか",
+      "ちゅうしゃ"
+    ],
+    "answerIndex": 3,
+    "explanation": "駐車 = ちゅうしゃ(停车(长时间))"
+  },
+  {
+    "id": "driving-w-chusha-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "駐車",
+    "answer": "ちゅうしゃ|",
+    "answerFormat": "hiragana",
+    "explanation": "駐車 = ちゅうしゃ(停车(长时间))"
+  },
+  {
+    "id": "driving-w-chusha-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "駐車",
+    "answer": "ちゅうしゃ|",
+    "answerFormat": "hiragana",
+    "explanation": "駐車 = ちゅうしゃ(停车(长时间))"
+  },
+  {
+    "id": "driving-w-tempo-w1-000",
+    "type": "choice",
+    "question": "停車 是什么意思?",
+    "options": [
+      "绿(日本绿灯)",
+      "停车(短时)",
+      "慢行,缓行",
+      "做得很好"
+    ],
+    "answerIndex": 1,
+    "explanation": "停車(ていしゃ) = 停车(短时)"
+  },
+  {
+    "id": "driving-w-tempo-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "停車",
+    "options": [
+      "明天",
+      "证明书",
+      "几点",
+      "停车(短时)"
+    ],
+    "answerIndex": 3,
+    "explanation": "停車(ていしゃ) = 停车(短时)"
+  },
+  {
+    "id": "driving-w-tempo-w3-000",
+    "type": "choice",
+    "question": "停车(短时) 用日语怎么说?",
+    "options": [
+      "今",
+      "交差点の向こう側",
+      "停車",
+      "巻き込み確認"
+    ],
+    "answerIndex": 2,
+    "explanation": "停車(ていしゃ) = 停车(短时)"
+  },
+  {
+    "id": "driving-w-tempo-w4-000",
+    "type": "choice",
+    "question": "停車 的读音是?",
+    "options": [
+      "どうして",
+      "だつりん",
+      "ていしゃ",
+      "しゃしん"
+    ],
+    "answerIndex": 2,
+    "explanation": "停車 = ていしゃ(停车(短时))"
+  },
+  {
+    "id": "driving-w-tempo-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "停車",
+    "answer": "ていしゃ|",
+    "answerFormat": "hiragana",
+    "explanation": "停車 = ていしゃ(停车(短时))"
+  },
+  {
+    "id": "driving-w-tempo-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "停車",
+    "answer": "ていしゃ|",
+    "answerFormat": "hiragana",
+    "explanation": "停車 = ていしゃ(停车(短时))"
+  },
+  {
+    "id": "driving-w-usturn-w1-000",
+    "type": "choice",
+    "question": "Uターン 是什么意思?",
+    "options": [
+      "好好地 / 经常",
+      "掉头",
+      "你好",
+      "红绿灯"
+    ],
+    "answerIndex": 1,
+    "explanation": "Uターン(Uターン) = 掉头"
+  },
+  {
+    "id": "driving-w-usturn-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "Uターン",
+    "options": [
+      "左转",
+      "掉头",
+      "你好",
+      "方向盘"
+    ],
+    "answerIndex": 1,
+    "explanation": "Uターン(Uターン) = 掉头"
+  },
+  {
+    "id": "driving-w-usturn-w3-000",
+    "type": "choice",
+    "question": "掉头 用日语怎么说?",
+    "options": [
+      "悪い",
+      "すみません",
+      "Uターン",
+      "名前"
+    ],
+    "answerIndex": 2,
+    "explanation": "Uターン(Uターン) = 掉头"
+  },
+  {
+    "id": "driving-w-usturn-w4-000",
+    "type": "choice",
+    "question": "Uターン 的读音是?",
+    "options": [
+      "ウインカー",
+      "しゃりょう",
+      "Uターン",
+      "ミラー"
+    ],
+    "answerIndex": 2,
+    "explanation": "Uターン = Uターン(掉头)"
+  },
+  {
+    "id": "driving-w-usturn-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "Uターン",
+    "answer": "Uターン|",
+    "answerFormat": "hiragana",
+    "explanation": "Uターン = Uターン(掉头)"
+  },
+  {
+    "id": "driving-w-usturn-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "Uターン",
+    "answer": "Uターン|",
+    "answerFormat": "hiragana",
+    "explanation": "Uターン = Uターン(掉头)"
+  },
+  {
+    "id": "driving-w-sen-henkou-w1-000",
+    "type": "choice",
+    "question": "車線変更 是什么意思?",
+    "options": [
+      "照片",
+      "变道",
+      "停车(短时)",
+      "车外"
+    ],
+    "answerIndex": 1,
+    "explanation": "車線変更(せんへんこう) = 变道"
+  },
+  {
+    "id": "driving-w-sen-henkou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "車線変更",
+    "options": [
+      "变道",
+      "正式驾照",
+      "证明书",
+      "喇叭"
+    ],
+    "answerIndex": 0,
+    "explanation": "車線変更(せんへんこう) = 变道"
+  },
+  {
+    "id": "driving-w-sen-henkou-w3-000",
+    "type": "choice",
+    "question": "变道 用日语怎么说?",
+    "options": [
+      "車線変更",
+      "修了",
+      "写真",
+      "キー"
+    ],
+    "answerIndex": 0,
+    "explanation": "車線変更(せんへんこう) = 变道"
+  },
+  {
+    "id": "driving-w-sen-henkou-w4-000",
+    "type": "choice",
+    "question": "車線変更 的读音是?",
+    "options": [
+      "せんへんこう",
+      "くだりざか",
+      "どうして",
+      "けんどう"
+    ],
+    "answerIndex": 0,
+    "explanation": "車線変更 = せんへんこう(变道)"
+  },
+  {
+    "id": "driving-w-sen-henkou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "車線変更",
+    "answer": "せんへんこう|",
+    "answerFormat": "hiragana",
+    "explanation": "車線変更 = せんへんこう(变道)"
+  },
+  {
+    "id": "driving-w-sen-henkou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "車線変更",
+    "answer": "せんへんこう|",
+    "answerFormat": "hiragana",
+    "explanation": "車線変更 = せんへんこう(变道)"
+  },
+  {
+    "id": "driving-w-usetsu-w1-000",
+    "type": "choice",
+    "question": "右折 是什么意思?",
+    "options": [
+      "车外后视镜",
+      "停止",
+      "右转",
+      "禁止停车"
+    ],
+    "answerIndex": 2,
+    "explanation": "右折(うせつ) = 右转"
+  },
+  {
+    "id": "driving-w-usetsu-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "右折",
+    "options": [
+      "早上好",
+      "长的",
+      "右转",
+      "行人"
+    ],
+    "answerIndex": 2,
+    "explanation": "右折(うせつ) = 右转"
+  },
+  {
+    "id": "driving-w-usetsu-w3-000",
+    "type": "choice",
+    "question": "右转 用日语怎么说?",
+    "options": [
+      "右折",
+      "ありがとうございます",
+      "標識",
+      "ブレーキ"
+    ],
+    "answerIndex": 0,
+    "explanation": "右折(うせつ) = 右转"
+  },
+  {
+    "id": "driving-w-usetsu-w4-000",
+    "type": "choice",
+    "question": "右折 的读音是?",
+    "options": [
+      "ろじ",
+      "がいこくじん",
+      "わるい",
+      "うせつ"
+    ],
+    "answerIndex": 3,
+    "explanation": "右折 = うせつ(右转)"
+  },
+  {
+    "id": "driving-w-usetsu-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "右折",
+    "answer": "うせつ|",
+    "answerFormat": "hiragana",
+    "explanation": "右折 = うせつ(右转)"
+  },
+  {
+    "id": "driving-w-usetsu-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "右折",
+    "answer": "うせつ|",
+    "answerFormat": "hiragana",
+    "explanation": "右折 = うせつ(右转)"
+  },
+  {
+    "id": "driving-w-sasetsu-w1-000",
+    "type": "choice",
+    "question": "左折 是什么意思?",
+    "options": [
+      "禁止临时停车",
+      "左转",
+      "禁止停车",
+      "交通规则"
+    ],
+    "answerIndex": 1,
+    "explanation": "左折(させつ) = 左转"
+  },
+  {
+    "id": "driving-w-sasetsu-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "左折",
+    "options": [
+      "左转",
+      "我不懂",
+      "危险",
+      "结业,完成"
+    ],
+    "answerIndex": 0,
+    "explanation": "左折(させつ) = 左转"
+  },
+  {
+    "id": "driving-w-sasetsu-w3-000",
+    "type": "choice",
+    "question": "左转 用日语怎么说?",
+    "options": [
+      "対向車",
+      "青",
+      "左折",
+      "仮免許"
+    ],
+    "answerIndex": 2,
+    "explanation": "左折(させつ) = 左转"
+  },
+  {
+    "id": "driving-w-sasetsu-w4-000",
+    "type": "choice",
+    "question": "左折 的读音是?",
+    "options": [
+      "させつ",
+      "きいろいせん",
+      "しゃかんきょり",
+      "ギア"
+    ],
+    "answerIndex": 0,
+    "explanation": "左折 = させつ(左转)"
+  },
+  {
+    "id": "driving-w-sasetsu-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "左折",
+    "answer": "させつ|",
+    "answerFormat": "hiragana",
+    "explanation": "左折 = させつ(左转)"
+  },
+  {
+    "id": "driving-w-sasetsu-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "左折",
+    "answer": "させつ|",
+    "answerFormat": "hiragana",
+    "explanation": "左折 = させつ(左转)"
+  },
+  {
+    "id": "driving-w-maki-komi-w1-000",
+    "type": "choice",
+    "question": "巻き込み確認 是什么意思?",
+    "options": [
+      "确认转弯内侧",
+      "路面标线",
+      "慢,迟",
+      "转向灯"
+    ],
+    "answerIndex": 0,
+    "explanation": "巻き込み確認(まきこみかくにん) = 确认转弯内侧"
+  },
+  {
+    "id": "driving-w-maki-komi-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "巻き込み確認",
+    "options": [
+      "确认转弯内侧",
+      "照片",
+      "灯",
+      "换挡"
+    ],
+    "answerIndex": 0,
+    "explanation": "巻き込み確認(まきこみかくにん) = 确认转弯内侧"
+  },
+  {
+    "id": "driving-w-maki-komi-w3-000",
+    "type": "choice",
+    "question": "确认转弯内侧 用日语怎么说?",
+    "options": [
+      "免許",
+      "巻き込み確認",
+      "クラッチ",
+      "教官"
+    ],
+    "answerIndex": 1,
+    "explanation": "巻き込み確認(まきこみかくにん) = 确认转弯内侧"
+  },
+  {
+    "id": "driving-w-maki-komi-w4-000",
+    "type": "choice",
+    "question": "巻き込み確認 的读音是?",
+    "options": [
+      "クラクション",
+      "キー",
+      "まきこみかくにん",
+      "ほんめんきょ"
+    ],
+    "answerIndex": 2,
+    "explanation": "巻き込み確認 = まきこみかくにん(确认转弯内侧)"
+  },
+  {
+    "id": "driving-w-maki-komi-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "巻き込み確認",
+    "answer": "まきこみかくにん|",
+    "answerFormat": "hiragana",
+    "explanation": "巻き込み確認 = まきこみかくにん(确认转弯内侧)"
+  },
+  {
+    "id": "driving-w-maki-komi-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "巻き込み確認",
+    "answer": "まきこみかくにん|",
+    "answerFormat": "hiragana",
+    "explanation": "巻き込み確認 = まきこみかくにん(确认转弯内侧)"
+  },
+  {
+    "id": "driving-w-meue-w1-000",
+    "type": "choice",
+    "question": "目視 是什么意思?",
+    "options": [
+      "目视,亲眼确认",
+      "理论(学科)",
+      "喇叭",
+      "街道(通り)"
+    ],
+    "answerIndex": 0,
+    "explanation": "目視(もくし) = 目视,亲眼确认"
+  },
+  {
+    "id": "driving-w-meue-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "目視",
+    "options": [
+      "几点",
+      "禁止临时停车",
+      "照片",
+      "目视,亲眼确认"
+    ],
+    "answerIndex": 3,
+    "explanation": "目視(もくし) = 目视,亲眼确认"
+  },
+  {
+    "id": "driving-w-meue-w3-000",
+    "type": "choice",
+    "question": "目视,亲眼确认 用日语怎么说?",
+    "options": [
+      "車外",
+      "免許",
+      "ハザード",
+      "目視"
+    ],
+    "answerIndex": 3,
+    "explanation": "目視(もくし) = 目视,亲眼确认"
+  },
+  {
+    "id": "driving-w-meue-w4-000",
+    "type": "choice",
+    "question": "目視 的读音是?",
+    "options": [
+      "よくできました",
+      "もくし",
+      "してください",
+      "よく"
+    ],
+    "answerIndex": 1,
+    "explanation": "目視 = もくし(目视,亲眼确认)"
+  },
+  {
+    "id": "driving-w-meue-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "目視",
+    "answer": "もくし|",
+    "answerFormat": "hiragana",
+    "explanation": "目視 = もくし(目视,亲眼确认)"
+  },
+  {
+    "id": "driving-w-meue-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "目視",
+    "answer": "もくし|",
+    "answerFormat": "hiragana",
+    "explanation": "目視 = もくし(目视,亲眼确认)"
+  },
+  {
+    "id": "driving-w-dassen-w1-000",
+    "type": "choice",
+    "question": "脱輪 是什么意思?",
+    "options": [
+      "车距",
+      "车轮驶离(路缘)",
+      "什么时候",
+      "逮捕"
+    ],
+    "answerIndex": 1,
+    "explanation": "脱輪(だつりん) = 车轮驶离(路缘)"
+  },
+  {
+    "id": "driving-w-dassen-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "脱輪",
+    "options": [
+      "眼镜",
+      "下次 / 又",
+      "国道",
+      "车轮驶离(路缘)"
+    ],
+    "answerIndex": 3,
+    "explanation": "脱輪(だつりん) = 车轮驶离(路缘)"
+  },
+  {
+    "id": "driving-w-dassen-w3-000",
+    "type": "choice",
+    "question": "车轮驶离(路缘) 用日语怎么说?",
+    "options": [
+      "分かりました",
+      "脱輪",
+      "いつ",
+      "左折"
+    ],
+    "answerIndex": 1,
+    "explanation": "脱輪(だつりん) = 车轮驶离(路缘)"
+  },
+  {
+    "id": "driving-w-dassen-w4-000",
+    "type": "choice",
+    "question": "脱輪 的读音是?",
+    "options": [
+      "きいろいせん",
+      "アクセル",
+      "だつりん",
+      "しけん"
+    ],
+    "answerIndex": 2,
+    "explanation": "脱輪 = だつりん(车轮驶离(路缘))"
+  },
+  {
+    "id": "driving-w-dassen-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "脱輪",
+    "answer": "だつりん|",
+    "answerFormat": "hiragana",
+    "explanation": "脱輪 = だつりん(车轮驶离(路缘))"
+  },
+  {
+    "id": "driving-w-dassen-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "脱輪",
+    "answer": "だつりん|",
+    "answerFormat": "hiragana",
+    "explanation": "脱輪 = だつりん(车轮驶离(路缘))"
+  },
+  {
+    "id": "driving-w-sakamichi-w1-000",
+    "type": "choice",
+    "question": "坂道発進 是什么意思?",
+    "options": [
+      "我明白了",
+      "请告诉我",
+      "坡道起步",
+      "今天"
+    ],
+    "answerIndex": 2,
+    "explanation": "坂道発進(さかみちはっしん) = 坡道起步"
+  },
+  {
+    "id": "driving-w-sakamichi-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "坂道発進",
+    "options": [
+      "考场",
+      "入校(教习所)",
+      "为什么",
+      "坡道起步"
+    ],
+    "answerIndex": 3,
+    "explanation": "坂道発進(さかみちはっしん) = 坡道起步"
+  },
+  {
+    "id": "driving-w-sakamichi-w3-000",
+    "type": "choice",
+    "question": "坡道起步 用日语怎么说?",
+    "options": [
+      "おはようございます",
+      "発進",
+      "路地",
+      "坂道発進"
+    ],
+    "answerIndex": 3,
+    "explanation": "坂道発進(さかみちはっしん) = 坡道起步"
+  },
+  {
+    "id": "driving-w-sakamichi-w4-000",
+    "type": "choice",
+    "question": "坂道発進 的读音是?",
+    "options": [
+      "また",
+      "さかみちはっしん",
+      "メーター",
+      "どうやって"
+    ],
+    "answerIndex": 1,
+    "explanation": "坂道発進 = さかみちはっしん(坡道起步)"
+  },
+  {
+    "id": "driving-w-sakamichi-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "坂道発進",
+    "answer": "さかみちはっしん|",
+    "answerFormat": "hiragana",
+    "explanation": "坂道発進 = さかみちはっしん(坡道起步)"
+  },
+  {
+    "id": "driving-w-sakamichi-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "坂道発進",
+    "answer": "さかみちはっしん|",
+    "answerFormat": "hiragana",
+    "explanation": "坂道発進 = さかみちはっしん(坡道起步)"
+  },
+  {
+    "id": "driving-w-sorimaze-w1-000",
+    "type": "choice",
+    "question": "通り 是什么意思?",
+    "options": [
+      "街道(通り)",
+      "方向盘",
+      "红绿灯",
+      "慢慢地"
+    ],
+    "answerIndex": 0,
+    "explanation": "通り(どおり) = 街道(通り)"
+  },
+  {
+    "id": "driving-w-sorimaze-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "通り",
+    "options": [
+      "街道(通り)",
+      "帮帮我",
+      "做得很好",
+      "发动机"
+    ],
+    "answerIndex": 0,
+    "explanation": "通り(どおり) = 街道(通り)"
+  },
+  {
+    "id": "driving-w-sorimaze-w3-000",
+    "type": "choice",
+    "question": "街道(通り) 用日语怎么说?",
+    "options": [
+      "本免許",
+      "通り",
+      "上り坂",
+      "ありがとうございます"
+    ],
+    "answerIndex": 1,
+    "explanation": "通り(どおり) = 街道(通り)"
+  },
+  {
+    "id": "driving-w-sorimaze-w4-000",
+    "type": "choice",
+    "question": "通り 的读音是?",
+    "options": [
+      "キー",
+      "どおり",
+      "しゃかんきょり",
+      "けんどう"
+    ],
+    "answerIndex": 1,
+    "explanation": "通り = どおり(街道(通り))"
+  },
+  {
+    "id": "driving-w-sorimaze-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "通り",
+    "answer": "どおり|",
+    "answerFormat": "hiragana",
+    "explanation": "通り = どおり(街道(通り))"
+  },
+  {
+    "id": "driving-w-sorimaze-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "通り",
+    "answer": "どおり|",
+    "answerFormat": "hiragana",
+    "explanation": "通り = どおり(街道(通り))"
+  },
+  {
+    "id": "driving-w-sharyou-w1-000",
+    "type": "choice",
+    "question": "車両 是什么意思?",
+    "options": [
+      "车辆",
+      "下坡",
+      "方向盘",
+      "踏板"
+    ],
+    "answerIndex": 0,
+    "explanation": "車両(しゃりょう) = 车辆"
+  },
+  {
+    "id": "driving-w-sharyou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "車両",
+    "options": [
+      "喇叭",
+      "车辆",
+      "国道",
+      "路口对面"
+    ],
+    "answerIndex": 1,
+    "explanation": "車両(しゃりょう) = 车辆"
+  },
+  {
+    "id": "driving-w-sharyou-w3-000",
+    "type": "choice",
+    "question": "车辆 用日语怎么说?",
+    "options": [
+      "車両",
+      "どこ",
+      "ハザード",
+      "停車禁止"
+    ],
+    "answerIndex": 0,
+    "explanation": "車両(しゃりょう) = 车辆"
+  },
+  {
+    "id": "driving-w-sharyou-w4-000",
+    "type": "choice",
+    "question": "車両 的读音是?",
+    "options": [
+      "よくできました",
+      "ペダル",
+      "しゃりょう",
+      "じょこう"
+    ],
+    "answerIndex": 2,
+    "explanation": "車両 = しゃりょう(车辆)"
+  },
+  {
+    "id": "driving-w-sharyou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "車両",
+    "answer": "しゃりょう|",
+    "answerFormat": "hiragana",
+    "explanation": "車両 = しゃりょう(车辆)"
+  },
+  {
+    "id": "driving-w-sharyou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "車両",
+    "answer": "しゃりょう|",
+    "answerFormat": "hiragana",
+    "explanation": "車両 = しゃりょう(车辆)"
+  },
+  {
+    "id": "driving-w-kiken-w1-000",
+    "type": "choice",
+    "question": "危険 是什么意思?",
+    "options": [
+      "方向盘",
+      "名字",
+      "临时停车(让车/让行人)",
+      "危险"
+    ],
+    "answerIndex": 3,
+    "explanation": "危険(きけん) = 危险"
+  },
+  {
+    "id": "driving-w-kiken-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "危険",
+    "options": [
+      "标识,路标",
+      "危险",
+      "停车(短时)",
+      "目视,亲眼确认"
+    ],
+    "answerIndex": 1,
+    "explanation": "危険(きけん) = 危险"
+  },
+  {
+    "id": "driving-w-kiken-w3-000",
+    "type": "choice",
+    "question": "危险 用日语怎么说?",
+    "options": [
+      "もう一度",
+      "印象",
+      "危険",
+      "今日"
+    ],
+    "answerIndex": 2,
+    "explanation": "危険(きけん) = 危险"
+  },
+  {
+    "id": "driving-w-kiken-w4-000",
+    "type": "choice",
+    "question": "危険 的读音是?",
+    "options": [
+      "きけん",
+      "しけん",
+      "ペダル",
+      "にゅうこう"
+    ],
+    "answerIndex": 0,
+    "explanation": "危険 = きけん(危险)"
+  },
+  {
+    "id": "driving-w-kiken-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "危険",
+    "answer": "きけん|",
+    "answerFormat": "hiragana",
+    "explanation": "危険 = きけん(危险)"
+  },
+  {
+    "id": "driving-w-kiken-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "危険",
+    "answer": "きけん|",
+    "answerFormat": "hiragana",
+    "explanation": "危険 = きけん(危险)"
+  },
+  {
+    "id": "driving-w-anzen-w1-000",
+    "type": "choice",
+    "question": "安全 是什么意思?",
+    "options": [
+      "安全",
+      "路面标线",
+      "停车(短时)",
+      "怎么做"
+    ],
+    "answerIndex": 0,
+    "explanation": "安全(あんぜん) = 安全"
+  },
+  {
+    "id": "driving-w-anzen-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "安全",
+    "options": [
+      "安全",
+      "停车(长时间)",
+      "谢谢",
+      "帮帮我"
+    ],
+    "answerIndex": 0,
+    "explanation": "安全(あんぜん) = 安全"
+  },
+  {
+    "id": "driving-w-anzen-w3-000",
+    "type": "choice",
+    "question": "安全 用日语怎么说?",
+    "options": [
+      "安全",
+      "発進",
+      "通り",
+      "よくできました"
+    ],
+    "answerIndex": 0,
+    "explanation": "安全(あんぜん) = 安全"
+  },
+  {
+    "id": "driving-w-anzen-w4-000",
+    "type": "choice",
+    "question": "安全 的读音是?",
+    "options": [
+      "アクセル",
+      "シート",
+      "ウインカー",
+      "あんぜん"
+    ],
+    "answerIndex": 3,
+    "explanation": "安全 = あんぜん(安全)"
+  },
+  {
+    "id": "driving-w-anzen-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "安全",
+    "answer": "あんぜん|",
+    "answerFormat": "hiragana",
+    "explanation": "安全 = あんぜん(安全)"
+  },
+  {
+    "id": "driving-w-anzen-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "安全",
+    "answer": "あんぜん|",
+    "answerFormat": "hiragana",
+    "explanation": "安全 = あんぜん(安全)"
+  },
+  {
+    "id": "driving-w-shuudan-w1-000",
+    "type": "choice",
+    "question": "車間距離 是什么意思?",
+    "options": [
+      "档位",
+      "考场",
+      "车距",
+      "掉头"
+    ],
+    "answerIndex": 2,
+    "explanation": "車間距離(しゃかんきょり) = 车距"
+  },
+  {
+    "id": "driving-w-shuudan-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "車間距離",
+    "options": [
+      "请加油",
+      "发动机",
+      "车距",
+      "技能(实操)"
+    ],
+    "answerIndex": 2,
+    "explanation": "車間距離(しゃかんきょり) = 车距"
+  },
+  {
+    "id": "driving-w-shuudan-w3-000",
+    "type": "choice",
+    "question": "车距 用日语怎么说?",
+    "options": [
+      "遅い",
+      "黄",
+      "目視",
+      "車間距離"
+    ],
+    "answerIndex": 3,
+    "explanation": "車間距離(しゃかんきょり) = 车距"
+  },
+  {
+    "id": "driving-w-shuudan-w4-000",
+    "type": "choice",
+    "question": "車間距離 的读音是?",
+    "options": [
+      "もくし",
+      "なんまい",
+      "しゃかんきょり",
+      "よくできました"
+    ],
+    "answerIndex": 2,
+    "explanation": "車間距離 = しゃかんきょり(车距)"
+  },
+  {
+    "id": "driving-w-shuudan-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "車間距離",
+    "answer": "しゃかんきょり|",
+    "answerFormat": "hiragana",
+    "explanation": "車間距離 = しゃかんきょり(车距)"
+  },
+  {
+    "id": "driving-w-shuudan-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "車間距離",
+    "answer": "しゃかんきょり|",
+    "answerFormat": "hiragana",
+    "explanation": "車間距離 = しゃかんきょり(车距)"
+  },
+  {
+    "id": "driving-w-kudari-w1-000",
+    "type": "choice",
+    "question": "下り坂 是什么意思?",
+    "options": [
+      "下坡",
+      "起步,启动",
+      "坏的",
+      "车站前"
+    ],
+    "answerIndex": 0,
+    "explanation": "下り坂(くだりざか) = 下坡"
+  },
+  {
+    "id": "driving-w-kudari-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "下り坂",
+    "options": [
+      "调头(路口内)",
+      "下坡",
+      "明天",
+      "路口对面"
+    ],
+    "answerIndex": 1,
+    "explanation": "下り坂(くだりざか) = 下坡"
+  },
+  {
+    "id": "driving-w-kudari-w3-000",
+    "type": "choice",
+    "question": "下坡 用日语怎么说?",
+    "options": [
+      "クラッチ",
+      "下り坂",
+      "シートベルト",
+      "ギア"
+    ],
+    "answerIndex": 1,
+    "explanation": "下り坂(くだりざか) = 下坡"
+  },
+  {
+    "id": "driving-w-kudari-w4-000",
+    "type": "choice",
+    "question": "下り坂 的读音是?",
+    "options": [
+      "しけん",
+      "めがね",
+      "くだりざか",
+      "こうさてん"
+    ],
+    "answerIndex": 2,
+    "explanation": "下り坂 = くだりざか(下坡)"
+  },
+  {
+    "id": "driving-w-kudari-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "下り坂",
+    "answer": "くだりざか|",
+    "answerFormat": "hiragana",
+    "explanation": "下り坂 = くだりざか(下坡)"
+  },
+  {
+    "id": "driving-w-kudari-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "下り坂",
+    "answer": "くだりざか|",
+    "answerFormat": "hiragana",
+    "explanation": "下り坂 = くだりざか(下坡)"
+  },
+  {
+    "id": "driving-w-nobori-w1-000",
+    "type": "choice",
+    "question": "上り坂 是什么意思?",
+    "options": [
+      "坏的",
+      "红绿灯",
+      "车外",
+      "上坡"
+    ],
+    "answerIndex": 3,
+    "explanation": "上り坂(のぼりざか) = 上坡"
+  },
+  {
+    "id": "driving-w-nobori-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "上り坂",
+    "options": [
+      "钥匙",
+      "车外后视镜",
+      "上坡",
+      "掉头"
+    ],
+    "answerIndex": 2,
+    "explanation": "上り坂(のぼりざか) = 上坡"
+  },
+  {
+    "id": "driving-w-nobori-w3-000",
+    "type": "choice",
+    "question": "上坡 用日语怎么说?",
+    "options": [
+      "駐車",
+      "上り坂",
+      "今",
+      "ウインカー"
+    ],
+    "answerIndex": 1,
+    "explanation": "上り坂(のぼりざか) = 上坡"
+  },
+  {
+    "id": "driving-w-nobori-w4-000",
+    "type": "choice",
+    "question": "上り坂 的读音是?",
+    "options": [
+      "どうして",
+      "あお",
+      "ちゅうしゃきんし",
+      "のぼりざか"
+    ],
+    "answerIndex": 3,
+    "explanation": "上り坂 = のぼりざか(上坡)"
+  },
+  {
+    "id": "driving-w-nobori-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "上り坂",
+    "answer": "のぼりざか|",
+    "answerFormat": "hiragana",
+    "explanation": "上り坂 = のぼりざか(上坡)"
+  },
+  {
+    "id": "driving-w-nobori-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "上り坂",
+    "answer": "のぼりざか|",
+    "answerFormat": "hiragana",
+    "explanation": "上り坂 = のぼりざか(上坡)"
+  },
+  {
+    "id": "driving-w-sorikae-w1-000",
+    "type": "choice",
+    "question": "切り替えし 是什么意思?",
+    "options": [
+      "调头(路口内)",
+      "技能(实操)",
+      "名字",
+      "现在"
+    ],
+    "answerIndex": 0,
+    "explanation": "切り替えし(きりかえし) = 调头(路口内)"
+  },
+  {
+    "id": "driving-w-sorikae-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "切り替えし",
+    "options": [
+      "教官,教练",
+      "调头(路口内)",
+      "上坡",
+      "安全"
+    ],
+    "answerIndex": 1,
+    "explanation": "切り替えし(きりかえし) = 调头(路口内)"
+  },
+  {
+    "id": "driving-w-sorikae-w3-000",
+    "type": "choice",
+    "question": "调头(路口内) 用日语怎么说?",
+    "options": [
+      "切り替えし",
+      "証明書",
+      "速い",
+      "教官"
+    ],
+    "answerIndex": 0,
+    "explanation": "切り替えし(きりかえし) = 调头(路口内)"
+  },
+  {
+    "id": "driving-w-sorikae-w4-000",
+    "type": "choice",
+    "question": "切り替えし 的读音是?",
+    "options": [
+      "クラクション",
+      "きりかえし",
+      "いっぽうつうこう",
+      "ありがとうございます"
+    ],
+    "answerIndex": 1,
+    "explanation": "切り替えし = きりかえし(调头(路口内))"
+  },
+  {
+    "id": "driving-w-sorikae-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "切り替えし",
+    "answer": "きりかえし|",
+    "answerFormat": "hiragana",
+    "explanation": "切り替えし = きりかえし(调头(路口内))"
+  },
+  {
+    "id": "driving-w-sorikae-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "切り替えし",
+    "answer": "きりかえし|",
+    "answerFormat": "hiragana",
+    "explanation": "切り替えし = きりかえし(调头(路口内))"
+  },
+  {
+    "id": "driving-w-kousaten-w1-000",
+    "type": "choice",
+    "question": "交差点 是什么意思?",
+    "options": [
+      "上坡",
+      "眼镜",
+      "临时停车(让车/让行人)",
+      "十字路口"
+    ],
+    "answerIndex": 3,
+    "explanation": "交差点(こうさてん) = 十字路口"
+  },
+  {
+    "id": "driving-w-kousaten-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "交差点",
+    "options": [
+      "请加油",
+      "十字路口",
+      "考场",
+      "单行道"
+    ],
+    "answerIndex": 1,
+    "explanation": "交差点(こうさてん) = 十字路口"
+  },
+  {
+    "id": "driving-w-kousaten-w3-000",
+    "type": "choice",
+    "question": "十字路口 用日语怎么说?",
+    "options": [
+      "教えてください",
+      "停車",
+      "交差点",
+      "ハンドル"
+    ],
+    "answerIndex": 2,
+    "explanation": "交差点(こうさてん) = 十字路口"
+  },
+  {
+    "id": "driving-w-kousaten-w4-000",
+    "type": "choice",
+    "question": "交差点 的读音是?",
+    "options": [
+      "のぼりざか",
+      "ほんめんきょ",
+      "こうさてん",
+      "えきまえ"
+    ],
+    "answerIndex": 2,
+    "explanation": "交差点 = こうさてん(十字路口)"
+  },
+  {
+    "id": "driving-w-kousaten-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "交差点",
+    "answer": "こうさてん|",
+    "answerFormat": "hiragana",
+    "explanation": "交差点 = こうさてん(十字路口)"
+  },
+  {
+    "id": "driving-w-kousaten-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "交差点",
+    "answer": "こうさてん|",
+    "answerFormat": "hiragana",
+    "explanation": "交差点 = こうさてん(十字路口)"
+  },
+  {
+    "id": "driving-w-oudan-w1-000",
+    "type": "choice",
+    "question": "横断歩道 是什么意思?",
+    "options": [
+      "考试",
+      "人行横道",
+      "禁止临时停车",
+      "车内后视镜"
+    ],
+    "answerIndex": 1,
+    "explanation": "横断歩道(おうだんほどう) = 人行横道"
+  },
+  {
+    "id": "driving-w-oudan-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "横断歩道",
+    "options": [
+      "高速公路",
+      "人行横道",
+      "驾照,许可证",
+      "路面标线"
+    ],
+    "answerIndex": 1,
+    "explanation": "横断歩道(おうだんほどう) = 人行横道"
+  },
+  {
+    "id": "driving-w-oudan-w3-000",
+    "type": "choice",
+    "question": "人行横道 用日语怎么说?",
+    "options": [
+      "黄",
+      "横断歩道",
+      "歩道",
+      "何枚"
+    ],
+    "answerIndex": 1,
+    "explanation": "横断歩道(おうだんほどう) = 人行横道"
+  },
+  {
+    "id": "driving-w-oudan-w4-000",
+    "type": "choice",
+    "question": "横断歩道 的读音是?",
+    "options": [
+      "めがね",
+      "いちじていし",
+      "おうだんほどう",
+      "ちゅうしゃ"
+    ],
+    "answerIndex": 2,
+    "explanation": "横断歩道 = おうだんほどう(人行横道)"
+  },
+  {
+    "id": "driving-w-oudan-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "横断歩道",
+    "answer": "おうだんほどう|",
+    "answerFormat": "hiragana",
+    "explanation": "横断歩道 = おうだんほどう(人行横道)"
+  },
+  {
+    "id": "driving-w-oudan-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "横断歩道",
+    "answer": "おうだんほどう|",
+    "answerFormat": "hiragana",
+    "explanation": "横断歩道 = おうだんほどう(人行横道)"
+  },
+  {
+    "id": "driving-w-shingou-w1-000",
+    "type": "choice",
+    "question": "信号 是什么意思?",
+    "options": [
+      "国道",
+      "红绿灯",
+      "现在",
+      "绿(日本绿灯)"
+    ],
+    "answerIndex": 1,
+    "explanation": "信号(しんごう) = 红绿灯"
+  },
+  {
+    "id": "driving-w-shingou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "信号",
+    "options": [
+      "红绿灯",
+      "考场",
+      "行人",
+      "仪表盘"
+    ],
+    "answerIndex": 0,
+    "explanation": "信号(しんごう) = 红绿灯"
+  },
+  {
+    "id": "driving-w-shingou-w3-000",
+    "type": "choice",
+    "question": "红绿灯 用日语怎么说?",
+    "options": [
+      "サイドブレーキ",
+      "どこ",
+      "教えてください",
+      "信号"
+    ],
+    "answerIndex": 3,
+    "explanation": "信号(しんごう) = 红绿灯"
+  },
+  {
+    "id": "driving-w-shingou-w4-000",
+    "type": "choice",
+    "question": "信号 的读音是?",
+    "options": [
+      "もういちど",
+      "はやい",
+      "しんごう",
+      "いつ"
+    ],
+    "answerIndex": 2,
+    "explanation": "信号 = しんごう(红绿灯)"
+  },
+  {
+    "id": "driving-w-shingou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "信号",
+    "answer": "しんごう|",
+    "answerFormat": "hiragana",
+    "explanation": "信号 = しんごう(红绿灯)"
+  },
+  {
+    "id": "driving-w-shingou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "信号",
+    "answer": "しんごう|",
+    "answerFormat": "hiragana",
+    "explanation": "信号 = しんごう(红绿灯)"
+  },
+  {
+    "id": "driving-w-aka-w1-000",
+    "type": "choice",
+    "question": "赤 是什么意思?",
+    "options": [
+      "红",
+      "快",
+      "变道",
+      "眼镜"
+    ],
+    "answerIndex": 0,
+    "explanation": "赤(あか) = 红"
+  },
+  {
+    "id": "driving-w-aka-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "赤",
+    "options": [
+      "危险报警灯(双闪)",
+      "教官,教练",
+      "红",
+      "座椅"
+    ],
+    "answerIndex": 2,
+    "explanation": "赤(あか) = 红"
+  },
+  {
+    "id": "driving-w-aka-w3-000",
+    "type": "choice",
+    "question": "红 用日语怎么说?",
+    "options": [
+      "悪い",
+      "赤",
+      "試験",
+      "車両"
+    ],
+    "answerIndex": 1,
+    "explanation": "赤(あか) = 红"
+  },
+  {
+    "id": "driving-w-aka-w4-000",
+    "type": "choice",
+    "question": "赤 的读音是?",
+    "options": [
+      "がいこくじん",
+      "もういちど",
+      "あか",
+      "こくどう"
+    ],
+    "answerIndex": 2,
+    "explanation": "赤 = あか(红)"
+  },
+  {
+    "id": "driving-w-aka-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "赤",
+    "answer": "あか|",
+    "answerFormat": "hiragana",
+    "explanation": "赤 = あか(红)"
+  },
+  {
+    "id": "driving-w-aka-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "赤",
+    "answer": "あか|",
+    "answerFormat": "hiragana",
+    "explanation": "赤 = あか(红)"
+  },
+  {
+    "id": "driving-w-ao-w1-000",
+    "type": "choice",
+    "question": "青 是什么意思?",
+    "options": [
+      "教官,教练",
+      "绿(日本绿灯)",
+      "黄",
+      "车内后视镜"
+    ],
+    "answerIndex": 1,
+    "explanation": "青(あお) = 绿(日本绿灯)"
+  },
+  {
+    "id": "driving-w-ao-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "青",
+    "options": [
+      "人行道",
+      "绿(日本绿灯)",
+      "国道",
+      "不好意思,对不起"
+    ],
+    "answerIndex": 1,
+    "explanation": "青(あお) = 绿(日本绿灯)"
+  },
+  {
+    "id": "driving-w-ao-w3-000",
+    "type": "choice",
+    "question": "绿(日本绿灯) 用日语怎么说?",
+    "options": [
+      "青",
+      "黄色い線",
+      "よく",
+      "停車"
+    ],
+    "answerIndex": 0,
+    "explanation": "青(あお) = 绿(日本绿灯)"
+  },
+  {
+    "id": "driving-w-ao-w4-000",
+    "type": "choice",
+    "question": "青 的读音是?",
+    "options": [
+      "えきまえ",
+      "ていし",
+      "ライト",
+      "あお"
+    ],
+    "answerIndex": 3,
+    "explanation": "青 = あお(绿(日本绿灯))"
+  },
+  {
+    "id": "driving-w-ao-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "青",
+    "answer": "あお|",
+    "answerFormat": "hiragana",
+    "explanation": "青 = あお(绿(日本绿灯))"
+  },
+  {
+    "id": "driving-w-ao-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "青",
+    "answer": "あお|",
+    "answerFormat": "hiragana",
+    "explanation": "青 = あお(绿(日本绿灯))"
+  },
+  {
+    "id": "driving-w-ki-w1-000",
+    "type": "choice",
+    "question": "黄 是什么意思?",
+    "options": [
+      "名字",
+      "临时停车(让车/让行人)",
+      "理论(学科)",
+      "黄"
+    ],
+    "answerIndex": 3,
+    "explanation": "黄(きいろ) = 黄"
+  },
+  {
+    "id": "driving-w-ki-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "黄",
+    "options": [
+      "下坡",
+      "早上好",
+      "黄",
+      "起步,启动"
+    ],
+    "answerIndex": 2,
+    "explanation": "黄(きいろ) = 黄"
+  },
+  {
+    "id": "driving-w-ki-w3-000",
+    "type": "choice",
+    "question": "黄 用日语怎么说?",
+    "options": [
+      "こんにちは",
+      "黄",
+      "分かりません",
+      "外国人"
+    ],
+    "answerIndex": 1,
+    "explanation": "黄(きいろ) = 黄"
+  },
+  {
+    "id": "driving-w-ki-w4-000",
+    "type": "choice",
+    "question": "黄 的读音是?",
+    "options": [
+      "ほこうしゃ",
+      "きいろ",
+      "くだりざか",
+      "どうやって"
+    ],
+    "answerIndex": 1,
+    "explanation": "黄 = きいろ(黄)"
+  },
+  {
+    "id": "driving-w-ki-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "黄",
+    "answer": "きいろ|",
+    "answerFormat": "hiragana",
+    "explanation": "黄 = きいろ(黄)"
+  },
+  {
+    "id": "driving-w-ki-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "黄",
+    "answer": "きいろ|",
+    "answerFormat": "hiragana",
+    "explanation": "黄 = きいろ(黄)"
+  },
+  {
+    "id": "driving-w-ippo-w1-000",
+    "type": "choice",
+    "question": "一方通行 是什么意思?",
+    "options": [
+      "单行道",
+      "街道(通り)",
+      "外国人",
+      "做得很好"
+    ],
+    "answerIndex": 0,
+    "explanation": "一方通行(いっぽうつうこう) = 单行道"
+  },
+  {
+    "id": "driving-w-ippo-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "一方通行",
+    "options": [
+      "档位",
+      "临时停车(让车/让行人)",
+      "手刹 / 驻车制动",
+      "单行道"
+    ],
+    "answerIndex": 3,
+    "explanation": "一方通行(いっぽうつうこう) = 单行道"
+  },
+  {
+    "id": "driving-w-ippo-w3-000",
+    "type": "choice",
+    "question": "单行道 用日语怎么说?",
+    "options": [
+      "横断歩道",
+      "車線変更",
+      "一方通行",
+      "交差点の向こう側"
+    ],
+    "answerIndex": 2,
+    "explanation": "一方通行(いっぽうつうこう) = 单行道"
+  },
+  {
+    "id": "driving-w-ippo-w4-000",
+    "type": "choice",
+    "question": "一方通行 的读音是?",
+    "options": [
+      "メーター",
+      "いっぽうつうこう",
+      "がいこくじん",
+      "たいほ"
+    ],
+    "answerIndex": 1,
+    "explanation": "一方通行 = いっぽうつうこう(单行道)"
+  },
+  {
+    "id": "driving-w-ippo-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "一方通行",
+    "answer": "いっぽうつうこう|",
+    "answerFormat": "hiragana",
+    "explanation": "一方通行 = いっぽうつうこう(单行道)"
+  },
+  {
+    "id": "driving-w-ippo-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "一方通行",
+    "answer": "いっぽうつうこう|",
+    "answerFormat": "hiragana",
+    "explanation": "一方通行 = いっぽうつうこう(单行道)"
+  },
+  {
+    "id": "driving-w-roji-w1-000",
+    "type": "choice",
+    "question": "路地 是什么意思?",
+    "options": [
+      "驾照,许可证",
+      "车辆",
+      "小巷,小道",
+      "变道"
+    ],
+    "answerIndex": 2,
+    "explanation": "路地(ろじ) = 小巷,小道"
+  },
+  {
+    "id": "driving-w-roji-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "路地",
+    "options": [
+      "坡道起步",
+      "灯",
+      "起步,启动",
+      "小巷,小道"
+    ],
+    "answerIndex": 3,
+    "explanation": "路地(ろじ) = 小巷,小道"
+  },
+  {
+    "id": "driving-w-roji-w3-000",
+    "type": "choice",
+    "question": "小巷,小道 用日语怎么说?",
+    "options": [
+      "路地",
+      "短い",
+      "どうして",
+      "ペダル"
+    ],
+    "answerIndex": 0,
+    "explanation": "路地(ろじ) = 小巷,小道"
+  },
+  {
+    "id": "driving-w-roji-w4-000",
+    "type": "choice",
+    "question": "路地 的读音是?",
+    "options": [
+      "たいこうしゃ",
+      "ろじ",
+      "あか",
+      "おしえてください"
+    ],
+    "answerIndex": 1,
+    "explanation": "路地 = ろじ(小巷,小道)"
+  },
+  {
+    "id": "driving-w-roji-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "路地",
+    "answer": "ろじ|",
+    "answerFormat": "hiragana",
+    "explanation": "路地 = ろじ(小巷,小道)"
+  },
+  {
+    "id": "driving-w-roji-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "路地",
+    "answer": "ろじ|",
+    "answerFormat": "hiragana",
+    "explanation": "路地 = ろじ(小巷,小道)"
+  },
+  {
+    "id": "driving-w-kosokudoro-w1-000",
+    "type": "choice",
+    "question": "高速道路 是什么意思?",
+    "options": [
+      "高速公路",
+      "慢,迟",
+      "今天",
+      "请加油"
+    ],
+    "answerIndex": 0,
+    "explanation": "高速道路(こうそくどうろ) = 高速公路"
+  },
+  {
+    "id": "driving-w-kosokudoro-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "高速道路",
+    "options": [
+      "做得很好",
+      "危险",
+      "高速公路",
+      "禁止停车"
+    ],
+    "answerIndex": 2,
+    "explanation": "高速道路(こうそくどうろ) = 高速公路"
+  },
+  {
+    "id": "driving-w-kosokudoro-w3-000",
+    "type": "choice",
+    "question": "高速公路 用日语怎么说?",
+    "options": [
+      "ドアミラー",
+      "高速道路",
+      "車外",
+      "車両"
+    ],
+    "answerIndex": 1,
+    "explanation": "高速道路(こうそくどうろ) = 高速公路"
+  },
+  {
+    "id": "driving-w-kosokudoro-w4-000",
+    "type": "choice",
+    "question": "高速道路 的读音是?",
+    "options": [
+      "たいほ",
+      "あお",
+      "こうそくどうろ",
+      "タイヤ"
+    ],
+    "answerIndex": 2,
+    "explanation": "高速道路 = こうそくどうろ(高速公路)"
+  },
+  {
+    "id": "driving-w-kosokudoro-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "高速道路",
+    "answer": "こうそくどうろ|",
+    "answerFormat": "hiragana",
+    "explanation": "高速道路 = こうそくどうろ(高速公路)"
+  },
+  {
+    "id": "driving-w-kosokudoro-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "高速道路",
+    "answer": "こうそくどうろ|",
+    "answerFormat": "hiragana",
+    "explanation": "高速道路 = こうそくどうろ(高速公路)"
+  },
+  {
+    "id": "driving-w-kokudou-w1-000",
+    "type": "choice",
+    "question": "国道 是什么意思?",
+    "options": [
+      "慢行,缓行",
+      "外国人",
+      "国道",
+      "快"
+    ],
+    "answerIndex": 2,
+    "explanation": "国道(こくどう) = 国道"
+  },
+  {
+    "id": "driving-w-kokudou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "国道",
+    "options": [
+      "对向来车",
+      "国道",
+      "掉头",
+      "不好意思,对不起"
+    ],
+    "answerIndex": 1,
+    "explanation": "国道(こくどう) = 国道"
+  },
+  {
+    "id": "driving-w-kokudou-w3-000",
+    "type": "choice",
+    "question": "国道 用日语怎么说?",
+    "options": [
+      "いつ",
+      "一方通行",
+      "国道",
+      "駐車禁止"
+    ],
+    "answerIndex": 2,
+    "explanation": "国道(こくどう) = 国道"
+  },
+  {
+    "id": "driving-w-kokudou-w4-000",
+    "type": "choice",
+    "question": "国道 的读音是?",
+    "options": [
+      "こくどう",
+      "きいろいせん",
+      "なまえ",
+      "ミラー"
+    ],
+    "answerIndex": 0,
+    "explanation": "国道 = こくどう(国道)"
+  },
+  {
+    "id": "driving-w-kokudou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "国道",
+    "answer": "こくどう|",
+    "answerFormat": "hiragana",
+    "explanation": "国道 = こくどう(国道)"
+  },
+  {
+    "id": "driving-w-kokudou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "国道",
+    "answer": "こくどう|",
+    "answerFormat": "hiragana",
+    "explanation": "国道 = こくどう(国道)"
+  },
+  {
+    "id": "driving-w-ken-w1-000",
+    "type": "choice",
+    "question": "県道 是什么意思?",
+    "options": [
+      "县道",
+      "好的",
+      "仪表盘",
+      "十字路口"
+    ],
+    "answerIndex": 0,
+    "explanation": "県道(けんどう) = 县道"
+  },
+  {
+    "id": "driving-w-ken-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "県道",
+    "options": [
+      "不好意思,对不起",
+      "你好",
+      "外国人",
+      "县道"
+    ],
+    "answerIndex": 3,
+    "explanation": "県道(けんどう) = 县道"
+  },
+  {
+    "id": "driving-w-ken-w3-000",
+    "type": "choice",
+    "question": "县道 用日语怎么说?",
+    "options": [
+      "Uターン",
+      "県道",
+      "駐車",
+      "対向車"
+    ],
+    "answerIndex": 1,
+    "explanation": "県道(けんどう) = 县道"
+  },
+  {
+    "id": "driving-w-ken-w4-000",
+    "type": "choice",
+    "question": "県道 的读音是?",
+    "options": [
+      "けんどう",
+      "かりめんきょ",
+      "きいろ",
+      "してください"
+    ],
+    "answerIndex": 0,
+    "explanation": "県道 = けんどう(县道)"
+  },
+  {
+    "id": "driving-w-ken-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "県道",
+    "answer": "けんどう|",
+    "answerFormat": "hiragana",
+    "explanation": "県道 = けんどう(县道)"
+  },
+  {
+    "id": "driving-w-ken-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "県道",
+    "answer": "けんどう|",
+    "answerFormat": "hiragana",
+    "explanation": "県道 = けんどう(县道)"
+  },
+  {
+    "id": "driving-w-shiroim-w1-000",
+    "type": "choice",
+    "question": "白い線 是什么意思?",
+    "options": [
+      "好好地 / 经常",
+      "车外",
+      "白线",
+      "标识,路标"
+    ],
+    "answerIndex": 2,
+    "explanation": "白い線(しろいせん) = 白线"
+  },
+  {
+    "id": "driving-w-shiroim-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "白い線",
+    "options": [
+      "证明书",
+      "快",
+      "危险报警灯(双闪)",
+      "白线"
+    ],
+    "answerIndex": 3,
+    "explanation": "白い線(しろいせん) = 白线"
+  },
+  {
+    "id": "driving-w-shiroim-w3-000",
+    "type": "choice",
+    "question": "白线 用日语怎么说?",
+    "options": [
+      "白い線",
+      "Uターン",
+      "標示",
+      "眼鏡"
+    ],
+    "answerIndex": 0,
+    "explanation": "白い線(しろいせん) = 白线"
+  },
+  {
+    "id": "driving-w-shiroim-w4-000",
+    "type": "choice",
+    "question": "白い線 的读音是?",
+    "options": [
+      "めんきょ",
+      "にゅうこう",
+      "しろいせん",
+      "しゃかんきょり"
+    ],
+    "answerIndex": 2,
+    "explanation": "白い線 = しろいせん(白线)"
+  },
+  {
+    "id": "driving-w-shiroim-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "白い線",
+    "answer": "しろいせん|",
+    "answerFormat": "hiragana",
+    "explanation": "白い線 = しろいせん(白线)"
+  },
+  {
+    "id": "driving-w-shiroim-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "白い線",
+    "answer": "しろいせん|",
+    "answerFormat": "hiragana",
+    "explanation": "白い線 = しろいせん(白线)"
+  },
+  {
+    "id": "driving-w-kiiroim-w1-000",
+    "type": "choice",
+    "question": "黄色い線 是什么意思?",
+    "options": [
+      "停车(长时间)",
+      "黄线(中央线)",
+      "刹车",
+      "请做~"
+    ],
+    "answerIndex": 1,
+    "explanation": "黄色い線(きいろいせん) = 黄线(中央线)"
+  },
+  {
+    "id": "driving-w-kiiroim-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "黄色い線",
+    "options": [
+      "右转",
+      "正式驾照",
+      "黄线(中央线)",
+      "灯"
+    ],
+    "answerIndex": 2,
+    "explanation": "黄色い線(きいろいせん) = 黄线(中央线)"
+  },
+  {
+    "id": "driving-w-kiiroim-w3-000",
+    "type": "choice",
+    "question": "黄线(中央线) 用日语怎么说?",
+    "options": [
+      "良い",
+      "どうやって",
+      "黄色い線",
+      "修了"
+    ],
+    "answerIndex": 2,
+    "explanation": "黄色い線(きいろいせん) = 黄线(中央线)"
+  },
+  {
+    "id": "driving-w-kiiroim-w4-000",
+    "type": "choice",
+    "question": "黄色い線 的读音是?",
+    "options": [
+      "さかみちはっしん",
+      "きいろいせん",
+      "ばっきん",
+      "おはようございます"
+    ],
+    "answerIndex": 1,
+    "explanation": "黄色い線 = きいろいせん(黄线(中央线))"
+  },
+  {
+    "id": "driving-w-kiiroim-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "黄色い線",
+    "answer": "きいろいせん|",
+    "answerFormat": "hiragana",
+    "explanation": "黄色い線 = きいろいせん(黄线(中央线))"
+  },
+  {
+    "id": "driving-w-kiiroim-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "黄色い線",
+    "answer": "きいろいせん|",
+    "answerFormat": "hiragana",
+    "explanation": "黄色い線 = きいろいせん(黄线(中央线))"
+  },
+  {
+    "id": "driving-w-hodou-w1-000",
+    "type": "choice",
+    "question": "歩道 是什么意思?",
+    "options": [
+      "理论(学科)",
+      "为什么",
+      "人行道",
+      "路口对面"
+    ],
+    "answerIndex": 2,
+    "explanation": "歩道(ほどう) = 人行道"
+  },
+  {
+    "id": "driving-w-hodou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "歩道",
+    "options": [
+      "人行道",
+      "人行横道",
+      "停车(长时间)",
+      "喇叭"
+    ],
+    "answerIndex": 0,
+    "explanation": "歩道(ほどう) = 人行道"
+  },
+  {
+    "id": "driving-w-hodou-w3-000",
+    "type": "choice",
+    "question": "人行道 用日语怎么说?",
+    "options": [
+      "印象",
+      "歩道",
+      "ありがとうございます",
+      "駐車"
+    ],
+    "answerIndex": 1,
+    "explanation": "歩道(ほどう) = 人行道"
+  },
+  {
+    "id": "driving-w-hodou-w4-000",
+    "type": "choice",
+    "question": "歩道 的读音是?",
+    "options": [
+      "じょこう",
+      "ほどう",
+      "クラクション",
+      "アクセル"
+    ],
+    "answerIndex": 1,
+    "explanation": "歩道 = ほどう(人行道)"
+  },
+  {
+    "id": "driving-w-hodou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "歩道",
+    "answer": "ほどう|",
+    "answerFormat": "hiragana",
+    "explanation": "歩道 = ほどう(人行道)"
+  },
+  {
+    "id": "driving-w-hodou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "歩道",
+    "answer": "ほどう|",
+    "answerFormat": "hiragana",
+    "explanation": "歩道 = ほどう(人行道)"
+  },
+  {
+    "id": "driving-w-shagai-w1-000",
+    "type": "choice",
+    "question": "車外 是什么意思?",
+    "options": [
+      "请告诉我",
+      "车外",
+      "车距",
+      "行人"
+    ],
+    "answerIndex": 1,
+    "explanation": "車外(しゃがい) = 车外"
+  },
+  {
+    "id": "driving-w-shagai-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "車外",
+    "options": [
+      "几点",
+      "轮胎",
+      "右转",
+      "车外"
+    ],
+    "answerIndex": 3,
+    "explanation": "車外(しゃがい) = 车外"
+  },
+  {
+    "id": "driving-w-shagai-w3-000",
+    "type": "choice",
+    "question": "车外 用日语怎么说?",
+    "options": [
+      "黄色い線",
+      "白い線",
+      "車外",
+      "切り替えし"
+    ],
+    "answerIndex": 2,
+    "explanation": "車外(しゃがい) = 车外"
+  },
+  {
+    "id": "driving-w-shagai-w4-000",
+    "type": "choice",
+    "question": "車外 的读音是?",
+    "options": [
+      "ミラー",
+      "クラッチ",
+      "まきこみかくにん",
+      "しゃがい"
+    ],
+    "answerIndex": 3,
+    "explanation": "車外 = しゃがい(车外)"
+  },
+  {
+    "id": "driving-w-shagai-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "車外",
+    "answer": "しゃがい|",
+    "answerFormat": "hiragana",
+    "explanation": "車外 = しゃがい(车外)"
+  },
+  {
+    "id": "driving-w-shagai-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "車外",
+    "answer": "しゃがい|",
+    "answerFormat": "hiragana",
+    "explanation": "車外 = しゃがい(车外)"
+  },
+  {
+    "id": "driving-w-hokushin-w1-000",
+    "type": "choice",
+    "question": "歩行者 是什么意思?",
+    "options": [
+      "行人",
+      "临时停车(让车/让行人)",
+      "我明白了",
+      "帮帮我"
+    ],
+    "answerIndex": 0,
+    "explanation": "歩行者(ほこうしゃ) = 行人"
+  },
+  {
+    "id": "driving-w-hokushin-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "歩行者",
+    "options": [
+      "交通规则",
+      "行人",
+      "停车(长时间)",
+      "逮捕"
+    ],
+    "answerIndex": 1,
+    "explanation": "歩行者(ほこうしゃ) = 行人"
+  },
+  {
+    "id": "driving-w-hokushin-w3-000",
+    "type": "choice",
+    "question": "行人 用日语怎么说?",
+    "options": [
+      "本免許",
+      "修了",
+      "歩行者",
+      "青"
+    ],
+    "answerIndex": 2,
+    "explanation": "歩行者(ほこうしゃ) = 行人"
+  },
+  {
+    "id": "driving-w-hokushin-w4-000",
+    "type": "choice",
+    "question": "歩行者 的读音是?",
+    "options": [
+      "シフト",
+      "だつりん",
+      "クラッチ",
+      "ほこうしゃ"
+    ],
+    "answerIndex": 3,
+    "explanation": "歩行者 = ほこうしゃ(行人)"
+  },
+  {
+    "id": "driving-w-hokushin-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "歩行者",
+    "answer": "ほこうしゃ|",
+    "answerFormat": "hiragana",
+    "explanation": "歩行者 = ほこうしゃ(行人)"
+  },
+  {
+    "id": "driving-w-hokushin-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "歩行者",
+    "answer": "ほこうしゃ|",
+    "answerFormat": "hiragana",
+    "explanation": "歩行者 = ほこうしゃ(行人)"
+  },
+  {
+    "id": "driving-w-taikou-w1-000",
+    "type": "choice",
+    "question": "対向車 是什么意思?",
+    "options": [
+      "对向来车",
+      "车外后视镜",
+      "入校(教习所)",
+      "车轮驶离(路缘)"
+    ],
+    "answerIndex": 0,
+    "explanation": "対向車(たいこうしゃ) = 对向来车"
+  },
+  {
+    "id": "driving-w-taikou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "対向車",
+    "options": [
+      "换挡",
+      "对向来车",
+      "行人",
+      "罚款"
+    ],
+    "answerIndex": 1,
+    "explanation": "対向車(たいこうしゃ) = 对向来车"
+  },
+  {
+    "id": "driving-w-taikou-w3-000",
+    "type": "choice",
+    "question": "对向来车 用日语怎么说?",
+    "options": [
+      "左折",
+      "対向車",
+      "修了",
+      "眼鏡"
+    ],
+    "answerIndex": 1,
+    "explanation": "対向車(たいこうしゃ) = 对向来车"
+  },
+  {
+    "id": "driving-w-taikou-w4-000",
+    "type": "choice",
+    "question": "対向車 的读音是?",
+    "options": [
+      "はんどる",
+      "こうさてん",
+      "たいこうしゃ",
+      "あお"
+    ],
+    "answerIndex": 2,
+    "explanation": "対向車 = たいこうしゃ(对向来车)"
+  },
+  {
+    "id": "driving-w-taikou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "対向車",
+    "answer": "たいこうしゃ|",
+    "answerFormat": "hiragana",
+    "explanation": "対向車 = たいこうしゃ(对向来车)"
+  },
+  {
+    "id": "driving-w-taikou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "対向車",
+    "answer": "たいこうしゃ|",
+    "answerFormat": "hiragana",
+    "explanation": "対向車 = たいこうしゃ(对向来车)"
+  },
+  {
+    "id": "driving-w-yokogao-w1-000",
+    "type": "choice",
+    "question": "交差点の向こう側 是什么意思?",
+    "options": [
+      "钥匙",
+      "谢谢",
+      "路口对面",
+      "考试"
+    ],
+    "answerIndex": 2,
+    "explanation": "交差点の向こう側(こうさてんのむこうがわ) = 路口对面"
+  },
+  {
+    "id": "driving-w-yokogao-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "交差点の向こう側",
+    "options": [
+      "印象",
+      "安全",
+      "结业,完成",
+      "路口对面"
+    ],
+    "answerIndex": 3,
+    "explanation": "交差点の向こう側(こうさてんのむこうがわ) = 路口对面"
+  },
+  {
+    "id": "driving-w-yokogao-w3-000",
+    "type": "choice",
+    "question": "路口对面 用日语怎么说?",
+    "options": [
+      "交差点の向こう側",
+      "おはようございます",
+      "危険",
+      "教官"
+    ],
+    "answerIndex": 0,
+    "explanation": "交差点の向こう側(こうさてんのむこうがわ) = 路口对面"
+  },
+  {
+    "id": "driving-w-yokogao-w4-000",
+    "type": "choice",
+    "question": "交差点の向こう側 的读音是?",
+    "options": [
+      "きょう",
+      "こうさてんのむこうがわ",
+      "シフト",
+      "なんまい"
+    ],
+    "answerIndex": 1,
+    "explanation": "交差点の向こう側 = こうさてんのむこうがわ(路口对面)"
+  },
+  {
+    "id": "driving-w-yokogao-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "交差点の向こう側",
+    "answer": "こうさてんのむこうがわ|",
+    "answerFormat": "hiragana",
+    "explanation": "交差点の向こう側 = こうさてんのむこうがわ(路口对面)"
+  },
+  {
+    "id": "driving-w-yokogao-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "交差点の向こう側",
+    "answer": "こうさてんのむこうがわ|",
+    "answerFormat": "hiragana",
+    "explanation": "交差点の向こう側 = こうさてんのむこうがわ(路口对面)"
+  },
+  {
+    "id": "driving-w-eki-mae-w1-000",
+    "type": "choice",
+    "question": "駅前 是什么意思?",
+    "options": [
+      "停车(短时)",
+      "入学",
+      "好好地 / 经常",
+      "车站前"
+    ],
+    "answerIndex": 3,
+    "explanation": "駅前(えきまえ) = 车站前"
+  },
+  {
+    "id": "driving-w-eki-mae-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "駅前",
+    "options": [
+      "车站前",
+      "灯",
+      "好的",
+      "名字"
+    ],
+    "answerIndex": 0,
+    "explanation": "駅前(えきまえ) = 车站前"
+  },
+  {
+    "id": "driving-w-eki-mae-w3-000",
+    "type": "choice",
+    "question": "车站前 用日语怎么说?",
+    "options": [
+      "駅前",
+      "上り坂",
+      "ブレーキ",
+      "ウインカー"
+    ],
+    "answerIndex": 0,
+    "explanation": "駅前(えきまえ) = 车站前"
+  },
+  {
+    "id": "driving-w-eki-mae-w4-000",
+    "type": "choice",
+    "question": "駅前 的读音是?",
+    "options": [
+      "キー",
+      "シートベルト",
+      "ライト",
+      "えきまえ"
+    ],
+    "answerIndex": 3,
+    "explanation": "駅前 = えきまえ(车站前)"
+  },
+  {
+    "id": "driving-w-eki-mae-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "駅前",
+    "answer": "えきまえ|",
+    "answerFormat": "hiragana",
+    "explanation": "駅前 = えきまえ(车站前)"
+  },
+  {
+    "id": "driving-w-eki-mae-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "駅前",
+    "answer": "えきまえ|",
+    "answerFormat": "hiragana",
+    "explanation": "駅前 = えきまえ(车站前)"
+  },
+  {
+    "id": "driving-w-hyoushiki-w1-000",
+    "type": "choice",
+    "question": "標識 是什么意思?",
+    "options": [
+      "请告诉我",
+      "我明白了",
+      "发动机",
+      "标识,路标"
+    ],
+    "answerIndex": 3,
+    "explanation": "標識(ひょうしき) = 标识,路标"
+  },
+  {
+    "id": "driving-w-hyoushiki-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "標識",
+    "options": [
+      "右转",
+      "标识,路标",
+      "考场",
+      "慢,迟"
+    ],
+    "answerIndex": 1,
+    "explanation": "標識(ひょうしき) = 标识,路标"
+  },
+  {
+    "id": "driving-w-hyoushiki-w3-000",
+    "type": "choice",
+    "question": "标识,路标 用日语怎么说?",
+    "options": [
+      "卒業",
+      "標識",
+      "車外",
+      "通り"
+    ],
+    "answerIndex": 1,
+    "explanation": "標識(ひょうしき) = 标识,路标"
+  },
+  {
+    "id": "driving-w-hyoushiki-w4-000",
+    "type": "choice",
+    "question": "標識 的读音是?",
+    "options": [
+      "わかりません",
+      "ちゅうしゃ",
+      "しゃりょう",
+      "ひょうしき"
+    ],
+    "answerIndex": 3,
+    "explanation": "標識 = ひょうしき(标识,路标)"
+  },
+  {
+    "id": "driving-w-hyoushiki-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "標識",
+    "answer": "ひょうしき|",
+    "answerFormat": "hiragana",
+    "explanation": "標識 = ひょうしき(标识,路标)"
+  },
+  {
+    "id": "driving-w-hyoushiki-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "標識",
+    "answer": "ひょうしき|",
+    "answerFormat": "hiragana",
+    "explanation": "標識 = ひょうしき(标识,路标)"
+  },
+  {
+    "id": "driving-w-hyoushi-w1-000",
+    "type": "choice",
+    "question": "標示 是什么意思?",
+    "options": [
+      "红绿灯",
+      "高速公路",
+      "慢行,缓行",
+      "路面标线"
+    ],
+    "answerIndex": 3,
+    "explanation": "標示(ひょうじ) = 路面标线"
+  },
+  {
+    "id": "driving-w-hyoushi-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "標示",
+    "options": [
+      "禁止临时停车",
+      "车外后视镜",
+      "右转",
+      "路面标线"
+    ],
+    "answerIndex": 3,
+    "explanation": "標示(ひょうじ) = 路面标线"
+  },
+  {
+    "id": "driving-w-hyoushi-w3-000",
+    "type": "choice",
+    "question": "路面标线 用日语怎么说?",
+    "options": [
+      "標示",
+      "停車禁止",
+      "車外",
+      "逮捕"
+    ],
+    "answerIndex": 0,
+    "explanation": "標示(ひょうじ) = 路面标线"
+  },
+  {
+    "id": "driving-w-hyoushi-w4-000",
+    "type": "choice",
+    "question": "標示 的读音是?",
+    "options": [
+      "ドアミラー",
+      "なんじ",
+      "ひょうじ",
+      "しょうめいしょ"
+    ],
+    "answerIndex": 2,
+    "explanation": "標示 = ひょうじ(路面标线)"
+  },
+  {
+    "id": "driving-w-hyoushi-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "標示",
+    "answer": "ひょうじ|",
+    "answerFormat": "hiragana",
+    "explanation": "標示 = ひょうじ(路面标线)"
+  },
+  {
+    "id": "driving-w-hyoushi-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "標示",
+    "answer": "ひょうじ|",
+    "answerFormat": "hiragana",
+    "explanation": "標示 = ひょうじ(路面标线)"
+  },
+  {
+    "id": "driving-w-jokou-w1-000",
+    "type": "choice",
+    "question": "徐行 是什么意思?",
+    "options": [
+      "慢行,缓行",
+      "路口对面",
+      "轮胎",
+      "转向灯"
+    ],
+    "answerIndex": 0,
+    "explanation": "徐行(じょこう) = 慢行,缓行"
+  },
+  {
+    "id": "driving-w-jokou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "徐行",
+    "options": [
+      "罚款",
+      "慢行,缓行",
+      "确认转弯内侧",
+      "禁止临时停车"
+    ],
+    "answerIndex": 1,
+    "explanation": "徐行(じょこう) = 慢行,缓行"
+  },
+  {
+    "id": "driving-w-jokou-w3-000",
+    "type": "choice",
+    "question": "慢行,缓行 用日语怎么说?",
+    "options": [
+      "学科",
+      "助けて",
+      "徐行",
+      "よく"
+    ],
+    "answerIndex": 2,
+    "explanation": "徐行(じょこう) = 慢行,缓行"
+  },
+  {
+    "id": "driving-w-jokou-w4-000",
+    "type": "choice",
+    "question": "徐行 的读音是?",
+    "options": [
+      "ばっきん",
+      "よく",
+      "じょこう",
+      "にゅうこう"
+    ],
+    "answerIndex": 2,
+    "explanation": "徐行 = じょこう(慢行,缓行)"
+  },
+  {
+    "id": "driving-w-jokou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "徐行",
+    "answer": "じょこう|",
+    "answerFormat": "hiragana",
+    "explanation": "徐行 = じょこう(慢行,缓行)"
+  },
+  {
+    "id": "driving-w-jokou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "徐行",
+    "answer": "じょこう|",
+    "answerFormat": "hiragana",
+    "explanation": "徐行 = じょこう(慢行,缓行)"
+  },
+  {
+    "id": "driving-w-chuusha-kinshi-w1-000",
+    "type": "choice",
+    "question": "駐車禁止 是什么意思?",
+    "options": [
+      "白线",
+      "坡道起步",
+      "踏板",
+      "禁止停车"
+    ],
+    "answerIndex": 3,
+    "explanation": "駐車禁止(ちゅうしゃきんし) = 禁止停车"
+  },
+  {
+    "id": "driving-w-chuusha-kinshi-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "駐車禁止",
+    "options": [
+      "禁止停车",
+      "不好意思,对不起",
+      "掉头",
+      "喇叭"
+    ],
+    "answerIndex": 0,
+    "explanation": "駐車禁止(ちゅうしゃきんし) = 禁止停车"
+  },
+  {
+    "id": "driving-w-chuusha-kinshi-w3-000",
+    "type": "choice",
+    "question": "禁止停车 用日语怎么说?",
+    "options": [
+      "駐車禁止",
+      "タイヤ",
+      "通り",
+      "教官"
+    ],
+    "answerIndex": 0,
+    "explanation": "駐車禁止(ちゅうしゃきんし) = 禁止停车"
+  },
+  {
+    "id": "driving-w-chuusha-kinshi-w4-000",
+    "type": "choice",
+    "question": "駐車禁止 的读音是?",
+    "options": [
+      "けんてい",
+      "しけんかいじょう",
+      "ちゅうしゃきんし",
+      "みじかい"
+    ],
+    "answerIndex": 2,
+    "explanation": "駐車禁止 = ちゅうしゃきんし(禁止停车)"
+  },
+  {
+    "id": "driving-w-chuusha-kinshi-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "駐車禁止",
+    "answer": "ちゅうしゃきんし|",
+    "answerFormat": "hiragana",
+    "explanation": "駐車禁止 = ちゅうしゃきんし(禁止停车)"
+  },
+  {
+    "id": "driving-w-chuusha-kinshi-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "駐車禁止",
+    "answer": "ちゅうしゃきんし|",
+    "answerFormat": "hiragana",
+    "explanation": "駐車禁止 = ちゅうしゃきんし(禁止停车)"
+  },
+  {
+    "id": "driving-w-teisha-kinshi-w1-000",
+    "type": "choice",
+    "question": "停車禁止 是什么意思?",
+    "options": [
+      "车站前",
+      "驾照,许可证",
+      "好好地 / 经常",
+      "禁止临时停车"
+    ],
+    "answerIndex": 3,
+    "explanation": "停車禁止(ていしゃきんし) = 禁止临时停车"
+  },
+  {
+    "id": "driving-w-teisha-kinshi-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "停車禁止",
+    "options": [
+      "今天",
+      "后视镜",
+      "禁止临时停车",
+      "钥匙"
+    ],
+    "answerIndex": 2,
+    "explanation": "停車禁止(ていしゃきんし) = 禁止临时停车"
+  },
+  {
+    "id": "driving-w-teisha-kinshi-w3-000",
+    "type": "choice",
+    "question": "禁止临时停车 用日语怎么说?",
+    "options": [
+      "停車禁止",
+      "仮免許",
+      "検定",
+      "停止"
+    ],
+    "answerIndex": 0,
+    "explanation": "停車禁止(ていしゃきんし) = 禁止临时停车"
+  },
+  {
+    "id": "driving-w-teisha-kinshi-w4-000",
+    "type": "choice",
+    "question": "停車禁止 的读音是?",
+    "options": [
+      "ひょうしき",
+      "ほどう",
+      "どうして",
+      "ていしゃきんし"
+    ],
+    "answerIndex": 3,
+    "explanation": "停車禁止 = ていしゃきんし(禁止临时停车)"
+  },
+  {
+    "id": "driving-w-teisha-kinshi-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "停車禁止",
+    "answer": "ていしゃきんし|",
+    "answerFormat": "hiragana",
+    "explanation": "停車禁止 = ていしゃきんし(禁止临时停车)"
+  },
+  {
+    "id": "driving-w-teisha-kinshi-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "停車禁止",
+    "answer": "ていしゃきんし|",
+    "answerFormat": "hiragana",
+    "explanation": "停車禁止 = ていしゃきんし(禁止临时停车)"
+  },
+  {
+    "id": "driving-w-taiho-w1-000",
+    "type": "choice",
+    "question": "逮捕 是什么意思?",
+    "options": [
+      "教官,教练",
+      "逮捕",
+      "单行道",
+      "驾照,许可证"
+    ],
+    "answerIndex": 1,
+    "explanation": "逮捕(たいほ) = 逮捕"
+  },
+  {
+    "id": "driving-w-taiho-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "逮捕",
+    "options": [
+      "毕业",
+      "逮捕",
+      "入学",
+      "喇叭"
+    ],
+    "answerIndex": 1,
+    "explanation": "逮捕(たいほ) = 逮捕"
+  },
+  {
+    "id": "driving-w-taiho-w3-000",
+    "type": "choice",
+    "question": "逮捕 用日语怎么说?",
+    "options": [
+      "こんにちは",
+      "黄色い線",
+      "逮捕",
+      "名前"
+    ],
+    "answerIndex": 2,
+    "explanation": "逮捕(たいほ) = 逮捕"
+  },
+  {
+    "id": "driving-w-taiho-w4-000",
+    "type": "choice",
+    "question": "逮捕 的读音是?",
+    "options": [
+      "ギア",
+      "たいほ",
+      "どおり",
+      "いんしょう"
+    ],
+    "answerIndex": 1,
+    "explanation": "逮捕 = たいほ(逮捕)"
+  },
+  {
+    "id": "driving-w-taiho-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "逮捕",
+    "answer": "たいほ|",
+    "answerFormat": "hiragana",
+    "explanation": "逮捕 = たいほ(逮捕)"
+  },
+  {
+    "id": "driving-w-taiho-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "逮捕",
+    "answer": "たいほ|",
+    "answerFormat": "hiragana",
+    "explanation": "逮捕 = たいほ(逮捕)"
+  },
+  {
+    "id": "driving-w-bakkin-w1-000",
+    "type": "choice",
+    "question": "罰金 是什么意思?",
+    "options": [
+      "确认转弯内侧",
+      "学员",
+      "罚款",
+      "安全带"
+    ],
+    "answerIndex": 2,
+    "explanation": "罰金(ばっきん) = 罚款"
+  },
+  {
+    "id": "driving-w-bakkin-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "罰金",
+    "options": [
+      "慢,迟",
+      "短的",
+      "考试",
+      "罚款"
+    ],
+    "answerIndex": 3,
+    "explanation": "罰金(ばっきん) = 罚款"
+  },
+  {
+    "id": "driving-w-bakkin-w3-000",
+    "type": "choice",
+    "question": "罚款 用日语怎么说?",
+    "options": [
+      "路地",
+      "安全",
+      "もう一度",
+      "罰金"
+    ],
+    "answerIndex": 3,
+    "explanation": "罰金(ばっきん) = 罚款"
+  },
+  {
+    "id": "driving-w-bakkin-w4-000",
+    "type": "choice",
+    "question": "罰金 的读音是?",
+    "options": [
+      "あか",
+      "おうだんほどう",
+      "がっか",
+      "ばっきん"
+    ],
+    "answerIndex": 3,
+    "explanation": "罰金 = ばっきん(罚款)"
+  },
+  {
+    "id": "driving-w-bakkin-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "罰金",
+    "answer": "ばっきん|",
+    "answerFormat": "hiragana",
+    "explanation": "罰金 = ばっきん(罚款)"
+  },
+  {
+    "id": "driving-w-bakkin-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "罰金",
+    "answer": "ばっきん|",
+    "answerFormat": "hiragana",
+    "explanation": "罰金 = ばっきん(罚款)"
+  },
+  {
+    "id": "driving-w-koutsu-w1-000",
+    "type": "choice",
+    "question": "交通ルール 是什么意思?",
+    "options": [
+      "高速公路",
+      "停止",
+      "交通规则",
+      "左转"
+    ],
+    "answerIndex": 2,
+    "explanation": "交通ルール(こうつうルール) = 交通规则"
+  },
+  {
+    "id": "driving-w-koutsu-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "交通ルール",
+    "options": [
+      "交通规则",
+      "毕业",
+      "县道",
+      "车内后视镜"
+    ],
+    "answerIndex": 0,
+    "explanation": "交通ルール(こうつうルール) = 交通规则"
+  },
+  {
+    "id": "driving-w-koutsu-w3-000",
+    "type": "choice",
+    "question": "交通规则 用日语怎么说?",
+    "options": [
+      "停止",
+      "眼鏡",
+      "交通ルール",
+      "巻き込み確認"
+    ],
+    "answerIndex": 2,
+    "explanation": "交通ルール(こうつうルール) = 交通规则"
+  },
+  {
+    "id": "driving-w-koutsu-w4-000",
+    "type": "choice",
+    "question": "交通ルール 的读音是?",
+    "options": [
+      "しゃがい",
+      "ペダル",
+      "こうつうルール",
+      "どうして"
+    ],
+    "answerIndex": 2,
+    "explanation": "交通ルール = こうつうルール(交通规则)"
+  },
+  {
+    "id": "driving-w-koutsu-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "交通ルール",
+    "answer": "こうつうルール|",
+    "answerFormat": "hiragana",
+    "explanation": "交通ルール = こうつうルール(交通规则)"
+  },
+  {
+    "id": "driving-w-koutsu-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "交通ルール",
+    "answer": "こうつうルール|",
+    "answerFormat": "hiragana",
+    "explanation": "交通ルール = こうつうルール(交通规则)"
+  },
+  {
+    "id": "driving-w-shiken-w1-000",
+    "type": "choice",
+    "question": "試験 是什么意思?",
+    "options": [
+      "入校(教习所)",
+      "考试",
+      "做得很好",
+      "明天"
+    ],
+    "answerIndex": 1,
+    "explanation": "試験(しけん) = 考试"
+  },
+  {
+    "id": "driving-w-shiken-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "試験",
+    "options": [
+      "人行横道",
+      "早上好",
+      "离合器(仅MT)",
+      "考试"
+    ],
+    "answerIndex": 3,
+    "explanation": "試験(しけん) = 考试"
+  },
+  {
+    "id": "driving-w-shiken-w3-000",
+    "type": "choice",
+    "question": "考试 用日语怎么说?",
+    "options": [
+      "一方通行",
+      "ギア",
+      "試験",
+      "今"
+    ],
+    "answerIndex": 2,
+    "explanation": "試験(しけん) = 考试"
+  },
+  {
+    "id": "driving-w-shiken-w4-000",
+    "type": "choice",
+    "question": "試験 的读音是?",
+    "options": [
+      "いま",
+      "しけん",
+      "かりめんきょ",
+      "ていし"
+    ],
+    "answerIndex": 1,
+    "explanation": "試験 = しけん(考试)"
+  },
+  {
+    "id": "driving-w-shiken-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "試験",
+    "answer": "しけん|",
+    "answerFormat": "hiragana",
+    "explanation": "試験 = しけん(考试)"
+  },
+  {
+    "id": "driving-w-shiken-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "試験",
+    "answer": "しけん|",
+    "answerFormat": "hiragana",
+    "explanation": "試験 = しけん(考试)"
+  },
+  {
+    "id": "driving-w-menkyo-w1-000",
+    "type": "choice",
+    "question": "免許 是什么意思?",
+    "options": [
+      "我明白了",
+      "上坡",
+      "起步,启动",
+      "驾照,许可证"
+    ],
+    "answerIndex": 3,
+    "explanation": "免許(めんきょ) = 驾照,许可证"
+  },
+  {
+    "id": "driving-w-menkyo-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "免許",
+    "options": [
+      "人行道",
+      "今天",
+      "结业,完成",
+      "驾照,许可证"
+    ],
+    "answerIndex": 3,
+    "explanation": "免許(めんきょ) = 驾照,许可证"
+  },
+  {
+    "id": "driving-w-menkyo-w3-000",
+    "type": "choice",
+    "question": "驾照,许可证 用日语怎么说?",
+    "options": [
+      "駅前",
+      "白い線",
+      "免許",
+      "キー"
+    ],
+    "answerIndex": 2,
+    "explanation": "免許(めんきょ) = 驾照,许可证"
+  },
+  {
+    "id": "driving-w-menkyo-w4-000",
+    "type": "choice",
+    "question": "免許 的读音是?",
+    "options": [
+      "いっぽうつうこう",
+      "めんきょ",
+      "きょうかん",
+      "なんまい"
+    ],
+    "answerIndex": 1,
+    "explanation": "免許 = めんきょ(驾照,许可证)"
+  },
+  {
+    "id": "driving-w-menkyo-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "免許",
+    "answer": "めんきょ|",
+    "answerFormat": "hiragana",
+    "explanation": "免許 = めんきょ(驾照,许可证)"
+  },
+  {
+    "id": "driving-w-menkyo-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "免許",
+    "answer": "めんきょ|",
+    "answerFormat": "hiragana",
+    "explanation": "免許 = めんきょ(驾照,许可证)"
+  },
+  {
+    "id": "driving-w-gakika-w1-000",
+    "type": "choice",
+    "question": "学科 是什么意思?",
+    "options": [
+      "考试",
+      "右转",
+      "变道",
+      "理论(学科)"
+    ],
+    "answerIndex": 3,
+    "explanation": "学科(がっか) = 理论(学科)"
+  },
+  {
+    "id": "driving-w-gakika-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "学科",
+    "options": [
+      "理论(学科)",
+      "危险",
+      "名字",
+      "钥匙"
+    ],
+    "answerIndex": 0,
+    "explanation": "学科(がっか) = 理论(学科)"
+  },
+  {
+    "id": "driving-w-gakika-w3-000",
+    "type": "choice",
+    "question": "理论(学科) 用日语怎么说?",
+    "options": [
+      "通り",
+      "信号",
+      "学科",
+      "試験会場"
+    ],
+    "answerIndex": 2,
+    "explanation": "学科(がっか) = 理论(学科)"
+  },
+  {
+    "id": "driving-w-gakika-w4-000",
+    "type": "choice",
+    "question": "学科 的读音是?",
+    "options": [
+      "もういちど",
+      "にゅうこう",
+      "いんしょう",
+      "がっか"
+    ],
+    "answerIndex": 3,
+    "explanation": "学科 = がっか(理论(学科))"
+  },
+  {
+    "id": "driving-w-gakika-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "学科",
+    "answer": "がっか|",
+    "answerFormat": "hiragana",
+    "explanation": "学科 = がっか(理论(学科))"
+  },
+  {
+    "id": "driving-w-gakika-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "学科",
+    "answer": "がっか|",
+    "answerFormat": "hiragana",
+    "explanation": "学科 = がっか(理论(学科))"
+  },
+  {
+    "id": "driving-w-gijutsu-w1-000",
+    "type": "choice",
+    "question": "技能 是什么意思?",
+    "options": [
+      "标识,路标",
+      "临时驾照(假驾照)",
+      "技能(实操)",
+      "明天"
+    ],
+    "answerIndex": 2,
+    "explanation": "技能(ぎのう) = 技能(实操)"
+  },
+  {
+    "id": "driving-w-gijutsu-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "技能",
+    "options": [
+      "车外",
+      "几张",
+      "你好",
+      "技能(实操)"
+    ],
+    "answerIndex": 3,
+    "explanation": "技能(ぎのう) = 技能(实操)"
+  },
+  {
+    "id": "driving-w-gijutsu-w3-000",
+    "type": "choice",
+    "question": "技能(实操) 用日语怎么说?",
+    "options": [
+      "試験",
+      "技能",
+      "キー",
+      "また"
+    ],
+    "answerIndex": 1,
+    "explanation": "技能(ぎのう) = 技能(实操)"
+  },
+  {
+    "id": "driving-w-gijutsu-w4-000",
+    "type": "choice",
+    "question": "技能 的读音是?",
+    "options": [
+      "ぎのう",
+      "いつ",
+      "みじかい",
+      "ゆっくり"
+    ],
+    "answerIndex": 0,
+    "explanation": "技能 = ぎのう(技能(实操))"
+  },
+  {
+    "id": "driving-w-gijutsu-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "技能",
+    "answer": "ぎのう|",
+    "answerFormat": "hiragana",
+    "explanation": "技能 = ぎのう(技能(实操))"
+  },
+  {
+    "id": "driving-w-gijutsu-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "技能",
+    "answer": "ぎのう|",
+    "answerFormat": "hiragana",
+    "explanation": "技能 = ぎのう(技能(实操))"
+  },
+  {
+    "id": "driving-w-shuuryou-w1-000",
+    "type": "choice",
+    "question": "修了 是什么意思?",
+    "options": [
+      "红",
+      "结业,完成",
+      "停止",
+      "长的"
+    ],
+    "answerIndex": 1,
+    "explanation": "修了(しゅうりょう) = 结业,完成"
+  },
+  {
+    "id": "driving-w-shuuryou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "修了",
+    "options": [
+      "结业,完成",
+      "车距",
+      "慢慢地",
+      "入校(教习所)"
+    ],
+    "answerIndex": 0,
+    "explanation": "修了(しゅうりょう) = 结业,完成"
+  },
+  {
+    "id": "driving-w-shuuryou-w3-000",
+    "type": "choice",
+    "question": "结业,完成 用日语怎么说?",
+    "options": [
+      "眼鏡",
+      "標識",
+      "修了",
+      "県道"
+    ],
+    "answerIndex": 2,
+    "explanation": "修了(しゅうりょう) = 结业,完成"
+  },
+  {
+    "id": "driving-w-shuuryou-w4-000",
+    "type": "choice",
+    "question": "修了 的读音是?",
+    "options": [
+      "どうやって",
+      "シートベルト",
+      "しゅうりょう",
+      "はっしん"
+    ],
+    "answerIndex": 2,
+    "explanation": "修了 = しゅうりょう(结业,完成)"
+  },
+  {
+    "id": "driving-w-shuuryou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "修了",
+    "answer": "しゅうりょう|",
+    "answerFormat": "hiragana",
+    "explanation": "修了 = しゅうりょう(结业,完成)"
+  },
+  {
+    "id": "driving-w-shuuryou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "修了",
+    "answer": "しゅうりょう|",
+    "answerFormat": "hiragana",
+    "explanation": "修了 = しゅうりょう(结业,完成)"
+  },
+  {
+    "id": "driving-w-sotsugyou-w1-000",
+    "type": "choice",
+    "question": "卒業 是什么意思?",
+    "options": [
+      "危险",
+      "车站前",
+      "什么时候",
+      "毕业"
+    ],
+    "answerIndex": 3,
+    "explanation": "卒業(そつぎょう) = 毕业"
+  },
+  {
+    "id": "driving-w-sotsugyou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "卒業",
+    "options": [
+      "毕业",
+      "好的",
+      "为什么",
+      "眼镜"
+    ],
+    "answerIndex": 0,
+    "explanation": "卒業(そつぎょう) = 毕业"
+  },
+  {
+    "id": "driving-w-sotsugyou-w3-000",
+    "type": "choice",
+    "question": "毕业 用日语怎么说?",
+    "options": [
+      "試験会場",
+      "長い",
+      "卒業",
+      "エンジン"
+    ],
+    "answerIndex": 2,
+    "explanation": "卒業(そつぎょう) = 毕业"
+  },
+  {
+    "id": "driving-w-sotsugyou-w4-000",
+    "type": "choice",
+    "question": "卒業 的读音是?",
+    "options": [
+      "シート",
+      "ギア",
+      "そつぎょう",
+      "まきこみかくにん"
+    ],
+    "answerIndex": 2,
+    "explanation": "卒業 = そつぎょう(毕业)"
+  },
+  {
+    "id": "driving-w-sotsugyou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "卒業",
+    "answer": "そつぎょう|",
+    "answerFormat": "hiragana",
+    "explanation": "卒業 = そつぎょう(毕业)"
+  },
+  {
+    "id": "driving-w-sotsugyou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "卒業",
+    "answer": "そつぎょう|",
+    "answerFormat": "hiragana",
+    "explanation": "卒業 = そつぎょう(毕业)"
+  },
+  {
+    "id": "driving-w-shingaku-w1-000",
+    "type": "choice",
+    "question": "入学 是什么意思?",
+    "options": [
+      "好好地 / 经常",
+      "后视镜",
+      "小巷,小道",
+      "入学"
+    ],
+    "answerIndex": 3,
+    "explanation": "入学(にゅうがく) = 入学"
+  },
+  {
+    "id": "driving-w-shingaku-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "入学",
+    "options": [
+      "慢慢地",
+      "入学",
+      "早上好",
+      "踏板"
+    ],
+    "answerIndex": 1,
+    "explanation": "入学(にゅうがく) = 入学"
+  },
+  {
+    "id": "driving-w-shingaku-w3-000",
+    "type": "choice",
+    "question": "入学 用日语怎么说?",
+    "options": [
+      "停止",
+      "右折",
+      "入学",
+      "シフト"
+    ],
+    "answerIndex": 2,
+    "explanation": "入学(にゅうがく) = 入学"
+  },
+  {
+    "id": "driving-w-shingaku-w4-000",
+    "type": "choice",
+    "question": "入学 的读音是?",
+    "options": [
+      "メーター",
+      "かりめんきょ",
+      "しんごう",
+      "にゅうがく"
+    ],
+    "answerIndex": 3,
+    "explanation": "入学 = にゅうがく(入学)"
+  },
+  {
+    "id": "driving-w-shingaku-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "入学",
+    "answer": "にゅうがく|",
+    "answerFormat": "hiragana",
+    "explanation": "入学 = にゅうがく(入学)"
+  },
+  {
+    "id": "driving-w-shingaku-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "入学",
+    "answer": "にゅうがく|",
+    "answerFormat": "hiragana",
+    "explanation": "入学 = にゅうがく(入学)"
+  },
+  {
+    "id": "driving-w-nyuukou-w1-000",
+    "type": "choice",
+    "question": "入校 是什么意思?",
+    "options": [
+      "长的",
+      "禁止停车",
+      "名字",
+      "入校(教习所)"
+    ],
+    "answerIndex": 3,
+    "explanation": "入校(にゅうこう) = 入校(教习所)"
+  },
+  {
+    "id": "driving-w-nyuukou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "入校",
+    "options": [
+      "入校(教习所)",
+      "安全",
+      "正式驾照",
+      "后视镜"
+    ],
+    "answerIndex": 0,
+    "explanation": "入校(にゅうこう) = 入校(教习所)"
+  },
+  {
+    "id": "driving-w-nyuukou-w3-000",
+    "type": "choice",
+    "question": "入校(教习所) 用日语怎么说?",
+    "options": [
+      "逮捕",
+      "停車",
+      "教習生",
+      "入校"
+    ],
+    "answerIndex": 3,
+    "explanation": "入校(にゅうこう) = 入校(教习所)"
+  },
+  {
+    "id": "driving-w-nyuukou-w4-000",
+    "type": "choice",
+    "question": "入校 的读音是?",
+    "options": [
+      "にゅうこう",
+      "ほこうしゃ",
+      "しゅうりょう",
+      "くだりざか"
+    ],
+    "answerIndex": 0,
+    "explanation": "入校 = にゅうこう(入校(教习所))"
+  },
+  {
+    "id": "driving-w-nyuukou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "入校",
+    "answer": "にゅうこう|",
+    "answerFormat": "hiragana",
+    "explanation": "入校 = にゅうこう(入校(教习所))"
+  },
+  {
+    "id": "driving-w-nyuukou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "入校",
+    "answer": "にゅうこう|",
+    "answerFormat": "hiragana",
+    "explanation": "入校 = にゅうこう(入校(教习所))"
+  },
+  {
+    "id": "driving-w-kentei-w1-000",
+    "type": "choice",
+    "question": "検定 是什么意思?",
+    "options": [
+      "明天",
+      "入学",
+      "考试,考核",
+      "再一次"
+    ],
+    "answerIndex": 2,
+    "explanation": "検定(けんてい) = 考试,考核"
+  },
+  {
+    "id": "driving-w-kentei-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "検定",
+    "options": [
+      "考试,考核",
+      "慢行,缓行",
+      "掉头",
+      "灯"
+    ],
+    "answerIndex": 0,
+    "explanation": "検定(けんてい) = 考试,考核"
+  },
+  {
+    "id": "driving-w-kentei-w3-000",
+    "type": "choice",
+    "question": "考试,考核 用日语怎么说?",
+    "options": [
+      "ペダル",
+      "検定",
+      "教習生",
+      "クラッチ"
+    ],
+    "answerIndex": 1,
+    "explanation": "検定(けんてい) = 考试,考核"
+  },
+  {
+    "id": "driving-w-kentei-w4-000",
+    "type": "choice",
+    "question": "検定 的读音是?",
+    "options": [
+      "しゃしん",
+      "アクセル",
+      "けんてい",
+      "ペダル"
+    ],
+    "answerIndex": 2,
+    "explanation": "検定 = けんてい(考试,考核)"
+  },
+  {
+    "id": "driving-w-kentei-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "検定",
+    "answer": "けんてい|",
+    "answerFormat": "hiragana",
+    "explanation": "検定 = けんてい(考试,考核)"
+  },
+  {
+    "id": "driving-w-kentei-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "検定",
+    "answer": "けんてい|",
+    "answerFormat": "hiragana",
+    "explanation": "検定 = けんてい(考试,考核)"
+  },
+  {
+    "id": "driving-w-shiken-kaiko-w1-000",
+    "type": "choice",
+    "question": "試験会場 是什么意思?",
+    "options": [
+      "刹车",
+      "快",
+      "考场",
+      "帮帮我"
+    ],
+    "answerIndex": 2,
+    "explanation": "試験会場(しけんかいじょう) = 考场"
+  },
+  {
+    "id": "driving-w-shiken-kaiko-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "試験会場",
+    "options": [
+      "红",
+      "小巷,小道",
+      "请加油",
+      "考场"
+    ],
+    "answerIndex": 3,
+    "explanation": "試験会場(しけんかいじょう) = 考场"
+  },
+  {
+    "id": "driving-w-shiken-kaiko-w3-000",
+    "type": "choice",
+    "question": "考场 用日语怎么说?",
+    "options": [
+      "試験会場",
+      "車両",
+      "ハンドル",
+      "坂道発進"
+    ],
+    "answerIndex": 0,
+    "explanation": "試験会場(しけんかいじょう) = 考场"
+  },
+  {
+    "id": "driving-w-shiken-kaiko-w4-000",
+    "type": "choice",
+    "question": "試験会場 的读音是?",
+    "options": [
+      "こうさてん",
+      "しけんかいじょう",
+      "キー",
+      "せんへんこう"
+    ],
+    "answerIndex": 1,
+    "explanation": "試験会場 = しけんかいじょう(考场)"
+  },
+  {
+    "id": "driving-w-shiken-kaiko-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "試験会場",
+    "answer": "しけんかいじょう|",
+    "answerFormat": "hiragana",
+    "explanation": "試験会場 = しけんかいじょう(考场)"
+  },
+  {
+    "id": "driving-w-shiken-kaiko-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "試験会場",
+    "answer": "しけんかいじょう|",
+    "answerFormat": "hiragana",
+    "explanation": "試験会場 = しけんかいじょう(考场)"
+  },
+  {
+    "id": "driving-w-nagai-w1-000",
+    "type": "choice",
+    "question": "長い 是什么意思?",
+    "options": [
+      "证明书",
+      "长的",
+      "车距",
+      "临时驾照(假驾照)"
+    ],
+    "answerIndex": 1,
+    "explanation": "長い(ながい) = 长的"
+  },
+  {
+    "id": "driving-w-nagai-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "長い",
+    "options": [
+      "入学",
+      "长的",
+      "高速公路",
+      "上坡"
+    ],
+    "answerIndex": 1,
+    "explanation": "長い(ながい) = 长的"
+  },
+  {
+    "id": "driving-w-nagai-w3-000",
+    "type": "choice",
+    "question": "长的 用日语怎么说?",
+    "options": [
+      "試験",
+      "交差点",
+      "車両",
+      "長い"
+    ],
+    "answerIndex": 3,
+    "explanation": "長い(ながい) = 长的"
+  },
+  {
+    "id": "driving-w-nagai-w4-000",
+    "type": "choice",
+    "question": "長い 的读音是?",
+    "options": [
+      "しゅうりょう",
+      "きいろいせん",
+      "ながい",
+      "ほんめんきょ"
+    ],
+    "answerIndex": 2,
+    "explanation": "長い = ながい(长的)"
+  },
+  {
+    "id": "driving-w-nagai-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "長い",
+    "answer": "ながい|",
+    "answerFormat": "hiragana",
+    "explanation": "長い = ながい(长的)"
+  },
+  {
+    "id": "driving-w-nagai-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "長い",
+    "answer": "ながい|",
+    "answerFormat": "hiragana",
+    "explanation": "長い = ながい(长的)"
+  },
+  {
+    "id": "driving-w-mijikai-w1-000",
+    "type": "choice",
+    "question": "短い 是什么意思?",
+    "options": [
+      "单行道",
+      "再一次",
+      "考场",
+      "短的"
+    ],
+    "answerIndex": 3,
+    "explanation": "短い(みじかい) = 短的"
+  },
+  {
+    "id": "driving-w-mijikai-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "短い",
+    "options": [
+      "短的",
+      "座椅",
+      "请做~",
+      "入校(教习所)"
+    ],
+    "answerIndex": 0,
+    "explanation": "短い(みじかい) = 短的"
+  },
+  {
+    "id": "driving-w-mijikai-w3-000",
+    "type": "choice",
+    "question": "短的 用日语怎么说?",
+    "options": [
+      "仮免許",
+      "短い",
+      "路地",
+      "今日"
+    ],
+    "answerIndex": 1,
+    "explanation": "短い(みじかい) = 短的"
+  },
+  {
+    "id": "driving-w-mijikai-w4-000",
+    "type": "choice",
+    "question": "短い 的读音是?",
+    "options": [
+      "みじかい",
+      "ハザード",
+      "ていしゃ",
+      "ていしゃきんし"
+    ],
+    "answerIndex": 0,
+    "explanation": "短い = みじかい(短的)"
+  },
+  {
+    "id": "driving-w-mijikai-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "短い",
+    "answer": "みじかい|",
+    "answerFormat": "hiragana",
+    "explanation": "短い = みじかい(短的)"
+  },
+  {
+    "id": "driving-w-mijikai-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "短い",
+    "answer": "みじかい|",
+    "answerFormat": "hiragana",
+    "explanation": "短い = みじかい(短的)"
+  },
+  {
+    "id": "driving-w-hayai-w1-000",
+    "type": "choice",
+    "question": "速い 是什么意思?",
+    "options": [
+      "喇叭",
+      "我明白了",
+      "快",
+      "路面标线"
+    ],
+    "answerIndex": 2,
+    "explanation": "速い(はやい) = 快"
+  },
+  {
+    "id": "driving-w-hayai-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "速い",
+    "options": [
+      "请加油",
+      "快",
+      "安全",
+      "眼镜"
+    ],
+    "answerIndex": 1,
+    "explanation": "速い(はやい) = 快"
+  },
+  {
+    "id": "driving-w-hayai-w3-000",
+    "type": "choice",
+    "question": "快 用日语怎么说?",
+    "options": [
+      "短い",
+      "速い",
+      "標示",
+      "ルームミラー"
+    ],
+    "answerIndex": 1,
+    "explanation": "速い(はやい) = 快"
+  },
+  {
+    "id": "driving-w-hayai-w4-000",
+    "type": "choice",
+    "question": "速い 的读音是?",
+    "options": [
+      "たいこうしゃ",
+      "はやい",
+      "クラクション",
+      "かりめんきょ"
+    ],
+    "answerIndex": 1,
+    "explanation": "速い = はやい(快)"
+  },
+  {
+    "id": "driving-w-hayai-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "速い",
+    "answer": "はやい|",
+    "answerFormat": "hiragana",
+    "explanation": "速い = はやい(快)"
+  },
+  {
+    "id": "driving-w-hayai-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "速い",
+    "answer": "はやい|",
+    "answerFormat": "hiragana",
+    "explanation": "速い = はやい(快)"
+  },
+  {
+    "id": "driving-w-oso-w1-000",
+    "type": "choice",
+    "question": "遅い 是什么意思?",
+    "options": [
+      "坏的",
+      "入学",
+      "慢,迟",
+      "教官,教练"
+    ],
+    "answerIndex": 2,
+    "explanation": "遅い(おそい) = 慢,迟"
+  },
+  {
+    "id": "driving-w-oso-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "遅い",
+    "options": [
+      "帮帮我",
+      "证明书",
+      "我明白了",
+      "慢,迟"
+    ],
+    "answerIndex": 3,
+    "explanation": "遅い(おそい) = 慢,迟"
+  },
+  {
+    "id": "driving-w-oso-w3-000",
+    "type": "choice",
+    "question": "慢,迟 用日语怎么说?",
+    "options": [
+      "印象",
+      "入学",
+      "遅い",
+      "試験会場"
+    ],
+    "answerIndex": 2,
+    "explanation": "遅い(おそい) = 慢,迟"
+  },
+  {
+    "id": "driving-w-oso-w4-000",
+    "type": "choice",
+    "question": "遅い 的读音是?",
+    "options": [
+      "しょうめいしょ",
+      "ちゅうしゃ",
+      "ドアミラー",
+      "おそい"
+    ],
+    "answerIndex": 3,
+    "explanation": "遅い = おそい(慢,迟)"
+  },
+  {
+    "id": "driving-w-oso-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "遅い",
+    "answer": "おそい|",
+    "answerFormat": "hiragana",
+    "explanation": "遅い = おそい(慢,迟)"
+  },
+  {
+    "id": "driving-w-oso-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "遅い",
+    "answer": "おそい|",
+    "answerFormat": "hiragana",
+    "explanation": "遅い = おそい(慢,迟)"
+  },
+  {
+    "id": "driving-w-yoi-w1-000",
+    "type": "choice",
+    "question": "良い 是什么意思?",
+    "options": [
+      "绿(日本绿灯)",
+      "技能(实操)",
+      "好的",
+      "现在"
+    ],
+    "answerIndex": 2,
+    "explanation": "良い(よい) = 好的"
+  },
+  {
+    "id": "driving-w-yoi-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "良い",
+    "options": [
+      "快",
+      "黄线(中央线)",
+      "请做~",
+      "好的"
+    ],
+    "answerIndex": 3,
+    "explanation": "良い(よい) = 好的"
+  },
+  {
+    "id": "driving-w-yoi-w3-000",
+    "type": "choice",
+    "question": "好的 用日语怎么说?",
+    "options": [
+      "教官",
+      "交差点の向こう側",
+      "検定",
+      "良い"
+    ],
+    "answerIndex": 3,
+    "explanation": "良い(よい) = 好的"
+  },
+  {
+    "id": "driving-w-yoi-w4-000",
+    "type": "choice",
+    "question": "良い 的读音是?",
+    "options": [
+      "さんですか",
+      "クラッチ",
+      "なんまい",
+      "よい"
+    ],
+    "answerIndex": 3,
+    "explanation": "良い = よい(好的)"
+  },
+  {
+    "id": "driving-w-yoi-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "良い",
+    "answer": "よい|",
+    "answerFormat": "hiragana",
+    "explanation": "良い = よい(好的)"
+  },
+  {
+    "id": "driving-w-yoi-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "良い",
+    "answer": "よい|",
+    "answerFormat": "hiragana",
+    "explanation": "良い = よい(好的)"
+  },
+  {
+    "id": "driving-w-warui-w1-000",
+    "type": "choice",
+    "question": "悪い 是什么意思?",
+    "options": [
+      "慢慢地",
+      "灯",
+      "转向灯",
+      "坏的"
+    ],
+    "answerIndex": 3,
+    "explanation": "悪い(わるい) = 坏的"
+  },
+  {
+    "id": "driving-w-warui-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "悪い",
+    "options": [
+      "手刹 / 驻车制动",
+      "刹车",
+      "安全带",
+      "坏的"
+    ],
+    "answerIndex": 3,
+    "explanation": "悪い(わるい) = 坏的"
+  },
+  {
+    "id": "driving-w-warui-w3-000",
+    "type": "choice",
+    "question": "坏的 用日语怎么说?",
+    "options": [
+      "エンジン",
+      "悪い",
+      "車間距離",
+      "分かりました"
+    ],
+    "answerIndex": 1,
+    "explanation": "悪い(わるい) = 坏的"
+  },
+  {
+    "id": "driving-w-warui-w4-000",
+    "type": "choice",
+    "question": "悪い 的读音是?",
+    "options": [
+      "おそい",
+      "ペダル",
+      "しろいせん",
+      "わるい"
+    ],
+    "answerIndex": 3,
+    "explanation": "悪い = わるい(坏的)"
+  },
+  {
+    "id": "driving-w-warui-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "悪い",
+    "answer": "わるい|",
+    "answerFormat": "hiragana",
+    "explanation": "悪い = わるい(坏的)"
+  },
+  {
+    "id": "driving-w-warui-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "悪い",
+    "answer": "わるい|",
+    "answerFormat": "hiragana",
+    "explanation": "悪い = わるい(坏的)"
+  },
+  {
+    "id": "driving-w-arigatou-w1-000",
+    "type": "choice",
+    "question": "ありがとうございます 是什么意思?",
+    "options": [
+      "起步,启动",
+      "谢谢",
+      "理论(学科)",
+      "油门"
+    ],
+    "answerIndex": 1,
+    "explanation": "ありがとうございます(ありがとうございます) = 谢谢"
+  },
+  {
+    "id": "driving-w-arigatou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ありがとうございます",
+    "options": [
+      "下坡",
+      "谢谢",
+      "好的",
+      "请做~"
+    ],
+    "answerIndex": 1,
+    "explanation": "ありがとうございます(ありがとうございます) = 谢谢"
+  },
+  {
+    "id": "driving-w-arigatou-w3-000",
+    "type": "choice",
+    "question": "谢谢 用日语怎么说?",
+    "options": [
+      "キー",
+      "ありがとうございます",
+      "黄色い線",
+      "教官"
+    ],
+    "answerIndex": 1,
+    "explanation": "ありがとうございます(ありがとうございます) = 谢谢"
+  },
+  {
+    "id": "driving-w-arigatou-w4-000",
+    "type": "choice",
+    "question": "ありがとうございます 的读音是?",
+    "options": [
+      "また",
+      "どこ",
+      "ありがとうございます",
+      "けんてい"
+    ],
+    "answerIndex": 2,
+    "explanation": "ありがとうございます = ありがとうございます(谢谢)"
+  },
+  {
+    "id": "driving-w-arigatou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ありがとうございます",
+    "answer": "ありがとうございます|",
+    "answerFormat": "hiragana",
+    "explanation": "ありがとうございます = ありがとうございます(谢谢)"
+  },
+  {
+    "id": "driving-w-arigatou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ありがとうございます",
+    "answer": "ありがとうございます|",
+    "answerFormat": "hiragana",
+    "explanation": "ありがとうございます = ありがとうございます(谢谢)"
+  },
+  {
+    "id": "driving-w-sumimasen-w1-000",
+    "type": "choice",
+    "question": "すみません 是什么意思?",
+    "options": [
+      "不好意思,对不起",
+      "单行道",
+      "变道",
+      "请做~"
+    ],
+    "answerIndex": 0,
+    "explanation": "すみません(すみません) = 不好意思,对不起"
+  },
+  {
+    "id": "driving-w-sumimasen-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "すみません",
+    "options": [
+      "踏板",
+      "毕业",
+      "小巷,小道",
+      "不好意思,对不起"
+    ],
+    "answerIndex": 3,
+    "explanation": "すみません(すみません) = 不好意思,对不起"
+  },
+  {
+    "id": "driving-w-sumimasen-w3-000",
+    "type": "choice",
+    "question": "不好意思,对不起 用日语怎么说?",
+    "options": [
+      "すみません",
+      "シートベルト",
+      "巻き込み確認",
+      "坂道発進"
+    ],
+    "answerIndex": 0,
+    "explanation": "すみません(すみません) = 不好意思,对不起"
+  },
+  {
+    "id": "driving-w-sumimasen-w4-000",
+    "type": "choice",
+    "question": "すみません 的读音是?",
+    "options": [
+      "どうして",
+      "ペダル",
+      "すみません",
+      "ていしゃきんし"
+    ],
+    "answerIndex": 2,
+    "explanation": "すみません = すみません(不好意思,对不起)"
+  },
+  {
+    "id": "driving-w-sumimasen-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "すみません",
+    "answer": "すみません|",
+    "answerFormat": "hiragana",
+    "explanation": "すみません = すみません(不好意思,对不起)"
+  },
+  {
+    "id": "driving-w-sumimasen-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "すみません",
+    "answer": "すみません|",
+    "answerFormat": "hiragana",
+    "explanation": "すみません = すみません(不好意思,对不起)"
+  },
+  {
+    "id": "driving-w-wakarimashita-w1-000",
+    "type": "choice",
+    "question": "分かりました 是什么意思?",
+    "options": [
+      "我明白了",
+      "不好意思,对不起",
+      "确认转弯内侧",
+      "驾照,许可证"
+    ],
+    "answerIndex": 0,
+    "explanation": "分かりました(わかりました) = 我明白了"
+  },
+  {
+    "id": "driving-w-wakarimashita-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "分かりました",
+    "options": [
+      "几点",
+      "我明白了",
+      "变道",
+      "车距"
+    ],
+    "answerIndex": 1,
+    "explanation": "分かりました(わかりました) = 我明白了"
+  },
+  {
+    "id": "driving-w-wakarimashita-w3-000",
+    "type": "choice",
+    "question": "我明白了 用日语怎么说?",
+    "options": [
+      "外国人",
+      "分かりました",
+      "白い線",
+      "免許"
+    ],
+    "answerIndex": 1,
+    "explanation": "分かりました(わかりました) = 我明白了"
+  },
+  {
+    "id": "driving-w-wakarimashita-w4-000",
+    "type": "choice",
+    "question": "分かりました 的读音是?",
+    "options": [
+      "しゅうりょう",
+      "わかりました",
+      "にゅうこう",
+      "しけんかいじょう"
+    ],
+    "answerIndex": 1,
+    "explanation": "分かりました = わかりました(我明白了)"
+  },
+  {
+    "id": "driving-w-wakarimashita-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "分かりました",
+    "answer": "わかりました|",
+    "answerFormat": "hiragana",
+    "explanation": "分かりました = わかりました(我明白了)"
+  },
+  {
+    "id": "driving-w-wakarimashita-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "分かりました",
+    "answer": "わかりました|",
+    "answerFormat": "hiragana",
+    "explanation": "分かりました = わかりました(我明白了)"
+  },
+  {
+    "id": "driving-w-wakarimasen-w1-000",
+    "type": "choice",
+    "question": "分かりません 是什么意思?",
+    "options": [
+      "慢,迟",
+      "什么时候",
+      "我不懂",
+      "标识,路标"
+    ],
+    "answerIndex": 2,
+    "explanation": "分かりません(わかりません) = 我不懂"
+  },
+  {
+    "id": "driving-w-wakarimasen-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "分かりません",
+    "options": [
+      "方向盘",
+      "我不懂",
+      "车距",
+      "停车(长时间)"
+    ],
+    "answerIndex": 1,
+    "explanation": "分かりません(わかりません) = 我不懂"
+  },
+  {
+    "id": "driving-w-wakarimasen-w3-000",
+    "type": "choice",
+    "question": "我不懂 用日语怎么说?",
+    "options": [
+      "坂道発進",
+      "一時停止",
+      "一方通行",
+      "分かりません"
+    ],
+    "answerIndex": 3,
+    "explanation": "分かりません(わかりません) = 我不懂"
+  },
+  {
+    "id": "driving-w-wakarimasen-w4-000",
+    "type": "choice",
+    "question": "分かりません 的读音是?",
+    "options": [
+      "わかりません",
+      "くだりざか",
+      "あした",
+      "なんじ"
+    ],
+    "answerIndex": 0,
+    "explanation": "分かりません = わかりません(我不懂)"
+  },
+  {
+    "id": "driving-w-wakarimasen-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "分かりません",
+    "answer": "わかりません|",
+    "answerFormat": "hiragana",
+    "explanation": "分かりません = わかりません(我不懂)"
+  },
+  {
+    "id": "driving-w-wakarimasen-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "分かりません",
+    "answer": "わかりません|",
+    "answerFormat": "hiragana",
+    "explanation": "分かりません = わかりません(我不懂)"
+  },
+  {
+    "id": "driving-w-mou-ichido-w1-000",
+    "type": "choice",
+    "question": "もう一度 是什么意思?",
+    "options": [
+      "后视镜",
+      "再一次",
+      "车轮驶离(路缘)",
+      "座椅"
+    ],
+    "answerIndex": 1,
+    "explanation": "もう一度(もういちど) = 再一次"
+  },
+  {
+    "id": "driving-w-mou-ichido-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "もう一度",
+    "options": [
+      "再一次",
+      "临时驾照(假驾照)",
+      "右转",
+      "临时停车(让车/让行人)"
+    ],
+    "answerIndex": 0,
+    "explanation": "もう一度(もういちど) = 再一次"
+  },
+  {
+    "id": "driving-w-mou-ichido-w3-000",
+    "type": "choice",
+    "question": "再一次 用日语怎么说?",
+    "options": [
+      "ハザード",
+      "ルームミラー",
+      "もう一度",
+      "ミラー"
+    ],
+    "answerIndex": 2,
+    "explanation": "もう一度(もういちど) = 再一次"
+  },
+  {
+    "id": "driving-w-mou-ichido-w4-000",
+    "type": "choice",
+    "question": "もう一度 的读音是?",
+    "options": [
+      "シート",
+      "ほどう",
+      "もういちど",
+      "じょこう"
+    ],
+    "answerIndex": 2,
+    "explanation": "もう一度 = もういちど(再一次)"
+  },
+  {
+    "id": "driving-w-mou-ichido-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "もう一度",
+    "answer": "もういちど|",
+    "answerFormat": "hiragana",
+    "explanation": "もう一度 = もういちど(再一次)"
+  },
+  {
+    "id": "driving-w-mou-ichido-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "もう一度",
+    "answer": "もういちど|",
+    "answerFormat": "hiragana",
+    "explanation": "もう一度 = もういちど(再一次)"
+  },
+  {
+    "id": "driving-w-yukkuri-w1-000",
+    "type": "choice",
+    "question": "ゆっくり 是什么意思?",
+    "options": [
+      "我不懂",
+      "慢慢地",
+      "标识,路标",
+      "慢行,缓行"
+    ],
+    "answerIndex": 1,
+    "explanation": "ゆっくり(ゆっくり) = 慢慢地"
+  },
+  {
+    "id": "driving-w-yukkuri-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ゆっくり",
+    "options": [
+      "车外",
+      "停车(长时间)",
+      "快",
+      "慢慢地"
+    ],
+    "answerIndex": 3,
+    "explanation": "ゆっくり(ゆっくり) = 慢慢地"
+  },
+  {
+    "id": "driving-w-yukkuri-w3-000",
+    "type": "choice",
+    "question": "慢慢地 用日语怎么说?",
+    "options": [
+      "黄",
+      "青",
+      "ゆっくり",
+      "どうやって"
+    ],
+    "answerIndex": 2,
+    "explanation": "ゆっくり(ゆっくり) = 慢慢地"
+  },
+  {
+    "id": "driving-w-yukkuri-w4-000",
+    "type": "choice",
+    "question": "ゆっくり 的读音是?",
+    "options": [
+      "ゆっくり",
+      "キー",
+      "アクセル",
+      "エンジン"
+    ],
+    "answerIndex": 0,
+    "explanation": "ゆっくり = ゆっくり(慢慢地)"
+  },
+  {
+    "id": "driving-w-yukkuri-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ゆっくり",
+    "answer": "ゆっくり|",
+    "answerFormat": "hiragana",
+    "explanation": "ゆっくり = ゆっくり(慢慢地)"
+  },
+  {
+    "id": "driving-w-yukkuri-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ゆっくり",
+    "answer": "ゆっくり|",
+    "answerFormat": "hiragana",
+    "explanation": "ゆっくり = ゆっくり(慢慢地)"
+  },
+  {
+    "id": "driving-w-yoku-w1-000",
+    "type": "choice",
+    "question": "よく 是什么意思?",
+    "options": [
+      "停止",
+      "好好地 / 经常",
+      "对向来车",
+      "车轮驶离(路缘)"
+    ],
+    "answerIndex": 1,
+    "explanation": "よく(よく) = 好好地 / 经常"
+  },
+  {
+    "id": "driving-w-yoku-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "よく",
+    "options": [
+      "毕业",
+      "停止",
+      "早上好",
+      "好好地 / 经常"
+    ],
+    "answerIndex": 3,
+    "explanation": "よく(よく) = 好好地 / 经常"
+  },
+  {
+    "id": "driving-w-yoku-w3-000",
+    "type": "choice",
+    "question": "好好地 / 经常 用日语怎么说?",
+    "options": [
+      "入学",
+      "信号",
+      "今",
+      "よく"
+    ],
+    "answerIndex": 3,
+    "explanation": "よく(よく) = 好好地 / 经常"
+  },
+  {
+    "id": "driving-w-yoku-w4-000",
+    "type": "choice",
+    "question": "よく 的读音是?",
+    "options": [
+      "きいろ",
+      "ハザード",
+      "はんどる",
+      "よく"
+    ],
+    "answerIndex": 3,
+    "explanation": "よく = よく(好好地 / 经常)"
+  },
+  {
+    "id": "driving-w-yoku-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "よく",
+    "answer": "よく|",
+    "answerFormat": "hiragana",
+    "explanation": "よく = よく(好好地 / 经常)"
+  },
+  {
+    "id": "driving-w-yoku-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "よく",
+    "answer": "よく|",
+    "answerFormat": "hiragana",
+    "explanation": "よく = よく(好好地 / 经常)"
+  },
+  {
+    "id": "driving-w-oshiete-w1-000",
+    "type": "choice",
+    "question": "教えてください 是什么意思?",
+    "options": [
+      "入校(教习所)",
+      "请告诉我",
+      "喇叭",
+      "车距"
+    ],
+    "answerIndex": 1,
+    "explanation": "教えてください(おしえてください) = 请告诉我"
+  },
+  {
+    "id": "driving-w-oshiete-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "教えてください",
+    "options": [
+      "请告诉我",
+      "路口对面",
+      "长的",
+      "安全带"
+    ],
+    "answerIndex": 0,
+    "explanation": "教えてください(おしえてください) = 请告诉我"
+  },
+  {
+    "id": "driving-w-oshiete-w3-000",
+    "type": "choice",
+    "question": "请告诉我 用日语怎么说?",
+    "options": [
+      "標識",
+      "教えてください",
+      "標示",
+      "巻き込み確認"
+    ],
+    "answerIndex": 1,
+    "explanation": "教えてください(おしえてください) = 请告诉我"
+  },
+  {
+    "id": "driving-w-oshiete-w4-000",
+    "type": "choice",
+    "question": "教えてください 的读音是?",
+    "options": [
+      "おしえてください",
+      "しゃかんきょり",
+      "しゃがい",
+      "ライト"
+    ],
+    "answerIndex": 0,
+    "explanation": "教えてください = おしえてください(请告诉我)"
+  },
+  {
+    "id": "driving-w-oshiete-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "教えてください",
+    "answer": "おしえてください|",
+    "answerFormat": "hiragana",
+    "explanation": "教えてください = おしえてください(请告诉我)"
+  },
+  {
+    "id": "driving-w-oshiete-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "教えてください",
+    "answer": "おしえてください|",
+    "answerFormat": "hiragana",
+    "explanation": "教えてください = おしえてください(请告诉我)"
+  },
+  {
+    "id": "driving-w-tasukete-w1-000",
+    "type": "choice",
+    "question": "助けて 是什么意思?",
+    "options": [
+      "结业,完成",
+      "我明白了",
+      "座椅",
+      "帮帮我"
+    ],
+    "answerIndex": 3,
+    "explanation": "助けて(たすけて) = 帮帮我"
+  },
+  {
+    "id": "driving-w-tasukete-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "助けて",
+    "options": [
+      "为什么",
+      "帮帮我",
+      "入学",
+      "明天"
+    ],
+    "answerIndex": 1,
+    "explanation": "助けて(たすけて) = 帮帮我"
+  },
+  {
+    "id": "driving-w-tasukete-w3-000",
+    "type": "choice",
+    "question": "帮帮我 用日语怎么说?",
+    "options": [
+      "対向車",
+      "キー",
+      "罰金",
+      "助けて"
+    ],
+    "answerIndex": 3,
+    "explanation": "助けて(たすけて) = 帮帮我"
+  },
+  {
+    "id": "driving-w-tasukete-w4-000",
+    "type": "choice",
+    "question": "助けて 的读音是?",
+    "options": [
+      "おしえてください",
+      "まきこみかくにん",
+      "たすけて",
+      "こくどう"
+    ],
+    "answerIndex": 2,
+    "explanation": "助けて = たすけて(帮帮我)"
+  },
+  {
+    "id": "driving-w-tasukete-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "助けて",
+    "answer": "たすけて|",
+    "answerFormat": "hiragana",
+    "explanation": "助けて = たすけて(帮帮我)"
+  },
+  {
+    "id": "driving-w-tasukete-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "助けて",
+    "answer": "たすけて|",
+    "answerFormat": "hiragana",
+    "explanation": "助けて = たすけて(帮帮我)"
+  },
+  {
+    "id": "driving-w-itte-kudasai-w1-000",
+    "type": "choice",
+    "question": "〜してください 是什么意思?",
+    "options": [
+      "慢行,缓行",
+      "白线",
+      "油门",
+      "请做~"
+    ],
+    "answerIndex": 3,
+    "explanation": "〜してください(してください) = 请做~"
+  },
+  {
+    "id": "driving-w-itte-kudasai-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "〜してください",
+    "options": [
+      "请加油",
+      "证明书",
+      "你好",
+      "请做~"
+    ],
+    "answerIndex": 3,
+    "explanation": "〜してください(してください) = 请做~"
+  },
+  {
+    "id": "driving-w-itte-kudasai-w3-000",
+    "type": "choice",
+    "question": "请做~ 用日语怎么说?",
+    "options": [
+      "名前",
+      "〜してください",
+      "巻き込み確認",
+      "ブレーキ"
+    ],
+    "answerIndex": 1,
+    "explanation": "〜してください(してください) = 请做~"
+  },
+  {
+    "id": "driving-w-itte-kudasai-w4-000",
+    "type": "choice",
+    "question": "〜してください 的读音是?",
+    "options": [
+      "そつぎょう",
+      "メーター",
+      "もういちど",
+      "してください"
+    ],
+    "answerIndex": 3,
+    "explanation": "〜してください = してください(请做~)"
+  },
+  {
+    "id": "driving-w-itte-kudasai-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "〜してください",
+    "answer": "してください|",
+    "answerFormat": "hiragana",
+    "explanation": "〜してください = してください(请做~)"
+  },
+  {
+    "id": "driving-w-itte-kudasai-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "〜してください",
+    "answer": "してください|",
+    "answerFormat": "hiragana",
+    "explanation": "〜してください = してください(请做~)"
+  },
+  {
+    "id": "driving-w-yoku-dekimashita-w1-000",
+    "type": "choice",
+    "question": "よくできました 是什么意思?",
+    "options": [
+      "逮捕",
+      "做得很好",
+      "上坡",
+      "后视镜"
+    ],
+    "answerIndex": 1,
+    "explanation": "よくできました(よくできました) = 做得很好"
+  },
+  {
+    "id": "driving-w-yoku-dekimashita-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "よくできました",
+    "options": [
+      "照片",
+      "做得很好",
+      "起步,启动",
+      "危险报警灯(双闪)"
+    ],
+    "answerIndex": 1,
+    "explanation": "よくできました(よくできました) = 做得很好"
+  },
+  {
+    "id": "driving-w-yoku-dekimashita-w3-000",
+    "type": "choice",
+    "question": "做得很好 用日语怎么说?",
+    "options": [
+      "下り坂",
+      "ハンドル",
+      "入学",
+      "よくできました"
+    ],
+    "answerIndex": 3,
+    "explanation": "よくできました(よくできました) = 做得很好"
+  },
+  {
+    "id": "driving-w-yoku-dekimashita-w4-000",
+    "type": "choice",
+    "question": "よくできました 的读音是?",
+    "options": [
+      "おはようございます",
+      "いんしょう",
+      "よくできました",
+      "きょう"
+    ],
+    "answerIndex": 2,
+    "explanation": "よくできました = よくできました(做得很好)"
+  },
+  {
+    "id": "driving-w-yoku-dekimashita-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "よくできました",
+    "answer": "よくできました|",
+    "answerFormat": "hiragana",
+    "explanation": "よくできました = よくできました(做得很好)"
+  },
+  {
+    "id": "driving-w-yoku-dekimashita-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "よくできました",
+    "answer": "よくできました|",
+    "answerFormat": "hiragana",
+    "explanation": "よくできました = よくできました(做得很好)"
+  },
+  {
+    "id": "driving-w-ganbatte-w1-000",
+    "type": "choice",
+    "question": "頑張ってください 是什么意思?",
+    "options": [
+      "方向盘",
+      "罚款",
+      "请加油",
+      "几张"
+    ],
+    "answerIndex": 2,
+    "explanation": "頑張ってください(がんばってください) = 请加油"
+  },
+  {
+    "id": "driving-w-ganbatte-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "頑張ってください",
+    "options": [
+      "好的",
+      "临时停车(让车/让行人)",
+      "请加油",
+      "单行道"
+    ],
+    "answerIndex": 2,
+    "explanation": "頑張ってください(がんばってください) = 请加油"
+  },
+  {
+    "id": "driving-w-ganbatte-w3-000",
+    "type": "choice",
+    "question": "请加油 用日语怎么说?",
+    "options": [
+      "修了",
+      "頑張ってください",
+      "赤",
+      "今日"
+    ],
+    "answerIndex": 1,
+    "explanation": "頑張ってください(がんばってください) = 请加油"
+  },
+  {
+    "id": "driving-w-ganbatte-w4-000",
+    "type": "choice",
+    "question": "頑張ってください 的读音是?",
+    "options": [
+      "がんばってください",
+      "してください",
+      "どうして",
+      "すみません"
+    ],
+    "answerIndex": 0,
+    "explanation": "頑張ってください = がんばってください(请加油)"
+  },
+  {
+    "id": "driving-w-ganbatte-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "頑張ってください",
+    "answer": "がんばってください|",
+    "answerFormat": "hiragana",
+    "explanation": "頑張ってください = がんばってください(请加油)"
+  },
+  {
+    "id": "driving-w-ganbatte-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "頑張ってください",
+    "answer": "がんばってください|",
+    "answerFormat": "hiragana",
+    "explanation": "頑張ってください = がんばってください(请加油)"
+  },
+  {
+    "id": "driving-w-kon-nichiwa-w1-000",
+    "type": "choice",
+    "question": "こんにちは 是什么意思?",
+    "options": [
+      "考场",
+      "临时停车(让车/让行人)",
+      "你好",
+      "仪表盘"
+    ],
+    "answerIndex": 2,
+    "explanation": "こんにちは(こんにちは) = 你好"
+  },
+  {
+    "id": "driving-w-kon-nichiwa-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "こんにちは",
+    "options": [
+      "你好",
+      "驾照,许可证",
+      "单行道",
+      "帮帮我"
+    ],
+    "answerIndex": 0,
+    "explanation": "こんにちは(こんにちは) = 你好"
+  },
+  {
+    "id": "driving-w-kon-nichiwa-w3-000",
+    "type": "choice",
+    "question": "你好 用日语怎么说?",
+    "options": [
+      "こんにちは",
+      "入学",
+      "黄色い線",
+      "路地"
+    ],
+    "answerIndex": 0,
+    "explanation": "こんにちは(こんにちは) = 你好"
+  },
+  {
+    "id": "driving-w-kon-nichiwa-w4-000",
+    "type": "choice",
+    "question": "こんにちは 的读音是?",
+    "options": [
+      "こんにちは",
+      "こうさてんのむこうがわ",
+      "いちじていし",
+      "はやい"
+    ],
+    "answerIndex": 0,
+    "explanation": "こんにちは = こんにちは(你好)"
+  },
+  {
+    "id": "driving-w-kon-nichiwa-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "こんにちは",
+    "answer": "こんにちは|",
+    "answerFormat": "hiragana",
+    "explanation": "こんにちは = こんにちは(你好)"
+  },
+  {
+    "id": "driving-w-kon-nichiwa-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "こんにちは",
+    "answer": "こんにちは|",
+    "answerFormat": "hiragana",
+    "explanation": "こんにちは = こんにちは(你好)"
+  },
+  {
+    "id": "driving-w-ohayou-w1-000",
+    "type": "choice",
+    "question": "おはようございます 是什么意思?",
+    "options": [
+      "临时停车(让车/让行人)",
+      "名字",
+      "油门",
+      "早上好"
+    ],
+    "answerIndex": 3,
+    "explanation": "おはようございます(おはようございます) = 早上好"
+  },
+  {
+    "id": "driving-w-ohayou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "おはようございます",
+    "options": [
+      "早上好",
+      "再一次",
+      "坡道起步",
+      "慢行,缓行"
+    ],
+    "answerIndex": 0,
+    "explanation": "おはようございます(おはようございます) = 早上好"
+  },
+  {
+    "id": "driving-w-ohayou-w3-000",
+    "type": "choice",
+    "question": "早上好 用日语怎么说?",
+    "options": [
+      "おはようございます",
+      "速い",
+      "一方通行",
+      "歩行者"
+    ],
+    "answerIndex": 0,
+    "explanation": "おはようございます(おはようございます) = 早上好"
+  },
+  {
+    "id": "driving-w-ohayou-w4-000",
+    "type": "choice",
+    "question": "おはようございます 的读音是?",
+    "options": [
+      "Uターン",
+      "おはようございます",
+      "こうそくどうろ",
+      "しんごう"
+    ],
+    "answerIndex": 1,
+    "explanation": "おはようございます = おはようございます(早上好)"
+  },
+  {
+    "id": "driving-w-ohayou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "おはようございます",
+    "answer": "おはようございます|",
+    "answerFormat": "hiragana",
+    "explanation": "おはようございます = おはようございます(早上好)"
+  },
+  {
+    "id": "driving-w-ohayou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "おはようございます",
+    "answer": "おはようございます|",
+    "answerFormat": "hiragana",
+    "explanation": "おはようございます = おはようございます(早上好)"
+  },
+  {
+    "id": "driving-w-mata-w1-000",
+    "type": "choice",
+    "question": "また 是什么意思?",
+    "options": [
+      "名字",
+      "钥匙",
+      "车辆",
+      "下次 / 又"
+    ],
+    "answerIndex": 3,
+    "explanation": "また(また) = 下次 / 又"
+  },
+  {
+    "id": "driving-w-mata-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "また",
+    "options": [
+      "白线",
+      "路面标线",
+      "下次 / 又",
+      "人行横道"
+    ],
+    "answerIndex": 2,
+    "explanation": "また(また) = 下次 / 又"
+  },
+  {
+    "id": "driving-w-mata-w3-000",
+    "type": "choice",
+    "question": "下次 / 又 用日语怎么说?",
+    "options": [
+      "試験",
+      "また",
+      "駐車禁止",
+      "教官"
+    ],
+    "answerIndex": 1,
+    "explanation": "また(また) = 下次 / 又"
+  },
+  {
+    "id": "driving-w-mata-w4-000",
+    "type": "choice",
+    "question": "また 的读音是?",
+    "options": [
+      "ながい",
+      "ほどう",
+      "どこ",
+      "また"
+    ],
+    "answerIndex": 3,
+    "explanation": "また = また(下次 / 又)"
+  },
+  {
+    "id": "driving-w-mata-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "また",
+    "answer": "また|",
+    "answerFormat": "hiragana",
+    "explanation": "また = また(下次 / 又)"
+  },
+  {
+    "id": "driving-w-mata-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "また",
+    "answer": "また|",
+    "answerFormat": "hiragana",
+    "explanation": "また = また(下次 / 又)"
+  },
+  {
+    "id": "driving-w-kyou-w1-000",
+    "type": "choice",
+    "question": "今日 是什么意思?",
+    "options": [
+      "危险报警灯(双闪)",
+      "上坡",
+      "做得很好",
+      "今天"
+    ],
+    "answerIndex": 3,
+    "explanation": "今日(きょう) = 今天"
+  },
+  {
+    "id": "driving-w-kyou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "今日",
+    "options": [
+      "今天",
+      "谢谢",
+      "慢,迟",
+      "目视,亲眼确认"
+    ],
+    "answerIndex": 0,
+    "explanation": "今日(きょう) = 今天"
+  },
+  {
+    "id": "driving-w-kyou-w3-000",
+    "type": "choice",
+    "question": "今天 用日语怎么说?",
+    "options": [
+      "卒業",
+      "今日",
+      "すみません",
+      "停車禁止"
+    ],
+    "answerIndex": 1,
+    "explanation": "今日(きょう) = 今天"
+  },
+  {
+    "id": "driving-w-kyou-w4-000",
+    "type": "choice",
+    "question": "今日 的读音是?",
+    "options": [
+      "じょこう",
+      "くだりざか",
+      "きょう",
+      "そつぎょう"
+    ],
+    "answerIndex": 2,
+    "explanation": "今日 = きょう(今天)"
+  },
+  {
+    "id": "driving-w-kyou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "今日",
+    "answer": "きょう|",
+    "answerFormat": "hiragana",
+    "explanation": "今日 = きょう(今天)"
+  },
+  {
+    "id": "driving-w-kyou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "今日",
+    "answer": "きょう|",
+    "answerFormat": "hiragana",
+    "explanation": "今日 = きょう(今天)"
+  },
+  {
+    "id": "driving-w-ashita-w1-000",
+    "type": "choice",
+    "question": "明日 是什么意思?",
+    "options": [
+      "明天",
+      "变道",
+      "上坡",
+      "几张"
+    ],
+    "answerIndex": 0,
+    "explanation": "明日(あした) = 明天"
+  },
+  {
+    "id": "driving-w-ashita-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "明日",
+    "options": [
+      "入校(教习所)",
+      "人行横道",
+      "路面标线",
+      "明天"
+    ],
+    "answerIndex": 3,
+    "explanation": "明日(あした) = 明天"
+  },
+  {
+    "id": "driving-w-ashita-w3-000",
+    "type": "choice",
+    "question": "明天 用日语怎么说?",
+    "options": [
+      "明日",
+      "どうやって",
+      "駅前",
+      "車間距離"
+    ],
+    "answerIndex": 0,
+    "explanation": "明日(あした) = 明天"
+  },
+  {
+    "id": "driving-w-ashita-w4-000",
+    "type": "choice",
+    "question": "明日 的读音是?",
+    "options": [
+      "なんまい",
+      "メーター",
+      "ながい",
+      "あした"
+    ],
+    "answerIndex": 3,
+    "explanation": "明日 = あした(明天)"
+  },
+  {
+    "id": "driving-w-ashita-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "明日",
+    "answer": "あした|",
+    "answerFormat": "hiragana",
+    "explanation": "明日 = あした(明天)"
+  },
+  {
+    "id": "driving-w-ashita-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "明日",
+    "answer": "あした|",
+    "answerFormat": "hiragana",
+    "explanation": "明日 = あした(明天)"
+  },
+  {
+    "id": "driving-w-ima-w1-000",
+    "type": "choice",
+    "question": "今 是什么意思?",
+    "options": [
+      "现在",
+      "离合器(仅MT)",
+      "坏的",
+      "起步,启动"
+    ],
+    "answerIndex": 0,
+    "explanation": "今(いま) = 现在"
+  },
+  {
+    "id": "driving-w-ima-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "今",
+    "options": [
+      "换挡",
+      "车站前",
+      "现在",
+      "禁止停车"
+    ],
+    "answerIndex": 2,
+    "explanation": "今(いま) = 现在"
+  },
+  {
+    "id": "driving-w-ima-w3-000",
+    "type": "choice",
+    "question": "现在 用日语怎么说?",
+    "options": [
+      "〜さんですか",
+      "短い",
+      "今",
+      "ゆっくり"
+    ],
+    "answerIndex": 2,
+    "explanation": "今(いま) = 现在"
+  },
+  {
+    "id": "driving-w-ima-w4-000",
+    "type": "choice",
+    "question": "今 的读音是?",
+    "options": [
+      "こくどう",
+      "だつりん",
+      "いま",
+      "しゃしん"
+    ],
+    "answerIndex": 2,
+    "explanation": "今 = いま(现在)"
+  },
+  {
+    "id": "driving-w-ima-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "今",
+    "answer": "いま|",
+    "answerFormat": "hiragana",
+    "explanation": "今 = いま(现在)"
+  },
+  {
+    "id": "driving-w-ima-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "今",
+    "answer": "いま|",
+    "answerFormat": "hiragana",
+    "explanation": "今 = いま(现在)"
+  },
+  {
+    "id": "driving-w-itsu-w1-000",
+    "type": "choice",
+    "question": "いつ 是什么意思?",
+    "options": [
+      "白线",
+      "请做~",
+      "对向来车",
+      "什么时候"
+    ],
+    "answerIndex": 3,
+    "explanation": "いつ(いつ) = 什么时候"
+  },
+  {
+    "id": "driving-w-itsu-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "いつ",
+    "options": [
+      "高速公路",
+      "红",
+      "什么时候",
+      "好好地 / 经常"
+    ],
+    "answerIndex": 2,
+    "explanation": "いつ(いつ) = 什么时候"
+  },
+  {
+    "id": "driving-w-itsu-w3-000",
+    "type": "choice",
+    "question": "什么时候 用日语怎么说?",
+    "options": [
+      "横断歩道",
+      "高速道路",
+      "ドアミラー",
+      "いつ"
+    ],
+    "answerIndex": 3,
+    "explanation": "いつ(いつ) = 什么时候"
+  },
+  {
+    "id": "driving-w-itsu-w4-000",
+    "type": "choice",
+    "question": "いつ 的读音是?",
+    "options": [
+      "いつ",
+      "ありがとうございます",
+      "しんごう",
+      "ライト"
+    ],
+    "answerIndex": 0,
+    "explanation": "いつ = いつ(什么时候)"
+  },
+  {
+    "id": "driving-w-itsu-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "いつ",
+    "answer": "いつ|",
+    "answerFormat": "hiragana",
+    "explanation": "いつ = いつ(什么时候)"
+  },
+  {
+    "id": "driving-w-itsu-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "いつ",
+    "answer": "いつ|",
+    "answerFormat": "hiragana",
+    "explanation": "いつ = いつ(什么时候)"
+  },
+  {
+    "id": "driving-w-doko-w1-000",
+    "type": "choice",
+    "question": "どこ 是什么意思?",
+    "options": [
+      "长的",
+      "哪里",
+      "帮帮我",
+      "理论(学科)"
+    ],
+    "answerIndex": 1,
+    "explanation": "どこ(どこ) = 哪里"
+  },
+  {
+    "id": "driving-w-doko-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "どこ",
+    "options": [
+      "做得很好",
+      "哪里",
+      "绿(日本绿灯)",
+      "明天"
+    ],
+    "answerIndex": 1,
+    "explanation": "どこ(どこ) = 哪里"
+  },
+  {
+    "id": "driving-w-doko-w3-000",
+    "type": "choice",
+    "question": "哪里 用日语怎么说?",
+    "options": [
+      "ギア",
+      "標示",
+      "外国人",
+      "どこ"
+    ],
+    "answerIndex": 3,
+    "explanation": "どこ(どこ) = 哪里"
+  },
+  {
+    "id": "driving-w-doko-w4-000",
+    "type": "choice",
+    "question": "どこ 的读音是?",
+    "options": [
+      "どこ",
+      "めがね",
+      "おはようございます",
+      "よい"
+    ],
+    "answerIndex": 0,
+    "explanation": "どこ = どこ(哪里)"
+  },
+  {
+    "id": "driving-w-doko-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "どこ",
+    "answer": "どこ|",
+    "answerFormat": "hiragana",
+    "explanation": "どこ = どこ(哪里)"
+  },
+  {
+    "id": "driving-w-doko-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "どこ",
+    "answer": "どこ|",
+    "answerFormat": "hiragana",
+    "explanation": "どこ = どこ(哪里)"
+  },
+  {
+    "id": "driving-w-dou-yatte-w1-000",
+    "type": "choice",
+    "question": "どうやって 是什么意思?",
+    "options": [
+      "毕业",
+      "座椅",
+      "停车(长时间)",
+      "怎么做"
+    ],
+    "answerIndex": 3,
+    "explanation": "どうやって(どうやって) = 怎么做"
+  },
+  {
+    "id": "driving-w-dou-yatte-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "どうやって",
+    "options": [
+      "怎么做",
+      "发动机",
+      "危险",
+      "钥匙"
+    ],
+    "answerIndex": 0,
+    "explanation": "どうやって(どうやって) = 怎么做"
+  },
+  {
+    "id": "driving-w-dou-yatte-w3-000",
+    "type": "choice",
+    "question": "怎么做 用日语怎么说?",
+    "options": [
+      "右折",
+      "どうやって",
+      "ペダル",
+      "技能"
+    ],
+    "answerIndex": 1,
+    "explanation": "どうやって(どうやって) = 怎么做"
+  },
+  {
+    "id": "driving-w-dou-yatte-w4-000",
+    "type": "choice",
+    "question": "どうやって 的读音是?",
+    "options": [
+      "きいろいせん",
+      "おはようございます",
+      "どうやって",
+      "ほんめんきょ"
+    ],
+    "answerIndex": 2,
+    "explanation": "どうやって = どうやって(怎么做)"
+  },
+  {
+    "id": "driving-w-dou-yatte-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "どうやって",
+    "answer": "どうやって|",
+    "answerFormat": "hiragana",
+    "explanation": "どうやって = どうやって(怎么做)"
+  },
+  {
+    "id": "driving-w-dou-yatte-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "どうやって",
+    "answer": "どうやって|",
+    "answerFormat": "hiragana",
+    "explanation": "どうやって = どうやって(怎么做)"
+  },
+  {
+    "id": "driving-w-doushite-w1-000",
+    "type": "choice",
+    "question": "どうして 是什么意思?",
+    "options": [
+      "慢慢地",
+      "黄",
+      "快",
+      "为什么"
+    ],
+    "answerIndex": 3,
+    "explanation": "どうして(どうして) = 为什么"
+  },
+  {
+    "id": "driving-w-doushite-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "どうして",
+    "options": [
+      "为什么",
+      "眼镜",
+      "人行横道",
+      "车辆"
+    ],
+    "answerIndex": 0,
+    "explanation": "どうして(どうして) = 为什么"
+  },
+  {
+    "id": "driving-w-doushite-w3-000",
+    "type": "choice",
+    "question": "为什么 用日语怎么说?",
+    "options": [
+      "エンジン",
+      "キー",
+      "分かりました",
+      "どうして"
+    ],
+    "answerIndex": 3,
+    "explanation": "どうして(どうして) = 为什么"
+  },
+  {
+    "id": "driving-w-doushite-w4-000",
+    "type": "choice",
+    "question": "どうして 的读音是?",
+    "options": [
+      "しゃがい",
+      "しゃかんきょり",
+      "こうさてん",
+      "どうして"
+    ],
+    "answerIndex": 3,
+    "explanation": "どうして = どうして(为什么)"
+  },
+  {
+    "id": "driving-w-doushite-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "どうして",
+    "answer": "どうして|",
+    "answerFormat": "hiragana",
+    "explanation": "どうして = どうして(为什么)"
+  },
+  {
+    "id": "driving-w-doushite-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "どうして",
+    "answer": "どうして|",
+    "answerFormat": "hiragana",
+    "explanation": "どうして = どうして(为什么)"
+  },
+  {
+    "id": "driving-w-nan-ji-w1-000",
+    "type": "choice",
+    "question": "何時 是什么意思?",
+    "options": [
+      "几点",
+      "行人",
+      "为什么",
+      "考场"
+    ],
+    "answerIndex": 0,
+    "explanation": "何時(なんじ) = 几点"
+  },
+  {
+    "id": "driving-w-nan-ji-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "何時",
+    "options": [
+      "几点",
+      "县道",
+      "路口对面",
+      "逮捕"
+    ],
+    "answerIndex": 0,
+    "explanation": "何時(なんじ) = 几点"
+  },
+  {
+    "id": "driving-w-nan-ji-w3-000",
+    "type": "choice",
+    "question": "几点 用日语怎么说?",
+    "options": [
+      "写真",
+      "何時",
+      "車間距離",
+      "印象"
+    ],
+    "answerIndex": 1,
+    "explanation": "何時(なんじ) = 几点"
+  },
+  {
+    "id": "driving-w-nan-ji-w4-000",
+    "type": "choice",
+    "question": "何時 的读音是?",
+    "options": [
+      "なんじ",
+      "さいどブレーキ",
+      "のぼりざか",
+      "きょうしゅうせい"
+    ],
+    "answerIndex": 0,
+    "explanation": "何時 = なんじ(几点)"
+  },
+  {
+    "id": "driving-w-nan-ji-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "何時",
+    "answer": "なんじ|",
+    "answerFormat": "hiragana",
+    "explanation": "何時 = なんじ(几点)"
+  },
+  {
+    "id": "driving-w-nan-ji-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "何時",
+    "answer": "なんじ|",
+    "answerFormat": "hiragana",
+    "explanation": "何時 = なんじ(几点)"
+  },
+  {
+    "id": "driving-w-nan-mai-w1-000",
+    "type": "choice",
+    "question": "何枚 是什么意思?",
+    "options": [
+      "行人",
+      "高速公路",
+      "几张",
+      "名字"
+    ],
+    "answerIndex": 2,
+    "explanation": "何枚(なんまい) = 几张"
+  },
+  {
+    "id": "driving-w-nan-mai-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "何枚",
+    "options": [
+      "车外",
+      "几张",
+      "谢谢",
+      "做得很好"
+    ],
+    "answerIndex": 1,
+    "explanation": "何枚(なんまい) = 几张"
+  },
+  {
+    "id": "driving-w-nan-mai-w3-000",
+    "type": "choice",
+    "question": "几张 用日语怎么说?",
+    "options": [
+      "ドアミラー",
+      "下り坂",
+      "何枚",
+      "〜してください"
+    ],
+    "answerIndex": 2,
+    "explanation": "何枚(なんまい) = 几张"
+  },
+  {
+    "id": "driving-w-nan-mai-w4-000",
+    "type": "choice",
+    "question": "何枚 的读音是?",
+    "options": [
+      "なんまい",
+      "おそい",
+      "メーター",
+      "おはようございます"
+    ],
+    "answerIndex": 0,
+    "explanation": "何枚 = なんまい(几张)"
+  },
+  {
+    "id": "driving-w-nan-mai-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "何枚",
+    "answer": "なんまい|",
+    "answerFormat": "hiragana",
+    "explanation": "何枚 = なんまい(几张)"
+  },
+  {
+    "id": "driving-w-nan-mai-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "何枚",
+    "answer": "なんまい|",
+    "answerFormat": "hiragana",
+    "explanation": "何枚 = なんまい(几张)"
+  },
+  {
+    "id": "driving-w-megane-w1-000",
+    "type": "choice",
+    "question": "眼鏡 是什么意思?",
+    "options": [
+      "街道(通り)",
+      "请加油",
+      "毕业",
+      "眼镜"
+    ],
+    "answerIndex": 3,
+    "explanation": "眼鏡(めがね) = 眼镜"
+  },
+  {
+    "id": "driving-w-megane-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "眼鏡",
+    "options": [
+      "驾照,许可证",
+      "掉头",
+      "眼镜",
+      "白线"
+    ],
+    "answerIndex": 2,
+    "explanation": "眼鏡(めがね) = 眼镜"
+  },
+  {
+    "id": "driving-w-megane-w3-000",
+    "type": "choice",
+    "question": "眼镜 用日语怎么说?",
+    "options": [
+      "歩道",
+      "眼鏡",
+      "対向車",
+      "シート"
+    ],
+    "answerIndex": 1,
+    "explanation": "眼鏡(めがね) = 眼镜"
+  },
+  {
+    "id": "driving-w-megane-w4-000",
+    "type": "choice",
+    "question": "眼鏡 的读音是?",
+    "options": [
+      "めがね",
+      "ひょうじ",
+      "あお",
+      "せんへんこう"
+    ],
+    "answerIndex": 0,
+    "explanation": "眼鏡 = めがね(眼镜)"
+  },
+  {
+    "id": "driving-w-megane-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "眼鏡",
+    "answer": "めがね|",
+    "answerFormat": "hiragana",
+    "explanation": "眼鏡 = めがね(眼镜)"
+  },
+  {
+    "id": "driving-w-megane-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "眼鏡",
+    "answer": "めがね|",
+    "answerFormat": "hiragana",
+    "explanation": "眼鏡 = めがね(眼镜)"
+  },
+  {
+    "id": "driving-w-shashin-w1-000",
+    "type": "choice",
+    "question": "写真 是什么意思?",
+    "options": [
+      "照片",
+      "早上好",
+      "右转",
+      "正式驾照"
+    ],
+    "answerIndex": 0,
+    "explanation": "写真(しゃしん) = 照片"
+  },
+  {
+    "id": "driving-w-shashin-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "写真",
+    "options": [
+      "右转",
+      "帮帮我",
+      "眼镜",
+      "照片"
+    ],
+    "answerIndex": 3,
+    "explanation": "写真(しゃしん) = 照片"
+  },
+  {
+    "id": "driving-w-shashin-w3-000",
+    "type": "choice",
+    "question": "照片 用日语怎么说?",
+    "options": [
+      "交通ルール",
+      "明日",
+      "写真",
+      "助けて"
+    ],
+    "answerIndex": 2,
+    "explanation": "写真(しゃしん) = 照片"
+  },
+  {
+    "id": "driving-w-shashin-w4-000",
+    "type": "choice",
+    "question": "写真 的读音是?",
+    "options": [
+      "よくできました",
+      "ていし",
+      "ひょうしき",
+      "しゃしん"
+    ],
+    "answerIndex": 3,
+    "explanation": "写真 = しゃしん(照片)"
+  },
+  {
+    "id": "driving-w-shashin-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "写真",
+    "answer": "しゃしん|",
+    "answerFormat": "hiragana",
+    "explanation": "写真 = しゃしん(照片)"
+  },
+  {
+    "id": "driving-w-shashin-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "写真",
+    "answer": "しゃしん|",
+    "answerFormat": "hiragana",
+    "explanation": "写真 = しゃしん(照片)"
+  },
+  {
+    "id": "driving-w-shoumei-w1-000",
+    "type": "choice",
+    "question": "証明書 是什么意思?",
+    "options": [
+      "红绿灯",
+      "路面标线",
+      "入校(教习所)",
+      "证明书"
+    ],
+    "answerIndex": 3,
+    "explanation": "証明書(しょうめいしょ) = 证明书"
+  },
+  {
+    "id": "driving-w-shoumei-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "証明書",
+    "options": [
+      "变道",
+      "换挡",
+      "轮胎",
+      "证明书"
+    ],
+    "answerIndex": 3,
+    "explanation": "証明書(しょうめいしょ) = 证明书"
+  },
+  {
+    "id": "driving-w-shoumei-w3-000",
+    "type": "choice",
+    "question": "证明书 用日语怎么说?",
+    "options": [
+      "車線変更",
+      "巻き込み確認",
+      "証明書",
+      "エンジン"
+    ],
+    "answerIndex": 2,
+    "explanation": "証明書(しょうめいしょ) = 证明书"
+  },
+  {
+    "id": "driving-w-shoumei-w4-000",
+    "type": "choice",
+    "question": "証明書 的读音是?",
+    "options": [
+      "ちゅうしゃきんし",
+      "ミラー",
+      "しょうめいしょ",
+      "ちゅうしゃ"
+    ],
+    "answerIndex": 2,
+    "explanation": "証明書 = しょうめいしょ(证明书)"
+  },
+  {
+    "id": "driving-w-shoumei-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "証明書",
+    "answer": "しょうめいしょ|",
+    "answerFormat": "hiragana",
+    "explanation": "証明書 = しょうめいしょ(证明书)"
+  },
+  {
+    "id": "driving-w-shoumei-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "証明書",
+    "answer": "しょうめいしょ|",
+    "answerFormat": "hiragana",
+    "explanation": "証明書 = しょうめいしょ(证明书)"
+  },
+  {
+    "id": "driving-w-innshou-w1-000",
+    "type": "choice",
+    "question": "印象 是什么意思?",
+    "options": [
+      "印象",
+      "交通规则",
+      "轮胎",
+      "停车(短时)"
+    ],
+    "answerIndex": 0,
+    "explanation": "印象(いんしょう) = 印象"
+  },
+  {
+    "id": "driving-w-innshou-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "印象",
+    "options": [
+      "街道(通り)",
+      "白线",
+      "印象",
+      "停车(长时间)"
+    ],
+    "answerIndex": 2,
+    "explanation": "印象(いんしょう) = 印象"
+  },
+  {
+    "id": "driving-w-innshou-w3-000",
+    "type": "choice",
+    "question": "印象 用日语怎么说?",
+    "options": [
+      "外国人",
+      "ありがとうございます",
+      "印象",
+      "また"
+    ],
+    "answerIndex": 2,
+    "explanation": "印象(いんしょう) = 印象"
+  },
+  {
+    "id": "driving-w-innshou-w4-000",
+    "type": "choice",
+    "question": "印象 的读音是?",
+    "options": [
+      "きりかえし",
+      "あした",
+      "いんしょう",
+      "また"
+    ],
+    "answerIndex": 2,
+    "explanation": "印象 = いんしょう(印象)"
+  },
+  {
+    "id": "driving-w-innshou-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "印象",
+    "answer": "いんしょう|",
+    "answerFormat": "hiragana",
+    "explanation": "印象 = いんしょう(印象)"
+  },
+  {
+    "id": "driving-w-innshou-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "印象",
+    "answer": "いんしょう|",
+    "answerFormat": "hiragana",
+    "explanation": "印象 = いんしょう(印象)"
+  },
+  {
+    "id": "driving-g-te-kudasai-g1-000",
+    "type": "choice",
+    "question": "语法「动词て形 + ください」的意思是?",
+    "options": [
+      "请做~ (请求)",
+      "过于~ / 太~",
+      "变得~ / 变成~",
+      "~的时候"
+    ],
+    "answerIndex": 0,
+    "explanation": "エンジンをかけてください。 = 请发动引擎。"
+  },
+  {
+    "id": "driving-g-te-kudasai-g2-000",
+    "type": "choice",
+    "question": "意思「请做~ (请求)」对应哪个语法?",
+    "options": [
+      "普通形 + から / ので",
+      "Vます形去ます + すぎる / イ形容词去い + すぎる",
+      "Vて形 + はいけない / Vない形 + でください",
+      "动词て形 + ください"
+    ],
+    "answerIndex": 3,
+    "explanation": "动词て形 + ください = 请做~ (请求)"
+  },
+  {
+    "id": "driving-g-mashou-g1-000",
+    "type": "choice",
+    "question": "语法「动词ます形去ます + ましょう」的意思是?",
+    "options": [
+      "看得见 / 听得见 (能力)",
+      "能~ / 可以~",
+      "一起做~吧 / 一起~吧",
+      "礼貌体"
+    ],
+    "answerIndex": 2,
+    "explanation": "今日は発進を練習しましょう。 = 今天我们练习起步吧。"
+  },
+  {
+    "id": "driving-g-mashou-g2-000",
+    "type": "choice",
+    "question": "意思「一起做~吧 / 一起~吧」对应哪个语法?",
+    "options": [
+      "Vる / Vた / 名词 + の + 時",
+      "动词ます形去ます + ましょう",
+      "Vます形 ⇄ Vない形 / 字典形 / た形 / て形",
+      "Vます形去ます + すぎる / イ形容词去い + すぎる"
+    ],
+    "answerIndex": 1,
+    "explanation": "动词ます形去ます + ましょう = 一起做~吧 / 一起~吧"
+  },
+  {
+    "id": "driving-g-toki-g1-000",
+    "type": "choice",
+    "question": "语法「Vる / Vた / 名词 + の + 時」的意思是?",
+    "options": [
+      "变得~ / 变成~",
+      "动词变形基础",
+      "~的时候",
+      "能~ / 可以~"
+    ],
+    "answerIndex": 2,
+    "explanation": "右折する時、ウインカーを出します。 = 右转时,打转向灯。"
+  },
+  {
+    "id": "driving-g-toki-g2-000",
+    "type": "choice",
+    "question": "意思「~的时候」对应哪个语法?",
+    "options": [
+      "Vる / Vた / 名词 + の + 時",
+      "見える / 聞こえる",
+      "名词 / な形容词 + に なる",
+      "Vます形去ます + そうです / イ形容词去い + そうです"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vる / Vた / 名词 + の + 時 = ~的时候"
+  },
+  {
+    "id": "driving-g-kara-node-g1-000",
+    "type": "choice",
+    "question": "语法「普通形 + から / ので」的意思是?",
+    "options": [
+      "因为~ (原因)",
+      "~的时候",
+      "请做~ (请求)",
+      "形容词 (第二类)"
+    ],
+    "answerIndex": 0,
+    "explanation": "濡れているので、気をつけてください。 = 因为湿了,请小心。"
+  },
+  {
+    "id": "driving-g-kara-node-g2-000",
+    "type": "choice",
+    "question": "意思「因为~ (原因)」对应哪个语法?",
+    "options": [
+      "普通形 + から / ので",
+      "Vます形去ます + そうです / イ形容词去い + そうです",
+      "名词 / な形容词 + に なる",
+      "Vます形 ⇄ Vない形 / 字典形 / た形 / て形"
+    ],
+    "answerIndex": 0,
+    "explanation": "普通形 + から / ので = 因为~ (原因)"
+  },
+  {
+    "id": "driving-g-tewa-g1-000",
+    "type": "choice",
+    "question": "语法「Vて形 + はいけない / Vない形 + でください」的意思是?",
+    "options": [
+      "不可以~ / 请不要~",
+      "看起来~ / 好像~",
+      "请做~ (请求)",
+      "看得见 / 听得见 (能力)"
+    ],
+    "answerIndex": 0,
+    "explanation": "ここで駐車しないでください。 = 请不要在这里停车。"
+  },
+  {
+    "id": "driving-g-tewa-g2-000",
+    "type": "choice",
+    "question": "意思「不可以~ / 请不要~」对应哪个语法?",
+    "options": [
+      "Vて形 + はいけない / Vない形 + でください",
+      "見える / 聞こえる",
+      "V辞書形 + ことができる / V可能形",
+      "Vる / Vた / 名词 + の + 時"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vて形 + はいけない / Vない形 + でください = 不可以~ / 请不要~"
+  },
+  {
+    "id": "driving-g-tai-g1-000",
+    "type": "choice",
+    "question": "语法「Vます形去ます + たい」的意思是?",
+    "options": [
+      "我想~ / 想做~",
+      "看起来~ / 好像~",
+      "动词变形基础",
+      "能~ / 可以~"
+    ],
+    "answerIndex": 0,
+    "explanation": "もう一度やりたいです。 = 我想再来一次。"
+  },
+  {
+    "id": "driving-g-tai-g2-000",
+    "type": "choice",
+    "question": "意思「我想~ / 想做~」对应哪个语法?",
+    "options": [
+      "Vます形 ⇄ Vない形 / 字典形 / た形 / て形",
+      "词干 + い / くない / かった",
+      "Vます形去ます + たい",
+      "普通形 + から / ので"
+    ],
+    "answerIndex": 2,
+    "explanation": "Vます形去ます + たい = 我想~ / 想做~"
+  },
+  {
+    "id": "driving-g-ni-naru-g1-000",
+    "type": "choice",
+    "question": "语法「名词 / な形容词 + に なる」的意思是?",
+    "options": [
+      "请做~ (请求)",
+      "动词变形基础",
+      "因为~ (原因)",
+      "变得~ / 变成~"
+    ],
+    "answerIndex": 3,
+    "explanation": "上手になりましたね。 = 变熟练了呢。"
+  },
+  {
+    "id": "driving-g-ni-naru-g2-000",
+    "type": "choice",
+    "question": "意思「变得~ / 变成~」对应哪个语法?",
+    "options": [
+      "名词 / な形容词 + に なる",
+      "普通形 + から / ので",
+      "V辞書形 + ことができる / V可能形",
+      "Vます形 ⇄ Vない形 / 字典形 / た形 / て形"
+    ],
+    "answerIndex": 0,
+    "explanation": "名词 / な形容词 + に なる = 变得~ / 变成~"
+  },
+  {
+    "id": "driving-g-keigo-g1-000",
+    "type": "choice",
+    "question": "语法「普通形 → です/ます形」的意思是?",
+    "options": [
+      "动词变形基础",
+      "因为~ (原因)",
+      "礼貌体",
+      "看起来~ / 好像~"
+    ],
+    "answerIndex": 2,
+    "explanation": "ミラーを見ます。 = 我看后视镜。(ます形)"
+  },
+  {
+    "id": "driving-g-keigo-g2-000",
+    "type": "choice",
+    "question": "意思「礼貌体」对应哪个语法?",
+    "options": [
+      "普通形 → です/ます形",
+      "普通形 + から / ので",
+      "見える / 聞こえる",
+      "V辞書形 + ことができる / V可能形"
+    ],
+    "answerIndex": 0,
+    "explanation": "普通形 → です/ます形 = 礼貌体"
+  },
+  {
+    "id": "driving-g-i-kei-g1-000",
+    "type": "choice",
+    "question": "语法「词干 + い / くない / かった」的意思是?",
+    "options": [
+      "变得~ / 变成~",
+      "过于~ / 太~",
+      "不可以~ / 请不要~",
+      "形容词 - 变化"
+    ],
+    "answerIndex": 3,
+    "explanation": "危ない! = 危险!"
+  },
+  {
+    "id": "driving-g-i-kei-g2-000",
+    "type": "choice",
+    "question": "意思「形容词 - 变化」对应哪个语法?",
+    "options": [
+      "词干 + い / くない / かった",
+      "Vます形去ます + すぎる / イ形容词去い + すぎる",
+      "Vます形去ます + そうです / イ形容词去い + そうです",
+      "Vる / Vた / 名词 + の + 時"
+    ],
+    "answerIndex": 0,
+    "explanation": "词干 + い / くない / かった = 形容词 - 变化"
+  },
+  {
+    "id": "driving-g-n-kei-g1-000",
+    "type": "choice",
+    "question": "语法「词干 + だ / な / に / だった」的意思是?",
+    "options": [
+      "过于~ / 太~",
+      "形容词 (第二类)",
+      "礼貌体",
+      "请做~ (请求)"
+    ],
+    "answerIndex": 1,
+    "explanation": "丁寧な運転ですね。 = 很细致的驾驶呢。"
+  },
+  {
+    "id": "driving-g-n-kei-g2-000",
+    "type": "choice",
+    "question": "意思「形容词 (第二类)」对应哪个语法?",
+    "options": [
+      "动词ます形去ます + ましょう",
+      "Vます形 ⇄ Vない形 / 字典形 / た形 / て形",
+      "普通形 → です/ます形",
+      "词干 + だ / な / に / だった"
+    ],
+    "answerIndex": 3,
+    "explanation": "词干 + だ / な / に / だった = 形容词 (第二类)"
+  },
+  {
+    "id": "driving-g-kanou-g1-000",
+    "type": "choice",
+    "question": "语法「V辞書形 + ことができる / V可能形」的意思是?",
+    "options": [
+      "形容词 (第二类)",
+      "因为~ (原因)",
+      "形容词 - 变化",
+      "能~ / 可以~"
+    ],
+    "answerIndex": 3,
+    "explanation": "ここでUターンすることができますか? = 这里能掉头吗?"
+  },
+  {
+    "id": "driving-g-kanou-g2-000",
+    "type": "choice",
+    "question": "意思「能~ / 可以~」对应哪个语法?",
+    "options": [
+      "词干 + だ / な / に / だった",
+      "名词 / な形容词 + に なる",
+      "V辞書形 + ことができる / V可能形",
+      "Vる / Vた / 名词 + の + 時"
+    ],
+    "answerIndex": 2,
+    "explanation": "V辞書形 + ことができる / V可能形 = 能~ / 可以~"
+  },
+  {
+    "id": "driving-g-mieru-g1-000",
+    "type": "choice",
+    "question": "语法「見える / 聞こえる」的意思是?",
+    "options": [
+      "一起做~吧 / 一起~吧",
+      "看得见 / 听得见 (能力)",
+      "礼貌体",
+      "动词变形基础"
+    ],
+    "answerIndex": 1,
+    "explanation": "ミラーが見えません。 = 看不见后视镜。"
+  },
+  {
+    "id": "driving-g-mieru-g2-000",
+    "type": "choice",
+    "question": "意思「看得见 / 听得见 (能力)」对应哪个语法?",
+    "options": [
+      "Vる / Vた / 名词 + の + 時",
+      "見える / 聞こえる",
+      "Vて形 + はいけない / Vない形 + でください",
+      "名词 / な形容词 + に なる"
+    ],
+    "answerIndex": 1,
+    "explanation": "見える / 聞こえる = 看得见 / 听得见 (能力)"
+  },
+  {
+    "id": "driving-g-masu-tai-form-g1-000",
+    "type": "choice",
+    "question": "语法「Vます形 ⇄ Vない形 / 字典形 / た形 / て形」的意思是?",
+    "options": [
+      "~的时候",
+      "形容词 - 变化",
+      "动词变形基础",
+      "形容词 (第二类)"
+    ],
+    "answerIndex": 2,
+    "explanation": "走る(字典) → 走ります / 走らない / 走った / 走って = 跑"
+  },
+  {
+    "id": "driving-g-masu-tai-form-g2-000",
+    "type": "choice",
+    "question": "意思「动词变形基础」对应哪个语法?",
+    "options": [
+      "Vて形 + はいけない / Vない形 + でください",
+      "Vます形 ⇄ Vない形 / 字典形 / た形 / て形",
+      "Vる / Vた / 名词 + の + 時",
+      "词干 + だ / な / に / だった"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vます形 ⇄ Vない形 / 字典形 / た形 / て形 = 动词变形基础"
+  },
+  {
+    "id": "driving-g-sou-da-g1-000",
+    "type": "choice",
+    "question": "语法「Vます形去ます + そうです / イ形容词去い + そうです」的意思是?",
+    "options": [
+      "能~ / 可以~",
+      "看起来~ / 好像~",
+      "形容词 - 变化",
+      "不可以~ / 请不要~"
+    ],
+    "answerIndex": 1,
+    "explanation": "雨が降りそうです。 = 看起来要下雨。"
+  },
+  {
+    "id": "driving-g-sou-da-g2-000",
+    "type": "choice",
+    "question": "意思「看起来~ / 好像~」对应哪个语法?",
+    "options": [
+      "Vます形去ます + そうです / イ形容词去い + そうです",
+      "动词て形 + ください",
+      "普通形 → です/ます形",
+      "普通形 + から / ので"
+    ],
+    "answerIndex": 0,
+    "explanation": "Vます形去ます + そうです / イ形容词去い + そうです = 看起来~ / 好像~"
+  },
+  {
+    "id": "driving-g-sugiru-g1-000",
+    "type": "choice",
+    "question": "语法「Vます形去ます + すぎる / イ形容词去い + すぎる」的意思是?",
+    "options": [
+      "过于~ / 太~",
+      "我想~ / 想做~",
+      "一起做~吧 / 一起~吧",
+      "请做~ (请求)"
+    ],
+    "answerIndex": 0,
+    "explanation": "速すぎます! もう少しゆっくり。 = 太快了!再慢一点。"
+  },
+  {
+    "id": "driving-g-sugiru-g2-000",
+    "type": "choice",
+    "question": "意思「过于~ / 太~」对应哪个语法?",
+    "options": [
+      "普通形 + から / ので",
+      "Vて形 + はいけない / Vない形 + でください",
+      "Vます形去ます + そうです / イ形容词去い + そうです",
+      "Vます形去ます + すぎる / イ形容词去い + すぎる"
+    ],
+    "answerIndex": 3,
+    "explanation": "Vます形去ます + すぎる / イ形容词去い + すぎる = 过于~ / 太~"
   }
 ]
