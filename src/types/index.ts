@@ -103,6 +103,8 @@ export interface QuizQuestion {
 
 export type ScenarioTab = 'overview' | 'textbook' | 'words' | 'grammar' | 'dialogs' | 'listening' | 'quiz';
 
+export type ScenarioCategory = 'driving' | 'medical' | 'life' | 'other';
+
 export interface ScenarioMeta {
   id: string;
   title: string;
@@ -111,6 +113,8 @@ export interface ScenarioMeta {
   color: string; // tailwind gradient classes
   description: string;
   goals: string[];
+  /** 场景分类(用于场景列表页分组) */
+  category: ScenarioCategory;
   /** 教材 PDF 文件路径(相对于 public/),设置后会在场景里显示「教材」tab */
   pdf?: string;
   /** 教材 PDF 显示名 */
