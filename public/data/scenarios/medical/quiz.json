@@ -1,0 +1,7455 @@
+[
+  {
+    "id": "med-q01",
+    "type": "choice",
+    "question": "「初診」是什么意思?",
+    "options": [
+      "初诊",
+      "复诊",
+      "住院",
+      "出院"
+    ],
+    "answerIndex": 0,
+    "explanation": "初診(しょしん)= 第一次来这家医院就诊。"
+  },
+  {
+    "id": "med-q02",
+    "type": "choice",
+    "question": "「処方箋」是什么?",
+    "options": [
+      "挂号单",
+      "处方笺",
+      "病历",
+      "收据"
+    ],
+    "answerIndex": 1,
+    "explanation": "処方箋(しょほうせん)= 医生开的处方,凭此去药房拿药。"
+  },
+  {
+    "id": "med-q03",
+    "type": "choice",
+    "question": "「問診票」是做什么用的?",
+    "options": [
+      "缴费单",
+      "病历本",
+      "病人填写的症状问卷",
+      "介绍信"
+    ],
+    "answerIndex": 2,
+    "explanation": "問診票(もんしんひょう)= 初诊时填写的问诊单,记录症状/过敏/病史。"
+  },
+  {
+    "id": "med-q04",
+    "type": "choice",
+    "question": "「内科」是看什么病的?",
+    "options": [
+      "内科(感冒/发烧/肠胃等)",
+      "骨科",
+      "皮肤科",
+      "牙科"
+    ],
+    "answerIndex": 0,
+    "explanation": "内科(ないか)看内脏器官的疾病(感冒、胃肠、血压等)。"
+  },
+  {
+    "id": "med-q05",
+    "type": "choice",
+    "question": "「整形外科」主要看什么?",
+    "options": [
+      "整形(美容)手术",
+      "骨折/扭伤/腰背痛等骨科",
+      "皮肤",
+      "眼睛"
+    ],
+    "answerIndex": 1,
+    "explanation": "日本的「整形外科」是骨科(骨折/扭伤),不是美容整形。美容叫「美容外科」。"
+  },
+  {
+    "id": "med-q06",
+    "type": "choice",
+    "question": "「採血」是什么?",
+    "options": [
+      "血压测量",
+      "抽血",
+      "注射",
+      "心电图"
+    ],
+    "answerIndex": 1,
+    "explanation": "採血(さいけつ)= 抽血检查。"
+  },
+  {
+    "id": "med-q07",
+    "type": "choice",
+    "question": "「レントゲン」是什么检查?",
+    "options": [
+      "CT",
+      "MRI",
+      "X 光(透视)",
+      "B 超"
+    ],
+    "answerIndex": 2,
+    "explanation": "レントゲン= X 光透视检查。"
+  },
+  {
+    "id": "med-q08",
+    "type": "choice",
+    "question": "「熱がある」是什么意思?",
+    "options": [
+      "怕热",
+      "发烧",
+      "中暑",
+      "出汗"
+    ],
+    "answerIndex": 1,
+    "explanation": "熱がある(ねつがある)= 发烧。"
+  },
+  {
+    "id": "med-q09",
+    "type": "choice",
+    "question": "「頭痛」是什么?",
+    "options": [
+      "腰痛",
+      "头痛",
+      "胃痛",
+      "胸痛"
+    ],
+    "answerIndex": 1,
+    "explanation": "頭痛(ずつう)= 头痛。"
+  },
+  {
+    "id": "med-q10",
+    "type": "choice",
+    "question": "「下痢」的意思是?",
+    "options": [
+      "呕吐",
+      "拉肚子",
+      "便秘",
+      "头晕"
+    ],
+    "answerIndex": 1,
+    "explanation": "下痢(げり)= 拉肚子。"
+  },
+  {
+    "id": "med-q11",
+    "type": "choice",
+    "question": "「吐き気がする」是什么意思?",
+    "options": [
+      "想吐",
+      "打嗝",
+      "反酸",
+      "拉肚子"
+    ],
+    "answerIndex": 0,
+    "explanation": "吐き気がする(はきけがする)= 恶心/想吐。"
+  },
+  {
+    "id": "med-q12",
+    "type": "choice",
+    "question": "「保険証」是什么?",
+    "options": [
+      "护照",
+      "健康保险证",
+      "在留卡",
+      "驾照"
+    ],
+    "answerIndex": 1,
+    "explanation": "保険証(ほけんしょう)= 健康保险证,日本国民/长期居住者必带。"
+  },
+  {
+    "id": "med-q13",
+    "type": "choice",
+    "question": "「紹介状」是干什么用的?",
+    "options": [
+      "推荐信/转诊单",
+      "挂号单",
+      "病历",
+      "收据"
+    ],
+    "answerIndex": 0,
+    "explanation": "紹介状(しょうかいじょう)= 从小诊所转到大医院时需要的介绍信/转诊单。"
+  },
+  {
+    "id": "med-q14",
+    "type": "choice",
+    "question": "「会計」在医院的场景是?",
+    "options": [
+      "开会",
+      "结账/缴费",
+      "介绍",
+      "挂号"
+    ],
+    "answerIndex": 1,
+    "explanation": "会計(かいけい)= 看完病后去窗口付钱。"
+  },
+  {
+    "id": "med-q15",
+    "type": "choice",
+    "question": "「薬局」是做什么的?",
+    "options": [
+      "饭馆",
+      "书店",
+      "药房(拿药的地方)",
+      "邮局"
+    ],
+    "answerIndex": 2,
+    "explanation": "薬局(やっきょく)= 凭处方笺拿药的地方。"
+  },
+  {
+    "id": "med-q16",
+    "type": "choice",
+    "question": "「入院」的意思?",
+    "options": [
+      "出院",
+      "住院",
+      "进医院(看病)",
+      "预约"
+    ],
+    "answerIndex": 1,
+    "explanation": "入院(にゅういん)= 住院。反义词是退院(出院)。"
+  },
+  {
+    "id": "med-q17",
+    "type": "choice",
+    "question": "「救急車」是什么?",
+    "options": [
+      "出租车",
+      "消防车",
+      "救护车",
+      "垃圾车"
+    ],
+    "answerIndex": 2,
+    "explanation": "救急車(きゅうきゅうしゃ)= 救护车。电话 119。"
+  },
+  {
+    "id": "med-q18",
+    "type": "choice",
+    "question": "「看護師」是?",
+    "options": [
+      "医生",
+      "护士",
+      "药剂师",
+      "患者"
+    ],
+    "answerIndex": 1,
+    "explanation": "看護師(かんごし)= 护士。医生是「医師(いし)」。"
+  },
+  {
+    "id": "med-q19",
+    "type": "choice",
+    "question": "「食後」是什么时候?",
+    "options": [
+      "饭前",
+      "饭后",
+      "吃饭中",
+      "空腹"
+    ],
+    "answerIndex": 1,
+    "explanation": "食後(しょくご)= 饭后。食前=饭前;食間=两餐之间。"
+  },
+  {
+    "id": "med-q20",
+    "type": "choice",
+    "question": "「アレルギー」是什么意思?",
+    "options": [
+      "贫血",
+      "过敏",
+      "感冒",
+      "炎症"
+    ],
+    "answerIndex": 1,
+    "explanation": "アレルギー= 过敏(食物/药物/花粉等)。"
+  },
+  {
+    "id": "med-q21",
+    "type": "choice",
+    "question": "「高血压」用日语怎么说?",
+    "options": [
+      "糖尿病",
+      "高血圧",
+      "肺炎",
+      "喘息"
+    ],
+    "answerIndex": 1,
+    "explanation": "高血圧(こうけつあつ)= 高血压。"
+  },
+  {
+    "id": "med-q22",
+    "type": "choice",
+    "question": "「消毒」做什么用的?",
+    "options": [
+      "按摩",
+      "打针",
+      "消毒(杀菌)",
+      "包扎"
+    ],
+    "answerIndex": 2,
+    "explanation": "消毒(しょうどく)= 杀菌消毒(伤口/手/器具等)。"
+  },
+  {
+    "id": "med-q23",
+    "type": "choice",
+    "question": "「手術」是什么?",
+    "options": [
+      "打针",
+      "手术",
+      "检查",
+      "化验"
+    ],
+    "answerIndex": 1,
+    "explanation": "手術(しゅじゅつ)= 手术。"
+  },
+  {
+    "id": "med-q24",
+    "type": "choice",
+    "question": "「インフルエンザ」是什么?",
+    "options": [
+      "感冒(普通)",
+      "流感",
+      "肺炎",
+      "过敏"
+    ],
+    "answerIndex": 1,
+    "explanation": "インフルエンザ= 流感(由特定病毒引起,比普通感冒重)。"
+  },
+  {
+    "id": "med-q25",
+    "type": "choice",
+    "question": "「待合室」是哪里?",
+    "options": [
+      "诊室",
+      "候诊室",
+      "病房",
+      "手术室"
+    ],
+    "answerIndex": 1,
+    "explanation": "待合室(まちあいしつ)= 等叫号的地方。"
+  },
+  {
+    "id": "med-L01",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "エコー検査",
+    "options": [
+      "抽血",
+      "B 超检查",
+      "血压",
+      "心电图"
+    ],
+    "answerIndex": 1,
+    "explanation": "エコー検査 (えこーけんさ) = B 超检查"
+  },
+  {
+    "id": "med-L02",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "吐き気",
+    "options": [
+      "咳嗽",
+      "扭伤",
+      "鼻塞",
+      "恶心"
+    ],
+    "answerIndex": 3,
+    "explanation": "吐き気 (はきけ) = 恶心"
+  },
+  {
+    "id": "med-L03",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "包帯",
+    "options": [
+      "绷带",
+      "病历",
+      "纱布",
+      "体温计"
+    ],
+    "answerIndex": 0,
+    "explanation": "包帯 (ほうたい) = 绷带"
+  },
+  {
+    "id": "med-L04",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "病院",
+    "options": [
+      "医院(大型)",
+      "药房",
+      "诊所(小型)",
+      "候诊室"
+    ],
+    "answerIndex": 0,
+    "explanation": "病院 (びょういん) = 医院(大型)"
+  },
+  {
+    "id": "med-L05",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "軟膏",
+    "options": [
+      "药膏",
+      "眼药水",
+      "感冒药",
+      "药"
+    ],
+    "answerIndex": 0,
+    "explanation": "軟膏 (なんこう) = 药膏"
+  },
+  {
+    "id": "med-L06",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "目薬",
+    "options": [
+      "退烧药",
+      "眼药水",
+      "粉药",
+      "胶囊"
+    ],
+    "answerIndex": 1,
+    "explanation": "目薬 (めぐすり) = 眼药水"
+  },
+  {
+    "id": "med-L07",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "問診票",
+    "options": [
+      "预约制",
+      "休诊日",
+      "复诊",
+      "问诊单"
+    ],
+    "answerIndex": 3,
+    "explanation": "問診票 (もんしんひょう) = 问诊单"
+  },
+  {
+    "id": "med-L08",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "腫れ",
+    "options": [
+      "头痛",
+      "肿胀",
+      "骨折",
+      "烧伤/烫伤"
+    ],
+    "answerIndex": 1,
+    "explanation": "腫れ (はれ) = 肿胀"
+  },
+  {
+    "id": "med-R01",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "どうしましたか。",
+    "options": [
+      "頭が痛いんです。",
+      "右に折ります。",
+      "ミラーを見ます。",
+      "発進します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "怎么了→头疼"
+  },
+  {
+    "id": "med-R02",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "熱があります。",
+    "options": [
+      "解熱剤を処方します。",
+      "右に折ります。",
+      "ミラーを見ます。",
+      "発進します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "发烧→给你开退烧药"
+  },
+  {
+    "id": "med-R03",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "保険証はお持ちですか。",
+    "options": [
+      "はい、これです。",
+      "右に折ります。",
+      "発進します。",
+      "ミラーを見ます。"
+    ],
+    "answerIndex": 0,
+    "explanation": "带保险证了吗→带了,这个"
+  },
+  {
+    "id": "med-R04",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "この薬を食後に飲んでください。",
+    "options": [
+      "はい、分かりました。",
+      "右に折ります。",
+      "発進します。",
+      "ミラーを見ます。"
+    ],
+    "answerIndex": 0,
+    "explanation": "饭后吃药→好的,明白了"
+  },
+  {
+    "id": "med-S01",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "予約制",
+    "answer": "よやくせい|yoyakusei",
+    "answerFormat": "hiragana",
+    "explanation": "予約制 = よやくせい (预约制)"
+  },
+  {
+    "id": "med-S02",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "患者",
+    "answer": "かんじゃ|kanja",
+    "answerFormat": "hiragana",
+    "explanation": "患者 = かんじゃ (患者/病人)"
+  },
+  {
+    "id": "med-S03",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "風邪薬",
+    "answer": "かぜぐすり|kazegusuri",
+    "answerFormat": "hiragana",
+    "explanation": "風邪薬 = かぜぐすり (感冒药)"
+  },
+  {
+    "id": "med-S04",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "問診票",
+    "answer": "もんしんひょう|monshinhyou",
+    "answerFormat": "hiragana",
+    "explanation": "問診票 = もんしんひょう (问诊单)"
+  },
+  {
+    "id": "med-S05",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "鼻づまり",
+    "answer": "はなづまり|hanazumari",
+    "answerFormat": "hiragana",
+    "explanation": "鼻づまり = はなづまり (鼻塞)"
+  },
+  {
+    "id": "med-S06",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "咳",
+    "answer": "せき|seki",
+    "answerFormat": "hiragana",
+    "explanation": "咳 = せき (咳嗽)"
+  },
+  {
+    "id": "med-S07",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "軟膏",
+    "answer": "なんこう|nankou",
+    "answerFormat": "hiragana",
+    "explanation": "軟膏 = なんこう (药膏)"
+  },
+  {
+    "id": "med-S08",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "体温計",
+    "answer": "たいおんけい|taionkei",
+    "answerFormat": "hiragana",
+    "explanation": "体温計 = たいおんけい (体温计)"
+  },
+  {
+    "id": "med-S09",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "休診日",
+    "answer": "きゅうしんび|kyuushinbi",
+    "answerFormat": "hiragana",
+    "explanation": "休診日 = きゅうしんび (休诊日)"
+  },
+  {
+    "id": "med-S10",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "小児科",
+    "answer": "しょうにか|shounika",
+    "answerFormat": "hiragana",
+    "explanation": "小児科 = しょうにか (小儿科)"
+  },
+  {
+    "id": "med-S11",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "予約",
+    "answer": "よやく|yoyaku",
+    "answerFormat": "hiragana",
+    "explanation": "予約 = よやく (预约)"
+  },
+  {
+    "id": "med-S12",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "診察室",
+    "answer": "しんさつしつ|shinsatsushitsu",
+    "answerFormat": "hiragana",
+    "explanation": "診察室 = しんさつしつ (诊室)"
+  },
+  {
+    "id": "med-SA01",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "患者",
+    "answer": "かんじゃ|kanja",
+    "answerFormat": "hiragana",
+    "explanation": "患者 = かんじゃ (患者/病人)"
+  },
+  {
+    "id": "med-SA02",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "錠剤",
+    "answer": "じょうざい|jouzai",
+    "answerFormat": "hiragana",
+    "explanation": "錠剤 = じょうざい (药片)"
+  },
+  {
+    "id": "med-SA03",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "血液検査",
+    "answer": "けつえきけんさ|ketsueki-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "血液検査 = けつえきけんさ (血液检查)"
+  },
+  {
+    "id": "med-SA04",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "保険証",
+    "answer": "ほけんしょう|hokenshou",
+    "answerFormat": "hiragana",
+    "explanation": "保険証 = ほけんしょう (健康保险证)"
+  },
+  {
+    "id": "med-SA05",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "検査",
+    "answer": "けんさ|kensa",
+    "answerFormat": "hiragana",
+    "explanation": "検査 = けんさ (检查)"
+  },
+  {
+    "id": "med-SA06",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "アレルギー",
+    "answer": "あれるぎー|arerugii",
+    "answerFormat": "hiragana",
+    "explanation": "アレルギー = あれるぎー (过敏)"
+  },
+  {
+    "id": "med-SA07",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "麻酔",
+    "answer": "ますい|masui",
+    "answerFormat": "hiragana",
+    "explanation": "麻酔 = ますい (麻醉)"
+  },
+  {
+    "id": "med-SA08",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "消毒",
+    "answer": "しょうどく|shoudoku",
+    "answerFormat": "hiragana",
+    "explanation": "消毒 = しょうどく (消毒)"
+  },
+  {
+    "id": "medical-med-w01-w1-000",
+    "type": "choice",
+    "question": "病院 是什么意思?",
+    "options": [
+      "眼科",
+      "诊疗卡",
+      "眼药水",
+      "医院(大型)"
+    ],
+    "answerIndex": 3,
+    "explanation": "病院(びょういん) = 医院(大型)"
+  },
+  {
+    "id": "medical-med-w01-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "病院",
+    "options": [
+      "患者/病人",
+      "诊所(小型)",
+      "药",
+      "医院(大型)"
+    ],
+    "answerIndex": 3,
+    "explanation": "病院(びょういん) = 医院(大型)"
+  },
+  {
+    "id": "medical-med-w01-w3-000",
+    "type": "choice",
+    "question": "医院(大型) 用日语怎么说?",
+    "options": [
+      "病院",
+      "退院",
+      "やけど",
+      "薬"
+    ],
+    "answerIndex": 0,
+    "explanation": "病院(びょういん) = 医院(大型)"
+  },
+  {
+    "id": "medical-med-w01-w4-000",
+    "type": "choice",
+    "question": "病院 的读音是?",
+    "options": [
+      "びょういん",
+      "かんじゃ",
+      "めまい",
+      "げか"
+    ],
+    "answerIndex": 0,
+    "explanation": "病院 = びょういん(医院(大型))"
+  },
+  {
+    "id": "medical-med-w01-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "病院",
+    "answer": "びょういん|byouin",
+    "answerFormat": "hiragana",
+    "explanation": "病院 = びょういん(医院(大型))"
+  },
+  {
+    "id": "medical-med-w01-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "病院",
+    "answer": "びょういん|byouin",
+    "answerFormat": "hiragana",
+    "explanation": "病院 = びょういん(医院(大型))"
+  },
+  {
+    "id": "medical-med-w02-w1-000",
+    "type": "choice",
+    "question": "クリニック 是什么意思?",
+    "options": [
+      "骨折",
+      "诊所(小型)",
+      "急诊",
+      "药膏"
+    ],
+    "answerIndex": 1,
+    "explanation": "クリニック(くりにっく) = 诊所(小型)"
+  },
+  {
+    "id": "medical-med-w02-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "クリニック",
+    "options": [
+      "候诊室",
+      "诊所(小型)",
+      "发冷/寒战",
+      "哮喘"
+    ],
+    "answerIndex": 1,
+    "explanation": "クリニック(くりにっく) = 诊所(小型)"
+  },
+  {
+    "id": "medical-med-w02-w3-000",
+    "type": "choice",
+    "question": "诊所(小型) 用日语怎么说?",
+    "options": [
+      "問診票",
+      "紹介状",
+      "クリニック",
+      "会計"
+    ],
+    "answerIndex": 2,
+    "explanation": "クリニック(くりにっく) = 诊所(小型)"
+  },
+  {
+    "id": "medical-med-w02-w4-000",
+    "type": "choice",
+    "question": "クリニック 的读音是?",
+    "options": [
+      "くりにっく",
+      "がーぜ",
+      "いかいよう",
+      "かんごし"
+    ],
+    "answerIndex": 0,
+    "explanation": "クリニック = くりにっく(诊所(小型))"
+  },
+  {
+    "id": "medical-med-w02-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "クリニック",
+    "answer": "くりにっく|kurinikku",
+    "answerFormat": "hiragana",
+    "explanation": "クリニック = くりにっく(诊所(小型))"
+  },
+  {
+    "id": "medical-med-w02-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "クリニック",
+    "answer": "くりにっく|kurinikku",
+    "answerFormat": "hiragana",
+    "explanation": "クリニック = くりにっく(诊所(小型))"
+  },
+  {
+    "id": "medical-med-w03-w1-000",
+    "type": "choice",
+    "question": "内科 是什么意思?",
+    "options": [
+      "恶心",
+      "烧伤/烫伤",
+      "内科",
+      "药房"
+    ],
+    "answerIndex": 2,
+    "explanation": "内科(ないか) = 内科"
+  },
+  {
+    "id": "medical-med-w03-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "内科",
+    "options": [
+      "挂号/前台",
+      "内科",
+      "外科",
+      "药"
+    ],
+    "answerIndex": 1,
+    "explanation": "内科(ないか) = 内科"
+  },
+  {
+    "id": "medical-med-w03-w3-000",
+    "type": "choice",
+    "question": "内科 用日语怎么说?",
+    "options": [
+      "内科",
+      "インフルエンザ",
+      "肺炎",
+      "鼻づまり"
+    ],
+    "answerIndex": 0,
+    "explanation": "内科(ないか) = 内科"
+  },
+  {
+    "id": "medical-med-w03-w4-000",
+    "type": "choice",
+    "question": "内科 的读音是?",
+    "options": [
+      "げり",
+      "ないか",
+      "しょうかいじょう",
+      "かいけい"
+    ],
+    "answerIndex": 1,
+    "explanation": "内科 = ないか(内科)"
+  },
+  {
+    "id": "medical-med-w03-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "内科",
+    "answer": "ないか|naika",
+    "answerFormat": "hiragana",
+    "explanation": "内科 = ないか(内科)"
+  },
+  {
+    "id": "medical-med-w03-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "内科",
+    "answer": "ないか|naika",
+    "answerFormat": "hiragana",
+    "explanation": "内科 = ないか(内科)"
+  },
+  {
+    "id": "medical-med-w04-w1-000",
+    "type": "choice",
+    "question": "外科 是什么意思?",
+    "options": [
+      "外科",
+      "药",
+      "胃溃疡",
+      "抽血"
+    ],
+    "answerIndex": 0,
+    "explanation": "外科(げか) = 外科"
+  },
+  {
+    "id": "medical-med-w04-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "外科",
+    "options": [
+      "X 光",
+      "肺炎",
+      "外科",
+      "B 超检查"
+    ],
+    "answerIndex": 2,
+    "explanation": "外科(げか) = 外科"
+  },
+  {
+    "id": "medical-med-w04-w3-000",
+    "type": "choice",
+    "question": "外科 用日语怎么说?",
+    "options": [
+      "肺炎",
+      "外科",
+      "小児科",
+      "再診"
+    ],
+    "answerIndex": 1,
+    "explanation": "外科(げか) = 外科"
+  },
+  {
+    "id": "medical-med-w04-w4-000",
+    "type": "choice",
+    "question": "外科 的读音是?",
+    "options": [
+      "げか",
+      "しょうじょう",
+      "ほけんしょう",
+      "せき"
+    ],
+    "answerIndex": 0,
+    "explanation": "外科 = げか(外科)"
+  },
+  {
+    "id": "medical-med-w04-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "外科",
+    "answer": "げか|geka",
+    "answerFormat": "hiragana",
+    "explanation": "外科 = げか(外科)"
+  },
+  {
+    "id": "medical-med-w04-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "外科",
+    "answer": "げか|geka",
+    "answerFormat": "hiragana",
+    "explanation": "外科 = げか(外科)"
+  },
+  {
+    "id": "medical-med-w05-w1-000",
+    "type": "choice",
+    "question": "小児科 是什么意思?",
+    "options": [
+      "处方笺",
+      "手术",
+      "小儿科",
+      "止痛药"
+    ],
+    "answerIndex": 2,
+    "explanation": "小児科(しょうにか) = 小儿科"
+  },
+  {
+    "id": "medical-med-w05-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "小児科",
+    "options": [
+      "出院",
+      "病历",
+      "抽血",
+      "小儿科"
+    ],
+    "answerIndex": 3,
+    "explanation": "小児科(しょうにか) = 小儿科"
+  },
+  {
+    "id": "medical-med-w05-w3-000",
+    "type": "choice",
+    "question": "小儿科 用日语怎么说?",
+    "options": [
+      "肺炎",
+      "予約",
+      "小児科",
+      "会計"
+    ],
+    "answerIndex": 2,
+    "explanation": "小児科(しょうにか) = 小儿科"
+  },
+  {
+    "id": "medical-med-w05-w4-000",
+    "type": "choice",
+    "question": "小児科 的读音是?",
+    "options": [
+      "しょうにか",
+      "さんふじんか",
+      "はいえん",
+      "さいしん"
+    ],
+    "answerIndex": 0,
+    "explanation": "小児科 = しょうにか(小儿科)"
+  },
+  {
+    "id": "medical-med-w05-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "小児科",
+    "answer": "しょうにか|shounika",
+    "answerFormat": "hiragana",
+    "explanation": "小児科 = しょうにか(小儿科)"
+  },
+  {
+    "id": "medical-med-w05-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "小児科",
+    "answer": "しょうにか|shounika",
+    "answerFormat": "hiragana",
+    "explanation": "小児科 = しょうにか(小儿科)"
+  },
+  {
+    "id": "medical-med-w06-w1-000",
+    "type": "choice",
+    "question": "整形外科 是什么意思?",
+    "options": [
+      "挂号/前台",
+      "急诊",
+      "骨科/整形外科",
+      "复诊"
+    ],
+    "answerIndex": 2,
+    "explanation": "整形外科(せいけいげか) = 骨科/整形外科"
+  },
+  {
+    "id": "medical-med-w06-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "整形外科",
+    "options": [
+      "头痛",
+      "骨科/整形外科",
+      "鼻塞",
+      "候诊室"
+    ],
+    "answerIndex": 1,
+    "explanation": "整形外科(せいけいげか) = 骨科/整形外科"
+  },
+  {
+    "id": "medical-med-w06-w3-000",
+    "type": "choice",
+    "question": "骨科/整形外科 用日语怎么说?",
+    "options": [
+      "高血圧",
+      "整形外科",
+      "カプセル",
+      "マスク"
+    ],
+    "answerIndex": 1,
+    "explanation": "整形外科(せいけいげか) = 骨科/整形外科"
+  },
+  {
+    "id": "medical-med-w06-w4-000",
+    "type": "choice",
+    "question": "整形外科 的读音是?",
+    "options": [
+      "はきけ",
+      "しょほうせん",
+      "せいけいげか",
+      "しょうにか"
+    ],
+    "answerIndex": 2,
+    "explanation": "整形外科 = せいけいげか(骨科/整形外科)"
+  },
+  {
+    "id": "medical-med-w06-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "整形外科",
+    "answer": "せいけいげか|seikeigeka",
+    "answerFormat": "hiragana",
+    "explanation": "整形外科 = せいけいげか(骨科/整形外科)"
+  },
+  {
+    "id": "medical-med-w06-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "整形外科",
+    "answer": "せいけいげか|seikeigeka",
+    "answerFormat": "hiragana",
+    "explanation": "整形外科 = せいけいげか(骨科/整形外科)"
+  },
+  {
+    "id": "medical-med-w07-w1-000",
+    "type": "choice",
+    "question": "皮膚科 是什么意思?",
+    "options": [
+      "皮肤科",
+      "医院(大型)",
+      "发冷/寒战",
+      "健康保险证"
+    ],
+    "answerIndex": 0,
+    "explanation": "皮膚科(ひふか) = 皮肤科"
+  },
+  {
+    "id": "medical-med-w07-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "皮膚科",
+    "options": [
+      "皮肤科",
+      "胃溃疡",
+      "问诊单",
+      "药片"
+    ],
+    "answerIndex": 0,
+    "explanation": "皮膚科(ひふか) = 皮肤科"
+  },
+  {
+    "id": "medical-med-w07-w3-000",
+    "type": "choice",
+    "question": "皮肤科 用日语怎么说?",
+    "options": [
+      "カプセル",
+      "血液検査",
+      "皮膚科",
+      "解熱剤"
+    ],
+    "answerIndex": 2,
+    "explanation": "皮膚科(ひふか) = 皮肤科"
+  },
+  {
+    "id": "medical-med-w07-w4-000",
+    "type": "choice",
+    "question": "皮膚科 的读音是?",
+    "options": [
+      "びょういん",
+      "しんでんず",
+      "かんじゃ",
+      "ひふか"
+    ],
+    "answerIndex": 3,
+    "explanation": "皮膚科 = ひふか(皮肤科)"
+  },
+  {
+    "id": "medical-med-w07-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "皮膚科",
+    "answer": "ひふか|hifuka",
+    "answerFormat": "hiragana",
+    "explanation": "皮膚科 = ひふか(皮肤科)"
+  },
+  {
+    "id": "medical-med-w07-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "皮膚科",
+    "answer": "ひふか|hifuka",
+    "answerFormat": "hiragana",
+    "explanation": "皮膚科 = ひふか(皮肤科)"
+  },
+  {
+    "id": "medical-med-w08-w1-000",
+    "type": "choice",
+    "question": "耳鼻咽喉科 是什么意思?",
+    "options": [
+      "心电图",
+      "药房",
+      "耳鼻喉科",
+      "止痛药"
+    ],
+    "answerIndex": 2,
+    "explanation": "耳鼻咽喉科(じびいんこうか) = 耳鼻喉科"
+  },
+  {
+    "id": "medical-med-w08-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "耳鼻咽喉科",
+    "options": [
+      "耳鼻喉科",
+      "拉肚子",
+      "症状",
+      "纱布"
+    ],
+    "answerIndex": 0,
+    "explanation": "耳鼻咽喉科(じびいんこうか) = 耳鼻喉科"
+  },
+  {
+    "id": "medical-med-w08-w3-000",
+    "type": "choice",
+    "question": "耳鼻喉科 用日语怎么说?",
+    "options": [
+      "軟膏",
+      "鼻水",
+      "耳鼻咽喉科",
+      "検尿"
+    ],
+    "answerIndex": 2,
+    "explanation": "耳鼻咽喉科(じびいんこうか) = 耳鼻喉科"
+  },
+  {
+    "id": "medical-med-w08-w4-000",
+    "type": "choice",
+    "question": "耳鼻咽喉科 的读音是?",
+    "options": [
+      "ねんざ",
+      "ますい",
+      "じびいんこうか",
+      "めまい"
+    ],
+    "answerIndex": 2,
+    "explanation": "耳鼻咽喉科 = じびいんこうか(耳鼻喉科)"
+  },
+  {
+    "id": "medical-med-w08-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "耳鼻咽喉科",
+    "answer": "じびいんこうか|jibiinkouka",
+    "answerFormat": "hiragana",
+    "explanation": "耳鼻咽喉科 = じびいんこうか(耳鼻喉科)"
+  },
+  {
+    "id": "medical-med-w08-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "耳鼻咽喉科",
+    "answer": "じびいんこうか|jibiinkouka",
+    "answerFormat": "hiragana",
+    "explanation": "耳鼻咽喉科 = じびいんこうか(耳鼻喉科)"
+  },
+  {
+    "id": "medical-med-w09-w1-000",
+    "type": "choice",
+    "question": "眼科 是什么意思?",
+    "options": [
+      "糖尿病",
+      "牙科",
+      "急诊",
+      "眼科"
+    ],
+    "answerIndex": 3,
+    "explanation": "眼科(がんか) = 眼科"
+  },
+  {
+    "id": "medical-med-w09-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "眼科",
+    "options": [
+      "恶心",
+      "健康保险证",
+      "眼科",
+      "诊断"
+    ],
+    "answerIndex": 2,
+    "explanation": "眼科(がんか) = 眼科"
+  },
+  {
+    "id": "medical-med-w09-w3-000",
+    "type": "choice",
+    "question": "眼科 用日语怎么说?",
+    "options": [
+      "やけど",
+      "眼科",
+      "医師",
+      "体温"
+    ],
+    "answerIndex": 1,
+    "explanation": "眼科(がんか) = 眼科"
+  },
+  {
+    "id": "medical-med-w09-w4-000",
+    "type": "choice",
+    "question": "眼科 的读音是?",
+    "options": [
+      "がんか",
+      "しんさつけん",
+      "なんこう",
+      "しんだん"
+    ],
+    "answerIndex": 0,
+    "explanation": "眼科 = がんか(眼科)"
+  },
+  {
+    "id": "medical-med-w09-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "眼科",
+    "answer": "がんか|ganka",
+    "answerFormat": "hiragana",
+    "explanation": "眼科 = がんか(眼科)"
+  },
+  {
+    "id": "medical-med-w09-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "眼科",
+    "answer": "がんか|ganka",
+    "answerFormat": "hiragana",
+    "explanation": "眼科 = がんか(眼科)"
+  },
+  {
+    "id": "medical-med-w10-w1-000",
+    "type": "choice",
+    "question": "歯科 是什么意思?",
+    "options": [
+      "初诊",
+      "医院(大型)",
+      "门诊时间",
+      "牙科"
+    ],
+    "answerIndex": 3,
+    "explanation": "歯科(しか) = 牙科"
+  },
+  {
+    "id": "medical-med-w10-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "歯科",
+    "options": [
+      "体温",
+      "咳嗽",
+      "复诊",
+      "牙科"
+    ],
+    "answerIndex": 3,
+    "explanation": "歯科(しか) = 牙科"
+  },
+  {
+    "id": "medical-med-w10-w3-000",
+    "type": "choice",
+    "question": "牙科 用日语怎么说?",
+    "options": [
+      "歯科",
+      "受付",
+      "看護師",
+      "検尿"
+    ],
+    "answerIndex": 0,
+    "explanation": "歯科(しか) = 牙科"
+  },
+  {
+    "id": "medical-med-w10-w4-000",
+    "type": "choice",
+    "question": "歯科 的读音是?",
+    "options": [
+      "じょうざい",
+      "ほけんしょう",
+      "しんでんず",
+      "しか"
+    ],
+    "answerIndex": 3,
+    "explanation": "歯科 = しか(牙科)"
+  },
+  {
+    "id": "medical-med-w10-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "歯科",
+    "answer": "しか|shika",
+    "answerFormat": "hiragana",
+    "explanation": "歯科 = しか(牙科)"
+  },
+  {
+    "id": "medical-med-w10-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "歯科",
+    "answer": "しか|shika",
+    "answerFormat": "hiragana",
+    "explanation": "歯科 = しか(牙科)"
+  },
+  {
+    "id": "medical-med-w11-w1-000",
+    "type": "choice",
+    "question": "産婦人科 是什么意思?",
+    "options": [
+      "妇产科",
+      "检查",
+      "纱布",
+      "预约"
+    ],
+    "answerIndex": 0,
+    "explanation": "産婦人科(さんふじんか) = 妇产科"
+  },
+  {
+    "id": "medical-med-w11-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "産婦人科",
+    "options": [
+      "医生",
+      "胃溃疡",
+      "妇产科",
+      "胶囊"
+    ],
+    "answerIndex": 2,
+    "explanation": "産婦人科(さんふじんか) = 妇产科"
+  },
+  {
+    "id": "medical-med-w11-w3-000",
+    "type": "choice",
+    "question": "妇产科 用日语怎么说?",
+    "options": [
+      "錠剤",
+      "産婦人科",
+      "めまい",
+      "処方箋"
+    ],
+    "answerIndex": 1,
+    "explanation": "産婦人科(さんふじんか) = 妇产科"
+  },
+  {
+    "id": "medical-med-w11-w4-000",
+    "type": "choice",
+    "question": "産婦人科 的读音是?",
+    "options": [
+      "ないか",
+      "さんふじんか",
+      "しょうかいじょう",
+      "べんぴ"
+    ],
+    "answerIndex": 1,
+    "explanation": "産婦人科 = さんふじんか(妇产科)"
+  },
+  {
+    "id": "medical-med-w11-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "産婦人科",
+    "answer": "さんふじんか|sanfujinka",
+    "answerFormat": "hiragana",
+    "explanation": "産婦人科 = さんふじんか(妇产科)"
+  },
+  {
+    "id": "medical-med-w11-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "産婦人科",
+    "answer": "さんふじんか|sanfujinka",
+    "answerFormat": "hiragana",
+    "explanation": "産婦人科 = さんふじんか(妇产科)"
+  },
+  {
+    "id": "medical-med-w12-w1-000",
+    "type": "choice",
+    "question": "受付 是什么意思?",
+    "options": [
+      "挂号/前台",
+      "点滴/输液",
+      "药",
+      "胃溃疡"
+    ],
+    "answerIndex": 0,
+    "explanation": "受付(うけつけ) = 挂号/前台"
+  },
+  {
+    "id": "medical-med-w12-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "受付",
+    "options": [
+      "挂号/前台",
+      "手术",
+      "救护车",
+      "打针"
+    ],
+    "answerIndex": 0,
+    "explanation": "受付(うけつけ) = 挂号/前台"
+  },
+  {
+    "id": "medical-med-w12-w3-000",
+    "type": "choice",
+    "question": "挂号/前台 用日语怎么说?",
+    "options": [
+      "検尿",
+      "受付",
+      "産婦人科",
+      "肺炎"
+    ],
+    "answerIndex": 1,
+    "explanation": "受付(うけつけ) = 挂号/前台"
+  },
+  {
+    "id": "medical-med-w12-w4-000",
+    "type": "choice",
+    "question": "受付 的读音是?",
+    "options": [
+      "ひふか",
+      "れんとげん",
+      "ちんつうざい",
+      "うけつけ"
+    ],
+    "answerIndex": 3,
+    "explanation": "受付 = うけつけ(挂号/前台)"
+  },
+  {
+    "id": "medical-med-w12-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "受付",
+    "answer": "うけつけ|uketsuke",
+    "answerFormat": "hiragana",
+    "explanation": "受付 = うけつけ(挂号/前台)"
+  },
+  {
+    "id": "medical-med-w12-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "受付",
+    "answer": "うけつけ|uketsuke",
+    "answerFormat": "hiragana",
+    "explanation": "受付 = うけつけ(挂号/前台)"
+  },
+  {
+    "id": "medical-med-w13-w1-000",
+    "type": "choice",
+    "question": "初診 是什么意思?",
+    "options": [
+      "初诊",
+      "麻醉",
+      "受伤",
+      "恶心"
+    ],
+    "answerIndex": 0,
+    "explanation": "初診(しょしん) = 初诊"
+  },
+  {
+    "id": "medical-med-w13-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "初診",
+    "options": [
+      "退烧药",
+      "止痛药",
+      "初诊",
+      "医院(大型)"
+    ],
+    "answerIndex": 2,
+    "explanation": "初診(しょしん) = 初诊"
+  },
+  {
+    "id": "medical-med-w13-w3-000",
+    "type": "choice",
+    "question": "初诊 用日语怎么说?",
+    "options": [
+      "初診",
+      "救急車",
+      "内科",
+      "粉薬"
+    ],
+    "answerIndex": 0,
+    "explanation": "初診(しょしん) = 初诊"
+  },
+  {
+    "id": "medical-med-w13-w4-000",
+    "type": "choice",
+    "question": "初診 的读音是?",
+    "options": [
+      "ずつう",
+      "しょうかいじょう",
+      "しょしん",
+      "えこーけんさ"
+    ],
+    "answerIndex": 2,
+    "explanation": "初診 = しょしん(初诊)"
+  },
+  {
+    "id": "medical-med-w13-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "初診",
+    "answer": "しょしん|shoshin",
+    "answerFormat": "hiragana",
+    "explanation": "初診 = しょしん(初诊)"
+  },
+  {
+    "id": "medical-med-w13-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "初診",
+    "answer": "しょしん|shoshin",
+    "answerFormat": "hiragana",
+    "explanation": "初診 = しょしん(初诊)"
+  },
+  {
+    "id": "medical-med-w14-w1-000",
+    "type": "choice",
+    "question": "再診 是什么意思?",
+    "options": [
+      "休诊日",
+      "复诊",
+      "B 超检查",
+      "急诊"
+    ],
+    "answerIndex": 1,
+    "explanation": "再診(さいしん) = 复诊"
+  },
+  {
+    "id": "medical-med-w14-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "再診",
+    "options": [
+      "复诊",
+      "退烧药",
+      "妇产科",
+      "过敏"
+    ],
+    "answerIndex": 0,
+    "explanation": "再診(さいしん) = 复诊"
+  },
+  {
+    "id": "medical-med-w14-w3-000",
+    "type": "choice",
+    "question": "复诊 用日语怎么说?",
+    "options": [
+      "入院",
+      "再診",
+      "糖尿病",
+      "診察券"
+    ],
+    "answerIndex": 1,
+    "explanation": "再診(さいしん) = 复诊"
+  },
+  {
+    "id": "medical-med-w14-w4-000",
+    "type": "choice",
+    "question": "再診 的读音是?",
+    "options": [
+      "かるて",
+      "あれるぎー",
+      "さいしん",
+      "せき"
+    ],
+    "answerIndex": 2,
+    "explanation": "再診 = さいしん(复诊)"
+  },
+  {
+    "id": "medical-med-w14-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "再診",
+    "answer": "さいしん|saishin",
+    "answerFormat": "hiragana",
+    "explanation": "再診 = さいしん(复诊)"
+  },
+  {
+    "id": "medical-med-w14-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "再診",
+    "answer": "さいしん|saishin",
+    "answerFormat": "hiragana",
+    "explanation": "再診 = さいしん(复诊)"
+  },
+  {
+    "id": "medical-med-w15-w1-000",
+    "type": "choice",
+    "question": "問診票 是什么意思?",
+    "options": [
+      "手术",
+      "骨科/整形外科",
+      "患者/病人",
+      "问诊单"
+    ],
+    "answerIndex": 3,
+    "explanation": "問診票(もんしんひょう) = 问诊单"
+  },
+  {
+    "id": "medical-med-w15-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "問診票",
+    "options": [
+      "问诊单",
+      "胃溃疡",
+      "绷带",
+      "流感"
+    ],
+    "answerIndex": 0,
+    "explanation": "問診票(もんしんひょう) = 问诊单"
+  },
+  {
+    "id": "medical-med-w15-w3-000",
+    "type": "choice",
+    "question": "问诊单 用日语怎么说?",
+    "options": [
+      "整形外科",
+      "休診日",
+      "問診票",
+      "注射"
+    ],
+    "answerIndex": 2,
+    "explanation": "問診票(もんしんひょう) = 问诊单"
+  },
+  {
+    "id": "medical-med-w15-w4-000",
+    "type": "choice",
+    "question": "問診票 的读音是?",
+    "options": [
+      "しょうじょう",
+      "ねつ",
+      "はきけ",
+      "もんしんひょう"
+    ],
+    "answerIndex": 3,
+    "explanation": "問診票 = もんしんひょう(问诊单)"
+  },
+  {
+    "id": "medical-med-w15-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "問診票",
+    "answer": "もんしんひょう|monshinhyou",
+    "answerFormat": "hiragana",
+    "explanation": "問診票 = もんしんひょう(问诊单)"
+  },
+  {
+    "id": "medical-med-w15-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "問診票",
+    "answer": "もんしんひょう|monshinhyou",
+    "answerFormat": "hiragana",
+    "explanation": "問診票 = もんしんひょう(问诊单)"
+  },
+  {
+    "id": "medical-med-w16-w1-000",
+    "type": "choice",
+    "question": "待合室 是什么意思?",
+    "options": [
+      "X 光",
+      "体温计",
+      "候诊室",
+      "门诊时间"
+    ],
+    "answerIndex": 2,
+    "explanation": "待合室(まちあいしつ) = 候诊室"
+  },
+  {
+    "id": "medical-med-w16-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "待合室",
+    "options": [
+      "预约制",
+      "肿胀",
+      "候诊室",
+      "挂号/前台"
+    ],
+    "answerIndex": 2,
+    "explanation": "待合室(まちあいしつ) = 候诊室"
+  },
+  {
+    "id": "medical-med-w16-w3-000",
+    "type": "choice",
+    "question": "候诊室 用日语怎么说?",
+    "options": [
+      "外科",
+      "待合室",
+      "病院",
+      "包帯"
+    ],
+    "answerIndex": 1,
+    "explanation": "待合室(まちあいしつ) = 候诊室"
+  },
+  {
+    "id": "medical-med-w16-w4-000",
+    "type": "choice",
+    "question": "待合室 的读音是?",
+    "options": [
+      "まちあいしつ",
+      "あれるぎー",
+      "かいけい",
+      "こうけつあつ"
+    ],
+    "answerIndex": 0,
+    "explanation": "待合室 = まちあいしつ(候诊室)"
+  },
+  {
+    "id": "medical-med-w16-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "待合室",
+    "answer": "まちあいしつ|machiaishitsu",
+    "answerFormat": "hiragana",
+    "explanation": "待合室 = まちあいしつ(候诊室)"
+  },
+  {
+    "id": "medical-med-w16-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "待合室",
+    "answer": "まちあいしつ|machiaishitsu",
+    "answerFormat": "hiragana",
+    "explanation": "待合室 = まちあいしつ(候诊室)"
+  },
+  {
+    "id": "medical-med-w17-w1-000",
+    "type": "choice",
+    "question": "診察室 是什么意思?",
+    "options": [
+      "医院(大型)",
+      "诊所(小型)",
+      "头痛",
+      "诊室"
+    ],
+    "answerIndex": 3,
+    "explanation": "診察室(しんさつしつ) = 诊室"
+  },
+  {
+    "id": "medical-med-w17-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "診察室",
+    "options": [
+      "发冷/寒战",
+      "诊室",
+      "诊所(小型)",
+      "止痛药"
+    ],
+    "answerIndex": 1,
+    "explanation": "診察室(しんさつしつ) = 诊室"
+  },
+  {
+    "id": "medical-med-w17-w3-000",
+    "type": "choice",
+    "question": "诊室 用日语怎么说?",
+    "options": [
+      "診察室",
+      "風邪",
+      "粉薬",
+      "鼻水"
+    ],
+    "answerIndex": 0,
+    "explanation": "診察室(しんさつしつ) = 诊室"
+  },
+  {
+    "id": "medical-med-w17-w4-000",
+    "type": "choice",
+    "question": "診察室 的读音是?",
+    "options": [
+      "しんさつしつ",
+      "ずつう",
+      "しんだん",
+      "せいけいげか"
+    ],
+    "answerIndex": 0,
+    "explanation": "診察室 = しんさつしつ(诊室)"
+  },
+  {
+    "id": "medical-med-w17-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "診察室",
+    "answer": "しんさつしつ|shinsatsushitsu",
+    "answerFormat": "hiragana",
+    "explanation": "診察室 = しんさつしつ(诊室)"
+  },
+  {
+    "id": "medical-med-w17-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "診察室",
+    "answer": "しんさつしつ|shinsatsushitsu",
+    "answerFormat": "hiragana",
+    "explanation": "診察室 = しんさつしつ(诊室)"
+  },
+  {
+    "id": "medical-med-w18-w1-000",
+    "type": "choice",
+    "question": "会計 是什么意思?",
+    "options": [
+      "过敏",
+      "鼻塞",
+      "结账/缴费",
+      "骨科/整形外科"
+    ],
+    "answerIndex": 2,
+    "explanation": "会計(かいけい) = 结账/缴费"
+  },
+  {
+    "id": "medical-med-w18-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "会計",
+    "options": [
+      "骨科/整形外科",
+      "抽血",
+      "结账/缴费",
+      "小儿科"
+    ],
+    "answerIndex": 2,
+    "explanation": "会計(かいけい) = 结账/缴费"
+  },
+  {
+    "id": "medical-med-w18-w3-000",
+    "type": "choice",
+    "question": "结账/缴费 用日语怎么说?",
+    "options": [
+      "歯科",
+      "捻挫",
+      "紹介状",
+      "会計"
+    ],
+    "answerIndex": 3,
+    "explanation": "会計(かいけい) = 结账/缴费"
+  },
+  {
+    "id": "medical-med-w18-w4-000",
+    "type": "choice",
+    "question": "会計 的读音是?",
+    "options": [
+      "こっせつ",
+      "かいけい",
+      "やっきょく",
+      "かぜ"
+    ],
+    "answerIndex": 1,
+    "explanation": "会計 = かいけい(结账/缴费)"
+  },
+  {
+    "id": "medical-med-w18-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "会計",
+    "answer": "かいけい|kaikei",
+    "answerFormat": "hiragana",
+    "explanation": "会計 = かいけい(结账/缴费)"
+  },
+  {
+    "id": "medical-med-w18-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "会計",
+    "answer": "かいけい|kaikei",
+    "answerFormat": "hiragana",
+    "explanation": "会計 = かいけい(结账/缴费)"
+  },
+  {
+    "id": "medical-med-w19-w1-000",
+    "type": "choice",
+    "question": "処方箋 是什么意思?",
+    "options": [
+      "处方笺",
+      "咳嗽",
+      "医院(大型)",
+      "拉肚子"
+    ],
+    "answerIndex": 0,
+    "explanation": "処方箋(しょほうせん) = 处方笺"
+  },
+  {
+    "id": "medical-med-w19-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "処方箋",
+    "options": [
+      "诊所(小型)",
+      "体温计",
+      "受伤",
+      "处方笺"
+    ],
+    "answerIndex": 3,
+    "explanation": "処方箋(しょほうせん) = 处方笺"
+  },
+  {
+    "id": "medical-med-w19-w3-000",
+    "type": "choice",
+    "question": "处方笺 用日语怎么说?",
+    "options": [
+      "保険証",
+      "処方箋",
+      "軟膏",
+      "抗生物質"
+    ],
+    "answerIndex": 1,
+    "explanation": "処方箋(しょほうせん) = 处方笺"
+  },
+  {
+    "id": "medical-med-w19-w4-000",
+    "type": "choice",
+    "question": "処方箋 的读音是?",
+    "options": [
+      "さいしん",
+      "いんふるえんざ",
+      "さむけ",
+      "しょほうせん"
+    ],
+    "answerIndex": 3,
+    "explanation": "処方箋 = しょほうせん(处方笺)"
+  },
+  {
+    "id": "medical-med-w19-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "処方箋",
+    "answer": "しょほうせん|shohousen",
+    "answerFormat": "hiragana",
+    "explanation": "処方箋 = しょほうせん(处方笺)"
+  },
+  {
+    "id": "medical-med-w19-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "処方箋",
+    "answer": "しょほうせん|shohousen",
+    "answerFormat": "hiragana",
+    "explanation": "処方箋 = しょほうせん(处方笺)"
+  },
+  {
+    "id": "medical-med-w20-w1-000",
+    "type": "choice",
+    "question": "薬局 是什么意思?",
+    "options": [
+      "药房",
+      "诊疗卡",
+      "药片",
+      "发冷/寒战"
+    ],
+    "answerIndex": 0,
+    "explanation": "薬局(やっきょく) = 药房"
+  },
+  {
+    "id": "medical-med-w20-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "薬局",
+    "options": [
+      "药房",
+      "腹痛",
+      "救护车",
+      "打针"
+    ],
+    "answerIndex": 0,
+    "explanation": "薬局(やっきょく) = 药房"
+  },
+  {
+    "id": "medical-med-w20-w3-000",
+    "type": "choice",
+    "question": "药房 用日语怎么说?",
+    "options": [
+      "外科",
+      "薬局",
+      "粉薬",
+      "治療"
+    ],
+    "answerIndex": 1,
+    "explanation": "薬局(やっきょく) = 药房"
+  },
+  {
+    "id": "medical-med-w20-w4-000",
+    "type": "choice",
+    "question": "薬局 的读音是?",
+    "options": [
+      "やっきょく",
+      "かいけい",
+      "とうにょうびょう",
+      "さむけ"
+    ],
+    "answerIndex": 0,
+    "explanation": "薬局 = やっきょく(药房)"
+  },
+  {
+    "id": "medical-med-w20-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "薬局",
+    "answer": "やっきょく|yakkyoku",
+    "answerFormat": "hiragana",
+    "explanation": "薬局 = やっきょく(药房)"
+  },
+  {
+    "id": "medical-med-w20-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "薬局",
+    "answer": "やっきょく|yakkyoku",
+    "answerFormat": "hiragana",
+    "explanation": "薬局 = やっきょく(药房)"
+  },
+  {
+    "id": "medical-med-w21-w1-000",
+    "type": "choice",
+    "question": "保険証 是什么意思?",
+    "options": [
+      "健康保险证",
+      "问诊单",
+      "耳鼻喉科",
+      "胶囊"
+    ],
+    "answerIndex": 0,
+    "explanation": "保険証(ほけんしょう) = 健康保险证"
+  },
+  {
+    "id": "medical-med-w21-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "保険証",
+    "options": [
+      "糖尿病",
+      "健康保险证",
+      "药片",
+      "耳鼻喉科"
+    ],
+    "answerIndex": 1,
+    "explanation": "保険証(ほけんしょう) = 健康保险证"
+  },
+  {
+    "id": "medical-med-w21-w3-000",
+    "type": "choice",
+    "question": "健康保险证 用日语怎么说?",
+    "options": [
+      "めまい",
+      "風邪",
+      "体温計",
+      "保険証"
+    ],
+    "answerIndex": 3,
+    "explanation": "保険証(ほけんしょう) = 健康保险证"
+  },
+  {
+    "id": "medical-med-w21-w4-000",
+    "type": "choice",
+    "question": "保険証 的读音是?",
+    "options": [
+      "さいけつ",
+      "ほけんしょう",
+      "とうにょうびょう",
+      "こっせつ"
+    ],
+    "answerIndex": 1,
+    "explanation": "保険証 = ほけんしょう(健康保险证)"
+  },
+  {
+    "id": "medical-med-w21-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "保険証",
+    "answer": "ほけんしょう|hokenshou",
+    "answerFormat": "hiragana",
+    "explanation": "保険証 = ほけんしょう(健康保险证)"
+  },
+  {
+    "id": "medical-med-w21-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "保険証",
+    "answer": "ほけんしょう|hokenshou",
+    "answerFormat": "hiragana",
+    "explanation": "保険証 = ほけんしょう(健康保险证)"
+  },
+  {
+    "id": "medical-med-w22-w1-000",
+    "type": "choice",
+    "question": "紹介状 是什么意思?",
+    "options": [
+      "介绍信(转诊单)",
+      "眼药水",
+      "止痛药",
+      "诊室"
+    ],
+    "answerIndex": 0,
+    "explanation": "紹介状(しょうかいじょう) = 介绍信(转诊单)"
+  },
+  {
+    "id": "medical-med-w22-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "紹介状",
+    "options": [
+      "介绍信(转诊单)",
+      "结账/缴费",
+      "病历",
+      "发冷/寒战"
+    ],
+    "answerIndex": 0,
+    "explanation": "紹介状(しょうかいじょう) = 介绍信(转诊单)"
+  },
+  {
+    "id": "medical-med-w22-w3-000",
+    "type": "choice",
+    "question": "介绍信(转诊单) 用日语怎么说?",
+    "options": [
+      "病院",
+      "心電図",
+      "紹介状",
+      "めまい"
+    ],
+    "answerIndex": 2,
+    "explanation": "紹介状(しょうかいじょう) = 介绍信(转诊单)"
+  },
+  {
+    "id": "medical-med-w22-w4-000",
+    "type": "choice",
+    "question": "紹介状 的读音是?",
+    "options": [
+      "ますい",
+      "かいけい",
+      "しょうかいじょう",
+      "くすり"
+    ],
+    "answerIndex": 2,
+    "explanation": "紹介状 = しょうかいじょう(介绍信(转诊单))"
+  },
+  {
+    "id": "medical-med-w22-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "紹介状",
+    "answer": "しょうかいじょう|shoukaijou",
+    "answerFormat": "hiragana",
+    "explanation": "紹介状 = しょうかいじょう(介绍信(转诊单))"
+  },
+  {
+    "id": "medical-med-w22-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "紹介状",
+    "answer": "しょうかいじょう|shoukaijou",
+    "answerFormat": "hiragana",
+    "explanation": "紹介状 = しょうかいじょう(介绍信(转诊单))"
+  },
+  {
+    "id": "medical-med-w23-w1-000",
+    "type": "choice",
+    "question": "診察券 是什么意思?",
+    "options": [
+      "拉肚子",
+      "诊疗卡",
+      "肿胀",
+      "问诊单"
+    ],
+    "answerIndex": 1,
+    "explanation": "診察券(しんさつけん) = 诊疗卡"
+  },
+  {
+    "id": "medical-med-w23-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "診察券",
+    "options": [
+      "感冒",
+      "治疗",
+      "病历",
+      "诊疗卡"
+    ],
+    "answerIndex": 3,
+    "explanation": "診察券(しんさつけん) = 诊疗卡"
+  },
+  {
+    "id": "medical-med-w23-w3-000",
+    "type": "choice",
+    "question": "诊疗卡 用日语怎么说?",
+    "options": [
+      "粉薬",
+      "診察券",
+      "救急外来",
+      "糖尿病"
+    ],
+    "answerIndex": 1,
+    "explanation": "診察券(しんさつけん) = 诊疗卡"
+  },
+  {
+    "id": "medical-med-w23-w4-000",
+    "type": "choice",
+    "question": "診察券 的读音是?",
+    "options": [
+      "こうけつあつ",
+      "しんさつけん",
+      "かんごし",
+      "こうせいぶっしつ"
+    ],
+    "answerIndex": 1,
+    "explanation": "診察券 = しんさつけん(诊疗卡)"
+  },
+  {
+    "id": "medical-med-w23-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "診察券",
+    "answer": "しんさつけん|shinsatsuken",
+    "answerFormat": "hiragana",
+    "explanation": "診察券 = しんさつけん(诊疗卡)"
+  },
+  {
+    "id": "medical-med-w23-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "診察券",
+    "answer": "しんさつけん|shinsatsuken",
+    "answerFormat": "hiragana",
+    "explanation": "診察券 = しんさつけん(诊疗卡)"
+  },
+  {
+    "id": "medical-med-w24-w1-000",
+    "type": "choice",
+    "question": "予約 是什么意思?",
+    "options": [
+      "妇产科",
+      "耳鼻喉科",
+      "预约",
+      "皮肤科"
+    ],
+    "answerIndex": 2,
+    "explanation": "予約(よやく) = 预约"
+  },
+  {
+    "id": "medical-med-w24-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "予約",
+    "options": [
+      "预约",
+      "纱布",
+      "急诊",
+      "受伤"
+    ],
+    "answerIndex": 0,
+    "explanation": "予約(よやく) = 预约"
+  },
+  {
+    "id": "medical-med-w24-w3-000",
+    "type": "choice",
+    "question": "预约 用日语怎么说?",
+    "options": [
+      "予約",
+      "退院",
+      "皮膚科",
+      "熱"
+    ],
+    "answerIndex": 0,
+    "explanation": "予約(よやく) = 预约"
+  },
+  {
+    "id": "medical-med-w24-w4-000",
+    "type": "choice",
+    "question": "予約 的读音是?",
+    "options": [
+      "はれ",
+      "いし",
+      "よやく",
+      "しょうにか"
+    ],
+    "answerIndex": 2,
+    "explanation": "予約 = よやく(预约)"
+  },
+  {
+    "id": "medical-med-w24-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "予約",
+    "answer": "よやく|yoyaku",
+    "answerFormat": "hiragana",
+    "explanation": "予約 = よやく(预约)"
+  },
+  {
+    "id": "medical-med-w24-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "予約",
+    "answer": "よやく|yoyaku",
+    "answerFormat": "hiragana",
+    "explanation": "予約 = よやく(预约)"
+  },
+  {
+    "id": "medical-med-w25-w1-000",
+    "type": "choice",
+    "question": "風邪 是什么意思?",
+    "options": [
+      "小儿科",
+      "感冒",
+      "受伤",
+      "患者/病人"
+    ],
+    "answerIndex": 1,
+    "explanation": "風邪(かぜ) = 感冒"
+  },
+  {
+    "id": "medical-med-w25-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "風邪",
+    "options": [
+      "糖尿病",
+      "感冒",
+      "护士",
+      "症状"
+    ],
+    "answerIndex": 1,
+    "explanation": "風邪(かぜ) = 感冒"
+  },
+  {
+    "id": "medical-med-w25-w3-000",
+    "type": "choice",
+    "question": "感冒 用日语怎么说?",
+    "options": [
+      "消毒",
+      "風邪",
+      "外科",
+      "薬局"
+    ],
+    "answerIndex": 1,
+    "explanation": "風邪(かぜ) = 感冒"
+  },
+  {
+    "id": "medical-med-w25-w4-000",
+    "type": "choice",
+    "question": "風邪 的读音是?",
+    "options": [
+      "さんふじんか",
+      "かぜ",
+      "たいおんけい",
+      "じびいんこうか"
+    ],
+    "answerIndex": 1,
+    "explanation": "風邪 = かぜ(感冒)"
+  },
+  {
+    "id": "medical-med-w25-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "風邪",
+    "answer": "かぜ|kaze",
+    "answerFormat": "hiragana",
+    "explanation": "風邪 = かぜ(感冒)"
+  },
+  {
+    "id": "medical-med-w25-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "風邪",
+    "answer": "かぜ|kaze",
+    "answerFormat": "hiragana",
+    "explanation": "風邪 = かぜ(感冒)"
+  },
+  {
+    "id": "medical-med-w26-w1-000",
+    "type": "choice",
+    "question": "インフルエンザ 是什么意思?",
+    "options": [
+      "鼻塞",
+      "流感",
+      "治疗",
+      "拉肚子"
+    ],
+    "answerIndex": 1,
+    "explanation": "インフルエンザ(いんふるえんざ) = 流感"
+  },
+  {
+    "id": "medical-med-w26-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "インフルエンザ",
+    "options": [
+      "预约",
+      "挂号/前台",
+      "胃溃疡",
+      "流感"
+    ],
+    "answerIndex": 3,
+    "explanation": "インフルエンザ(いんふるえんざ) = 流感"
+  },
+  {
+    "id": "medical-med-w26-w3-000",
+    "type": "choice",
+    "question": "流感 用日语怎么说?",
+    "options": [
+      "包帯",
+      "インフルエンザ",
+      "喘息",
+      "退院"
+    ],
+    "answerIndex": 1,
+    "explanation": "インフルエンザ(いんふるえんざ) = 流感"
+  },
+  {
+    "id": "medical-med-w26-w4-000",
+    "type": "choice",
+    "question": "インフルエンザ 的读音是?",
+    "options": [
+      "よやく",
+      "さんふじんか",
+      "こうけつあつ",
+      "いんふるえんざ"
+    ],
+    "answerIndex": 3,
+    "explanation": "インフルエンザ = いんふるえんざ(流感)"
+  },
+  {
+    "id": "medical-med-w26-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "インフルエンザ",
+    "answer": "いんふるえんざ|infuruenza",
+    "answerFormat": "hiragana",
+    "explanation": "インフルエンザ = いんふるえんざ(流感)"
+  },
+  {
+    "id": "medical-med-w26-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "インフルエンザ",
+    "answer": "いんふるえんざ|infuruenza",
+    "answerFormat": "hiragana",
+    "explanation": "インフルエンザ = いんふるえんざ(流感)"
+  },
+  {
+    "id": "medical-med-w27-w1-000",
+    "type": "choice",
+    "question": "肺炎 是什么意思?",
+    "options": [
+      "肺炎",
+      "血液检查",
+      "B 超检查",
+      "骨科/整形外科"
+    ],
+    "answerIndex": 0,
+    "explanation": "肺炎(はいえん) = 肺炎"
+  },
+  {
+    "id": "medical-med-w27-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "肺炎",
+    "options": [
+      "B 超检查",
+      "肺炎",
+      "血压",
+      "小儿科"
+    ],
+    "answerIndex": 1,
+    "explanation": "肺炎(はいえん) = 肺炎"
+  },
+  {
+    "id": "medical-med-w27-w3-000",
+    "type": "choice",
+    "question": "肺炎 用日语怎么说?",
+    "options": [
+      "アレルギー",
+      "入院",
+      "肺炎",
+      "初診"
+    ],
+    "answerIndex": 2,
+    "explanation": "肺炎(はいえん) = 肺炎"
+  },
+  {
+    "id": "medical-med-w27-w4-000",
+    "type": "choice",
+    "question": "肺炎 的读音是?",
+    "options": [
+      "かるて",
+      "ほうたい",
+      "ふくつう",
+      "はいえん"
+    ],
+    "answerIndex": 3,
+    "explanation": "肺炎 = はいえん(肺炎)"
+  },
+  {
+    "id": "medical-med-w27-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "肺炎",
+    "answer": "はいえん|haien",
+    "answerFormat": "hiragana",
+    "explanation": "肺炎 = はいえん(肺炎)"
+  },
+  {
+    "id": "medical-med-w27-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "肺炎",
+    "answer": "はいえん|haien",
+    "answerFormat": "hiragana",
+    "explanation": "肺炎 = はいえん(肺炎)"
+  },
+  {
+    "id": "medical-med-w28-w1-000",
+    "type": "choice",
+    "question": "アレルギー 是什么意思?",
+    "options": [
+      "粉药",
+      "过敏",
+      "流感",
+      "体温"
+    ],
+    "answerIndex": 1,
+    "explanation": "アレルギー(あれるぎー) = 过敏"
+  },
+  {
+    "id": "medical-med-w28-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "アレルギー",
+    "options": [
+      "过敏",
+      "小儿科",
+      "健康保险证",
+      "医生"
+    ],
+    "answerIndex": 0,
+    "explanation": "アレルギー(あれるぎー) = 过敏"
+  },
+  {
+    "id": "medical-med-w28-w3-000",
+    "type": "choice",
+    "question": "过敏 用日语怎么说?",
+    "options": [
+      "鼻水",
+      "薬",
+      "エコー検査",
+      "アレルギー"
+    ],
+    "answerIndex": 3,
+    "explanation": "アレルギー(あれるぎー) = 过敏"
+  },
+  {
+    "id": "medical-med-w28-w4-000",
+    "type": "choice",
+    "question": "アレルギー 的读音是?",
+    "options": [
+      "さいしん",
+      "しょしん",
+      "けんにょう",
+      "あれるぎー"
+    ],
+    "answerIndex": 3,
+    "explanation": "アレルギー = あれるぎー(过敏)"
+  },
+  {
+    "id": "medical-med-w28-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "アレルギー",
+    "answer": "あれるぎー|arerugii",
+    "answerFormat": "hiragana",
+    "explanation": "アレルギー = あれるぎー(过敏)"
+  },
+  {
+    "id": "medical-med-w28-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "アレルギー",
+    "answer": "あれるぎー|arerugii",
+    "answerFormat": "hiragana",
+    "explanation": "アレルギー = あれるぎー(过敏)"
+  },
+  {
+    "id": "medical-med-w29-w1-000",
+    "type": "choice",
+    "question": "高血圧 是什么意思?",
+    "options": [
+      "高血压",
+      "尿检",
+      "消毒",
+      "复诊"
+    ],
+    "answerIndex": 0,
+    "explanation": "高血圧(こうけつあつ) = 高血压"
+  },
+  {
+    "id": "medical-med-w29-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "高血圧",
+    "options": [
+      "检查",
+      "治疗",
+      "高血压",
+      "病历"
+    ],
+    "answerIndex": 2,
+    "explanation": "高血圧(こうけつあつ) = 高血压"
+  },
+  {
+    "id": "medical-med-w29-w3-000",
+    "type": "choice",
+    "question": "高血压 用日语怎么说?",
+    "options": [
+      "治療",
+      "看護師",
+      "高血圧",
+      "外科"
+    ],
+    "answerIndex": 2,
+    "explanation": "高血圧(こうけつあつ) = 高血压"
+  },
+  {
+    "id": "medical-med-w29-w4-000",
+    "type": "choice",
+    "question": "高血圧 的读音是?",
+    "options": [
+      "めまい",
+      "がんか",
+      "ねつ",
+      "こうけつあつ"
+    ],
+    "answerIndex": 3,
+    "explanation": "高血圧 = こうけつあつ(高血压)"
+  },
+  {
+    "id": "medical-med-w29-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "高血圧",
+    "answer": "こうけつあつ|kouketsuatsu",
+    "answerFormat": "hiragana",
+    "explanation": "高血圧 = こうけつあつ(高血压)"
+  },
+  {
+    "id": "medical-med-w29-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "高血圧",
+    "answer": "こうけつあつ|kouketsuatsu",
+    "answerFormat": "hiragana",
+    "explanation": "高血圧 = こうけつあつ(高血压)"
+  },
+  {
+    "id": "medical-med-w30-w1-000",
+    "type": "choice",
+    "question": "糖尿病 是什么意思?",
+    "options": [
+      "糖尿病",
+      "骨折",
+      "绷带",
+      "体温计"
+    ],
+    "answerIndex": 0,
+    "explanation": "糖尿病(とうにょうびょう) = 糖尿病"
+  },
+  {
+    "id": "medical-med-w30-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "糖尿病",
+    "options": [
+      "口罩",
+      "问诊单",
+      "哮喘",
+      "糖尿病"
+    ],
+    "answerIndex": 3,
+    "explanation": "糖尿病(とうにょうびょう) = 糖尿病"
+  },
+  {
+    "id": "medical-med-w30-w3-000",
+    "type": "choice",
+    "question": "糖尿病 用日语怎么说?",
+    "options": [
+      "エコー検査",
+      "熱",
+      "糖尿病",
+      "内科"
+    ],
+    "answerIndex": 2,
+    "explanation": "糖尿病(とうにょうびょう) = 糖尿病"
+  },
+  {
+    "id": "medical-med-w30-w4-000",
+    "type": "choice",
+    "question": "糖尿病 的读音是?",
+    "options": [
+      "きゅうきゅうしゃ",
+      "とうにょうびょう",
+      "しんでんず",
+      "ないか"
+    ],
+    "answerIndex": 1,
+    "explanation": "糖尿病 = とうにょうびょう(糖尿病)"
+  },
+  {
+    "id": "medical-med-w30-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "糖尿病",
+    "answer": "とうにょうびょう|tounyoubyou",
+    "answerFormat": "hiragana",
+    "explanation": "糖尿病 = とうにょうびょう(糖尿病)"
+  },
+  {
+    "id": "medical-med-w30-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "糖尿病",
+    "answer": "とうにょうびょう|tounyoubyou",
+    "answerFormat": "hiragana",
+    "explanation": "糖尿病 = とうにょうびょう(糖尿病)"
+  },
+  {
+    "id": "medical-med-w31-w1-000",
+    "type": "choice",
+    "question": "胃潰瘍 是什么意思?",
+    "options": [
+      "肿胀",
+      "胃溃疡",
+      "糖尿病",
+      "高血压"
+    ],
+    "answerIndex": 1,
+    "explanation": "胃潰瘍(いかいよう) = 胃溃疡"
+  },
+  {
+    "id": "medical-med-w31-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "胃潰瘍",
+    "options": [
+      "药片",
+      "扭伤",
+      "胃溃疡",
+      "X 光"
+    ],
+    "answerIndex": 2,
+    "explanation": "胃潰瘍(いかいよう) = 胃溃疡"
+  },
+  {
+    "id": "medical-med-w31-w3-000",
+    "type": "choice",
+    "question": "胃溃疡 用日语怎么说?",
+    "options": [
+      "錠剤",
+      "薬",
+      "胃潰瘍",
+      "産婦人科"
+    ],
+    "answerIndex": 2,
+    "explanation": "胃潰瘍(いかいよう) = 胃溃疡"
+  },
+  {
+    "id": "medical-med-w31-w4-000",
+    "type": "choice",
+    "question": "胃潰瘍 的读音是?",
+    "options": [
+      "うけつけ",
+      "いかいよう",
+      "ひふか",
+      "れんとげん"
+    ],
+    "answerIndex": 1,
+    "explanation": "胃潰瘍 = いかいよう(胃溃疡)"
+  },
+  {
+    "id": "medical-med-w31-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "胃潰瘍",
+    "answer": "いかいよう|ikaiyou",
+    "answerFormat": "hiragana",
+    "explanation": "胃潰瘍 = いかいよう(胃溃疡)"
+  },
+  {
+    "id": "medical-med-w31-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "胃潰瘍",
+    "answer": "いかいよう|ikaiyou",
+    "answerFormat": "hiragana",
+    "explanation": "胃潰瘍 = いかいよう(胃溃疡)"
+  },
+  {
+    "id": "medical-med-w32-w1-000",
+    "type": "choice",
+    "question": "喘息 是什么意思?",
+    "options": [
+      "耳鼻喉科",
+      "休诊日",
+      "哮喘",
+      "血液检查"
+    ],
+    "answerIndex": 2,
+    "explanation": "喘息(ぜんそく) = 哮喘"
+  },
+  {
+    "id": "medical-med-w32-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "喘息",
+    "options": [
+      "哮喘",
+      "诊疗卡",
+      "尿检",
+      "头痛"
+    ],
+    "answerIndex": 0,
+    "explanation": "喘息(ぜんそく) = 哮喘"
+  },
+  {
+    "id": "medical-med-w32-w3-000",
+    "type": "choice",
+    "question": "哮喘 用日语怎么说?",
+    "options": [
+      "医師",
+      "体温計",
+      "喘息",
+      "風邪"
+    ],
+    "answerIndex": 2,
+    "explanation": "喘息(ぜんそく) = 哮喘"
+  },
+  {
+    "id": "medical-med-w32-w4-000",
+    "type": "choice",
+    "question": "喘息 的读音是?",
+    "options": [
+      "さいしん",
+      "ちりょう",
+      "ぜんそく",
+      "きゅうきゅうがいらい"
+    ],
+    "answerIndex": 2,
+    "explanation": "喘息 = ぜんそく(哮喘)"
+  },
+  {
+    "id": "medical-med-w32-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "喘息",
+    "answer": "ぜんそく|zensoku",
+    "answerFormat": "hiragana",
+    "explanation": "喘息 = ぜんそく(哮喘)"
+  },
+  {
+    "id": "medical-med-w32-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "喘息",
+    "answer": "ぜんそく|zensoku",
+    "answerFormat": "hiragana",
+    "explanation": "喘息 = ぜんそく(哮喘)"
+  },
+  {
+    "id": "medical-med-w33-w1-000",
+    "type": "choice",
+    "question": "頭痛 是什么意思?",
+    "options": [
+      "内科",
+      "退烧药",
+      "头痛",
+      "纱布"
+    ],
+    "answerIndex": 2,
+    "explanation": "頭痛(ずつう) = 头痛"
+  },
+  {
+    "id": "medical-med-w33-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "頭痛",
+    "options": [
+      "预约",
+      "皮肤科",
+      "头痛",
+      "休诊日"
+    ],
+    "answerIndex": 2,
+    "explanation": "頭痛(ずつう) = 头痛"
+  },
+  {
+    "id": "medical-med-w33-w3-000",
+    "type": "choice",
+    "question": "头痛 用日语怎么说?",
+    "options": [
+      "歯科",
+      "頭痛",
+      "マスク",
+      "耳鼻咽喉科"
+    ],
+    "answerIndex": 1,
+    "explanation": "頭痛(ずつう) = 头痛"
+  },
+  {
+    "id": "medical-med-w33-w4-000",
+    "type": "choice",
+    "question": "頭痛 的读音是?",
+    "options": [
+      "えこーけんさ",
+      "しんだん",
+      "ずつう",
+      "かるて"
+    ],
+    "answerIndex": 2,
+    "explanation": "頭痛 = ずつう(头痛)"
+  },
+  {
+    "id": "medical-med-w33-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "頭痛",
+    "answer": "ずつう|zutsuu",
+    "answerFormat": "hiragana",
+    "explanation": "頭痛 = ずつう(头痛)"
+  },
+  {
+    "id": "medical-med-w33-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "頭痛",
+    "answer": "ずつう|zutsuu",
+    "answerFormat": "hiragana",
+    "explanation": "頭痛 = ずつう(头痛)"
+  },
+  {
+    "id": "medical-med-w34-w1-000",
+    "type": "choice",
+    "question": "腹痛 是什么意思?",
+    "options": [
+      "X 光",
+      "腹痛",
+      "患者/病人",
+      "体温"
+    ],
+    "answerIndex": 1,
+    "explanation": "腹痛(ふくつう) = 腹痛"
+  },
+  {
+    "id": "medical-med-w34-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "腹痛",
+    "options": [
+      "休诊日",
+      "腹痛",
+      "点滴/输液",
+      "急诊"
+    ],
+    "answerIndex": 1,
+    "explanation": "腹痛(ふくつう) = 腹痛"
+  },
+  {
+    "id": "medical-med-w34-w3-000",
+    "type": "choice",
+    "question": "腹痛 用日语怎么说?",
+    "options": [
+      "軟膏",
+      "風邪",
+      "腹痛",
+      "怪我"
+    ],
+    "answerIndex": 2,
+    "explanation": "腹痛(ふくつう) = 腹痛"
+  },
+  {
+    "id": "medical-med-w34-w4-000",
+    "type": "choice",
+    "question": "腹痛 的读音是?",
+    "options": [
+      "じびいんこうか",
+      "かぷせる",
+      "ふくつう",
+      "れんとげん"
+    ],
+    "answerIndex": 2,
+    "explanation": "腹痛 = ふくつう(腹痛)"
+  },
+  {
+    "id": "medical-med-w34-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "腹痛",
+    "answer": "ふくつう|fukutsuu",
+    "answerFormat": "hiragana",
+    "explanation": "腹痛 = ふくつう(腹痛)"
+  },
+  {
+    "id": "medical-med-w34-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "腹痛",
+    "answer": "ふくつう|fukutsuu",
+    "answerFormat": "hiragana",
+    "explanation": "腹痛 = ふくつう(腹痛)"
+  },
+  {
+    "id": "medical-med-w35-w1-000",
+    "type": "choice",
+    "question": "熱 是什么意思?",
+    "options": [
+      "纱布",
+      "发烧",
+      "恶心",
+      "流感"
+    ],
+    "answerIndex": 1,
+    "explanation": "熱(ねつ) = 发烧"
+  },
+  {
+    "id": "medical-med-w35-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "熱",
+    "options": [
+      "护士",
+      "门诊时间",
+      "发烧",
+      "打针"
+    ],
+    "answerIndex": 2,
+    "explanation": "熱(ねつ) = 发烧"
+  },
+  {
+    "id": "medical-med-w35-w3-000",
+    "type": "choice",
+    "question": "发烧 用日语怎么说?",
+    "options": [
+      "眼科",
+      "初診",
+      "診察室",
+      "熱"
+    ],
+    "answerIndex": 3,
+    "explanation": "熱(ねつ) = 发烧"
+  },
+  {
+    "id": "medical-med-w35-w4-000",
+    "type": "choice",
+    "question": "熱 的读音是?",
+    "options": [
+      "えこーけんさ",
+      "ねつ",
+      "もんしんひょう",
+      "げねつざい"
+    ],
+    "answerIndex": 1,
+    "explanation": "熱 = ねつ(发烧)"
+  },
+  {
+    "id": "medical-med-w35-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "熱",
+    "answer": "ねつ|netsu",
+    "answerFormat": "hiragana",
+    "explanation": "熱 = ねつ(发烧)"
+  },
+  {
+    "id": "medical-med-w35-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "熱",
+    "answer": "ねつ|netsu",
+    "answerFormat": "hiragana",
+    "explanation": "熱 = ねつ(发烧)"
+  },
+  {
+    "id": "medical-med-w36-w1-000",
+    "type": "choice",
+    "question": "咳 是什么意思?",
+    "options": [
+      "咳嗽",
+      "发冷/寒战",
+      "发烧",
+      "休诊日"
+    ],
+    "answerIndex": 0,
+    "explanation": "咳(せき) = 咳嗽"
+  },
+  {
+    "id": "medical-med-w36-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "咳",
+    "options": [
+      "止痛药",
+      "咳嗽",
+      "诊室",
+      "医生"
+    ],
+    "answerIndex": 1,
+    "explanation": "咳(せき) = 咳嗽"
+  },
+  {
+    "id": "medical-med-w36-w3-000",
+    "type": "choice",
+    "question": "咳嗽 用日语怎么说?",
+    "options": [
+      "熱",
+      "咳",
+      "医師",
+      "カルテ"
+    ],
+    "answerIndex": 1,
+    "explanation": "咳(せき) = 咳嗽"
+  },
+  {
+    "id": "medical-med-w36-w4-000",
+    "type": "choice",
+    "question": "咳 的读音是?",
+    "options": [
+      "きゅうきゅうがいらい",
+      "せき",
+      "しんでんず",
+      "とうにょうびょう"
+    ],
+    "answerIndex": 1,
+    "explanation": "咳 = せき(咳嗽)"
+  },
+  {
+    "id": "medical-med-w36-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "咳",
+    "answer": "せき|seki",
+    "answerFormat": "hiragana",
+    "explanation": "咳 = せき(咳嗽)"
+  },
+  {
+    "id": "medical-med-w36-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "咳",
+    "answer": "せき|seki",
+    "answerFormat": "hiragana",
+    "explanation": "咳 = せき(咳嗽)"
+  },
+  {
+    "id": "medical-med-w37-w1-000",
+    "type": "choice",
+    "question": "鼻水 是什么意思?",
+    "options": [
+      "哮喘",
+      "便秘",
+      "B 超检查",
+      "流鼻涕"
+    ],
+    "answerIndex": 3,
+    "explanation": "鼻水(はなみず) = 流鼻涕"
+  },
+  {
+    "id": "medical-med-w37-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "鼻水",
+    "options": [
+      "药",
+      "发冷/寒战",
+      "诊所(小型)",
+      "流鼻涕"
+    ],
+    "answerIndex": 3,
+    "explanation": "鼻水(はなみず) = 流鼻涕"
+  },
+  {
+    "id": "medical-med-w37-w3-000",
+    "type": "choice",
+    "question": "流鼻涕 用日语怎么说?",
+    "options": [
+      "風邪薬",
+      "保険証",
+      "肺炎",
+      "鼻水"
+    ],
+    "answerIndex": 3,
+    "explanation": "鼻水(はなみず) = 流鼻涕"
+  },
+  {
+    "id": "medical-med-w37-w4-000",
+    "type": "choice",
+    "question": "鼻水 的读音是?",
+    "options": [
+      "しょしん",
+      "ぜんそく",
+      "こうせいぶっしつ",
+      "はなみず"
+    ],
+    "answerIndex": 3,
+    "explanation": "鼻水 = はなみず(流鼻涕)"
+  },
+  {
+    "id": "medical-med-w37-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "鼻水",
+    "answer": "はなみず|hanamizu",
+    "answerFormat": "hiragana",
+    "explanation": "鼻水 = はなみず(流鼻涕)"
+  },
+  {
+    "id": "medical-med-w37-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "鼻水",
+    "answer": "はなみず|hanamizu",
+    "answerFormat": "hiragana",
+    "explanation": "鼻水 = はなみず(流鼻涕)"
+  },
+  {
+    "id": "medical-med-w38-w1-000",
+    "type": "choice",
+    "question": "鼻づまり 是什么意思?",
+    "options": [
+      "体温计",
+      "高血压",
+      "鼻塞",
+      "血压"
+    ],
+    "answerIndex": 2,
+    "explanation": "鼻づまり(はなづまり) = 鼻塞"
+  },
+  {
+    "id": "medical-med-w38-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "鼻づまり",
+    "options": [
+      "鼻塞",
+      "止痛药",
+      "小儿科",
+      "处方笺"
+    ],
+    "answerIndex": 0,
+    "explanation": "鼻づまり(はなづまり) = 鼻塞"
+  },
+  {
+    "id": "medical-med-w38-w3-000",
+    "type": "choice",
+    "question": "鼻塞 用日语怎么说?",
+    "options": [
+      "鼻づまり",
+      "小児科",
+      "風邪",
+      "注射"
+    ],
+    "answerIndex": 0,
+    "explanation": "鼻づまり(はなづまり) = 鼻塞"
+  },
+  {
+    "id": "medical-med-w38-w4-000",
+    "type": "choice",
+    "question": "鼻づまり 的读音是?",
+    "options": [
+      "はいえん",
+      "はなづまり",
+      "しょうかいじょう",
+      "いかいよう"
+    ],
+    "answerIndex": 1,
+    "explanation": "鼻づまり = はなづまり(鼻塞)"
+  },
+  {
+    "id": "medical-med-w38-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "鼻づまり",
+    "answer": "はなづまり|hanazumari",
+    "answerFormat": "hiragana",
+    "explanation": "鼻づまり = はなづまり(鼻塞)"
+  },
+  {
+    "id": "medical-med-w38-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "鼻づまり",
+    "answer": "はなづまり|hanazumari",
+    "answerFormat": "hiragana",
+    "explanation": "鼻づまり = はなづまり(鼻塞)"
+  },
+  {
+    "id": "medical-med-w39-w1-000",
+    "type": "choice",
+    "question": "吐き気 是什么意思?",
+    "options": [
+      "骨科/整形外科",
+      "恶心",
+      "拉肚子",
+      "B 超检查"
+    ],
+    "answerIndex": 1,
+    "explanation": "吐き気(はきけ) = 恶心"
+  },
+  {
+    "id": "medical-med-w39-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "吐き気",
+    "options": [
+      "护士",
+      "复诊",
+      "恶心",
+      "救护车"
+    ],
+    "answerIndex": 2,
+    "explanation": "吐き気(はきけ) = 恶心"
+  },
+  {
+    "id": "medical-med-w39-w3-000",
+    "type": "choice",
+    "question": "恶心 用日语怎么说?",
+    "options": [
+      "治療",
+      "やけど",
+      "吐き気",
+      "診察券"
+    ],
+    "answerIndex": 2,
+    "explanation": "吐き気(はきけ) = 恶心"
+  },
+  {
+    "id": "medical-med-w39-w4-000",
+    "type": "choice",
+    "question": "吐き気 的读音是?",
+    "options": [
+      "はきけ",
+      "てんてき",
+      "たいおんけい",
+      "あれるぎー"
+    ],
+    "answerIndex": 0,
+    "explanation": "吐き気 = はきけ(恶心)"
+  },
+  {
+    "id": "medical-med-w39-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "吐き気",
+    "answer": "はきけ|hakike",
+    "answerFormat": "hiragana",
+    "explanation": "吐き気 = はきけ(恶心)"
+  },
+  {
+    "id": "medical-med-w39-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "吐き気",
+    "answer": "はきけ|hakike",
+    "answerFormat": "hiragana",
+    "explanation": "吐き気 = はきけ(恶心)"
+  },
+  {
+    "id": "medical-med-w40-w1-000",
+    "type": "choice",
+    "question": "下痢 是什么意思?",
+    "options": [
+      "头晕/眩晕",
+      "复诊",
+      "介绍信(转诊单)",
+      "拉肚子"
+    ],
+    "answerIndex": 3,
+    "explanation": "下痢(げり) = 拉肚子"
+  },
+  {
+    "id": "medical-med-w40-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "下痢",
+    "options": [
+      "打针",
+      "拉肚子",
+      "医院(大型)",
+      "皮肤科"
+    ],
+    "answerIndex": 1,
+    "explanation": "下痢(げり) = 拉肚子"
+  },
+  {
+    "id": "medical-med-w40-w3-000",
+    "type": "choice",
+    "question": "拉肚子 用日语怎么说?",
+    "options": [
+      "ガーゼ",
+      "下痢",
+      "腫れ",
+      "救急車"
+    ],
+    "answerIndex": 1,
+    "explanation": "下痢(げり) = 拉肚子"
+  },
+  {
+    "id": "medical-med-w40-w4-000",
+    "type": "choice",
+    "question": "下痢 的读音是?",
+    "options": [
+      "きゅうきゅうがいらい",
+      "ほうたい",
+      "げり",
+      "さむけ"
+    ],
+    "answerIndex": 2,
+    "explanation": "下痢 = げり(拉肚子)"
+  },
+  {
+    "id": "medical-med-w40-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "下痢",
+    "answer": "げり|geri",
+    "answerFormat": "hiragana",
+    "explanation": "下痢 = げり(拉肚子)"
+  },
+  {
+    "id": "medical-med-w40-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "下痢",
+    "answer": "げり|geri",
+    "answerFormat": "hiragana",
+    "explanation": "下痢 = げり(拉肚子)"
+  },
+  {
+    "id": "medical-med-w41-w1-000",
+    "type": "choice",
+    "question": "便秘 是什么意思?",
+    "options": [
+      "挂号/前台",
+      "便秘",
+      "医生",
+      "护士"
+    ],
+    "answerIndex": 1,
+    "explanation": "便秘(べんぴ) = 便秘"
+  },
+  {
+    "id": "medical-med-w41-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "便秘",
+    "options": [
+      "便秘",
+      "打针",
+      "鼻塞",
+      "绷带"
+    ],
+    "answerIndex": 0,
+    "explanation": "便秘(べんぴ) = 便秘"
+  },
+  {
+    "id": "medical-med-w41-w3-000",
+    "type": "choice",
+    "question": "便秘 用日语怎么说?",
+    "options": [
+      "便秘",
+      "胃潰瘍",
+      "処方箋",
+      "内科"
+    ],
+    "answerIndex": 0,
+    "explanation": "便秘(べんぴ) = 便秘"
+  },
+  {
+    "id": "medical-med-w41-w4-000",
+    "type": "choice",
+    "question": "便秘 的读音是?",
+    "options": [
+      "ぜんそく",
+      "べんぴ",
+      "しんさつしつ",
+      "たいおん"
+    ],
+    "answerIndex": 1,
+    "explanation": "便秘 = べんぴ(便秘)"
+  },
+  {
+    "id": "medical-med-w41-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "便秘",
+    "answer": "べんぴ|benpi",
+    "answerFormat": "hiragana",
+    "explanation": "便秘 = べんぴ(便秘)"
+  },
+  {
+    "id": "medical-med-w41-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "便秘",
+    "answer": "べんぴ|benpi",
+    "answerFormat": "hiragana",
+    "explanation": "便秘 = べんぴ(便秘)"
+  },
+  {
+    "id": "medical-med-w42-w1-000",
+    "type": "choice",
+    "question": "めまい 是什么意思?",
+    "options": [
+      "骨折",
+      "肿胀",
+      "烧伤/烫伤",
+      "头晕/眩晕"
+    ],
+    "answerIndex": 3,
+    "explanation": "めまい(めまい) = 头晕/眩晕"
+  },
+  {
+    "id": "medical-med-w42-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "めまい",
+    "options": [
+      "头晕/眩晕",
+      "口罩",
+      "外科",
+      "体温计"
+    ],
+    "answerIndex": 0,
+    "explanation": "めまい(めまい) = 头晕/眩晕"
+  },
+  {
+    "id": "medical-med-w42-w3-000",
+    "type": "choice",
+    "question": "头晕/眩晕 用日语怎么说?",
+    "options": [
+      "めまい",
+      "抗生物質",
+      "インフルエンザ",
+      "腹痛"
+    ],
+    "answerIndex": 0,
+    "explanation": "めまい(めまい) = 头晕/眩晕"
+  },
+  {
+    "id": "medical-med-w42-w4-000",
+    "type": "choice",
+    "question": "めまい 的读音是?",
+    "options": [
+      "くすり",
+      "めまい",
+      "がーぜ",
+      "やけど"
+    ],
+    "answerIndex": 1,
+    "explanation": "めまい = めまい(头晕/眩晕)"
+  },
+  {
+    "id": "medical-med-w42-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "めまい",
+    "answer": "めまい|memai",
+    "answerFormat": "hiragana",
+    "explanation": "めまい = めまい(头晕/眩晕)"
+  },
+  {
+    "id": "medical-med-w42-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "めまい",
+    "answer": "めまい|memai",
+    "answerFormat": "hiragana",
+    "explanation": "めまい = めまい(头晕/眩晕)"
+  },
+  {
+    "id": "medical-med-w43-w1-000",
+    "type": "choice",
+    "question": "寒気 是什么意思?",
+    "options": [
+      "发冷/寒战",
+      "咳嗽",
+      "复诊",
+      "发烧"
+    ],
+    "answerIndex": 0,
+    "explanation": "寒気(さむけ) = 发冷/寒战"
+  },
+  {
+    "id": "medical-med-w43-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "寒気",
+    "options": [
+      "发冷/寒战",
+      "介绍信(转诊单)",
+      "医生",
+      "预约制"
+    ],
+    "answerIndex": 0,
+    "explanation": "寒気(さむけ) = 发冷/寒战"
+  },
+  {
+    "id": "medical-med-w43-w3-000",
+    "type": "choice",
+    "question": "发冷/寒战 用日语怎么说?",
+    "options": [
+      "寒気",
+      "看護師",
+      "錠剤",
+      "解熱剤"
+    ],
+    "answerIndex": 0,
+    "explanation": "寒気(さむけ) = 发冷/寒战"
+  },
+  {
+    "id": "medical-med-w43-w4-000",
+    "type": "choice",
+    "question": "寒気 的读音是?",
+    "options": [
+      "ぜんそく",
+      "さむけ",
+      "めぐすり",
+      "ちゅうしゃ"
+    ],
+    "answerIndex": 1,
+    "explanation": "寒気 = さむけ(发冷/寒战)"
+  },
+  {
+    "id": "medical-med-w43-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "寒気",
+    "answer": "さむけ|samuke",
+    "answerFormat": "hiragana",
+    "explanation": "寒気 = さむけ(发冷/寒战)"
+  },
+  {
+    "id": "medical-med-w43-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "寒気",
+    "answer": "さむけ|samuke",
+    "answerFormat": "hiragana",
+    "explanation": "寒気 = さむけ(发冷/寒战)"
+  },
+  {
+    "id": "medical-med-w44-w1-000",
+    "type": "choice",
+    "question": "腫れ 是什么意思?",
+    "options": [
+      "消毒",
+      "肿胀",
+      "耳鼻喉科",
+      "止痛药"
+    ],
+    "answerIndex": 1,
+    "explanation": "腫れ(はれ) = 肿胀"
+  },
+  {
+    "id": "medical-med-w44-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "腫れ",
+    "options": [
+      "点滴/输液",
+      "感冒药",
+      "肿胀",
+      "头痛"
+    ],
+    "answerIndex": 2,
+    "explanation": "腫れ(はれ) = 肿胀"
+  },
+  {
+    "id": "medical-med-w44-w3-000",
+    "type": "choice",
+    "question": "肿胀 用日语怎么说?",
+    "options": [
+      "腫れ",
+      "診察券",
+      "予約",
+      "退院"
+    ],
+    "answerIndex": 0,
+    "explanation": "腫れ(はれ) = 肿胀"
+  },
+  {
+    "id": "medical-med-w44-w4-000",
+    "type": "choice",
+    "question": "腫れ 的读音是?",
+    "options": [
+      "たいいん",
+      "とうにょうびょう",
+      "さんふじんか",
+      "はれ"
+    ],
+    "answerIndex": 3,
+    "explanation": "腫れ = はれ(肿胀)"
+  },
+  {
+    "id": "medical-med-w44-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "腫れ",
+    "answer": "はれ|hare",
+    "answerFormat": "hiragana",
+    "explanation": "腫れ = はれ(肿胀)"
+  },
+  {
+    "id": "medical-med-w44-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "腫れ",
+    "answer": "はれ|hare",
+    "answerFormat": "hiragana",
+    "explanation": "腫れ = はれ(肿胀)"
+  },
+  {
+    "id": "medical-med-w45-w1-000",
+    "type": "choice",
+    "question": "怪我 是什么意思?",
+    "options": [
+      "头晕/眩晕",
+      "小儿科",
+      "受伤",
+      "鼻塞"
+    ],
+    "answerIndex": 2,
+    "explanation": "怪我(けが) = 受伤"
+  },
+  {
+    "id": "medical-med-w45-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "怪我",
+    "options": [
+      "发冷/寒战",
+      "心电图",
+      "受伤",
+      "症状"
+    ],
+    "answerIndex": 2,
+    "explanation": "怪我(けが) = 受伤"
+  },
+  {
+    "id": "medical-med-w45-w3-000",
+    "type": "choice",
+    "question": "受伤 用日语怎么说?",
+    "options": [
+      "患者",
+      "錠剤",
+      "カルテ",
+      "怪我"
+    ],
+    "answerIndex": 3,
+    "explanation": "怪我(けが) = 受伤"
+  },
+  {
+    "id": "medical-med-w45-w4-000",
+    "type": "choice",
+    "question": "怪我 的读音是?",
+    "options": [
+      "けつえきけんさ",
+      "けが",
+      "よやくせい",
+      "しょうどく"
+    ],
+    "answerIndex": 1,
+    "explanation": "怪我 = けが(受伤)"
+  },
+  {
+    "id": "medical-med-w45-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "怪我",
+    "answer": "けが|kega",
+    "answerFormat": "hiragana",
+    "explanation": "怪我 = けが(受伤)"
+  },
+  {
+    "id": "medical-med-w45-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "怪我",
+    "answer": "けが|kega",
+    "answerFormat": "hiragana",
+    "explanation": "怪我 = けが(受伤)"
+  },
+  {
+    "id": "medical-med-w46-w1-000",
+    "type": "choice",
+    "question": "骨折 是什么意思?",
+    "options": [
+      "药膏",
+      "体温",
+      "初诊",
+      "骨折"
+    ],
+    "answerIndex": 3,
+    "explanation": "骨折(こっせつ) = 骨折"
+  },
+  {
+    "id": "medical-med-w46-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "骨折",
+    "options": [
+      "骨折",
+      "肿胀",
+      "止痛药",
+      "退烧药"
+    ],
+    "answerIndex": 0,
+    "explanation": "骨折(こっせつ) = 骨折"
+  },
+  {
+    "id": "medical-med-w46-w3-000",
+    "type": "choice",
+    "question": "骨折 用日语怎么说?",
+    "options": [
+      "内科",
+      "下痢",
+      "骨折",
+      "外科"
+    ],
+    "answerIndex": 2,
+    "explanation": "骨折(こっせつ) = 骨折"
+  },
+  {
+    "id": "medical-med-w46-w4-000",
+    "type": "choice",
+    "question": "骨折 的读音是?",
+    "options": [
+      "けが",
+      "ちゅうしゃ",
+      "なんこう",
+      "こっせつ"
+    ],
+    "answerIndex": 3,
+    "explanation": "骨折 = こっせつ(骨折)"
+  },
+  {
+    "id": "medical-med-w46-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "骨折",
+    "answer": "こっせつ|kossetsu",
+    "answerFormat": "hiragana",
+    "explanation": "骨折 = こっせつ(骨折)"
+  },
+  {
+    "id": "medical-med-w46-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "骨折",
+    "answer": "こっせつ|kossetsu",
+    "answerFormat": "hiragana",
+    "explanation": "骨折 = こっせつ(骨折)"
+  },
+  {
+    "id": "medical-med-w47-w1-000",
+    "type": "choice",
+    "question": "捻挫 是什么意思?",
+    "options": [
+      "牙科",
+      "腹痛",
+      "过敏",
+      "扭伤"
+    ],
+    "answerIndex": 3,
+    "explanation": "捻挫(ねんざ) = 扭伤"
+  },
+  {
+    "id": "medical-med-w47-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "捻挫",
+    "options": [
+      "骨折",
+      "恶心",
+      "扭伤",
+      "纱布"
+    ],
+    "answerIndex": 2,
+    "explanation": "捻挫(ねんざ) = 扭伤"
+  },
+  {
+    "id": "medical-med-w47-w3-000",
+    "type": "choice",
+    "question": "扭伤 用日语怎么说?",
+    "options": [
+      "注射",
+      "捻挫",
+      "救急車",
+      "会計"
+    ],
+    "answerIndex": 1,
+    "explanation": "捻挫(ねんざ) = 扭伤"
+  },
+  {
+    "id": "medical-med-w47-w4-000",
+    "type": "choice",
+    "question": "捻挫 的读音是?",
+    "options": [
+      "よやく",
+      "じょうざい",
+      "ねんざ",
+      "たいおんけい"
+    ],
+    "answerIndex": 2,
+    "explanation": "捻挫 = ねんざ(扭伤)"
+  },
+  {
+    "id": "medical-med-w47-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "捻挫",
+    "answer": "ねんざ|nenza",
+    "answerFormat": "hiragana",
+    "explanation": "捻挫 = ねんざ(扭伤)"
+  },
+  {
+    "id": "medical-med-w47-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "捻挫",
+    "answer": "ねんざ|nenza",
+    "answerFormat": "hiragana",
+    "explanation": "捻挫 = ねんざ(扭伤)"
+  },
+  {
+    "id": "medical-med-w48-w1-000",
+    "type": "choice",
+    "question": "やけど 是什么意思?",
+    "options": [
+      "耳鼻喉科",
+      "外科",
+      "烧伤/烫伤",
+      "头晕/眩晕"
+    ],
+    "answerIndex": 2,
+    "explanation": "やけど(やけど) = 烧伤/烫伤"
+  },
+  {
+    "id": "medical-med-w48-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "やけど",
+    "options": [
+      "药膏",
+      "烧伤/烫伤",
+      "复诊",
+      "心电图"
+    ],
+    "answerIndex": 1,
+    "explanation": "やけど(やけど) = 烧伤/烫伤"
+  },
+  {
+    "id": "medical-med-w48-w3-000",
+    "type": "choice",
+    "question": "烧伤/烫伤 用日语怎么说?",
+    "options": [
+      "救急外来",
+      "胃潰瘍",
+      "やけど",
+      "医師"
+    ],
+    "answerIndex": 2,
+    "explanation": "やけど(やけど) = 烧伤/烫伤"
+  },
+  {
+    "id": "medical-med-w48-w4-000",
+    "type": "choice",
+    "question": "やけど 的读音是?",
+    "options": [
+      "しんだん",
+      "しょうじょう",
+      "よやく",
+      "やけど"
+    ],
+    "answerIndex": 3,
+    "explanation": "やけど = やけど(烧伤/烫伤)"
+  },
+  {
+    "id": "medical-med-w48-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "やけど",
+    "answer": "やけど|yakedo",
+    "answerFormat": "hiragana",
+    "explanation": "やけど = やけど(烧伤/烫伤)"
+  },
+  {
+    "id": "medical-med-w48-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "やけど",
+    "answer": "やけど|yakedo",
+    "answerFormat": "hiragana",
+    "explanation": "やけど = やけど(烧伤/烫伤)"
+  },
+  {
+    "id": "medical-med-w49-w1-000",
+    "type": "choice",
+    "question": "薬 是什么意思?",
+    "options": [
+      "腹痛",
+      "门诊时间",
+      "复诊",
+      "药"
+    ],
+    "answerIndex": 3,
+    "explanation": "薬(くすり) = 药"
+  },
+  {
+    "id": "medical-med-w49-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "薬",
+    "options": [
+      "结账/缴费",
+      "感冒药",
+      "药",
+      "复诊"
+    ],
+    "answerIndex": 2,
+    "explanation": "薬(くすり) = 药"
+  },
+  {
+    "id": "medical-med-w49-w3-000",
+    "type": "choice",
+    "question": "药 用日语怎么说?",
+    "options": [
+      "眼科",
+      "診療時間",
+      "薬",
+      "頭痛"
+    ],
+    "answerIndex": 2,
+    "explanation": "薬(くすり) = 药"
+  },
+  {
+    "id": "medical-med-w49-w4-000",
+    "type": "choice",
+    "question": "薬 的读音是?",
+    "options": [
+      "くすり",
+      "しんりょうじかん",
+      "はなみず",
+      "こなぐすり"
+    ],
+    "answerIndex": 0,
+    "explanation": "薬 = くすり(药)"
+  },
+  {
+    "id": "medical-med-w49-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "薬",
+    "answer": "くすり|kusuri",
+    "answerFormat": "hiragana",
+    "explanation": "薬 = くすり(药)"
+  },
+  {
+    "id": "medical-med-w49-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "薬",
+    "answer": "くすり|kusuri",
+    "answerFormat": "hiragana",
+    "explanation": "薬 = くすり(药)"
+  },
+  {
+    "id": "medical-med-w50-w1-000",
+    "type": "choice",
+    "question": "錠剤 是什么意思?",
+    "options": [
+      "病历",
+      "药片",
+      "诊疗卡",
+      "血压"
+    ],
+    "answerIndex": 1,
+    "explanation": "錠剤(じょうざい) = 药片"
+  },
+  {
+    "id": "medical-med-w50-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "錠剤",
+    "options": [
+      "初诊",
+      "结账/缴费",
+      "过敏",
+      "药片"
+    ],
+    "answerIndex": 3,
+    "explanation": "錠剤(じょうざい) = 药片"
+  },
+  {
+    "id": "medical-med-w50-w3-000",
+    "type": "choice",
+    "question": "药片 用日语怎么说?",
+    "options": [
+      "退院",
+      "錠剤",
+      "予約制",
+      "怪我"
+    ],
+    "answerIndex": 1,
+    "explanation": "錠剤(じょうざい) = 药片"
+  },
+  {
+    "id": "medical-med-w50-w4-000",
+    "type": "choice",
+    "question": "錠剤 的读音是?",
+    "options": [
+      "もんしんひょう",
+      "こうけつあつ",
+      "けつえきけんさ",
+      "じょうざい"
+    ],
+    "answerIndex": 3,
+    "explanation": "錠剤 = じょうざい(药片)"
+  },
+  {
+    "id": "medical-med-w50-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "錠剤",
+    "answer": "じょうざい|jouzai",
+    "answerFormat": "hiragana",
+    "explanation": "錠剤 = じょうざい(药片)"
+  },
+  {
+    "id": "medical-med-w50-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "錠剤",
+    "answer": "じょうざい|jouzai",
+    "answerFormat": "hiragana",
+    "explanation": "錠剤 = じょうざい(药片)"
+  },
+  {
+    "id": "medical-med-w51-w1-000",
+    "type": "choice",
+    "question": "カプセル 是什么意思?",
+    "options": [
+      "头晕/眩晕",
+      "胶囊",
+      "肿胀",
+      "打针"
+    ],
+    "answerIndex": 1,
+    "explanation": "カプセル(かぷせる) = 胶囊"
+  },
+  {
+    "id": "medical-med-w51-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "カプセル",
+    "options": [
+      "胶囊",
+      "眼科",
+      "治疗",
+      "介绍信(转诊单)"
+    ],
+    "answerIndex": 0,
+    "explanation": "カプセル(かぷせる) = 胶囊"
+  },
+  {
+    "id": "medical-med-w51-w3-000",
+    "type": "choice",
+    "question": "胶囊 用日语怎么说?",
+    "options": [
+      "予約制",
+      "治療",
+      "カプセル",
+      "救急外来"
+    ],
+    "answerIndex": 2,
+    "explanation": "カプセル(かぷせる) = 胶囊"
+  },
+  {
+    "id": "medical-med-w51-w4-000",
+    "type": "choice",
+    "question": "カプセル 的读音是?",
+    "options": [
+      "かぷせる",
+      "けつあつ",
+      "しか",
+      "いかいよう"
+    ],
+    "answerIndex": 0,
+    "explanation": "カプセル = かぷせる(胶囊)"
+  },
+  {
+    "id": "medical-med-w51-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "カプセル",
+    "answer": "かぷせる|kapuseru",
+    "answerFormat": "hiragana",
+    "explanation": "カプセル = かぷせる(胶囊)"
+  },
+  {
+    "id": "medical-med-w51-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "カプセル",
+    "answer": "かぷせる|kapuseru",
+    "answerFormat": "hiragana",
+    "explanation": "カプセル = かぷせる(胶囊)"
+  },
+  {
+    "id": "medical-med-w52-w1-000",
+    "type": "choice",
+    "question": "粉薬 是什么意思?",
+    "options": [
+      "肺炎",
+      "病历",
+      "粉药",
+      "骨科/整形外科"
+    ],
+    "answerIndex": 2,
+    "explanation": "粉薬(こなぐすり) = 粉药"
+  },
+  {
+    "id": "medical-med-w52-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "粉薬",
+    "options": [
+      "出院",
+      "便秘",
+      "粉药",
+      "药片"
+    ],
+    "answerIndex": 2,
+    "explanation": "粉薬(こなぐすり) = 粉药"
+  },
+  {
+    "id": "medical-med-w52-w3-000",
+    "type": "choice",
+    "question": "粉药 用日语怎么说?",
+    "options": [
+      "粉薬",
+      "血液検査",
+      "便秘",
+      "風邪薬"
+    ],
+    "answerIndex": 0,
+    "explanation": "粉薬(こなぐすり) = 粉药"
+  },
+  {
+    "id": "medical-med-w52-w4-000",
+    "type": "choice",
+    "question": "粉薬 的读音是?",
+    "options": [
+      "こうせいぶっしつ",
+      "ねんざ",
+      "こなぐすり",
+      "くすり"
+    ],
+    "answerIndex": 2,
+    "explanation": "粉薬 = こなぐすり(粉药)"
+  },
+  {
+    "id": "medical-med-w52-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "粉薬",
+    "answer": "こなぐすり|konagusuri",
+    "answerFormat": "hiragana",
+    "explanation": "粉薬 = こなぐすり(粉药)"
+  },
+  {
+    "id": "medical-med-w52-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "粉薬",
+    "answer": "こなぐすり|konagusuri",
+    "answerFormat": "hiragana",
+    "explanation": "粉薬 = こなぐすり(粉药)"
+  },
+  {
+    "id": "medical-med-w53-w1-000",
+    "type": "choice",
+    "question": "目薬 是什么意思?",
+    "options": [
+      "药",
+      "眼药水",
+      "药膏",
+      "发冷/寒战"
+    ],
+    "answerIndex": 1,
+    "explanation": "目薬(めぐすり) = 眼药水"
+  },
+  {
+    "id": "medical-med-w53-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "目薬",
+    "options": [
+      "预约制",
+      "初诊",
+      "护士",
+      "眼药水"
+    ],
+    "answerIndex": 3,
+    "explanation": "目薬(めぐすり) = 眼药水"
+  },
+  {
+    "id": "medical-med-w53-w3-000",
+    "type": "choice",
+    "question": "眼药水 用日语怎么说?",
+    "options": [
+      "検尿",
+      "目薬",
+      "カプセル",
+      "レントゲン"
+    ],
+    "answerIndex": 1,
+    "explanation": "目薬(めぐすり) = 眼药水"
+  },
+  {
+    "id": "medical-med-w53-w4-000",
+    "type": "choice",
+    "question": "目薬 的读音是?",
+    "options": [
+      "めぐすり",
+      "やけど",
+      "けんさ",
+      "なんこう"
+    ],
+    "answerIndex": 0,
+    "explanation": "目薬 = めぐすり(眼药水)"
+  },
+  {
+    "id": "medical-med-w53-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "目薬",
+    "answer": "めぐすり|megusuri",
+    "answerFormat": "hiragana",
+    "explanation": "目薬 = めぐすり(眼药水)"
+  },
+  {
+    "id": "medical-med-w53-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "目薬",
+    "answer": "めぐすり|megusuri",
+    "answerFormat": "hiragana",
+    "explanation": "目薬 = めぐすり(眼药水)"
+  },
+  {
+    "id": "medical-med-w54-w1-000",
+    "type": "choice",
+    "question": "軟膏 是什么意思?",
+    "options": [
+      "发冷/寒战",
+      "住院",
+      "药膏",
+      "便秘"
+    ],
+    "answerIndex": 2,
+    "explanation": "軟膏(なんこう) = 药膏"
+  },
+  {
+    "id": "medical-med-w54-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "軟膏",
+    "options": [
+      "药膏",
+      "介绍信(转诊单)",
+      "药片",
+      "医生"
+    ],
+    "answerIndex": 0,
+    "explanation": "軟膏(なんこう) = 药膏"
+  },
+  {
+    "id": "medical-med-w54-w3-000",
+    "type": "choice",
+    "question": "药膏 用日语怎么说?",
+    "options": [
+      "消毒",
+      "軟膏",
+      "診療時間",
+      "待合室"
+    ],
+    "answerIndex": 1,
+    "explanation": "軟膏(なんこう) = 药膏"
+  },
+  {
+    "id": "medical-med-w54-w4-000",
+    "type": "choice",
+    "question": "軟膏 的读音是?",
+    "options": [
+      "けんにょう",
+      "めぐすり",
+      "なんこう",
+      "しょうにか"
+    ],
+    "answerIndex": 2,
+    "explanation": "軟膏 = なんこう(药膏)"
+  },
+  {
+    "id": "medical-med-w54-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "軟膏",
+    "answer": "なんこう|nankou",
+    "answerFormat": "hiragana",
+    "explanation": "軟膏 = なんこう(药膏)"
+  },
+  {
+    "id": "medical-med-w54-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "軟膏",
+    "answer": "なんこう|nankou",
+    "answerFormat": "hiragana",
+    "explanation": "軟膏 = なんこう(药膏)"
+  },
+  {
+    "id": "medical-med-w55-w1-000",
+    "type": "choice",
+    "question": "風邪薬 是什么意思?",
+    "options": [
+      "药",
+      "感冒药",
+      "眼科",
+      "鼻塞"
+    ],
+    "answerIndex": 1,
+    "explanation": "風邪薬(かぜぐすり) = 感冒药"
+  },
+  {
+    "id": "medical-med-w55-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "風邪薬",
+    "options": [
+      "X 光",
+      "口罩",
+      "介绍信(转诊单)",
+      "感冒药"
+    ],
+    "answerIndex": 3,
+    "explanation": "風邪薬(かぜぐすり) = 感冒药"
+  },
+  {
+    "id": "medical-med-w55-w3-000",
+    "type": "choice",
+    "question": "感冒药 用日语怎么说?",
+    "options": [
+      "風邪薬",
+      "鼻づまり",
+      "薬",
+      "産婦人科"
+    ],
+    "answerIndex": 0,
+    "explanation": "風邪薬(かぜぐすり) = 感冒药"
+  },
+  {
+    "id": "medical-med-w55-w4-000",
+    "type": "choice",
+    "question": "風邪薬 的读音是?",
+    "options": [
+      "はなづまり",
+      "かぜぐすり",
+      "はれ",
+      "さいけつ"
+    ],
+    "answerIndex": 1,
+    "explanation": "風邪薬 = かぜぐすり(感冒药)"
+  },
+  {
+    "id": "medical-med-w55-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "風邪薬",
+    "answer": "かぜぐすり|kazegusuri",
+    "answerFormat": "hiragana",
+    "explanation": "風邪薬 = かぜぐすり(感冒药)"
+  },
+  {
+    "id": "medical-med-w55-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "風邪薬",
+    "answer": "かぜぐすり|kazegusuri",
+    "answerFormat": "hiragana",
+    "explanation": "風邪薬 = かぜぐすり(感冒药)"
+  },
+  {
+    "id": "medical-med-w56-w1-000",
+    "type": "choice",
+    "question": "解熱剤 是什么意思?",
+    "options": [
+      "退烧药",
+      "药膏",
+      "骨折",
+      "皮肤科"
+    ],
+    "answerIndex": 0,
+    "explanation": "解熱剤(げねつざい) = 退烧药"
+  },
+  {
+    "id": "medical-med-w56-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "解熱剤",
+    "options": [
+      "退烧药",
+      "医院(大型)",
+      "头晕/眩晕",
+      "出院"
+    ],
+    "answerIndex": 0,
+    "explanation": "解熱剤(げねつざい) = 退烧药"
+  },
+  {
+    "id": "medical-med-w56-w3-000",
+    "type": "choice",
+    "question": "退烧药 用日语怎么说?",
+    "options": [
+      "糖尿病",
+      "再診",
+      "解熱剤",
+      "看護師"
+    ],
+    "answerIndex": 2,
+    "explanation": "解熱剤(げねつざい) = 退烧药"
+  },
+  {
+    "id": "medical-med-w56-w4-000",
+    "type": "choice",
+    "question": "解熱剤 的读音是?",
+    "options": [
+      "いし",
+      "ほけんしょう",
+      "しんさつけん",
+      "げねつざい"
+    ],
+    "answerIndex": 3,
+    "explanation": "解熱剤 = げねつざい(退烧药)"
+  },
+  {
+    "id": "medical-med-w56-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "解熱剤",
+    "answer": "げねつざい|genetsuzai",
+    "answerFormat": "hiragana",
+    "explanation": "解熱剤 = げねつざい(退烧药)"
+  },
+  {
+    "id": "medical-med-w56-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "解熱剤",
+    "answer": "げねつざい|genetsuzai",
+    "answerFormat": "hiragana",
+    "explanation": "解熱剤 = げねつざい(退烧药)"
+  },
+  {
+    "id": "medical-med-w57-w1-000",
+    "type": "choice",
+    "question": "鎮痛剤 是什么意思?",
+    "options": [
+      "诊断",
+      "初诊",
+      "止痛药",
+      "结账/缴费"
+    ],
+    "answerIndex": 2,
+    "explanation": "鎮痛剤(ちんつうざい) = 止痛药"
+  },
+  {
+    "id": "medical-med-w57-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "鎮痛剤",
+    "options": [
+      "止痛药",
+      "护士",
+      "烧伤/烫伤",
+      "外科"
+    ],
+    "answerIndex": 0,
+    "explanation": "鎮痛剤(ちんつうざい) = 止痛药"
+  },
+  {
+    "id": "medical-med-w57-w3-000",
+    "type": "choice",
+    "question": "止痛药 用日语怎么说?",
+    "options": [
+      "鎮痛剤",
+      "心電図",
+      "体温計",
+      "診療時間"
+    ],
+    "answerIndex": 0,
+    "explanation": "鎮痛剤(ちんつうざい) = 止痛药"
+  },
+  {
+    "id": "medical-med-w57-w4-000",
+    "type": "choice",
+    "question": "鎮痛剤 的读音是?",
+    "options": [
+      "もんしんひょう",
+      "ちんつうざい",
+      "しか",
+      "なんこう"
+    ],
+    "answerIndex": 1,
+    "explanation": "鎮痛剤 = ちんつうざい(止痛药)"
+  },
+  {
+    "id": "medical-med-w57-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "鎮痛剤",
+    "answer": "ちんつうざい|chintsuzai",
+    "answerFormat": "hiragana",
+    "explanation": "鎮痛剤 = ちんつうざい(止痛药)"
+  },
+  {
+    "id": "medical-med-w57-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "鎮痛剤",
+    "answer": "ちんつうざい|chintsuzai",
+    "answerFormat": "hiragana",
+    "explanation": "鎮痛剤 = ちんつうざい(止痛药)"
+  },
+  {
+    "id": "medical-med-w58-w1-000",
+    "type": "choice",
+    "question": "抗生物質 是什么意思?",
+    "options": [
+      "骨折",
+      "体温计",
+      "流鼻涕",
+      "抗生素"
+    ],
+    "answerIndex": 3,
+    "explanation": "抗生物質(こうせいぶっしつ) = 抗生素"
+  },
+  {
+    "id": "medical-med-w58-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "抗生物質",
+    "options": [
+      "抗生素",
+      "健康保险证",
+      "检查",
+      "便秘"
+    ],
+    "answerIndex": 0,
+    "explanation": "抗生物質(こうせいぶっしつ) = 抗生素"
+  },
+  {
+    "id": "medical-med-w58-w3-000",
+    "type": "choice",
+    "question": "抗生素 用日语怎么说?",
+    "options": [
+      "受付",
+      "血液検査",
+      "抗生物質",
+      "腫れ"
+    ],
+    "answerIndex": 2,
+    "explanation": "抗生物質(こうせいぶっしつ) = 抗生素"
+  },
+  {
+    "id": "medical-med-w58-w4-000",
+    "type": "choice",
+    "question": "抗生物質 的读音是?",
+    "options": [
+      "こうせいぶっしつ",
+      "がーぜ",
+      "よやくせい",
+      "かぜぐすり"
+    ],
+    "answerIndex": 0,
+    "explanation": "抗生物質 = こうせいぶっしつ(抗生素)"
+  },
+  {
+    "id": "medical-med-w58-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "抗生物質",
+    "answer": "こうせいぶっしつ|kouseibusshitsu",
+    "answerFormat": "hiragana",
+    "explanation": "抗生物質 = こうせいぶっしつ(抗生素)"
+  },
+  {
+    "id": "medical-med-w58-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "抗生物質",
+    "answer": "こうせいぶっしつ|kouseibusshitsu",
+    "answerFormat": "hiragana",
+    "explanation": "抗生物質 = こうせいぶっしつ(抗生素)"
+  },
+  {
+    "id": "medical-med-w59-w1-000",
+    "type": "choice",
+    "question": "消毒 是什么意思?",
+    "options": [
+      "鼻塞",
+      "消毒",
+      "高血压",
+      "体温计"
+    ],
+    "answerIndex": 1,
+    "explanation": "消毒(しょうどく) = 消毒"
+  },
+  {
+    "id": "medical-med-w59-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "消毒",
+    "options": [
+      "止痛药",
+      "消毒",
+      "眼科",
+      "受伤"
+    ],
+    "answerIndex": 1,
+    "explanation": "消毒(しょうどく) = 消毒"
+  },
+  {
+    "id": "medical-med-w59-w3-000",
+    "type": "choice",
+    "question": "消毒 用日语怎么说?",
+    "options": [
+      "解熱剤",
+      "風邪薬",
+      "保険証",
+      "消毒"
+    ],
+    "answerIndex": 3,
+    "explanation": "消毒(しょうどく) = 消毒"
+  },
+  {
+    "id": "medical-med-w59-w4-000",
+    "type": "choice",
+    "question": "消毒 的读音是?",
+    "options": [
+      "げねつざい",
+      "しょしん",
+      "しょうどく",
+      "かいけい"
+    ],
+    "answerIndex": 2,
+    "explanation": "消毒 = しょうどく(消毒)"
+  },
+  {
+    "id": "medical-med-w59-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "消毒",
+    "answer": "しょうどく|shoudoku",
+    "answerFormat": "hiragana",
+    "explanation": "消毒 = しょうどく(消毒)"
+  },
+  {
+    "id": "medical-med-w59-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "消毒",
+    "answer": "しょうどく|shoudoku",
+    "answerFormat": "hiragana",
+    "explanation": "消毒 = しょうどく(消毒)"
+  },
+  {
+    "id": "medical-med-w60-w1-000",
+    "type": "choice",
+    "question": "注射 是什么意思?",
+    "options": [
+      "胶囊",
+      "介绍信(转诊单)",
+      "打针",
+      "发烧"
+    ],
+    "answerIndex": 2,
+    "explanation": "注射(ちゅうしゃ) = 打针"
+  },
+  {
+    "id": "medical-med-w60-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "注射",
+    "options": [
+      "介绍信(转诊单)",
+      "便秘",
+      "打针",
+      "胃溃疡"
+    ],
+    "answerIndex": 2,
+    "explanation": "注射(ちゅうしゃ) = 打针"
+  },
+  {
+    "id": "medical-med-w60-w3-000",
+    "type": "choice",
+    "question": "打针 用日语怎么说?",
+    "options": [
+      "皮膚科",
+      "注射",
+      "診断",
+      "病院"
+    ],
+    "answerIndex": 1,
+    "explanation": "注射(ちゅうしゃ) = 打针"
+  },
+  {
+    "id": "medical-med-w60-w4-000",
+    "type": "choice",
+    "question": "注射 的读音是?",
+    "options": [
+      "やっきょく",
+      "しょしん",
+      "やけど",
+      "ちゅうしゃ"
+    ],
+    "answerIndex": 3,
+    "explanation": "注射 = ちゅうしゃ(打针)"
+  },
+  {
+    "id": "medical-med-w60-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "注射",
+    "answer": "ちゅうしゃ|chuusha",
+    "answerFormat": "hiragana",
+    "explanation": "注射 = ちゅうしゃ(打针)"
+  },
+  {
+    "id": "medical-med-w60-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "注射",
+    "answer": "ちゅうしゃ|chuusha",
+    "answerFormat": "hiragana",
+    "explanation": "注射 = ちゅうしゃ(打针)"
+  },
+  {
+    "id": "medical-med-w61-w1-000",
+    "type": "choice",
+    "question": "点滴 是什么意思?",
+    "options": [
+      "牙科",
+      "点滴/输液",
+      "药片",
+      "救护车"
+    ],
+    "answerIndex": 1,
+    "explanation": "点滴(てんてき) = 点滴/输液"
+  },
+  {
+    "id": "medical-med-w61-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "点滴",
+    "options": [
+      "诊所(小型)",
+      "健康保险证",
+      "点滴/输液",
+      "麻醉"
+    ],
+    "answerIndex": 2,
+    "explanation": "点滴(てんてき) = 点滴/输液"
+  },
+  {
+    "id": "medical-med-w61-w3-000",
+    "type": "choice",
+    "question": "点滴/输液 用日语怎么说?",
+    "options": [
+      "内科",
+      "吐き気",
+      "初診",
+      "点滴"
+    ],
+    "answerIndex": 3,
+    "explanation": "点滴(てんてき) = 点滴/输液"
+  },
+  {
+    "id": "medical-med-w61-w4-000",
+    "type": "choice",
+    "question": "点滴 的读音是?",
+    "options": [
+      "しんでんず",
+      "しんだん",
+      "よやくせい",
+      "てんてき"
+    ],
+    "answerIndex": 3,
+    "explanation": "点滴 = てんてき(点滴/输液)"
+  },
+  {
+    "id": "medical-med-w61-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "点滴",
+    "answer": "てんてき|tenteki",
+    "answerFormat": "hiragana",
+    "explanation": "点滴 = てんてき(点滴/输液)"
+  },
+  {
+    "id": "medical-med-w61-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "点滴",
+    "answer": "てんてき|tenteki",
+    "answerFormat": "hiragana",
+    "explanation": "点滴 = てんてき(点滴/输液)"
+  },
+  {
+    "id": "medical-med-w62-w1-000",
+    "type": "choice",
+    "question": "手術 是什么意思?",
+    "options": [
+      "抽血",
+      "处方笺",
+      "手术",
+      "高血压"
+    ],
+    "answerIndex": 2,
+    "explanation": "手術(しゅじゅつ) = 手术"
+  },
+  {
+    "id": "medical-med-w62-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "手術",
+    "options": [
+      "护士",
+      "问诊单",
+      "受伤",
+      "手术"
+    ],
+    "answerIndex": 3,
+    "explanation": "手術(しゅじゅつ) = 手术"
+  },
+  {
+    "id": "medical-med-w62-w3-000",
+    "type": "choice",
+    "question": "手术 用日语怎么说?",
+    "options": [
+      "薬局",
+      "頭痛",
+      "鼻づまり",
+      "手術"
+    ],
+    "answerIndex": 3,
+    "explanation": "手術(しゅじゅつ) = 手术"
+  },
+  {
+    "id": "medical-med-w62-w4-000",
+    "type": "choice",
+    "question": "手術 的读音是?",
+    "options": [
+      "にゅういん",
+      "さいけつ",
+      "しゅじゅつ",
+      "かんごし"
+    ],
+    "answerIndex": 2,
+    "explanation": "手術 = しゅじゅつ(手术)"
+  },
+  {
+    "id": "medical-med-w62-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "手術",
+    "answer": "しゅじゅつ|shujutsu",
+    "answerFormat": "hiragana",
+    "explanation": "手術 = しゅじゅつ(手术)"
+  },
+  {
+    "id": "medical-med-w62-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "手術",
+    "answer": "しゅじゅつ|shujutsu",
+    "answerFormat": "hiragana",
+    "explanation": "手術 = しゅじゅつ(手术)"
+  },
+  {
+    "id": "medical-med-w63-w1-000",
+    "type": "choice",
+    "question": "麻酔 是什么意思?",
+    "options": [
+      "预约",
+      "麻醉",
+      "初诊",
+      "退烧药"
+    ],
+    "answerIndex": 1,
+    "explanation": "麻酔(ますい) = 麻醉"
+  },
+  {
+    "id": "medical-med-w63-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "麻酔",
+    "options": [
+      "打针",
+      "麻醉",
+      "止痛药",
+      "体温计"
+    ],
+    "answerIndex": 1,
+    "explanation": "麻酔(ますい) = 麻醉"
+  },
+  {
+    "id": "medical-med-w63-w3-000",
+    "type": "choice",
+    "question": "麻醉 用日语怎么说?",
+    "options": [
+      "麻酔",
+      "退院",
+      "眼科",
+      "解熱剤"
+    ],
+    "answerIndex": 0,
+    "explanation": "麻酔(ますい) = 麻醉"
+  },
+  {
+    "id": "medical-med-w63-w4-000",
+    "type": "choice",
+    "question": "麻酔 的读音是?",
+    "options": [
+      "ますい",
+      "ちゅうしゃ",
+      "たいおんけい",
+      "こうけつあつ"
+    ],
+    "answerIndex": 0,
+    "explanation": "麻酔 = ますい(麻醉)"
+  },
+  {
+    "id": "medical-med-w63-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "麻酔",
+    "answer": "ますい|masui",
+    "answerFormat": "hiragana",
+    "explanation": "麻酔 = ますい(麻醉)"
+  },
+  {
+    "id": "medical-med-w63-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "麻酔",
+    "answer": "ますい|masui",
+    "answerFormat": "hiragana",
+    "explanation": "麻酔 = ますい(麻醉)"
+  },
+  {
+    "id": "medical-med-w64-w1-000",
+    "type": "choice",
+    "question": "検査 是什么意思?",
+    "options": [
+      "腹痛",
+      "检查",
+      "麻醉",
+      "止痛药"
+    ],
+    "answerIndex": 1,
+    "explanation": "検査(けんさ) = 检查"
+  },
+  {
+    "id": "medical-med-w64-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "検査",
+    "options": [
+      "诊疗卡",
+      "检查",
+      "初诊",
+      "耳鼻喉科"
+    ],
+    "answerIndex": 1,
+    "explanation": "検査(けんさ) = 检查"
+  },
+  {
+    "id": "medical-med-w64-w3-000",
+    "type": "choice",
+    "question": "检查 用日语怎么说?",
+    "options": [
+      "診察券",
+      "診察室",
+      "検査",
+      "受付"
+    ],
+    "answerIndex": 2,
+    "explanation": "検査(けんさ) = 检查"
+  },
+  {
+    "id": "medical-med-w64-w4-000",
+    "type": "choice",
+    "question": "検査 的读音是?",
+    "options": [
+      "しんりょうじかん",
+      "かぜ",
+      "けんさ",
+      "やっきょく"
+    ],
+    "answerIndex": 2,
+    "explanation": "検査 = けんさ(检查)"
+  },
+  {
+    "id": "medical-med-w64-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "検査",
+    "answer": "けんさ|kensa",
+    "answerFormat": "hiragana",
+    "explanation": "検査 = けんさ(检查)"
+  },
+  {
+    "id": "medical-med-w64-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "検査",
+    "answer": "けんさ|kensa",
+    "answerFormat": "hiragana",
+    "explanation": "検査 = けんさ(检查)"
+  },
+  {
+    "id": "medical-med-w65-w1-000",
+    "type": "choice",
+    "question": "採血 是什么意思?",
+    "options": [
+      "血液检查",
+      "内科",
+      "抽血",
+      "感冒药"
+    ],
+    "answerIndex": 2,
+    "explanation": "採血(さいけつ) = 抽血"
+  },
+  {
+    "id": "medical-med-w65-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "採血",
+    "options": [
+      "抽血",
+      "肿胀",
+      "感冒药",
+      "预约制"
+    ],
+    "answerIndex": 0,
+    "explanation": "採血(さいけつ) = 抽血"
+  },
+  {
+    "id": "medical-med-w65-w3-000",
+    "type": "choice",
+    "question": "抽血 用日语怎么说?",
+    "options": [
+      "糖尿病",
+      "採血",
+      "インフルエンザ",
+      "骨折"
+    ],
+    "answerIndex": 1,
+    "explanation": "採血(さいけつ) = 抽血"
+  },
+  {
+    "id": "medical-med-w65-w4-000",
+    "type": "choice",
+    "question": "採血 的读音是?",
+    "options": [
+      "れんとげん",
+      "やっきょく",
+      "さいけつ",
+      "げねつざい"
+    ],
+    "answerIndex": 2,
+    "explanation": "採血 = さいけつ(抽血)"
+  },
+  {
+    "id": "medical-med-w65-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "採血",
+    "answer": "さいけつ|saiketsu",
+    "answerFormat": "hiragana",
+    "explanation": "採血 = さいけつ(抽血)"
+  },
+  {
+    "id": "medical-med-w65-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "採血",
+    "answer": "さいけつ|saiketsu",
+    "answerFormat": "hiragana",
+    "explanation": "採血 = さいけつ(抽血)"
+  },
+  {
+    "id": "medical-med-w66-w1-000",
+    "type": "choice",
+    "question": "検尿 是什么意思?",
+    "options": [
+      "尿检",
+      "医院(大型)",
+      "休诊日",
+      "点滴/输液"
+    ],
+    "answerIndex": 0,
+    "explanation": "検尿(けんにょう) = 尿检"
+  },
+  {
+    "id": "medical-med-w66-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "検尿",
+    "options": [
+      "尿检",
+      "体温",
+      "救护车",
+      "复诊"
+    ],
+    "answerIndex": 0,
+    "explanation": "検尿(けんにょう) = 尿检"
+  },
+  {
+    "id": "medical-med-w66-w3-000",
+    "type": "choice",
+    "question": "尿检 用日语怎么说?",
+    "options": [
+      "検尿",
+      "薬",
+      "頭痛",
+      "小児科"
+    ],
+    "answerIndex": 0,
+    "explanation": "検尿(けんにょう) = 尿检"
+  },
+  {
+    "id": "medical-med-w66-w4-000",
+    "type": "choice",
+    "question": "検尿 的读音是?",
+    "options": [
+      "しょうどく",
+      "ひふか",
+      "けんにょう",
+      "しょうじょう"
+    ],
+    "answerIndex": 2,
+    "explanation": "検尿 = けんにょう(尿检)"
+  },
+  {
+    "id": "medical-med-w66-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "検尿",
+    "answer": "けんにょう|kennyou",
+    "answerFormat": "hiragana",
+    "explanation": "検尿 = けんにょう(尿检)"
+  },
+  {
+    "id": "medical-med-w66-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "検尿",
+    "answer": "けんにょう|kennyou",
+    "answerFormat": "hiragana",
+    "explanation": "検尿 = けんにょう(尿检)"
+  },
+  {
+    "id": "medical-med-w67-w1-000",
+    "type": "choice",
+    "question": "レントゲン 是什么意思?",
+    "options": [
+      "药膏",
+      "X 光",
+      "止痛药",
+      "头痛"
+    ],
+    "answerIndex": 1,
+    "explanation": "レントゲン(れんとげん) = X 光"
+  },
+  {
+    "id": "medical-med-w67-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "レントゲン",
+    "options": [
+      "咳嗽",
+      "流感",
+      "发冷/寒战",
+      "X 光"
+    ],
+    "answerIndex": 3,
+    "explanation": "レントゲン(れんとげん) = X 光"
+  },
+  {
+    "id": "medical-med-w67-w3-000",
+    "type": "choice",
+    "question": "X 光 用日语怎么说?",
+    "options": [
+      "レントゲン",
+      "寒気",
+      "便秘",
+      "やけど"
+    ],
+    "answerIndex": 0,
+    "explanation": "レントゲン(れんとげん) = X 光"
+  },
+  {
+    "id": "medical-med-w67-w4-000",
+    "type": "choice",
+    "question": "レントゲン 的读音是?",
+    "options": [
+      "きゅうきゅうしゃ",
+      "びょういん",
+      "まちあいしつ",
+      "れんとげん"
+    ],
+    "answerIndex": 3,
+    "explanation": "レントゲン = れんとげん(X 光)"
+  },
+  {
+    "id": "medical-med-w67-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "レントゲン",
+    "answer": "れんとげん|rentogen",
+    "answerFormat": "hiragana",
+    "explanation": "レントゲン = れんとげん(X 光)"
+  },
+  {
+    "id": "medical-med-w67-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "レントゲン",
+    "answer": "れんとげん|rentogen",
+    "answerFormat": "hiragana",
+    "explanation": "レントゲン = れんとげん(X 光)"
+  },
+  {
+    "id": "medical-med-w68-w1-000",
+    "type": "choice",
+    "question": "エコー検査 是什么意思?",
+    "options": [
+      "皮肤科",
+      "B 超检查",
+      "咳嗽",
+      "绷带"
+    ],
+    "answerIndex": 1,
+    "explanation": "エコー検査(えこーけんさ) = B 超检查"
+  },
+  {
+    "id": "medical-med-w68-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "エコー検査",
+    "options": [
+      "B 超检查",
+      "手术",
+      "预约制",
+      "胃溃疡"
+    ],
+    "answerIndex": 0,
+    "explanation": "エコー検査(えこーけんさ) = B 超检查"
+  },
+  {
+    "id": "medical-med-w68-w3-000",
+    "type": "choice",
+    "question": "B 超检查 用日语怎么说?",
+    "options": [
+      "マスク",
+      "エコー検査",
+      "点滴",
+      "検査"
+    ],
+    "answerIndex": 1,
+    "explanation": "エコー検査(えこーけんさ) = B 超检查"
+  },
+  {
+    "id": "medical-med-w68-w4-000",
+    "type": "choice",
+    "question": "エコー検査 的读音是?",
+    "options": [
+      "がんか",
+      "やっきょく",
+      "えこーけんさ",
+      "こうけつあつ"
+    ],
+    "answerIndex": 2,
+    "explanation": "エコー検査 = えこーけんさ(B 超检查)"
+  },
+  {
+    "id": "medical-med-w68-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "エコー検査",
+    "answer": "えこーけんさ|ekoo-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "エコー検査 = えこーけんさ(B 超检查)"
+  },
+  {
+    "id": "medical-med-w68-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "エコー検査",
+    "answer": "えこーけんさ|ekoo-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "エコー検査 = えこーけんさ(B 超检查)"
+  },
+  {
+    "id": "medical-med-w69-w1-000",
+    "type": "choice",
+    "question": "心電図 是什么意思?",
+    "options": [
+      "感冒药",
+      "血压",
+      "挂号/前台",
+      "心电图"
+    ],
+    "answerIndex": 3,
+    "explanation": "心電図(しんでんず) = 心电图"
+  },
+  {
+    "id": "medical-med-w69-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "心電図",
+    "options": [
+      "心电图",
+      "诊所(小型)",
+      "感冒",
+      "头晕/眩晕"
+    ],
+    "answerIndex": 0,
+    "explanation": "心電図(しんでんず) = 心电图"
+  },
+  {
+    "id": "medical-med-w69-w3-000",
+    "type": "choice",
+    "question": "心电图 用日语怎么说?",
+    "options": [
+      "手術",
+      "心電図",
+      "点滴",
+      "高血圧"
+    ],
+    "answerIndex": 1,
+    "explanation": "心電図(しんでんず) = 心电图"
+  },
+  {
+    "id": "medical-med-w69-w4-000",
+    "type": "choice",
+    "question": "心電図 的读音是?",
+    "options": [
+      "よやくせい",
+      "しょしん",
+      "かぜぐすり",
+      "しんでんず"
+    ],
+    "answerIndex": 3,
+    "explanation": "心電図 = しんでんず(心电图)"
+  },
+  {
+    "id": "medical-med-w69-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "心電図",
+    "answer": "しんでんず|shindenzu",
+    "answerFormat": "hiragana",
+    "explanation": "心電図 = しんでんず(心电图)"
+  },
+  {
+    "id": "medical-med-w69-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "心電図",
+    "answer": "しんでんず|shindenzu",
+    "answerFormat": "hiragana",
+    "explanation": "心電図 = しんでんず(心电图)"
+  },
+  {
+    "id": "medical-med-w70-w1-000",
+    "type": "choice",
+    "question": "血液検査 是什么意思?",
+    "options": [
+      "健康保险证",
+      "抗生素",
+      "哮喘",
+      "血液检查"
+    ],
+    "answerIndex": 3,
+    "explanation": "血液検査(けつえきけんさ) = 血液检查"
+  },
+  {
+    "id": "medical-med-w70-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "血液検査",
+    "options": [
+      "血液检查",
+      "患者/病人",
+      "药房",
+      "绷带"
+    ],
+    "answerIndex": 0,
+    "explanation": "血液検査(けつえきけんさ) = 血液检查"
+  },
+  {
+    "id": "medical-med-w70-w3-000",
+    "type": "choice",
+    "question": "血液检查 用日语怎么说?",
+    "options": [
+      "血液検査",
+      "入院",
+      "エコー検査",
+      "腹痛"
+    ],
+    "answerIndex": 0,
+    "explanation": "血液検査(けつえきけんさ) = 血液检查"
+  },
+  {
+    "id": "medical-med-w70-w4-000",
+    "type": "choice",
+    "question": "血液検査 的读音是?",
+    "options": [
+      "とうにょうびょう",
+      "しゅじゅつ",
+      "かいけい",
+      "けつえきけんさ"
+    ],
+    "answerIndex": 3,
+    "explanation": "血液検査 = けつえきけんさ(血液检查)"
+  },
+  {
+    "id": "medical-med-w70-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "血液検査",
+    "answer": "けつえきけんさ|ketsueki-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "血液検査 = けつえきけんさ(血液检查)"
+  },
+  {
+    "id": "medical-med-w70-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "血液検査",
+    "answer": "けつえきけんさ|ketsueki-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "血液検査 = けつえきけんさ(血液检查)"
+  },
+  {
+    "id": "medical-med-w71-w1-000",
+    "type": "choice",
+    "question": "体温 是什么意思?",
+    "options": [
+      "处方笺",
+      "体温",
+      "流感",
+      "诊所(小型)"
+    ],
+    "answerIndex": 1,
+    "explanation": "体温(たいおん) = 体温"
+  },
+  {
+    "id": "medical-med-w71-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "体温",
+    "options": [
+      "粉药",
+      "高血压",
+      "拉肚子",
+      "体温"
+    ],
+    "answerIndex": 3,
+    "explanation": "体温(たいおん) = 体温"
+  },
+  {
+    "id": "medical-med-w71-w3-000",
+    "type": "choice",
+    "question": "体温 用日语怎么说?",
+    "options": [
+      "治療",
+      "体温",
+      "患者",
+      "カプセル"
+    ],
+    "answerIndex": 1,
+    "explanation": "体温(たいおん) = 体温"
+  },
+  {
+    "id": "medical-med-w71-w4-000",
+    "type": "choice",
+    "question": "体温 的读音是?",
+    "options": [
+      "はなみず",
+      "いし",
+      "せき",
+      "たいおん"
+    ],
+    "answerIndex": 3,
+    "explanation": "体温 = たいおん(体温)"
+  },
+  {
+    "id": "medical-med-w71-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "体温",
+    "answer": "たいおん|taion",
+    "answerFormat": "hiragana",
+    "explanation": "体温 = たいおん(体温)"
+  },
+  {
+    "id": "medical-med-w71-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "体温",
+    "answer": "たいおん|taion",
+    "answerFormat": "hiragana",
+    "explanation": "体温 = たいおん(体温)"
+  },
+  {
+    "id": "medical-med-w72-w1-000",
+    "type": "choice",
+    "question": "体温計 是什么意思?",
+    "options": [
+      "药片",
+      "挂号/前台",
+      "体温计",
+      "检查"
+    ],
+    "answerIndex": 2,
+    "explanation": "体温計(たいおんけい) = 体温计"
+  },
+  {
+    "id": "medical-med-w72-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "体温計",
+    "options": [
+      "B 超检查",
+      "诊所(小型)",
+      "体温计",
+      "恶心"
+    ],
+    "answerIndex": 2,
+    "explanation": "体温計(たいおんけい) = 体温计"
+  },
+  {
+    "id": "medical-med-w72-w3-000",
+    "type": "choice",
+    "question": "体温计 用日语怎么说?",
+    "options": [
+      "心電図",
+      "抗生物質",
+      "体温計",
+      "注射"
+    ],
+    "answerIndex": 2,
+    "explanation": "体温計(たいおんけい) = 体温计"
+  },
+  {
+    "id": "medical-med-w72-w4-000",
+    "type": "choice",
+    "question": "体温計 的读音是?",
+    "options": [
+      "はなみず",
+      "いんふるえんざ",
+      "たいおんけい",
+      "しょうにか"
+    ],
+    "answerIndex": 2,
+    "explanation": "体温計 = たいおんけい(体温计)"
+  },
+  {
+    "id": "medical-med-w72-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "体温計",
+    "answer": "たいおんけい|taionkei",
+    "answerFormat": "hiragana",
+    "explanation": "体温計 = たいおんけい(体温计)"
+  },
+  {
+    "id": "medical-med-w72-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "体温計",
+    "answer": "たいおんけい|taionkei",
+    "answerFormat": "hiragana",
+    "explanation": "体温計 = たいおんけい(体温计)"
+  },
+  {
+    "id": "medical-med-w73-w1-000",
+    "type": "choice",
+    "question": "血圧 是什么意思?",
+    "options": [
+      "症状",
+      "外科",
+      "血压",
+      "诊室"
+    ],
+    "answerIndex": 2,
+    "explanation": "血圧(けつあつ) = 血压"
+  },
+  {
+    "id": "medical-med-w73-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "血圧",
+    "options": [
+      "血压",
+      "检查",
+      "休诊日",
+      "过敏"
+    ],
+    "answerIndex": 0,
+    "explanation": "血圧(けつあつ) = 血压"
+  },
+  {
+    "id": "medical-med-w73-w3-000",
+    "type": "choice",
+    "question": "血压 用日语怎么说?",
+    "options": [
+      "血圧",
+      "やけど",
+      "診察券",
+      "保険証"
+    ],
+    "answerIndex": 0,
+    "explanation": "血圧(けつあつ) = 血压"
+  },
+  {
+    "id": "medical-med-w73-w4-000",
+    "type": "choice",
+    "question": "血圧 的读音是?",
+    "options": [
+      "けつあつ",
+      "しょしん",
+      "れんとげん",
+      "やっきょく"
+    ],
+    "answerIndex": 0,
+    "explanation": "血圧 = けつあつ(血压)"
+  },
+  {
+    "id": "medical-med-w73-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "血圧",
+    "answer": "けつあつ|ketsuatsu",
+    "answerFormat": "hiragana",
+    "explanation": "血圧 = けつあつ(血压)"
+  },
+  {
+    "id": "medical-med-w73-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "血圧",
+    "answer": "けつあつ|ketsuatsu",
+    "answerFormat": "hiragana",
+    "explanation": "血圧 = けつあつ(血压)"
+  },
+  {
+    "id": "medical-med-w74-w1-000",
+    "type": "choice",
+    "question": "マスク 是什么意思?",
+    "options": [
+      "休诊日",
+      "口罩",
+      "恶心",
+      "药"
+    ],
+    "answerIndex": 1,
+    "explanation": "マスク(ますく) = 口罩"
+  },
+  {
+    "id": "medical-med-w74-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "マスク",
+    "options": [
+      "医生",
+      "初诊",
+      "口罩",
+      "病历"
+    ],
+    "answerIndex": 2,
+    "explanation": "マスク(ますく) = 口罩"
+  },
+  {
+    "id": "medical-med-w74-w3-000",
+    "type": "choice",
+    "question": "口罩 用日语怎么说?",
+    "options": [
+      "カプセル",
+      "マスク",
+      "頭痛",
+      "めまい"
+    ],
+    "answerIndex": 1,
+    "explanation": "マスク(ますく) = 口罩"
+  },
+  {
+    "id": "medical-med-w74-w4-000",
+    "type": "choice",
+    "question": "マスク 的读音是?",
+    "options": [
+      "とうにょうびょう",
+      "たいいん",
+      "ますく",
+      "しょうじょう"
+    ],
+    "answerIndex": 2,
+    "explanation": "マスク = ますく(口罩)"
+  },
+  {
+    "id": "medical-med-w74-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "マスク",
+    "answer": "ますく|masuku",
+    "answerFormat": "hiragana",
+    "explanation": "マスク = ますく(口罩)"
+  },
+  {
+    "id": "medical-med-w74-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "マスク",
+    "answer": "ますく|masuku",
+    "answerFormat": "hiragana",
+    "explanation": "マスク = ますく(口罩)"
+  },
+  {
+    "id": "medical-med-w75-w1-000",
+    "type": "choice",
+    "question": "包帯 是什么意思?",
+    "options": [
+      "症状",
+      "感冒",
+      "心电图",
+      "绷带"
+    ],
+    "answerIndex": 3,
+    "explanation": "包帯(ほうたい) = 绷带"
+  },
+  {
+    "id": "medical-med-w75-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "包帯",
+    "options": [
+      "鼻塞",
+      "扭伤",
+      "绷带",
+      "心电图"
+    ],
+    "answerIndex": 2,
+    "explanation": "包帯(ほうたい) = 绷带"
+  },
+  {
+    "id": "medical-med-w75-w3-000",
+    "type": "choice",
+    "question": "绷带 用日语怎么说?",
+    "options": [
+      "アレルギー",
+      "エコー検査",
+      "包帯",
+      "救急車"
+    ],
+    "answerIndex": 2,
+    "explanation": "包帯(ほうたい) = 绷带"
+  },
+  {
+    "id": "medical-med-w75-w4-000",
+    "type": "choice",
+    "question": "包帯 的读音是?",
+    "options": [
+      "くすり",
+      "ほうたい",
+      "しょほうせん",
+      "にゅういん"
+    ],
+    "answerIndex": 1,
+    "explanation": "包帯 = ほうたい(绷带)"
+  },
+  {
+    "id": "medical-med-w75-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "包帯",
+    "answer": "ほうたい|houtai",
+    "answerFormat": "hiragana",
+    "explanation": "包帯 = ほうたい(绷带)"
+  },
+  {
+    "id": "medical-med-w75-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "包帯",
+    "answer": "ほうたい|houtai",
+    "answerFormat": "hiragana",
+    "explanation": "包帯 = ほうたい(绷带)"
+  },
+  {
+    "id": "medical-med-w76-w1-000",
+    "type": "choice",
+    "question": "ガーゼ 是什么意思?",
+    "options": [
+      "候诊室",
+      "检查",
+      "纱布",
+      "粉药"
+    ],
+    "answerIndex": 2,
+    "explanation": "ガーゼ(がーぜ) = 纱布"
+  },
+  {
+    "id": "medical-med-w76-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ガーゼ",
+    "options": [
+      "问诊单",
+      "诊断",
+      "肺炎",
+      "纱布"
+    ],
+    "answerIndex": 3,
+    "explanation": "ガーゼ(がーぜ) = 纱布"
+  },
+  {
+    "id": "medical-med-w76-w3-000",
+    "type": "choice",
+    "question": "纱布 用日语怎么说?",
+    "options": [
+      "めまい",
+      "心電図",
+      "ガーゼ",
+      "アレルギー"
+    ],
+    "answerIndex": 2,
+    "explanation": "ガーゼ(がーぜ) = 纱布"
+  },
+  {
+    "id": "medical-med-w76-w4-000",
+    "type": "choice",
+    "question": "ガーゼ 的读音是?",
+    "options": [
+      "がーぜ",
+      "うけつけ",
+      "よやくせい",
+      "ねつ"
+    ],
+    "answerIndex": 0,
+    "explanation": "ガーゼ = がーぜ(纱布)"
+  },
+  {
+    "id": "medical-med-w76-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ガーゼ",
+    "answer": "がーぜ|gaaze",
+    "answerFormat": "hiragana",
+    "explanation": "ガーゼ = がーぜ(纱布)"
+  },
+  {
+    "id": "medical-med-w76-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ガーゼ",
+    "answer": "がーぜ|gaaze",
+    "answerFormat": "hiragana",
+    "explanation": "ガーゼ = がーぜ(纱布)"
+  },
+  {
+    "id": "medical-med-w77-w1-000",
+    "type": "choice",
+    "question": "入院 是什么意思?",
+    "options": [
+      "出院",
+      "体温计",
+      "住院",
+      "绷带"
+    ],
+    "answerIndex": 2,
+    "explanation": "入院(にゅういん) = 住院"
+  },
+  {
+    "id": "medical-med-w77-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "入院",
+    "options": [
+      "外科",
+      "胶囊",
+      "骨折",
+      "住院"
+    ],
+    "answerIndex": 3,
+    "explanation": "入院(にゅういん) = 住院"
+  },
+  {
+    "id": "medical-med-w77-w3-000",
+    "type": "choice",
+    "question": "住院 用日语怎么说?",
+    "options": [
+      "検尿",
+      "吐き気",
+      "ガーゼ",
+      "入院"
+    ],
+    "answerIndex": 3,
+    "explanation": "入院(にゅういん) = 住院"
+  },
+  {
+    "id": "medical-med-w77-w4-000",
+    "type": "choice",
+    "question": "入院 的读音是?",
+    "options": [
+      "ほけんしょう",
+      "しょほうせん",
+      "にゅういん",
+      "あれるぎー"
+    ],
+    "answerIndex": 2,
+    "explanation": "入院 = にゅういん(住院)"
+  },
+  {
+    "id": "medical-med-w77-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "入院",
+    "answer": "にゅういん|nyuuin",
+    "answerFormat": "hiragana",
+    "explanation": "入院 = にゅういん(住院)"
+  },
+  {
+    "id": "medical-med-w77-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "入院",
+    "answer": "にゅういん|nyuuin",
+    "answerFormat": "hiragana",
+    "explanation": "入院 = にゅういん(住院)"
+  },
+  {
+    "id": "medical-med-w78-w1-000",
+    "type": "choice",
+    "question": "退院 是什么意思?",
+    "options": [
+      "受伤",
+      "医院(大型)",
+      "口罩",
+      "出院"
+    ],
+    "answerIndex": 3,
+    "explanation": "退院(たいいん) = 出院"
+  },
+  {
+    "id": "medical-med-w78-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "退院",
+    "options": [
+      "出院",
+      "点滴/输液",
+      "受伤",
+      "救护车"
+    ],
+    "answerIndex": 0,
+    "explanation": "退院(たいいん) = 出院"
+  },
+  {
+    "id": "medical-med-w78-w3-000",
+    "type": "choice",
+    "question": "出院 用日语怎么说?",
+    "options": [
+      "アレルギー",
+      "退院",
+      "会計",
+      "下痢"
+    ],
+    "answerIndex": 1,
+    "explanation": "退院(たいいん) = 出院"
+  },
+  {
+    "id": "medical-med-w78-w4-000",
+    "type": "choice",
+    "question": "退院 的读音是?",
+    "options": [
+      "たいいん",
+      "ちんつうざい",
+      "かぜぐすり",
+      "けんさ"
+    ],
+    "answerIndex": 0,
+    "explanation": "退院 = たいいん(出院)"
+  },
+  {
+    "id": "medical-med-w78-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "退院",
+    "answer": "たいいん|taiin",
+    "answerFormat": "hiragana",
+    "explanation": "退院 = たいいん(出院)"
+  },
+  {
+    "id": "medical-med-w78-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "退院",
+    "answer": "たいいん|taiin",
+    "answerFormat": "hiragana",
+    "explanation": "退院 = たいいん(出院)"
+  },
+  {
+    "id": "medical-med-w79-w1-000",
+    "type": "choice",
+    "question": "救急車 是什么意思?",
+    "options": [
+      "救护车",
+      "预约制",
+      "候诊室",
+      "处方笺"
+    ],
+    "answerIndex": 0,
+    "explanation": "救急車(きゅうきゅうしゃ) = 救护车"
+  },
+  {
+    "id": "medical-med-w79-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "救急車",
+    "options": [
+      "头痛",
+      "救护车",
+      "初诊",
+      "烧伤/烫伤"
+    ],
+    "answerIndex": 1,
+    "explanation": "救急車(きゅうきゅうしゃ) = 救护车"
+  },
+  {
+    "id": "medical-med-w79-w3-000",
+    "type": "choice",
+    "question": "救护车 用日语怎么说?",
+    "options": [
+      "包帯",
+      "医師",
+      "救急車",
+      "鼻づまり"
+    ],
+    "answerIndex": 2,
+    "explanation": "救急車(きゅうきゅうしゃ) = 救护车"
+  },
+  {
+    "id": "medical-med-w79-w4-000",
+    "type": "choice",
+    "question": "救急車 的读音是?",
+    "options": [
+      "しんさつしつ",
+      "ほうたい",
+      "けつあつ",
+      "きゅうきゅうしゃ"
+    ],
+    "answerIndex": 3,
+    "explanation": "救急車 = きゅうきゅうしゃ(救护车)"
+  },
+  {
+    "id": "medical-med-w79-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "救急車",
+    "answer": "きゅうきゅうしゃ|kyuukyuusha",
+    "answerFormat": "hiragana",
+    "explanation": "救急車 = きゅうきゅうしゃ(救护车)"
+  },
+  {
+    "id": "medical-med-w79-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "救急車",
+    "answer": "きゅうきゅうしゃ|kyuukyuusha",
+    "answerFormat": "hiragana",
+    "explanation": "救急車 = きゅうきゅうしゃ(救护车)"
+  },
+  {
+    "id": "medical-med-w80-w1-000",
+    "type": "choice",
+    "question": "救急外来 是什么意思?",
+    "options": [
+      "急诊",
+      "药膏",
+      "问诊单",
+      "住院"
+    ],
+    "answerIndex": 0,
+    "explanation": "救急外来(きゅうきゅうがいらい) = 急诊"
+  },
+  {
+    "id": "medical-med-w80-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "救急外来",
+    "options": [
+      "急诊",
+      "医院(大型)",
+      "抽血",
+      "药房"
+    ],
+    "answerIndex": 0,
+    "explanation": "救急外来(きゅうきゅうがいらい) = 急诊"
+  },
+  {
+    "id": "medical-med-w80-w3-000",
+    "type": "choice",
+    "question": "急诊 用日语怎么说?",
+    "options": [
+      "解熱剤",
+      "救急外来",
+      "救急車",
+      "受付"
+    ],
+    "answerIndex": 1,
+    "explanation": "救急外来(きゅうきゅうがいらい) = 急诊"
+  },
+  {
+    "id": "medical-med-w80-w4-000",
+    "type": "choice",
+    "question": "救急外来 的读音是?",
+    "options": [
+      "しょほうせん",
+      "いかいよう",
+      "けんにょう",
+      "きゅうきゅうがいらい"
+    ],
+    "answerIndex": 3,
+    "explanation": "救急外来 = きゅうきゅうがいらい(急诊)"
+  },
+  {
+    "id": "medical-med-w80-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "救急外来",
+    "answer": "きゅうきゅうがいらい|kyuukyuu-gairai",
+    "answerFormat": "hiragana",
+    "explanation": "救急外来 = きゅうきゅうがいらい(急诊)"
+  },
+  {
+    "id": "medical-med-w80-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "救急外来",
+    "answer": "きゅうきゅうがいらい|kyuukyuu-gairai",
+    "answerFormat": "hiragana",
+    "explanation": "救急外来 = きゅうきゅうがいらい(急诊)"
+  },
+  {
+    "id": "medical-med-w81-w1-000",
+    "type": "choice",
+    "question": "看護師 是什么意思?",
+    "options": [
+      "复诊",
+      "肿胀",
+      "B 超检查",
+      "护士"
+    ],
+    "answerIndex": 3,
+    "explanation": "看護師(かんごし) = 护士"
+  },
+  {
+    "id": "medical-med-w81-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "看護師",
+    "options": [
+      "肺炎",
+      "护士",
+      "医生",
+      "烧伤/烫伤"
+    ],
+    "answerIndex": 1,
+    "explanation": "看護師(かんごし) = 护士"
+  },
+  {
+    "id": "medical-med-w81-w3-000",
+    "type": "choice",
+    "question": "护士 用日语怎么说?",
+    "options": [
+      "問診票",
+      "診断",
+      "検査",
+      "看護師"
+    ],
+    "answerIndex": 3,
+    "explanation": "看護師(かんごし) = 护士"
+  },
+  {
+    "id": "medical-med-w81-w4-000",
+    "type": "choice",
+    "question": "看護師 的读音是?",
+    "options": [
+      "よやく",
+      "げり",
+      "しんさつけん",
+      "かんごし"
+    ],
+    "answerIndex": 3,
+    "explanation": "看護師 = かんごし(护士)"
+  },
+  {
+    "id": "medical-med-w81-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "看護師",
+    "answer": "かんごし|kangoshi",
+    "answerFormat": "hiragana",
+    "explanation": "看護師 = かんごし(护士)"
+  },
+  {
+    "id": "medical-med-w81-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "看護師",
+    "answer": "かんごし|kangoshi",
+    "answerFormat": "hiragana",
+    "explanation": "看護師 = かんごし(护士)"
+  },
+  {
+    "id": "medical-med-w82-w1-000",
+    "type": "choice",
+    "question": "医師 是什么意思?",
+    "options": [
+      "抽血",
+      "医生",
+      "腹痛",
+      "体温"
+    ],
+    "answerIndex": 1,
+    "explanation": "医師(いし) = 医生"
+  },
+  {
+    "id": "medical-med-w82-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "医師",
+    "options": [
+      "点滴/输液",
+      "医生",
+      "发冷/寒战",
+      "鼻塞"
+    ],
+    "answerIndex": 1,
+    "explanation": "医師(いし) = 医生"
+  },
+  {
+    "id": "medical-med-w82-w3-000",
+    "type": "choice",
+    "question": "医生 用日语怎么说?",
+    "options": [
+      "注射",
+      "医師",
+      "粉薬",
+      "手術"
+    ],
+    "answerIndex": 1,
+    "explanation": "医師(いし) = 医生"
+  },
+  {
+    "id": "medical-med-w82-w4-000",
+    "type": "choice",
+    "question": "医師 的读音是?",
+    "options": [
+      "せいけいげか",
+      "きゅうしんび",
+      "ちりょう",
+      "いし"
+    ],
+    "answerIndex": 3,
+    "explanation": "医師 = いし(医生)"
+  },
+  {
+    "id": "medical-med-w82-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "医師",
+    "answer": "いし|ishi",
+    "answerFormat": "hiragana",
+    "explanation": "医師 = いし(医生)"
+  },
+  {
+    "id": "medical-med-w82-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "医師",
+    "answer": "いし|ishi",
+    "answerFormat": "hiragana",
+    "explanation": "医師 = いし(医生)"
+  },
+  {
+    "id": "medical-med-w83-w1-000",
+    "type": "choice",
+    "question": "患者 是什么意思?",
+    "options": [
+      "尿检",
+      "心电图",
+      "口罩",
+      "患者/病人"
+    ],
+    "answerIndex": 3,
+    "explanation": "患者(かんじゃ) = 患者/病人"
+  },
+  {
+    "id": "medical-med-w83-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "患者",
+    "options": [
+      "退烧药",
+      "妇产科",
+      "患者/病人",
+      "小儿科"
+    ],
+    "answerIndex": 2,
+    "explanation": "患者(かんじゃ) = 患者/病人"
+  },
+  {
+    "id": "medical-med-w83-w3-000",
+    "type": "choice",
+    "question": "患者/病人 用日语怎么说?",
+    "options": [
+      "心電図",
+      "診療時間",
+      "捻挫",
+      "患者"
+    ],
+    "answerIndex": 3,
+    "explanation": "患者(かんじゃ) = 患者/病人"
+  },
+  {
+    "id": "medical-med-w83-w4-000",
+    "type": "choice",
+    "question": "患者 的读音是?",
+    "options": [
+      "かんじゃ",
+      "じびいんこうか",
+      "しょうじょう",
+      "がんか"
+    ],
+    "answerIndex": 0,
+    "explanation": "患者 = かんじゃ(患者/病人)"
+  },
+  {
+    "id": "medical-med-w83-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "患者",
+    "answer": "かんじゃ|kanja",
+    "answerFormat": "hiragana",
+    "explanation": "患者 = かんじゃ(患者/病人)"
+  },
+  {
+    "id": "medical-med-w83-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "患者",
+    "answer": "かんじゃ|kanja",
+    "answerFormat": "hiragana",
+    "explanation": "患者 = かんじゃ(患者/病人)"
+  },
+  {
+    "id": "medical-med-w84-w1-000",
+    "type": "choice",
+    "question": "症状 是什么意思?",
+    "options": [
+      "感冒",
+      "受伤",
+      "症状",
+      "治疗"
+    ],
+    "answerIndex": 2,
+    "explanation": "症状(しょうじょう) = 症状"
+  },
+  {
+    "id": "medical-med-w84-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "症状",
+    "options": [
+      "医院(大型)",
+      "症状",
+      "麻醉",
+      "病历"
+    ],
+    "answerIndex": 1,
+    "explanation": "症状(しょうじょう) = 症状"
+  },
+  {
+    "id": "medical-med-w84-w3-000",
+    "type": "choice",
+    "question": "症状 用日语怎么说?",
+    "options": [
+      "受付",
+      "症状",
+      "耳鼻咽喉科",
+      "下痢"
+    ],
+    "answerIndex": 1,
+    "explanation": "症状(しょうじょう) = 症状"
+  },
+  {
+    "id": "medical-med-w84-w4-000",
+    "type": "choice",
+    "question": "症状 的读音是?",
+    "options": [
+      "きゅうきゅうしゃ",
+      "ないか",
+      "しょうじょう",
+      "しょうにか"
+    ],
+    "answerIndex": 2,
+    "explanation": "症状 = しょうじょう(症状)"
+  },
+  {
+    "id": "medical-med-w84-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "症状",
+    "answer": "しょうじょう|shoujou",
+    "answerFormat": "hiragana",
+    "explanation": "症状 = しょうじょう(症状)"
+  },
+  {
+    "id": "medical-med-w84-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "症状",
+    "answer": "しょうじょう|shoujou",
+    "answerFormat": "hiragana",
+    "explanation": "症状 = しょうじょう(症状)"
+  },
+  {
+    "id": "medical-med-w85-w1-000",
+    "type": "choice",
+    "question": "診療時間 是什么意思?",
+    "options": [
+      "救护车",
+      "鼻塞",
+      "外科",
+      "门诊时间"
+    ],
+    "answerIndex": 3,
+    "explanation": "診療時間(しんりょうじかん) = 门诊时间"
+  },
+  {
+    "id": "medical-med-w85-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "診療時間",
+    "options": [
+      "牙科",
+      "门诊时间",
+      "血液检查",
+      "初诊"
+    ],
+    "answerIndex": 1,
+    "explanation": "診療時間(しんりょうじかん) = 门诊时间"
+  },
+  {
+    "id": "medical-med-w85-w3-000",
+    "type": "choice",
+    "question": "门诊时间 用日语怎么说?",
+    "options": [
+      "麻酔",
+      "整形外科",
+      "診療時間",
+      "ガーゼ"
+    ],
+    "answerIndex": 2,
+    "explanation": "診療時間(しんりょうじかん) = 门诊时间"
+  },
+  {
+    "id": "medical-med-w85-w4-000",
+    "type": "choice",
+    "question": "診療時間 的读音是?",
+    "options": [
+      "しょうじょう",
+      "しんりょうじかん",
+      "きゅうきゅうがいらい",
+      "けつあつ"
+    ],
+    "answerIndex": 1,
+    "explanation": "診療時間 = しんりょうじかん(门诊时间)"
+  },
+  {
+    "id": "medical-med-w85-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "診療時間",
+    "answer": "しんりょうじかん|shinryou-jikan",
+    "answerFormat": "hiragana",
+    "explanation": "診療時間 = しんりょうじかん(门诊时间)"
+  },
+  {
+    "id": "medical-med-w85-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "診療時間",
+    "answer": "しんりょうじかん|shinryou-jikan",
+    "answerFormat": "hiragana",
+    "explanation": "診療時間 = しんりょうじかん(门诊时间)"
+  },
+  {
+    "id": "medical-med-w86-w1-000",
+    "type": "choice",
+    "question": "休診日 是什么意思?",
+    "options": [
+      "医生",
+      "感冒",
+      "诊所(小型)",
+      "休诊日"
+    ],
+    "answerIndex": 3,
+    "explanation": "休診日(きゅうしんび) = 休诊日"
+  },
+  {
+    "id": "medical-med-w86-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "休診日",
+    "options": [
+      "休诊日",
+      "感冒",
+      "流感",
+      "麻醉"
+    ],
+    "answerIndex": 0,
+    "explanation": "休診日(きゅうしんび) = 休诊日"
+  },
+  {
+    "id": "medical-med-w86-w3-000",
+    "type": "choice",
+    "question": "休诊日 用日语怎么说?",
+    "options": [
+      "休診日",
+      "問診票",
+      "採血",
+      "目薬"
+    ],
+    "answerIndex": 0,
+    "explanation": "休診日(きゅうしんび) = 休诊日"
+  },
+  {
+    "id": "medical-med-w86-w4-000",
+    "type": "choice",
+    "question": "休診日 的读音是?",
+    "options": [
+      "しか",
+      "とうにょうびょう",
+      "かんじゃ",
+      "きゅうしんび"
+    ],
+    "answerIndex": 3,
+    "explanation": "休診日 = きゅうしんび(休诊日)"
+  },
+  {
+    "id": "medical-med-w86-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "休診日",
+    "answer": "きゅうしんび|kyuushinbi",
+    "answerFormat": "hiragana",
+    "explanation": "休診日 = きゅうしんび(休诊日)"
+  },
+  {
+    "id": "medical-med-w86-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "休診日",
+    "answer": "きゅうしんび|kyuushinbi",
+    "answerFormat": "hiragana",
+    "explanation": "休診日 = きゅうしんび(休诊日)"
+  },
+  {
+    "id": "medical-med-w87-w1-000",
+    "type": "choice",
+    "question": "予約制 是什么意思?",
+    "options": [
+      "预约制",
+      "耳鼻喉科",
+      "流鼻涕",
+      "扭伤"
+    ],
+    "answerIndex": 0,
+    "explanation": "予約制(よやくせい) = 预约制"
+  },
+  {
+    "id": "medical-med-w87-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "予約制",
+    "options": [
+      "血压",
+      "预约制",
+      "感冒",
+      "出院"
+    ],
+    "answerIndex": 1,
+    "explanation": "予約制(よやくせい) = 预约制"
+  },
+  {
+    "id": "medical-med-w87-w3-000",
+    "type": "choice",
+    "question": "预约制 用日语怎么说?",
+    "options": [
+      "軟膏",
+      "カプセル",
+      "吐き気",
+      "予約制"
+    ],
+    "answerIndex": 3,
+    "explanation": "予約制(よやくせい) = 预约制"
+  },
+  {
+    "id": "medical-med-w87-w4-000",
+    "type": "choice",
+    "question": "予約制 的读音是?",
+    "options": [
+      "げか",
+      "こっせつ",
+      "よやくせい",
+      "めまい"
+    ],
+    "answerIndex": 2,
+    "explanation": "予約制 = よやくせい(预约制)"
+  },
+  {
+    "id": "medical-med-w87-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "予約制",
+    "answer": "よやくせい|yoyakusei",
+    "answerFormat": "hiragana",
+    "explanation": "予約制 = よやくせい(预约制)"
+  },
+  {
+    "id": "medical-med-w87-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "予約制",
+    "answer": "よやくせい|yoyakusei",
+    "answerFormat": "hiragana",
+    "explanation": "予約制 = よやくせい(预约制)"
+  },
+  {
+    "id": "medical-med-w88-w1-000",
+    "type": "choice",
+    "question": "カルテ 是什么意思?",
+    "options": [
+      "问诊单",
+      "病历",
+      "消毒",
+      "口罩"
+    ],
+    "answerIndex": 1,
+    "explanation": "カルテ(かるて) = 病历"
+  },
+  {
+    "id": "medical-med-w88-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "カルテ",
+    "options": [
+      "病历",
+      "眼药水",
+      "腹痛",
+      "头晕/眩晕"
+    ],
+    "answerIndex": 0,
+    "explanation": "カルテ(かるて) = 病历"
+  },
+  {
+    "id": "medical-med-w88-w3-000",
+    "type": "choice",
+    "question": "病历 用日语怎么说?",
+    "options": [
+      "入院",
+      "マスク",
+      "目薬",
+      "カルテ"
+    ],
+    "answerIndex": 3,
+    "explanation": "カルテ(かるて) = 病历"
+  },
+  {
+    "id": "medical-med-w88-w4-000",
+    "type": "choice",
+    "question": "カルテ 的读音是?",
+    "options": [
+      "こなぐすり",
+      "げり",
+      "かるて",
+      "にゅういん"
+    ],
+    "answerIndex": 2,
+    "explanation": "カルテ = かるて(病历)"
+  },
+  {
+    "id": "medical-med-w88-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "カルテ",
+    "answer": "かるて|karute",
+    "answerFormat": "hiragana",
+    "explanation": "カルテ = かるて(病历)"
+  },
+  {
+    "id": "medical-med-w88-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "カルテ",
+    "answer": "かるて|karute",
+    "answerFormat": "hiragana",
+    "explanation": "カルテ = かるて(病历)"
+  },
+  {
+    "id": "medical-med-w89-w1-000",
+    "type": "choice",
+    "question": "診断 是什么意思?",
+    "options": [
+      "处方笺",
+      "粉药",
+      "诊断",
+      "流感"
+    ],
+    "answerIndex": 2,
+    "explanation": "診断(しんだん) = 诊断"
+  },
+  {
+    "id": "medical-med-w89-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "診断",
+    "options": [
+      "内科",
+      "复诊",
+      "诊断",
+      "预约"
+    ],
+    "answerIndex": 2,
+    "explanation": "診断(しんだん) = 诊断"
+  },
+  {
+    "id": "medical-med-w89-w3-000",
+    "type": "choice",
+    "question": "诊断 用日语怎么说?",
+    "options": [
+      "診断",
+      "休診日",
+      "ガーゼ",
+      "めまい"
+    ],
+    "answerIndex": 0,
+    "explanation": "診断(しんだん) = 诊断"
+  },
+  {
+    "id": "medical-med-w89-w4-000",
+    "type": "choice",
+    "question": "診断 的读音是?",
+    "options": [
+      "くすり",
+      "しんだん",
+      "びょういん",
+      "はなづまり"
+    ],
+    "answerIndex": 1,
+    "explanation": "診断 = しんだん(诊断)"
+  },
+  {
+    "id": "medical-med-w89-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "診断",
+    "answer": "しんだん|shindan",
+    "answerFormat": "hiragana",
+    "explanation": "診断 = しんだん(诊断)"
+  },
+  {
+    "id": "medical-med-w89-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "診断",
+    "answer": "しんだん|shindan",
+    "answerFormat": "hiragana",
+    "explanation": "診断 = しんだん(诊断)"
+  },
+  {
+    "id": "medical-med-w90-w1-000",
+    "type": "choice",
+    "question": "治療 是什么意思?",
+    "options": [
+      "治疗",
+      "体温",
+      "止痛药",
+      "药"
+    ],
+    "answerIndex": 0,
+    "explanation": "治療(ちりょう) = 治疗"
+  },
+  {
+    "id": "medical-med-w90-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "治療",
+    "options": [
+      "绷带",
+      "治疗",
+      "流感",
+      "高血压"
+    ],
+    "answerIndex": 1,
+    "explanation": "治療(ちりょう) = 治疗"
+  },
+  {
+    "id": "medical-med-w90-w3-000",
+    "type": "choice",
+    "question": "治疗 用日语怎么说?",
+    "options": [
+      "治療",
+      "捻挫",
+      "ガーゼ",
+      "皮膚科"
+    ],
+    "answerIndex": 0,
+    "explanation": "治療(ちりょう) = 治疗"
+  },
+  {
+    "id": "medical-med-w90-w4-000",
+    "type": "choice",
+    "question": "治療 的读音是?",
+    "options": [
+      "ちりょう",
+      "ねんざ",
+      "こうせいぶっしつ",
+      "ねつ"
+    ],
+    "answerIndex": 0,
+    "explanation": "治療 = ちりょう(治疗)"
+  },
+  {
+    "id": "medical-med-w90-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "治療",
+    "answer": "ちりょう|chiryō",
+    "answerFormat": "hiragana",
+    "explanation": "治療 = ちりょう(治疗)"
+  },
+  {
+    "id": "medical-med-w90-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "治療",
+    "answer": "ちりょう|chiryō",
+    "answerFormat": "hiragana",
+    "explanation": "治療 = ちりょう(治疗)"
+  },
+  {
+    "id": "medical-med-g01-g1-000",
+    "type": "choice",
+    "question": "语法「名词 + が + 痛い / 痒い / 気持ち悪い」的意思是?",
+    "options": [
+      "嘱咐说……(医生对病人的指示)",
+      "……了(遗憾/意外/完成)",
+      "想做……(表达希望、愿望)",
+      "表达身体部位的不适"
+    ],
+    "answerIndex": 3,
+    "explanation": "頭が痛いです。 = 头疼"
+  },
+  {
+    "id": "medical-med-g01-g2-000",
+    "type": "choice",
+    "question": "意思「表达身体部位的不适」对应哪个语法?",
+    "options": [
+      "动词ます形 / 形容词词干 + そうです",
+      "〜たい + んですが",
+      "名词 + によると",
+      "名词 + が + 痛い / 痒い / 気持ち悪い"
+    ],
+    "answerIndex": 3,
+    "explanation": "名词 + が + 痛い / 痒い / 気持ち悪い = 表达身体部位的不适"
+  },
+  {
+    "id": "medical-med-g02-g1-000",
+    "type": "choice",
+    "question": "语法「名词 + が + ある / する」的意思是?",
+    "options": [
+      "表达感受/症状(有……感觉)",
+      "在……的时候",
+      "据……(信息来源)",
+      "想做……(表达希望、愿望)"
+    ],
+    "answerIndex": 0,
+    "explanation": "熱があります。 = 发烧"
+  },
+  {
+    "id": "medical-med-g02-g2-000",
+    "type": "choice",
+    "question": "意思「表达感受/症状(有……感觉)」对应哪个语法?",
+    "options": [
+      "名词 + が + ある / する",
+      "て形 + しまう",
+      "お + 动词ます形 + する",
+      "て形 + もいい / てはいけない"
+    ],
+    "answerIndex": 0,
+    "explanation": "名词 + が + ある / する = 表达感受/症状(有……感觉)"
+  },
+  {
+    "id": "medical-med-g03-g1-000",
+    "type": "choice",
+    "question": "语法「动词ます形去掉ます + たいです」的意思是?",
+    "options": [
+      "可以做……/ 不可以做……",
+      "想做……(表达希望、愿望)",
+      "能否请你帮我……(礼貌请求)",
+      "嘱咐说……(医生对病人的指示)"
+    ],
+    "answerIndex": 1,
+    "explanation": "予約を取りたいです。 = 想预约"
+  },
+  {
+    "id": "medical-med-g03-g2-000",
+    "type": "choice",
+    "question": "意思「想做……(表达希望、愿望)」对应哪个语法?",
+    "options": [
+      "名词 + によると",
+      "て形 + もらえますか",
+      "〜たい + んですが",
+      "动词ます形去掉ます + たいです"
+    ],
+    "answerIndex": 3,
+    "explanation": "动词ます形去掉ます + たいです = 想做……(表达希望、愿望)"
+  },
+  {
+    "id": "medical-med-g04-g1-000",
+    "type": "choice",
+    "question": "语法「て形 + もらえますか」的意思是?",
+    "options": [
+      "能否请你帮我……(礼貌请求)",
+      "表达身体部位的不适",
+      "……了(遗憾/意外/完成)",
+      "想做……(表达希望、愿望)"
+    ],
+    "answerIndex": 0,
+    "explanation": "予約してもらえますか。 = 能帮我预约吗"
+  },
+  {
+    "id": "medical-med-g04-g2-000",
+    "type": "choice",
+    "question": "意思「能否请你帮我……(礼貌请求)」对应哪个语法?",
+    "options": [
+      "て形 + もらえますか",
+      "句子(简体) + ように言う",
+      "动词ます形 / 形容词词干 + そうです",
+      "ない形去掉い + なければなりません"
+    ],
+    "answerIndex": 0,
+    "explanation": "て形 + もらえますか = 能否请你帮我……(礼貌请求)"
+  },
+  {
+    "id": "medical-med-g05-g1-000",
+    "type": "choice",
+    "question": "语法「〜たい + んですが」的意思是?",
+    "options": [
+      "我想……(委婉地表达请求)",
+      "看起来……(根据外观判断)",
+      "表达身体部位的不适",
+      "必须……(义务)"
+    ],
+    "answerIndex": 0,
+    "explanation": "診てもらいたいんですが。 = 我想看看病……"
+  },
+  {
+    "id": "medical-med-g05-g2-000",
+    "type": "choice",
+    "question": "意思「我想……(委婉地表达请求)」对应哪个语法?",
+    "options": [
+      "〜たい + んですが",
+      "名词 + が + ある / する",
+      "て形 + から",
+      "名词 + が + 痛い / 痒い / 気持ち悪い"
+    ],
+    "answerIndex": 0,
+    "explanation": "〜たい + んですが = 我想……(委婉地表达请求)"
+  },
+  {
+    "id": "medical-med-g06-g1-000",
+    "type": "choice",
+    "question": "语法「て形 + もいい / てはいけない」的意思是?",
+    "options": [
+      "据……(信息来源)",
+      "表达感受/症状(有……感觉)",
+      "嘱咐说……(医生对病人的指示)",
+      "可以做……/ 不可以做……"
+    ],
+    "answerIndex": 3,
+    "explanation": "今日は入浴してもいいです。 = 今天可以洗澡"
+  },
+  {
+    "id": "medical-med-g06-g2-000",
+    "type": "choice",
+    "question": "意思「可以做……/ 不可以做……」对应哪个语法?",
+    "options": [
+      "ない形去掉い + なければなりません",
+      "お + 动词ます形 + する",
+      "て形 + もいい / てはいけない",
+      "て形 + もらえますか"
+    ],
+    "answerIndex": 2,
+    "explanation": "て形 + もいい / てはいけない = 可以做……/ 不可以做……"
+  },
+  {
+    "id": "medical-med-g07-g1-000",
+    "type": "choice",
+    "question": "语法「ない形去掉い + なければなりません」的意思是?",
+    "options": [
+      "表达感受/症状(有……感觉)",
+      "能否请你帮我……(礼貌请求)",
+      "可以做……/ 不可以做……",
+      "必须……(义务)"
+    ],
+    "answerIndex": 3,
+    "explanation": "入院しなければなりません。 = 必须住院"
+  },
+  {
+    "id": "medical-med-g07-g2-000",
+    "type": "choice",
+    "question": "意思「必须……(义务)」对应哪个语法?",
+    "options": [
+      "ない形去掉い + なければなりません",
+      "お + 动词ます形 + する",
+      "名词 + が + ある / する",
+      "动词ます形 / 形容词词干 + そうです"
+    ],
+    "answerIndex": 0,
+    "explanation": "ない形去掉い + なければなりません = 必须……(义务)"
+  },
+  {
+    "id": "medical-med-g08-g1-000",
+    "type": "choice",
+    "question": "语法「て形 + から」的意思是?",
+    "options": [
+      "看起来……(根据外观判断)",
+      "请您……(让对方/自己/我方做某事的尊敬/谦让表达)",
+      "……了(遗憾/意外/完成)",
+      "做完……之后"
+    ],
+    "answerIndex": 3,
+    "explanation": "検査をしてから、診断します。 = 先检查再诊断"
+  },
+  {
+    "id": "medical-med-g08-g2-000",
+    "type": "choice",
+    "question": "意思「做完……之后」对应哪个语法?",
+    "options": [
+      "句子(简体) + ように言う",
+      "て形 + もらえますか",
+      "て形 + から",
+      "名词 + によると"
+    ],
+    "answerIndex": 2,
+    "explanation": "て形 + から = 做完……之后"
+  },
+  {
+    "id": "medical-med-g09-g1-000",
+    "type": "choice",
+    "question": "语法「句子 + とき(简体 / 礼貌体)」的意思是?",
+    "options": [
+      "据……(信息来源)",
+      "能否请你帮我……(礼貌请求)",
+      "在……的时候",
+      "必须……(义务)"
+    ],
+    "answerIndex": 2,
+    "explanation": "熱があるとき、休んでください。 = 发烧时请休息"
+  },
+  {
+    "id": "medical-med-g09-g2-000",
+    "type": "choice",
+    "question": "意思「在……的时候」对应哪个语法?",
+    "options": [
+      "句子(简体) + ように言う",
+      "动词ます形去掉ます + たいです",
+      "名词 + が + 痛い / 痒い / 気持ち悪い",
+      "句子 + とき(简体 / 礼貌体)"
+    ],
+    "answerIndex": 3,
+    "explanation": "句子 + とき(简体 / 礼貌体) = 在……的时候"
+  },
+  {
+    "id": "medical-med-g10-g1-000",
+    "type": "choice",
+    "question": "语法「句子(简体) + ように言う」的意思是?",
+    "options": [
+      "被……(被动)",
+      "可以做……/ 不可以做……",
+      "能否请你帮我……(礼貌请求)",
+      "嘱咐说……(医生对病人的指示)"
+    ],
+    "answerIndex": 3,
+    "explanation": "一日三回飲むように言われました。 = 医生嘱咐一天吃三次"
+  },
+  {
+    "id": "medical-med-g10-g2-000",
+    "type": "choice",
+    "question": "意思「嘱咐说……(医生对病人的指示)」对应哪个语法?",
+    "options": [
+      "句子 + とき(简体 / 礼貌体)",
+      "句子(简体) + ように言う",
+      "〜たい + んですが",
+      "动词ます形 / 形容词词干 + そうです"
+    ],
+    "answerIndex": 1,
+    "explanation": "句子(简体) + ように言う = 嘱咐说……(医生对病人的指示)"
+  },
+  {
+    "id": "medical-med-g11-g1-000",
+    "type": "choice",
+    "question": "语法「て形 + しまう」的意思是?",
+    "options": [
+      "必须……(义务)",
+      "据……(信息来源)",
+      "看起来……(根据外观判断)",
+      "……了(遗憾/意外/完成)"
+    ],
+    "answerIndex": 3,
+    "explanation": "風邪を引いてしまいました。 = 感冒了(遗憾)"
+  },
+  {
+    "id": "medical-med-g11-g2-000",
+    "type": "choice",
+    "question": "意思「……了(遗憾/意外/完成)」对应哪个语法?",
+    "options": [
+      "ない形去掉い + なければなりません",
+      "て形 + しまう",
+      "て形 + から",
+      "て形 + もいい / てはいけない"
+    ],
+    "answerIndex": 1,
+    "explanation": "て形 + しまう = ……了(遗憾/意外/完成)"
+  },
+  {
+    "id": "medical-med-g12-g1-000",
+    "type": "choice",
+    "question": "语法「名词 + によると」的意思是?",
+    "options": [
+      "必须……(义务)",
+      "我想……(委婉地表达请求)",
+      "据……(信息来源)",
+      "想做……(表达希望、愿望)"
+    ],
+    "answerIndex": 2,
+    "explanation": "先生によると、風邪です。 = 据医生说是感冒"
+  },
+  {
+    "id": "medical-med-g12-g2-000",
+    "type": "choice",
+    "question": "意思「据……(信息来源)」对应哪个语法?",
+    "options": [
+      "名词 + によると",
+      "〜たい + んですが",
+      "ない形去掉い + なければなりません",
+      "动词未然形 + れる/られる"
+    ],
+    "answerIndex": 0,
+    "explanation": "名词 + によると = 据……(信息来源)"
+  },
+  {
+    "id": "medical-med-g13-g1-000",
+    "type": "choice",
+    "question": "语法「动词ます形 / 形容词词干 + そうです」的意思是?",
+    "options": [
+      "请您……(让对方/自己/我方做某事的尊敬/谦让表达)",
+      "看起来……(根据外观判断)",
+      "表达身体部位的不适",
+      "据……(信息来源)"
+    ],
+    "answerIndex": 1,
+    "explanation": "顔色が悪そうです。 = 看起来脸色不好"
+  },
+  {
+    "id": "medical-med-g13-g2-000",
+    "type": "choice",
+    "question": "意思「看起来……(根据外观判断)」对应哪个语法?",
+    "options": [
+      "て形 + もいい / てはいけない",
+      "ない形去掉い + なければなりません",
+      "动词ます形 / 形容词词干 + そうです",
+      "名词 + が + 痛い / 痒い / 気持ち悪い"
+    ],
+    "answerIndex": 2,
+    "explanation": "动词ます形 / 形容词词干 + そうです = 看起来……(根据外观判断)"
+  },
+  {
+    "id": "medical-med-g14-g1-000",
+    "type": "choice",
+    "question": "语法「お + 动词ます形 + する」的意思是?",
+    "options": [
+      "请您……(让对方/自己/我方做某事的尊敬/谦让表达)",
+      "能否请你帮我……(礼貌请求)",
+      "……了(遗憾/意外/完成)",
+      "在……的时候"
+    ],
+    "answerIndex": 0,
+    "explanation": "保険証をお持ちしました。 = 我带保险证来了"
+  },
+  {
+    "id": "medical-med-g14-g2-000",
+    "type": "choice",
+    "question": "意思「请您……(让对方/自己/我方做某事的尊敬/谦让表达)」对应哪个语法?",
+    "options": [
+      "お + 动词ます形 + する",
+      "名词 + によると",
+      "动词ます形去掉ます + たいです",
+      "动词未然形 + れる/られる"
+    ],
+    "answerIndex": 0,
+    "explanation": "お + 动词ます形 + する = 请您……(让对方/自己/我方做某事的尊敬/谦让表达)"
+  },
+  {
+    "id": "medical-med-g15-g1-000",
+    "type": "choice",
+    "question": "语法「动词未然形 + れる/られる」的意思是?",
+    "options": [
+      "请您……(让对方/自己/我方做某事的尊敬/谦让表达)",
+      "必须……(义务)",
+      "看起来……(根据外观判断)",
+      "被……(被动)"
+    ],
+    "answerIndex": 3,
+    "explanation": "注射をされました。 = 被打了针"
+  },
+  {
+    "id": "medical-med-g15-g2-000",
+    "type": "choice",
+    "question": "意思「被……(被动)」对应哪个语法?",
+    "options": [
+      "动词未然形 + れる/られる",
+      "て形 + もいい / てはいけない",
+      "名词 + が + 痛い / 痒い / 気持ち悪い",
+      "て形 + しまう"
+    ],
+    "answerIndex": 0,
+    "explanation": "动词未然形 + れる/られる = 被……(被动)"
+  }
+]

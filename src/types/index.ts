@@ -129,3 +129,64 @@ export interface ScenarioData {
   listening: ListeningItem[];
   quiz: QuizQuestion[];
 }
+
+// ============== 动词变形模块 ==============
+export type VerbType = 'godan' | 'ichidan' | 'kuru' | 'suru';
+
+export interface VerbForms {
+  'masu': string;
+  'te': string;
+  'ta': string;
+  'nai': string;
+  'nakatta': string;
+  'potential': string;
+  'potential-masu'?: string;
+  'imperative': string;
+  'volitional': string;
+  'ba': string;
+  'passive': string;
+  'causative': string;
+  'causative-passive': string;
+  'prohibition': string;
+}
+
+export interface VerbEntry {
+  id: string;
+  dictionary: string; // 词典形
+  reading: string;
+  meaning: string;
+  type: VerbType;
+  forms: VerbForms;
+}
+
+export interface VerbFormDefinition {
+  id: string;
+  name: string;
+  emoji: string;
+  color: string; // tailwind gradient
+  summary: string;
+  rules: string[];
+  tips: string[];
+  examples: { word: string; conjugation: string; translation: string }[];
+}
+
+export interface VerbBasicsItem {
+  term: string;
+  desc: string;
+  example: string;
+}
+
+export interface VerbBasicsCard {
+  id: string;
+  title: string;
+  summary: string;
+  items: VerbBasicsItem[];
+  conjugation?: string;
+  tip?: string;
+}
+
+export interface VerbData {
+  basics: VerbBasicsCard[];
+  forms: VerbFormDefinition[];
+  commonVerbs: VerbEntry[];
+}

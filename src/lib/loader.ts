@@ -21,8 +21,12 @@ export interface KanaData {
   combo: KanaRow[];
 }
 
+// 动词变形数据
+import type { VerbData } from '@/types';
+
 // 基础路径
 const KANA_URL = '/data/kana.json';
+const VERB_URL = '/data/verb-data.json';
 const SCENARIOS_INDEX_URL = '/data/scenarios-index.json';
 const SCENARIO_BASE = (id: string) => `/data/scenarios/${id}`;
 
@@ -54,6 +58,11 @@ export async function loadKana(): Promise<KanaData> {
     dakuten: data.dakuten,
     combo: data.combo,
   };
+}
+
+// ============== 动词变形 ==============
+export async function loadVerbData(): Promise<VerbData> {
+  return fetchJSON<VerbData>(VERB_URL);
 }
 
 // ============== 场景索引 ==============

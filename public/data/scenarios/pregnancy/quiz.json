@@ -1,0 +1,6958 @@
+[
+  {
+    "id": "preg-q01",
+    "type": "choice",
+    "question": "「妊娠」是什么意思?",
+    "options": [
+      "月经",
+      "怀孕/妊娠",
+      "生产",
+      "流产"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊娠(にんしん)= 怀孕。"
+  },
+  {
+    "id": "preg-q02",
+    "type": "choice",
+    "question": "「母子健康手帳」是什么?",
+    "options": [
+      "结婚证",
+      "母子健康手册(记录怀孕到小学)",
+      "在留卡",
+      "户口本"
+    ],
+    "answerIndex": 1,
+    "explanation": "母子健康手帳= 记录怀孕到小孩小学为止的健康手册,役所发。"
+  },
+  {
+    "id": "preg-q03",
+    "type": "choice",
+    "question": "在日本,「妊娠届」要提交给?",
+    "options": [
+      "医院",
+      "市/区役所",
+      "邮局",
+      "公司"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊娠届提交给居住地的市/区役所,提交后拿到母子健康手册。"
+  },
+  {
+    "id": "preg-q04",
+    "type": "choice",
+    "question": "「妊婦健診」是什么?",
+    "options": [
+      "婚前检查",
+      "产检",
+      "入职体检",
+      "癌症筛查"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊婦健診(にんぷけんしん)= 怀孕期间的定期产检,14 次左右。"
+  },
+  {
+    "id": "preg-q05",
+    "type": "choice",
+    "question": "「産婦人科」是?",
+    "options": [
+      "外科",
+      "内科",
+      "妇产科(看怀孕+妇科病)",
+      "儿科"
+    ],
+    "answerIndex": 2,
+    "explanation": "産婦人科(さんふじんか)= 妇产科,负责怀孕、生产、妇科病。"
+  },
+  {
+    "id": "preg-q06",
+    "type": "choice",
+    "question": "「陣痛」是?",
+    "options": [
+      "腰痛",
+      "阵痛/宫缩",
+      "胃痛",
+      "头痛"
+    ],
+    "answerIndex": 1,
+    "explanation": "陣痛(じんつう)= 分娩前的子宫收缩(阵痛)。"
+  },
+  {
+    "id": "preg-q07",
+    "type": "choice",
+    "question": "「破水」的意思是?",
+    "options": [
+      "出血",
+      "破水(羊膜破裂)",
+      "宫缩",
+      "见红"
+    ],
+    "answerIndex": 1,
+    "explanation": "破水(はすい)= 包裹胎儿的羊膜破裂,羊水流出,生产的征兆之一。"
+  },
+  {
+    "id": "preg-q08",
+    "type": "choice",
+    "question": "「おしるし」是什么?",
+    "options": [
+      "阵痛",
+      "见红(产前征兆)",
+      "破水",
+      "胎动"
+    ],
+    "answerIndex": 1,
+    "explanation": "おしるし= 见红,产前少量出血的征兆。"
+  },
+  {
+    "id": "preg-q09",
+    "type": "choice",
+    "question": "「つわり」是什么?",
+    "options": [
+      "孕吐/害喜",
+      "腰痛",
+      "浮肿",
+      "便秘"
+    ],
+    "answerIndex": 0,
+    "explanation": "つわり= 孕早期的孕吐、恶心、食欲不振等。"
+  },
+  {
+    "id": "preg-q10",
+    "type": "choice",
+    "question": "「胎動」的意思?",
+    "options": [
+      "胎盘",
+      "胎儿在肚子里动",
+      "羊水",
+      "脐带"
+    ],
+    "answerIndex": 1,
+    "explanation": "胎動(たいどう)= 胎儿在子宫里的活动,通常孕 5 个月开始感觉到。"
+  },
+  {
+    "id": "preg-q11",
+    "type": "choice",
+    "question": "「逆子」是什么情况?",
+    "options": [
+      "早产",
+      "胎位不正(臀位)",
+      "双胞胎",
+      "流产"
+    ],
+    "answerIndex": 1,
+    "explanation": "逆子(さかご)= 胎位不正,宝宝头朝上脚朝下,可能需要剖腹产。"
+  },
+  {
+    "id": "preg-q12",
+    "type": "choice",
+    "question": "「自然分娩」是?",
+    "options": [
+      "剖腹产",
+      "无痛分娩",
+      "顺产/自然生产",
+      "水中分娩"
+    ],
+    "answerIndex": 2,
+    "explanation": "自然分娩(しぜんぶんべん)= 不做手术、顺其自然地经阴道生产。"
+  },
+  {
+    "id": "preg-q13",
+    "type": "choice",
+    "question": "「帝王切開」是什么?",
+    "options": [
+      "顺产",
+      "剖腹产",
+      "无痛分娩",
+      "引产"
+    ],
+    "answerIndex": 1,
+    "explanation": "帝王切開(ていおうせっかい)= 剖腹产(切开腹部和子宫取出胎儿)。"
+  },
+  {
+    "id": "preg-q14",
+    "type": "choice",
+    "question": "「無痛分娩」是什么?",
+    "options": [
+      "完全无痛",
+      "用麻醉缓解阵痛的分娩",
+      "顺产",
+      "剖腹产"
+    ],
+    "answerIndex": 1,
+    "explanation": "無痛分娩(むつうぶんべん)= 使用麻醉(硬膜外麻醉)减轻阵痛的分娩,不是完全无痛。"
+  },
+  {
+    "id": "preg-q15",
+    "type": "choice",
+    "question": "「出産育児一時金」是多少钱?",
+    "options": [
+      "10 万日元",
+      "30 万日元",
+      "50 万日元",
+      "100 万日元"
+    ],
+    "answerIndex": 2,
+    "explanation": "出産育児一時金= 50 万日元,生产时一次性补助。"
+  },
+  {
+    "id": "preg-q16",
+    "type": "choice",
+    "question": "「出生届」需要在生完后几天内提交?",
+    "options": [
+      "当天",
+      "7 天内",
+      "14 天内",
+      "30 天内"
+    ],
+    "answerIndex": 2,
+    "explanation": "出生届= 14 天内提交给市役所。"
+  },
+  {
+    "id": "preg-q17",
+    "type": "choice",
+    "question": "「母乳」是什么?",
+    "options": [
+      "奶粉",
+      "母乳",
+      "牛奶",
+      "果汁"
+    ],
+    "answerIndex": 1,
+    "explanation": "母乳(ぼにゅう)= 母亲自己产生的奶。"
+  },
+  {
+    "id": "preg-q18",
+    "type": "choice",
+    "question": "「助産師」是什么职业?",
+    "options": [
+      "医生",
+      "护士",
+      "助产士",
+      "药剂师"
+    ],
+    "answerIndex": 2,
+    "explanation": "助産師(じょさんし)= 助产士,负责辅助分娩和产后护理。"
+  },
+  {
+    "id": "preg-q19",
+    "type": "choice",
+    "question": "「保健師」在哪里工作?",
+    "options": [
+      "超市",
+      "市役所/保健中心",
+      "银行",
+      "学校"
+    ],
+    "answerIndex": 1,
+    "explanation": "保健師(ほけんし)= 在市役所/保健中心工作,负责健康咨询。"
+  },
+  {
+    "id": "preg-q20",
+    "type": "choice",
+    "question": "「里帰り出産」是什么?",
+    "options": [
+      "在家生产",
+      "回娘家生产",
+      "国外生产",
+      "水中分娩"
+    ],
+    "answerIndex": 1,
+    "explanation": "里帰り出産(さとがえりしゅっさん)= 回娘家(回父母家)待产。"
+  },
+  {
+    "id": "preg-q21",
+    "type": "choice",
+    "question": "「マタニティマーク」是什么?",
+    "options": [
+      "孕妇徽章(挂在包上)",
+      "婴儿车",
+      "孕妇腹带",
+      "胎心仪"
+    ],
+    "answerIndex": 0,
+    "explanation": "マタニティマーク= 孕妇识别徽章,挂在包上提醒他人让座/不抽烟。"
+  },
+  {
+    "id": "preg-q22",
+    "type": "choice",
+    "question": "「ラマーズ法」是?",
+    "options": [
+      "剖腹产方法",
+      "通过呼吸法减轻阵痛的方法",
+      "中药",
+      "瑜伽"
+    ],
+    "answerIndex": 1,
+    "explanation": "ラマーズ法= 法国产科医生发明的呼吸+放松法,在日本广泛使用减轻阵痛。"
+  },
+  {
+    "id": "preg-q23",
+    "type": "choice",
+    "question": "「産休」是什么?",
+    "options": [
+      "产假",
+      "年假",
+      "病假",
+      "育儿假"
+    ],
+    "answerIndex": 0,
+    "explanation": "産休(さんきゅう)= 产前 6 周(多胎 14 周)+ 产后 8 周的法定休假。"
+  },
+  {
+    "id": "preg-q24",
+    "type": "choice",
+    "question": "「育休」是什么?",
+    "options": [
+      "婚假",
+      "产假",
+      "育儿假",
+      "病假"
+    ],
+    "answerIndex": 2,
+    "explanation": "育休(いくきゅう)= 育儿假,孩子 1 岁前(特殊情况可延长)的法定休假,父母均可申请。"
+  },
+  {
+    "id": "preg-q25",
+    "type": "choice",
+    "question": "「新生児」是什么?",
+    "options": [
+      "新生儿(出生 28 天内)",
+      "婴儿",
+      "幼儿",
+      "学龄前儿童"
+    ],
+    "answerIndex": 0,
+    "explanation": "新生児(しんせいじ)= 出生后 28 天内的婴儿。"
+  },
+  {
+    "id": "pre-L01",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "無痛分娩",
+    "options": [
+      "剖腹产",
+      "无痛分娩",
+      "回娘家生产",
+      "生产/生孩子"
+    ],
+    "answerIndex": 1,
+    "explanation": "無痛分娩 (むつうぶんべん) = 无痛分娩"
+  },
+  {
+    "id": "pre-L02",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "帝王切開",
+    "options": [
+      "自然分娩/顺产",
+      "剖腹产",
+      "出院",
+      "母亲课堂"
+    ],
+    "answerIndex": 1,
+    "explanation": "帝王切開 (ていおうせっかい) = 剖腹产"
+  },
+  {
+    "id": "pre-L03",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "受診券",
+    "options": [
+      "出生通知单(明信片)",
+      "产检补助券",
+      "出生登记",
+      "母子手册(简称)"
+    ],
+    "answerIndex": 1,
+    "explanation": "受診券 (じゅしんけん) = 产检补助券"
+  },
+  {
+    "id": "pre-L04",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "産婦人科",
+    "options": [
+      "超声波(检查)",
+      "孕妇徽章(挂在包上)",
+      "妇产科",
+      "奶粉"
+    ],
+    "answerIndex": 2,
+    "explanation": "産婦人科 (さんふじんか) = 妇产科"
+  },
+  {
+    "id": "pre-L05",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "張り",
+    "options": [
+      "子宫发紧(假宫缩)",
+      "破水",
+      "贫血",
+      "见红(产前征兆)"
+    ],
+    "answerIndex": 0,
+    "explanation": "張り (はり) = 子宫发紧(假宫缩)"
+  },
+  {
+    "id": "pre-L06",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "婦人科",
+    "options": [
+      "妊娠糖尿病",
+      "妇科(不接生)",
+      "尿布",
+      "孕吐/害喜"
+    ],
+    "answerIndex": 1,
+    "explanation": "婦人科 (ふじんか) = 妇科(不接生)"
+  },
+  {
+    "id": "pre-L07",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "入院",
+    "options": [
+      "住院(待产)",
+      "分娩(医学词)",
+      "无痛分娩",
+      "自然分娩/顺产"
+    ],
+    "answerIndex": 0,
+    "explanation": "入院 (にゅういん) = 住院(待产)"
+  },
+  {
+    "id": "pre-L08",
+    "type": "listening",
+    "question": "请选出听到的词的中文意思",
+    "audio": "貧血",
+    "options": [
+      "阵痛/宫缩",
+      "妊娠纹",
+      "贫血",
+      "胎动"
+    ],
+    "answerIndex": 2,
+    "explanation": "貧血 (ひんけつ) = 贫血"
+  },
+  {
+    "id": "pre-R01",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "妊娠届を提出したいのですが。",
+    "options": [
+      "はい、こちらです。",
+      "ミラーを見ます。",
+      "右に折ります。",
+      "発進します。"
+    ],
+    "answerIndex": 0,
+    "explanation": "想提交妊娠申报→好的,这边"
+  },
+  {
+    "id": "pre-R02",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "母子手帳をなくしてしまいました。",
+    "options": [
+      "再交付できますので、申請してください。",
+      "右に折ります。",
+      "発進します。",
+      "ミラーを見ます。"
+    ],
+    "answerIndex": 0,
+    "explanation": "母子手册丢了→可以补发,请申请"
+  },
+  {
+    "id": "pre-R03",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "陣痛が10分間隔です。",
+    "options": [
+      "今すぐ病院に来てください。",
+      "止まります。",
+      "右に折ります。",
+      "バックします。"
+    ],
+    "answerIndex": 0,
+    "explanation": "阵痛 10 分钟一次→请马上来医院"
+  },
+  {
+    "id": "pre-R04",
+    "type": "response",
+    "question": "听到问句,选出最合适的回答",
+    "audio": "お産の進み方を教えてください。",
+    "options": [
+      "はい、説明します。",
+      "右に折ります。",
+      "発進します。",
+      "ミラーを見ます。"
+    ],
+    "answerIndex": 0,
+    "explanation": "教我分娩进程→好的,我来说明"
+  },
+  {
+    "id": "pre-S01",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "出生通知票",
+    "answer": "しゅっせいつうちひょう|shussei-tsuuchihyou",
+    "answerFormat": "hiragana",
+    "explanation": "出生通知票 = しゅっせいつうちひょう (出生通知单(明信片))"
+  },
+  {
+    "id": "pre-S02",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "先天性異常",
+    "answer": "せんせいいじょう|sensei-ijou",
+    "answerFormat": "hiragana",
+    "explanation": "先天性異常 = せんせいいじょう (先天性异常)"
+  },
+  {
+    "id": "pre-S03",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "新生児",
+    "answer": "しんせいじ|shinseiji",
+    "answerFormat": "hiragana",
+    "explanation": "新生児 = しんせいじ (新生儿)"
+  },
+  {
+    "id": "pre-S04",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "エコー検査",
+    "answer": "えこーけんさ|ekoo-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "エコー検査 = えこーけんさ (B 超检查)"
+  },
+  {
+    "id": "pre-S05",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "母子手帳",
+    "answer": "ぼしてちょう|boshi-techou",
+    "answerFormat": "hiragana",
+    "explanation": "母子手帳 = ぼしてちょう (母子手册(简称))"
+  },
+  {
+    "id": "pre-S06",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "お七夜",
+    "answer": "おしちや|oshichiya",
+    "answerFormat": "hiragana",
+    "explanation": "お七夜 = おしちや (出生第七天仪式)"
+  },
+  {
+    "id": "pre-S07",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "血圧測定",
+    "answer": "けつあつそくてい|ketsuatsu-sokutei",
+    "answerFormat": "hiragana",
+    "explanation": "血圧測定 = けつあつそくてい (测血压)"
+  },
+  {
+    "id": "pre-S08",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "母子健康手帳",
+    "answer": "ぼしけんこうてちょう|boshi-kenkou-techou",
+    "answerFormat": "hiragana",
+    "explanation": "母子健康手帳 = ぼしけんこうてちょう (母子健康手册)"
+  },
+  {
+    "id": "pre-S09",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "産婦人科医",
+    "answer": "さんふじんかい|sanfujinka-i",
+    "answerFormat": "hiragana",
+    "explanation": "産婦人科医 = さんふじんかい (妇产科医生)"
+  },
+  {
+    "id": "pre-S10",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "母乳",
+    "answer": "ぼにゅう|bonyuu",
+    "answerFormat": "hiragana",
+    "explanation": "母乳 = ぼにゅう (母乳)"
+  },
+  {
+    "id": "pre-S11",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "周数",
+    "answer": "しゅうすう|shuusuu",
+    "answerFormat": "hiragana",
+    "explanation": "周数 = しゅうすう (周数)"
+  },
+  {
+    "id": "pre-S12",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "張り",
+    "answer": "はり|hari",
+    "answerFormat": "hiragana",
+    "explanation": "張り = はり (子宫发紧(假宫缩))"
+  },
+  {
+    "id": "pre-SA01",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "会陰切開",
+    "answer": "えいんせっかい|eirin-sekkai",
+    "answerFormat": "hiragana",
+    "explanation": "会陰切開 = えいんせっかい (会阴侧切)"
+  },
+  {
+    "id": "pre-SA02",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "産休",
+    "answer": "さんきゅう|sankyu",
+    "answerFormat": "hiragana",
+    "explanation": "産休 = さんきゅう (产假)"
+  },
+  {
+    "id": "pre-SA03",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ミルク",
+    "answer": "みるく|miruku",
+    "answerFormat": "hiragana",
+    "explanation": "ミルク = みるく (奶粉)"
+  },
+  {
+    "id": "pre-SA04",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "先天性異常",
+    "answer": "せんせいいじょう|sensei-ijou",
+    "answerFormat": "hiragana",
+    "explanation": "先天性異常 = せんせいいじょう (先天性异常)"
+  },
+  {
+    "id": "pre-SA05",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "悪阻",
+    "answer": "つわり|tsuwari",
+    "answerFormat": "hiragana",
+    "explanation": "悪阻 = つわり (孕吐(汉字写法))"
+  },
+  {
+    "id": "pre-SA06",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊娠後期",
+    "answer": "にんしんこうき|ninshin-kouki",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠後期 = にんしんこうき (孕后期(28 周~))"
+  },
+  {
+    "id": "pre-SA07",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "羊水",
+    "answer": "ようすい|yousui",
+    "answerFormat": "hiragana",
+    "explanation": "羊水 = ようすい (羊水)"
+  },
+  {
+    "id": "pre-SA08",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "張り",
+    "answer": "はり|hari",
+    "answerFormat": "hiragana",
+    "explanation": "張り = はり (子宫发紧(假宫缩))"
+  },
+  {
+    "id": "pregnancy-preg-w01-w1-000",
+    "type": "choice",
+    "question": "妊娠 是什么意思?",
+    "options": [
+      "怀孕/妊娠",
+      "戌日安产祈愿(传统)",
+      "羊水",
+      "妊娠纹"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊娠(にんしん) = 怀孕/妊娠"
+  },
+  {
+    "id": "pregnancy-preg-w01-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊娠",
+    "options": [
+      "B 超检查",
+      "怀孕/妊娠",
+      "超声波(检查)",
+      "怀孕申报表"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊娠(にんしん) = 怀孕/妊娠"
+  },
+  {
+    "id": "pregnancy-preg-w01-w3-000",
+    "type": "choice",
+    "question": "怀孕/妊娠 用日语怎么说?",
+    "options": [
+      "胎動",
+      "出産手当金",
+      "妊娠",
+      "妊娠届出書"
+    ],
+    "answerIndex": 2,
+    "explanation": "妊娠(にんしん) = 怀孕/妊娠"
+  },
+  {
+    "id": "pregnancy-preg-w01-w4-000",
+    "type": "choice",
+    "question": "妊娠 的读音是?",
+    "options": [
+      "しぜんぶんべん",
+      "さんきゅう",
+      "にんしん",
+      "おみやまいり"
+    ],
+    "answerIndex": 2,
+    "explanation": "妊娠 = にんしん(怀孕/妊娠)"
+  },
+  {
+    "id": "pregnancy-preg-w01-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊娠",
+    "answer": "にんしん|ninshin",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠 = にんしん(怀孕/妊娠)"
+  },
+  {
+    "id": "pregnancy-preg-w01-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊娠",
+    "answer": "にんしん|ninshin",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠 = にんしん(怀孕/妊娠)"
+  },
+  {
+    "id": "pregnancy-preg-w02-w1-000",
+    "type": "choice",
+    "question": "妊婦 是什么意思?",
+    "options": [
+      "出生第七天仪式",
+      "孕妇",
+      "超声波(检查)",
+      "生产/生孩子"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊婦(にんぷ) = 孕妇"
+  },
+  {
+    "id": "pregnancy-preg-w02-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊婦",
+    "options": [
+      "产检补助券",
+      "孕妇",
+      "生产/生孩子",
+      "生产费用"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊婦(にんぷ) = 孕妇"
+  },
+  {
+    "id": "pregnancy-preg-w02-w3-000",
+    "type": "choice",
+    "question": "孕妇 用日语怎么说?",
+    "options": [
+      "陣痛",
+      "妊婦",
+      "妊娠高血圧症候群",
+      "退院"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊婦(にんぷ) = 孕妇"
+  },
+  {
+    "id": "pregnancy-preg-w02-w4-000",
+    "type": "choice",
+    "question": "妊婦 的读音是?",
+    "options": [
+      "いくきゅう",
+      "しんせいじ",
+      "ぼしけんこうてちょう",
+      "にんぷ"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊婦 = にんぷ(孕妇)"
+  },
+  {
+    "id": "pregnancy-preg-w02-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊婦",
+    "answer": "にんぷ|ninpu",
+    "answerFormat": "hiragana",
+    "explanation": "妊婦 = にんぷ(孕妇)"
+  },
+  {
+    "id": "pregnancy-preg-w02-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊婦",
+    "answer": "にんぷ|ninpu",
+    "answerFormat": "hiragana",
+    "explanation": "妊婦 = にんぷ(孕妇)"
+  },
+  {
+    "id": "pregnancy-preg-w03-w1-000",
+    "type": "choice",
+    "question": "妊婦健診 是什么意思?",
+    "options": [
+      "产检",
+      "胎位不正/臀位",
+      "B 超检查",
+      "脐带"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊婦健診(にんぷけんしん) = 产检"
+  },
+  {
+    "id": "pregnancy-preg-w03-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊婦健診",
+    "options": [
+      "尿检",
+      "出生登记",
+      "拉玛泽呼吸法",
+      "产检"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊婦健診(にんぷけんしん) = 产检"
+  },
+  {
+    "id": "pregnancy-preg-w03-w3-000",
+    "type": "choice",
+    "question": "产检 用日语怎么说?",
+    "options": [
+      "両親学級",
+      "羊水検査",
+      "出生通知票",
+      "妊婦健診"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊婦健診(にんぷけんしん) = 产检"
+  },
+  {
+    "id": "pregnancy-preg-w03-w4-000",
+    "type": "choice",
+    "question": "妊婦健診 的读音是?",
+    "options": [
+      "けっとうち",
+      "つわり",
+      "ほけんし",
+      "にんぷけんしん"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊婦健診 = にんぷけんしん(产检)"
+  },
+  {
+    "id": "pregnancy-preg-w03-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊婦健診",
+    "answer": "にんぷけんしん|ninpu-kenshin",
+    "answerFormat": "hiragana",
+    "explanation": "妊婦健診 = にんぷけんしん(产检)"
+  },
+  {
+    "id": "pregnancy-preg-w03-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊婦健診",
+    "answer": "にんぷけんしん|ninpu-kenshin",
+    "answerFormat": "hiragana",
+    "explanation": "妊婦健診 = にんぷけんしん(产检)"
+  },
+  {
+    "id": "pregnancy-preg-w04-w1-000",
+    "type": "choice",
+    "question": "妊娠届 是什么意思?",
+    "options": [
+      "妇产科",
+      "先兆早产",
+      "母子健康手册",
+      "怀孕申报表"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠届(にんしんとどけ) = 怀孕申报表"
+  },
+  {
+    "id": "pregnancy-preg-w04-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊娠届",
+    "options": [
+      "怀孕申报表",
+      "育儿假",
+      "母乳",
+      "保健师(役所有)"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊娠届(にんしんとどけ) = 怀孕申报表"
+  },
+  {
+    "id": "pregnancy-preg-w04-w3-000",
+    "type": "choice",
+    "question": "怀孕申报表 用日语怎么说?",
+    "options": [
+      "聴覚スクリーニング",
+      "妊娠届",
+      "無痛分娩",
+      "授乳"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊娠届(にんしんとどけ) = 怀孕申报表"
+  },
+  {
+    "id": "pregnancy-preg-w04-w4-000",
+    "type": "choice",
+    "question": "妊娠届 的读音是?",
+    "options": [
+      "にんしんとどけ",
+      "おみやまいり",
+      "じょさんし",
+      "もくよく"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊娠届 = にんしんとどけ(怀孕申报表)"
+  },
+  {
+    "id": "pregnancy-preg-w04-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊娠届",
+    "answer": "にんしんとどけ|ninshin-todoke",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠届 = にんしんとどけ(怀孕申报表)"
+  },
+  {
+    "id": "pregnancy-preg-w04-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊娠届",
+    "answer": "にんしんとどけ|ninshin-todoke",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠届 = にんしんとどけ(怀孕申报表)"
+  },
+  {
+    "id": "pregnancy-preg-w05-w1-000",
+    "type": "choice",
+    "question": "母子健康手帳 是什么意思?",
+    "options": [
+      "B 超检查",
+      "羊水",
+      "拉玛泽呼吸法",
+      "母子健康手册"
+    ],
+    "answerIndex": 3,
+    "explanation": "母子健康手帳(ぼしけんこうてちょう) = 母子健康手册"
+  },
+  {
+    "id": "pregnancy-preg-w05-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "母子健康手帳",
+    "options": [
+      "母子健康手册",
+      "妊娠纹",
+      "尿检",
+      "贫血"
+    ],
+    "answerIndex": 0,
+    "explanation": "母子健康手帳(ぼしけんこうてちょう) = 母子健康手册"
+  },
+  {
+    "id": "pregnancy-preg-w05-w3-000",
+    "type": "choice",
+    "question": "母子健康手册 用日语怎么说?",
+    "options": [
+      "母子健康手帳",
+      "出産手当金",
+      "妊娠届",
+      "出産育児一時金"
+    ],
+    "answerIndex": 0,
+    "explanation": "母子健康手帳(ぼしけんこうてちょう) = 母子健康手册"
+  },
+  {
+    "id": "pregnancy-preg-w05-w4-000",
+    "type": "choice",
+    "question": "母子健康手帳 的读音是?",
+    "options": [
+      "にゅうじ",
+      "ほけんし",
+      "ぼしけんこうてちょう",
+      "ぶんべん"
+    ],
+    "answerIndex": 2,
+    "explanation": "母子健康手帳 = ぼしけんこうてちょう(母子健康手册)"
+  },
+  {
+    "id": "pregnancy-preg-w05-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "母子健康手帳",
+    "answer": "ぼしけんこうてちょう|boshi-kenkou-techou",
+    "answerFormat": "hiragana",
+    "explanation": "母子健康手帳 = ぼしけんこうてちょう(母子健康手册)"
+  },
+  {
+    "id": "pregnancy-preg-w05-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "母子健康手帳",
+    "answer": "ぼしけんこうてちょう|boshi-kenkou-techou",
+    "answerFormat": "hiragana",
+    "explanation": "母子健康手帳 = ぼしけんこうてちょう(母子健康手册)"
+  },
+  {
+    "id": "pregnancy-preg-w06-w1-000",
+    "type": "choice",
+    "question": "母子手帳 是什么意思?",
+    "options": [
+      "尿布",
+      "阵痛/宫缩",
+      "母子手册(简称)",
+      "分娩(医学词)"
+    ],
+    "answerIndex": 2,
+    "explanation": "母子手帳(ぼしてちょう) = 母子手册(简称)"
+  },
+  {
+    "id": "pregnancy-preg-w06-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "母子手帳",
+    "options": [
+      "父母课堂",
+      "怀孕/妊娠",
+      "母子手册(简称)",
+      "生育一次性补助金(50 万)"
+    ],
+    "answerIndex": 2,
+    "explanation": "母子手帳(ぼしてちょう) = 母子手册(简称)"
+  },
+  {
+    "id": "pregnancy-preg-w06-w3-000",
+    "type": "choice",
+    "question": "母子手册(简称) 用日语怎么说?",
+    "options": [
+      "母子手帳",
+      "産婦人科",
+      "妊婦帯",
+      "母乳"
+    ],
+    "answerIndex": 0,
+    "explanation": "母子手帳(ぼしてちょう) = 母子手册(简称)"
+  },
+  {
+    "id": "pregnancy-preg-w06-w4-000",
+    "type": "choice",
+    "question": "母子手帳 的读音是?",
+    "options": [
+      "ぼしてちょう",
+      "けつあつそくてい",
+      "じゅにゅう",
+      "にんしんとどけ"
+    ],
+    "answerIndex": 0,
+    "explanation": "母子手帳 = ぼしてちょう(母子手册(简称))"
+  },
+  {
+    "id": "pregnancy-preg-w06-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "母子手帳",
+    "answer": "ぼしてちょう|boshi-techou",
+    "answerFormat": "hiragana",
+    "explanation": "母子手帳 = ぼしてちょう(母子手册(简称))"
+  },
+  {
+    "id": "pregnancy-preg-w06-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "母子手帳",
+    "answer": "ぼしてちょう|boshi-techou",
+    "answerFormat": "hiragana",
+    "explanation": "母子手帳 = ぼしてちょう(母子手册(简称))"
+  },
+  {
+    "id": "pregnancy-preg-w07-w1-000",
+    "type": "choice",
+    "question": "受診券 是什么意思?",
+    "options": [
+      "孕妇腹带",
+      "保健师(役所有)",
+      "回娘家生产",
+      "产检补助券"
+    ],
+    "answerIndex": 3,
+    "explanation": "受診券(じゅしんけん) = 产检补助券"
+  },
+  {
+    "id": "pregnancy-preg-w07-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "受診券",
+    "options": [
+      "生产/生孩子",
+      "产检补助券",
+      "怀孕周数",
+      "孕吐/害喜"
+    ],
+    "answerIndex": 1,
+    "explanation": "受診券(じゅしんけん) = 产检补助券"
+  },
+  {
+    "id": "pregnancy-preg-w07-w3-000",
+    "type": "choice",
+    "question": "产检补助券 用日语怎么说?",
+    "options": [
+      "ラマーズ法",
+      "受診券",
+      "聴覚スクリーニング",
+      "胎児心拍"
+    ],
+    "answerIndex": 1,
+    "explanation": "受診券(じゅしんけん) = 产检补助券"
+  },
+  {
+    "id": "pregnancy-preg-w07-w4-000",
+    "type": "choice",
+    "question": "受診券 的读音是?",
+    "options": [
+      "しゅっせいとどけ",
+      "にんぷ",
+      "じゅしんけん",
+      "たいじしんぱく"
+    ],
+    "answerIndex": 2,
+    "explanation": "受診券 = じゅしんけん(产检补助券)"
+  },
+  {
+    "id": "pregnancy-preg-w07-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "受診券",
+    "answer": "じゅしんけん|jushinken",
+    "answerFormat": "hiragana",
+    "explanation": "受診券 = じゅしんけん(产检补助券)"
+  },
+  {
+    "id": "pregnancy-preg-w07-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "受診券",
+    "answer": "じゅしんけん|jushinken",
+    "answerFormat": "hiragana",
+    "explanation": "受診券 = じゅしんけん(产检补助券)"
+  },
+  {
+    "id": "pregnancy-preg-w08-w1-000",
+    "type": "choice",
+    "question": "産婦人科 是什么意思?",
+    "options": [
+      "保健师(役所有)",
+      "妇产科",
+      "无痛分娩",
+      "无创产前基因检测"
+    ],
+    "answerIndex": 1,
+    "explanation": "産婦人科(さんふじんか) = 妇产科"
+  },
+  {
+    "id": "pregnancy-preg-w08-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "産婦人科",
+    "options": [
+      "妊娠糖尿病",
+      "产检补助券",
+      "妇产科",
+      "周数"
+    ],
+    "answerIndex": 2,
+    "explanation": "産婦人科(さんふじんか) = 妇产科"
+  },
+  {
+    "id": "pregnancy-preg-w08-w3-000",
+    "type": "choice",
+    "question": "妇产科 用日语怎么说?",
+    "options": [
+      "エコー検査",
+      "産婦人科",
+      "新生児",
+      "妊婦健診"
+    ],
+    "answerIndex": 1,
+    "explanation": "産婦人科(さんふじんか) = 妇产科"
+  },
+  {
+    "id": "pregnancy-preg-w08-w4-000",
+    "type": "choice",
+    "question": "産婦人科 的读音是?",
+    "options": [
+      "もくよく",
+      "にんしんしゅうすう",
+      "しゅっさん",
+      "さんふじんか"
+    ],
+    "answerIndex": 3,
+    "explanation": "産婦人科 = さんふじんか(妇产科)"
+  },
+  {
+    "id": "pregnancy-preg-w08-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "産婦人科",
+    "answer": "さんふじんか|sanfujinka",
+    "answerFormat": "hiragana",
+    "explanation": "産婦人科 = さんふじんか(妇产科)"
+  },
+  {
+    "id": "pregnancy-preg-w08-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "産婦人科",
+    "answer": "さんふじんか|sanfujinka",
+    "answerFormat": "hiragana",
+    "explanation": "産婦人科 = さんふじんか(妇产科)"
+  },
+  {
+    "id": "pregnancy-preg-w09-w1-000",
+    "type": "choice",
+    "question": "産科 是什么意思?",
+    "options": [
+      "孕早期(~15 周)",
+      "产科(只接生)",
+      "奶粉",
+      "生育一次性补助金(50 万)"
+    ],
+    "answerIndex": 1,
+    "explanation": "産科(さんか) = 产科(只接生)"
+  },
+  {
+    "id": "pregnancy-preg-w09-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "産科",
+    "options": [
+      "孕后期(28 周~)",
+      "怀孕/妊娠",
+      "妊娠纹",
+      "产科(只接生)"
+    ],
+    "answerIndex": 3,
+    "explanation": "産科(さんか) = 产科(只接生)"
+  },
+  {
+    "id": "pregnancy-preg-w09-w3-000",
+    "type": "choice",
+    "question": "产科(只接生) 用日语怎么说?",
+    "options": [
+      "聴覚スクリーニング",
+      "ミルク",
+      "妊娠初期",
+      "産科"
+    ],
+    "answerIndex": 3,
+    "explanation": "産科(さんか) = 产科(只接生)"
+  },
+  {
+    "id": "pregnancy-preg-w09-w4-000",
+    "type": "choice",
+    "question": "産科 的读音是?",
+    "options": [
+      "たいいん",
+      "さんふじんか",
+      "さんか",
+      "ちょうおんぱ"
+    ],
+    "answerIndex": 2,
+    "explanation": "産科 = さんか(产科(只接生))"
+  },
+  {
+    "id": "pregnancy-preg-w09-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "産科",
+    "answer": "さんか|sanka",
+    "answerFormat": "hiragana",
+    "explanation": "産科 = さんか(产科(只接生))"
+  },
+  {
+    "id": "pregnancy-preg-w09-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "産科",
+    "answer": "さんか|sanka",
+    "answerFormat": "hiragana",
+    "explanation": "産科 = さんか(产科(只接生))"
+  },
+  {
+    "id": "pregnancy-preg-w10-w1-000",
+    "type": "choice",
+    "question": "婦人科 是什么意思?",
+    "options": [
+      "出院",
+      "妇科(不接生)",
+      "拉玛泽呼吸法",
+      "生产/生孩子"
+    ],
+    "answerIndex": 1,
+    "explanation": "婦人科(ふじんか) = 妇科(不接生)"
+  },
+  {
+    "id": "pregnancy-preg-w10-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "婦人科",
+    "options": [
+      "孕妇徽章(挂在包上)",
+      "怀孕/妊娠",
+      "妇科(不接生)",
+      "阵痛/宫缩"
+    ],
+    "answerIndex": 2,
+    "explanation": "婦人科(ふじんか) = 妇科(不接生)"
+  },
+  {
+    "id": "pregnancy-preg-w10-w3-000",
+    "type": "choice",
+    "question": "妇科(不接生) 用日语怎么说?",
+    "options": [
+      "婦人科",
+      "入院",
+      "出産育児一時金",
+      "里帰り出産"
+    ],
+    "answerIndex": 0,
+    "explanation": "婦人科(ふじんか) = 妇科(不接生)"
+  },
+  {
+    "id": "pregnancy-preg-w10-w4-000",
+    "type": "choice",
+    "question": "婦人科 的读音是?",
+    "options": [
+      "さんふじんか",
+      "しぜんぶんべん",
+      "しゅっせいつうちひょう",
+      "ふじんか"
+    ],
+    "answerIndex": 3,
+    "explanation": "婦人科 = ふじんか(妇科(不接生))"
+  },
+  {
+    "id": "pregnancy-preg-w10-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "婦人科",
+    "answer": "ふじんか|fujinka",
+    "answerFormat": "hiragana",
+    "explanation": "婦人科 = ふじんか(妇科(不接生))"
+  },
+  {
+    "id": "pregnancy-preg-w10-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "婦人科",
+    "answer": "ふじんか|fujinka",
+    "answerFormat": "hiragana",
+    "explanation": "婦人科 = ふじんか(妇科(不接生))"
+  },
+  {
+    "id": "pregnancy-preg-w11-w1-000",
+    "type": "choice",
+    "question": "助産師 是什么意思?",
+    "options": [
+      "出院",
+      "无痛分娩",
+      "葡萄胎",
+      "助产士/助产师"
+    ],
+    "answerIndex": 3,
+    "explanation": "助産師(じょさんし) = 助产士/助产师"
+  },
+  {
+    "id": "pregnancy-preg-w11-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "助産師",
+    "options": [
+      "助产士/助产师",
+      "婴儿",
+      "洗澡(婴儿)",
+      "子宫发紧(假宫缩)"
+    ],
+    "answerIndex": 0,
+    "explanation": "助産師(じょさんし) = 助产士/助产师"
+  },
+  {
+    "id": "pregnancy-preg-w11-w3-000",
+    "type": "choice",
+    "question": "助产士/助产师 用日语怎么说?",
+    "options": [
+      "助産師",
+      "つわり",
+      "血糖値",
+      "体重測定"
+    ],
+    "answerIndex": 0,
+    "explanation": "助産師(じょさんし) = 助产士/助产师"
+  },
+  {
+    "id": "pregnancy-preg-w11-w4-000",
+    "type": "choice",
+    "question": "助産師 的读音是?",
+    "options": [
+      "じゅしんけん",
+      "じょさんし",
+      "ていおうせっかい",
+      "むつうぶんべん"
+    ],
+    "answerIndex": 1,
+    "explanation": "助産師 = じょさんし(助产士/助产师)"
+  },
+  {
+    "id": "pregnancy-preg-w11-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "助産師",
+    "answer": "じょさんし|josanshi",
+    "answerFormat": "hiragana",
+    "explanation": "助産師 = じょさんし(助产士/助产师)"
+  },
+  {
+    "id": "pregnancy-preg-w11-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "助産師",
+    "answer": "じょさんし|josanshi",
+    "answerFormat": "hiragana",
+    "explanation": "助産師 = じょさんし(助产士/助产师)"
+  },
+  {
+    "id": "pregnancy-preg-w12-w1-000",
+    "type": "choice",
+    "question": "保健師 是什么意思?",
+    "options": [
+      "保健师(役所有)",
+      "胎动",
+      "阵痛/宫缩",
+      "听力筛查(新生儿)"
+    ],
+    "answerIndex": 0,
+    "explanation": "保健師(ほけんし) = 保健师(役所有)"
+  },
+  {
+    "id": "pregnancy-preg-w12-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "保健師",
+    "options": [
+      "生产费用",
+      "羊水检查",
+      "自然分娩/顺产",
+      "保健师(役所有)"
+    ],
+    "answerIndex": 3,
+    "explanation": "保健師(ほけんし) = 保健师(役所有)"
+  },
+  {
+    "id": "pregnancy-preg-w12-w3-000",
+    "type": "choice",
+    "question": "保健师(役所有) 用日语怎么说?",
+    "options": [
+      "超音波",
+      "保健師",
+      "育休",
+      "NIPT"
+    ],
+    "answerIndex": 1,
+    "explanation": "保健師(ほけんし) = 保健师(役所有)"
+  },
+  {
+    "id": "pregnancy-preg-w12-w4-000",
+    "type": "choice",
+    "question": "保健師 的读音是?",
+    "options": [
+      "けっとうち",
+      "ほけんし",
+      "にゅういん",
+      "にんしんしょき"
+    ],
+    "answerIndex": 1,
+    "explanation": "保健師 = ほけんし(保健师(役所有))"
+  },
+  {
+    "id": "pregnancy-preg-w12-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "保健師",
+    "answer": "ほけんし|hokenshi",
+    "answerFormat": "hiragana",
+    "explanation": "保健師 = ほけんし(保健师(役所有))"
+  },
+  {
+    "id": "pregnancy-preg-w12-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "保健師",
+    "answer": "ほけんし|hokenshi",
+    "answerFormat": "hiragana",
+    "explanation": "保健師 = ほけんし(保健师(役所有))"
+  },
+  {
+    "id": "pregnancy-preg-w13-w1-000",
+    "type": "choice",
+    "question": "産婦人科医 是什么意思?",
+    "options": [
+      "先天性异常",
+      "先兆早产",
+      "母亲课堂",
+      "妇产科医生"
+    ],
+    "answerIndex": 3,
+    "explanation": "産婦人科医(さんふじんかい) = 妇产科医生"
+  },
+  {
+    "id": "pregnancy-preg-w13-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "産婦人科医",
+    "options": [
+      "生育一次性补助金(50 万)",
+      "妇产科医生",
+      "个人编号(类似身份证号)",
+      "听力筛查(新生儿)"
+    ],
+    "answerIndex": 1,
+    "explanation": "産婦人科医(さんふじんかい) = 妇产科医生"
+  },
+  {
+    "id": "pregnancy-preg-w13-w3-000",
+    "type": "choice",
+    "question": "妇产科医生 用日语怎么说?",
+    "options": [
+      "つわり",
+      "退院",
+      "産婦人科医",
+      "戌の日の安産祈願"
+    ],
+    "answerIndex": 2,
+    "explanation": "産婦人科医(さんふじんかい) = 妇产科医生"
+  },
+  {
+    "id": "pregnancy-preg-w13-w4-000",
+    "type": "choice",
+    "question": "産婦人科医 的读音是?",
+    "options": [
+      "へそのお",
+      "いぬのひのあんざんきがん",
+      "さんふじんかい",
+      "にんぷおび"
+    ],
+    "answerIndex": 2,
+    "explanation": "産婦人科医 = さんふじんかい(妇产科医生)"
+  },
+  {
+    "id": "pregnancy-preg-w13-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "産婦人科医",
+    "answer": "さんふじんかい|sanfujinka-i",
+    "answerFormat": "hiragana",
+    "explanation": "産婦人科医 = さんふじんかい(妇产科医生)"
+  },
+  {
+    "id": "pregnancy-preg-w13-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "産婦人科医",
+    "answer": "さんふじんかい|sanfujinka-i",
+    "answerFormat": "hiragana",
+    "explanation": "産婦人科医 = さんふじんかい(妇产科医生)"
+  },
+  {
+    "id": "pregnancy-preg-w14-w1-000",
+    "type": "choice",
+    "question": "出産 是什么意思?",
+    "options": [
+      "新生儿",
+      "生产/生孩子",
+      "B 超检查",
+      "拉玛泽呼吸法"
+    ],
+    "answerIndex": 1,
+    "explanation": "出産(しゅっさん) = 生产/生孩子"
+  },
+  {
+    "id": "pregnancy-preg-w14-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "出産",
+    "options": [
+      "生产/生孩子",
+      "怀孕周数",
+      "胎儿心跳",
+      "奶粉"
+    ],
+    "answerIndex": 0,
+    "explanation": "出産(しゅっさん) = 生产/生孩子"
+  },
+  {
+    "id": "pregnancy-preg-w14-w3-000",
+    "type": "choice",
+    "question": "生产/生孩子 用日语怎么说?",
+    "options": [
+      "里帰り出産",
+      "血液検査",
+      "胞衣",
+      "出産"
+    ],
+    "answerIndex": 3,
+    "explanation": "出産(しゅっさん) = 生产/生孩子"
+  },
+  {
+    "id": "pregnancy-preg-w14-w4-000",
+    "type": "choice",
+    "question": "出産 的读音是?",
+    "options": [
+      "しゅっさん",
+      "にんしんしょき",
+      "さんきゅう",
+      "ははおやがっきゅう"
+    ],
+    "answerIndex": 0,
+    "explanation": "出産 = しゅっさん(生产/生孩子)"
+  },
+  {
+    "id": "pregnancy-preg-w14-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "出産",
+    "answer": "しゅっさん|shussan",
+    "answerFormat": "hiragana",
+    "explanation": "出産 = しゅっさん(生产/生孩子)"
+  },
+  {
+    "id": "pregnancy-preg-w14-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "出産",
+    "answer": "しゅっさん|shussan",
+    "answerFormat": "hiragana",
+    "explanation": "出産 = しゅっさん(生产/生孩子)"
+  },
+  {
+    "id": "pregnancy-preg-w15-w1-000",
+    "type": "choice",
+    "question": "分娩 是什么意思?",
+    "options": [
+      "先兆早产",
+      "血糖值",
+      "分娩(医学词)",
+      "无痛分娩"
+    ],
+    "answerIndex": 2,
+    "explanation": "分娩(ぶんべん) = 分娩(医学词)"
+  },
+  {
+    "id": "pregnancy-preg-w15-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "分娩",
+    "options": [
+      "超声波(检查)",
+      "戌日安产祈愿(传统)",
+      "分娩(医学词)",
+      "妇科(不接生)"
+    ],
+    "answerIndex": 2,
+    "explanation": "分娩(ぶんべん) = 分娩(医学词)"
+  },
+  {
+    "id": "pregnancy-preg-w15-w3-000",
+    "type": "choice",
+    "question": "分娩(医学词) 用日语怎么说?",
+    "options": [
+      "出生届",
+      "胞状奇胎",
+      "マイナンバー",
+      "分娩"
+    ],
+    "answerIndex": 3,
+    "explanation": "分娩(ぶんべん) = 分娩(医学词)"
+  },
+  {
+    "id": "pregnancy-preg-w15-w4-000",
+    "type": "choice",
+    "question": "分娩 的读音是?",
+    "options": [
+      "ようすい",
+      "しゅっさん",
+      "たいじしんぱく",
+      "ぶんべん"
+    ],
+    "answerIndex": 3,
+    "explanation": "分娩 = ぶんべん(分娩(医学词))"
+  },
+  {
+    "id": "pregnancy-preg-w15-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "分娩",
+    "answer": "ぶんべん|bunben",
+    "answerFormat": "hiragana",
+    "explanation": "分娩 = ぶんべん(分娩(医学词))"
+  },
+  {
+    "id": "pregnancy-preg-w15-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "分娩",
+    "answer": "ぶんべん|bunben",
+    "answerFormat": "hiragana",
+    "explanation": "分娩 = ぶんべん(分娩(医学词))"
+  },
+  {
+    "id": "pregnancy-preg-w16-w1-000",
+    "type": "choice",
+    "question": "自然分娩 是什么意思?",
+    "options": [
+      "剖腹产",
+      "自然分娩/顺产",
+      "出生第七天仪式",
+      "产假"
+    ],
+    "answerIndex": 1,
+    "explanation": "自然分娩(しぜんぶんべん) = 自然分娩/顺产"
+  },
+  {
+    "id": "pregnancy-preg-w16-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "自然分娩",
+    "options": [
+      "自然分娩/顺产",
+      "孕妇腹带",
+      "戌日安产祈愿(传统)",
+      "先天性异常"
+    ],
+    "answerIndex": 0,
+    "explanation": "自然分娩(しぜんぶんべん) = 自然分娩/顺产"
+  },
+  {
+    "id": "pregnancy-preg-w16-w3-000",
+    "type": "choice",
+    "question": "自然分娩/顺产 用日语怎么说?",
+    "options": [
+      "保健師",
+      "母子健康手帳",
+      "自然分娩",
+      "悪阻"
+    ],
+    "answerIndex": 2,
+    "explanation": "自然分娩(しぜんぶんべん) = 自然分娩/顺产"
+  },
+  {
+    "id": "pregnancy-preg-w16-w4-000",
+    "type": "choice",
+    "question": "自然分娩 的读音是?",
+    "options": [
+      "にょうけんさ",
+      "しぜんぶんべん",
+      "さんきゅう",
+      "ちょうかくすくりーにんぐ"
+    ],
+    "answerIndex": 1,
+    "explanation": "自然分娩 = しぜんぶんべん(自然分娩/顺产)"
+  },
+  {
+    "id": "pregnancy-preg-w16-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "自然分娩",
+    "answer": "しぜんぶんべん|shizen-bunben",
+    "answerFormat": "hiragana",
+    "explanation": "自然分娩 = しぜんぶんべん(自然分娩/顺产)"
+  },
+  {
+    "id": "pregnancy-preg-w16-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "自然分娩",
+    "answer": "しぜんぶんべん|shizen-bunben",
+    "answerFormat": "hiragana",
+    "explanation": "自然分娩 = しぜんぶんべん(自然分娩/顺产)"
+  },
+  {
+    "id": "pregnancy-preg-w17-w1-000",
+    "type": "choice",
+    "question": "帝王切開 是什么意思?",
+    "options": [
+      "妇产科",
+      "尿检",
+      "剖腹产",
+      "测血压"
+    ],
+    "answerIndex": 2,
+    "explanation": "帝王切開(ていおうせっかい) = 剖腹产"
+  },
+  {
+    "id": "pregnancy-preg-w17-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "帝王切開",
+    "options": [
+      "父母课堂",
+      "怀孕申报表",
+      "洗澡(婴儿)",
+      "剖腹产"
+    ],
+    "answerIndex": 3,
+    "explanation": "帝王切開(ていおうせっかい) = 剖腹产"
+  },
+  {
+    "id": "pregnancy-preg-w17-w3-000",
+    "type": "choice",
+    "question": "剖腹产 用日语怎么说?",
+    "options": [
+      "陣痛",
+      "帝王切開",
+      "授乳",
+      "出産予定日"
+    ],
+    "answerIndex": 1,
+    "explanation": "帝王切開(ていおうせっかい) = 剖腹产"
+  },
+  {
+    "id": "pregnancy-preg-w17-w4-000",
+    "type": "choice",
+    "question": "帝王切開 的读音是?",
+    "options": [
+      "いくきゅう",
+      "ていおうせっかい",
+      "ようすいけんさ",
+      "しゅっさんよていび"
+    ],
+    "answerIndex": 1,
+    "explanation": "帝王切開 = ていおうせっかい(剖腹产)"
+  },
+  {
+    "id": "pregnancy-preg-w17-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "帝王切開",
+    "answer": "ていおうせっかい|teiou-sekkai",
+    "answerFormat": "hiragana",
+    "explanation": "帝王切開 = ていおうせっかい(剖腹产)"
+  },
+  {
+    "id": "pregnancy-preg-w17-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "帝王切開",
+    "answer": "ていおうせっかい|teiou-sekkai",
+    "answerFormat": "hiragana",
+    "explanation": "帝王切開 = ていおうせっかい(剖腹产)"
+  },
+  {
+    "id": "pregnancy-preg-w18-w1-000",
+    "type": "choice",
+    "question": "無痛分娩 是什么意思?",
+    "options": [
+      "无痛分娩",
+      "预产期",
+      "出生登记",
+      "怀孕申报表"
+    ],
+    "answerIndex": 0,
+    "explanation": "無痛分娩(むつうぶんべん) = 无痛分娩"
+  },
+  {
+    "id": "pregnancy-preg-w18-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "無痛分娩",
+    "options": [
+      "胎儿心跳",
+      "父母课堂",
+      "自然分娩/顺产",
+      "无痛分娩"
+    ],
+    "answerIndex": 3,
+    "explanation": "無痛分娩(むつうぶんべん) = 无痛分娩"
+  },
+  {
+    "id": "pregnancy-preg-w18-w3-000",
+    "type": "choice",
+    "question": "无痛分娩 用日语怎么说?",
+    "options": [
+      "羊水検査",
+      "無痛分娩",
+      "妊娠高血圧症候群",
+      "産婦人科医"
+    ],
+    "answerIndex": 1,
+    "explanation": "無痛分娩(むつうぶんべん) = 无痛分娩"
+  },
+  {
+    "id": "pregnancy-preg-w18-w4-000",
+    "type": "choice",
+    "question": "無痛分娩 的读音是?",
+    "options": [
+      "けつあつそくてい",
+      "けつえきけんさ",
+      "むつうぶんべん",
+      "まいなんばー"
+    ],
+    "answerIndex": 2,
+    "explanation": "無痛分娩 = むつうぶんべん(无痛分娩)"
+  },
+  {
+    "id": "pregnancy-preg-w18-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "無痛分娩",
+    "answer": "むつうぶんべん|mutsuu-bunben",
+    "answerFormat": "hiragana",
+    "explanation": "無痛分娩 = むつうぶんべん(无痛分娩)"
+  },
+  {
+    "id": "pregnancy-preg-w18-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "無痛分娩",
+    "answer": "むつうぶんべん|mutsuu-bunben",
+    "answerFormat": "hiragana",
+    "explanation": "無痛分娩 = むつうぶんべん(无痛分娩)"
+  },
+  {
+    "id": "pregnancy-preg-w19-w1-000",
+    "type": "choice",
+    "question": "陣痛 是什么意思?",
+    "options": [
+      "胎动",
+      "阵痛/宫缩",
+      "分娩(医学词)",
+      "尿检"
+    ],
+    "answerIndex": 1,
+    "explanation": "陣痛(じんつう) = 阵痛/宫缩"
+  },
+  {
+    "id": "pregnancy-preg-w19-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "陣痛",
+    "options": [
+      "阵痛/宫缩",
+      "拉玛泽呼吸法",
+      "妊娠高血压综合征",
+      "保健师(役所有)"
+    ],
+    "answerIndex": 0,
+    "explanation": "陣痛(じんつう) = 阵痛/宫缩"
+  },
+  {
+    "id": "pregnancy-preg-w19-w3-000",
+    "type": "choice",
+    "question": "阵痛/宫缩 用日语怎么说?",
+    "options": [
+      "入院",
+      "妊婦帯",
+      "母乳",
+      "陣痛"
+    ],
+    "answerIndex": 3,
+    "explanation": "陣痛(じんつう) = 阵痛/宫缩"
+  },
+  {
+    "id": "pregnancy-preg-w19-w4-000",
+    "type": "choice",
+    "question": "陣痛 的读音是?",
+    "options": [
+      "にんしんしょき",
+      "じんつう",
+      "つわり",
+      "にんしんとどけ"
+    ],
+    "answerIndex": 1,
+    "explanation": "陣痛 = じんつう(阵痛/宫缩)"
+  },
+  {
+    "id": "pregnancy-preg-w19-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "陣痛",
+    "answer": "じんつう|jintsū",
+    "answerFormat": "hiragana",
+    "explanation": "陣痛 = じんつう(阵痛/宫缩)"
+  },
+  {
+    "id": "pregnancy-preg-w19-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "陣痛",
+    "answer": "じんつう|jintsū",
+    "answerFormat": "hiragana",
+    "explanation": "陣痛 = じんつう(阵痛/宫缩)"
+  },
+  {
+    "id": "pregnancy-preg-w20-w1-000",
+    "type": "choice",
+    "question": "破水 是什么意思?",
+    "options": [
+      "阵痛/宫缩",
+      "破水",
+      "胎儿心跳",
+      "住院(待产)"
+    ],
+    "answerIndex": 1,
+    "explanation": "破水(はすい) = 破水"
+  },
+  {
+    "id": "pregnancy-preg-w20-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "破水",
+    "options": [
+      "妇产科",
+      "妇产科医生",
+      "破水",
+      "生产/生孩子"
+    ],
+    "answerIndex": 2,
+    "explanation": "破水(はすい) = 破水"
+  },
+  {
+    "id": "pregnancy-preg-w20-w3-000",
+    "type": "choice",
+    "question": "破水 用日语怎么说?",
+    "options": [
+      "貧血",
+      "破水",
+      "妊婦帯",
+      "NIPT"
+    ],
+    "answerIndex": 1,
+    "explanation": "破水(はすい) = 破水"
+  },
+  {
+    "id": "pregnancy-preg-w20-w4-000",
+    "type": "choice",
+    "question": "破水 的读音是?",
+    "options": [
+      "もくよく",
+      "しゅっせいとどけ",
+      "はすい",
+      "さんか"
+    ],
+    "answerIndex": 2,
+    "explanation": "破水 = はすい(破水)"
+  },
+  {
+    "id": "pregnancy-preg-w20-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "破水",
+    "answer": "はすい|hasui",
+    "answerFormat": "hiragana",
+    "explanation": "破水 = はすい(破水)"
+  },
+  {
+    "id": "pregnancy-preg-w20-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "破水",
+    "answer": "はすい|hasui",
+    "answerFormat": "hiragana",
+    "explanation": "破水 = はすい(破水)"
+  },
+  {
+    "id": "pregnancy-preg-w21-w1-000",
+    "type": "choice",
+    "question": "おしるし 是什么意思?",
+    "options": [
+      "保健师(役所有)",
+      "妇产科医生",
+      "见红(产前征兆)",
+      "尿布"
+    ],
+    "answerIndex": 2,
+    "explanation": "おしるし(おしるし) = 见红(产前征兆)"
+  },
+  {
+    "id": "pregnancy-preg-w21-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "おしるし",
+    "options": [
+      "新生儿",
+      "见红(产前征兆)",
+      "洗澡(婴儿)",
+      "贫血"
+    ],
+    "answerIndex": 1,
+    "explanation": "おしるし(おしるし) = 见红(产前征兆)"
+  },
+  {
+    "id": "pregnancy-preg-w21-w3-000",
+    "type": "choice",
+    "question": "见红(产前征兆) 用日语怎么说?",
+    "options": [
+      "エコー検査",
+      "妊娠初期",
+      "おしるし",
+      "出生届"
+    ],
+    "answerIndex": 2,
+    "explanation": "おしるし(おしるし) = 见红(产前征兆)"
+  },
+  {
+    "id": "pregnancy-preg-w21-w4-000",
+    "type": "choice",
+    "question": "おしるし 的读音是?",
+    "options": [
+      "けつあつそくてい",
+      "ぶんべん",
+      "おしるし",
+      "またまにぃまーく"
+    ],
+    "answerIndex": 2,
+    "explanation": "おしるし = おしるし(见红(产前征兆))"
+  },
+  {
+    "id": "pregnancy-preg-w21-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "おしるし",
+    "answer": "おしるし|oshirushi",
+    "answerFormat": "hiragana",
+    "explanation": "おしるし = おしるし(见红(产前征兆))"
+  },
+  {
+    "id": "pregnancy-preg-w21-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "おしるし",
+    "answer": "おしるし|oshirushi",
+    "answerFormat": "hiragana",
+    "explanation": "おしるし = おしるし(见红(产前征兆))"
+  },
+  {
+    "id": "pregnancy-preg-w22-w1-000",
+    "type": "choice",
+    "question": "つわり 是什么意思?",
+    "options": [
+      "阵痛/宫缩",
+      "羊水",
+      "B 超检查",
+      "孕吐/害喜"
+    ],
+    "answerIndex": 3,
+    "explanation": "つわり(つわり) = 孕吐/害喜"
+  },
+  {
+    "id": "pregnancy-preg-w22-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "つわり",
+    "options": [
+      "胎动",
+      "会阴侧切",
+      "孕吐/害喜",
+      "超声波(检查)"
+    ],
+    "answerIndex": 2,
+    "explanation": "つわり(つわり) = 孕吐/害喜"
+  },
+  {
+    "id": "pregnancy-preg-w22-w3-000",
+    "type": "choice",
+    "question": "孕吐/害喜 用日语怎么说?",
+    "options": [
+      "つわり",
+      "体重測定",
+      "授乳",
+      "お七夜"
+    ],
+    "answerIndex": 0,
+    "explanation": "つわり(つわり) = 孕吐/害喜"
+  },
+  {
+    "id": "pregnancy-preg-w22-w4-000",
+    "type": "choice",
+    "question": "つわり 的读音是?",
+    "options": [
+      "おしちや",
+      "にんしんしゅうすう",
+      "みるく",
+      "つわり"
+    ],
+    "answerIndex": 3,
+    "explanation": "つわり = つわり(孕吐/害喜)"
+  },
+  {
+    "id": "pregnancy-preg-w22-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "つわり",
+    "answer": "つわり|tsuwari",
+    "answerFormat": "hiragana",
+    "explanation": "つわり = つわり(孕吐/害喜)"
+  },
+  {
+    "id": "pregnancy-preg-w22-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "つわり",
+    "answer": "つわり|tsuwari",
+    "answerFormat": "hiragana",
+    "explanation": "つわり = つわり(孕吐/害喜)"
+  },
+  {
+    "id": "pregnancy-preg-w23-w1-000",
+    "type": "choice",
+    "question": "胎動 是什么意思?",
+    "options": [
+      "胎动",
+      "出生登记",
+      "尿检",
+      "羊水"
+    ],
+    "answerIndex": 0,
+    "explanation": "胎動(たいどう) = 胎动"
+  },
+  {
+    "id": "pregnancy-preg-w23-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "胎動",
+    "options": [
+      "孕妇腹带",
+      "会阴侧切",
+      "产检",
+      "胎动"
+    ],
+    "answerIndex": 3,
+    "explanation": "胎動(たいどう) = 胎动"
+  },
+  {
+    "id": "pregnancy-preg-w23-w3-000",
+    "type": "choice",
+    "question": "胎动 用日语怎么说?",
+    "options": [
+      "胎動",
+      "戌の日の安産祈願",
+      "入院",
+      "母乳"
+    ],
+    "answerIndex": 0,
+    "explanation": "胎動(たいどう) = 胎动"
+  },
+  {
+    "id": "pregnancy-preg-w23-w4-000",
+    "type": "choice",
+    "question": "胎動 的读音是?",
+    "options": [
+      "ほうい",
+      "にんしんこうけつあつしょうこうぐん",
+      "たいどう",
+      "はすい"
+    ],
+    "answerIndex": 2,
+    "explanation": "胎動 = たいどう(胎动)"
+  },
+  {
+    "id": "pregnancy-preg-w23-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "胎動",
+    "answer": "たいどう|taidou",
+    "answerFormat": "hiragana",
+    "explanation": "胎動 = たいどう(胎动)"
+  },
+  {
+    "id": "pregnancy-preg-w23-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "胎動",
+    "answer": "たいどう|taidou",
+    "answerFormat": "hiragana",
+    "explanation": "胎動 = たいどう(胎动)"
+  },
+  {
+    "id": "pregnancy-preg-w24-w1-000",
+    "type": "choice",
+    "question": "逆子 是什么意思?",
+    "options": [
+      "胎位不正/臀位",
+      "葡萄胎",
+      "血检",
+      "怀孕周数"
+    ],
+    "answerIndex": 0,
+    "explanation": "逆子(さかご) = 胎位不正/臀位"
+  },
+  {
+    "id": "pregnancy-preg-w24-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "逆子",
+    "options": [
+      "破水",
+      "子宫发紧(假宫缩)",
+      "胎位不正/臀位",
+      "出院"
+    ],
+    "answerIndex": 2,
+    "explanation": "逆子(さかご) = 胎位不正/臀位"
+  },
+  {
+    "id": "pregnancy-preg-w24-w3-000",
+    "type": "choice",
+    "question": "胎位不正/臀位 用日语怎么说?",
+    "options": [
+      "両親学級",
+      "逆子",
+      "妊娠線",
+      "妊婦健診"
+    ],
+    "answerIndex": 1,
+    "explanation": "逆子(さかご) = 胎位不正/臀位"
+  },
+  {
+    "id": "pregnancy-preg-w24-w4-000",
+    "type": "choice",
+    "question": "逆子 的读音是?",
+    "options": [
+      "さかご",
+      "にんぷけんしん",
+      "ふじんか",
+      "にんしんちゅうき"
+    ],
+    "answerIndex": 0,
+    "explanation": "逆子 = さかご(胎位不正/臀位)"
+  },
+  {
+    "id": "pregnancy-preg-w24-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "逆子",
+    "answer": "さかご|sakago",
+    "answerFormat": "hiragana",
+    "explanation": "逆子 = さかご(胎位不正/臀位)"
+  },
+  {
+    "id": "pregnancy-preg-w24-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "逆子",
+    "answer": "さかご|sakago",
+    "answerFormat": "hiragana",
+    "explanation": "逆子 = さかご(胎位不正/臀位)"
+  },
+  {
+    "id": "pregnancy-preg-w25-w1-000",
+    "type": "choice",
+    "question": "張り 是什么意思?",
+    "options": [
+      "父母课堂",
+      "尿检",
+      "子宫发紧(假宫缩)",
+      "自然分娩/顺产"
+    ],
+    "answerIndex": 2,
+    "explanation": "張り(はり) = 子宫发紧(假宫缩)"
+  },
+  {
+    "id": "pregnancy-preg-w25-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "張り",
+    "options": [
+      "子宫发紧(假宫缩)",
+      "周数",
+      "产假",
+      "血糖值"
+    ],
+    "answerIndex": 0,
+    "explanation": "張り(はり) = 子宫发紧(假宫缩)"
+  },
+  {
+    "id": "pregnancy-preg-w25-w3-000",
+    "type": "choice",
+    "question": "子宫发紧(假宫缩) 用日语怎么说?",
+    "options": [
+      "張り",
+      "羊水検査",
+      "NIPT",
+      "両親学級"
+    ],
+    "answerIndex": 0,
+    "explanation": "張り(はり) = 子宫发紧(假宫缩)"
+  },
+  {
+    "id": "pregnancy-preg-w25-w4-000",
+    "type": "choice",
+    "question": "張り 的读音是?",
+    "options": [
+      "しんせいじ",
+      "はり",
+      "ようすいけんさ",
+      "にぷと"
+    ],
+    "answerIndex": 1,
+    "explanation": "張り = はり(子宫发紧(假宫缩))"
+  },
+  {
+    "id": "pregnancy-preg-w25-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "張り",
+    "answer": "はり|hari",
+    "answerFormat": "hiragana",
+    "explanation": "張り = はり(子宫发紧(假宫缩))"
+  },
+  {
+    "id": "pregnancy-preg-w25-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "張り",
+    "answer": "はり|hari",
+    "answerFormat": "hiragana",
+    "explanation": "張り = はり(子宫发紧(假宫缩))"
+  },
+  {
+    "id": "pregnancy-preg-w26-w1-000",
+    "type": "choice",
+    "question": "エコー検査 是什么意思?",
+    "options": [
+      "产科(只接生)",
+      "孕早期(~15 周)",
+      "孕吐(汉字写法)",
+      "B 超检查"
+    ],
+    "answerIndex": 3,
+    "explanation": "エコー検査(えこーけんさ) = B 超检查"
+  },
+  {
+    "id": "pregnancy-preg-w26-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "エコー検査",
+    "options": [
+      "生产/生孩子",
+      "B 超检查",
+      "出生登记",
+      "剖腹产"
+    ],
+    "answerIndex": 1,
+    "explanation": "エコー検査(えこーけんさ) = B 超检查"
+  },
+  {
+    "id": "pregnancy-preg-w26-w3-000",
+    "type": "choice",
+    "question": "B 超检查 用日语怎么说?",
+    "options": [
+      "陣痛",
+      "妊娠",
+      "エコー検査",
+      "血液検査"
+    ],
+    "answerIndex": 2,
+    "explanation": "エコー検査(えこーけんさ) = B 超检查"
+  },
+  {
+    "id": "pregnancy-preg-w26-w4-000",
+    "type": "choice",
+    "question": "エコー検査 的读音是?",
+    "options": [
+      "えこーけんさ",
+      "にんしんせん",
+      "ぼしけんこうてちょう",
+      "しゅっせいとどけ"
+    ],
+    "answerIndex": 0,
+    "explanation": "エコー検査 = えこーけんさ(B 超检查)"
+  },
+  {
+    "id": "pregnancy-preg-w26-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "エコー検査",
+    "answer": "えこーけんさ|ekoo-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "エコー検査 = えこーけんさ(B 超检查)"
+  },
+  {
+    "id": "pregnancy-preg-w26-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "エコー検査",
+    "answer": "えこーけんさ|ekoo-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "エコー検査 = えこーけんさ(B 超检查)"
+  },
+  {
+    "id": "pregnancy-preg-w27-w1-000",
+    "type": "choice",
+    "question": "超音波 是什么意思?",
+    "options": [
+      "超声波(检查)",
+      "育儿假",
+      "住院(待产)",
+      "阵痛/宫缩"
+    ],
+    "answerIndex": 0,
+    "explanation": "超音波(ちょうおんぱ) = 超声波(检查)"
+  },
+  {
+    "id": "pregnancy-preg-w27-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "超音波",
+    "options": [
+      "孕吐(汉字写法)",
+      "血检",
+      "母亲课堂",
+      "超声波(检查)"
+    ],
+    "answerIndex": 3,
+    "explanation": "超音波(ちょうおんぱ) = 超声波(检查)"
+  },
+  {
+    "id": "pregnancy-preg-w27-w3-000",
+    "type": "choice",
+    "question": "超声波(检查) 用日语怎么说?",
+    "options": [
+      "出産",
+      "血圧測定",
+      "妊娠後期",
+      "超音波"
+    ],
+    "answerIndex": 3,
+    "explanation": "超音波(ちょうおんぱ) = 超声波(检查)"
+  },
+  {
+    "id": "pregnancy-preg-w27-w4-000",
+    "type": "choice",
+    "question": "超音波 的读音是?",
+    "options": [
+      "じゅにゅう",
+      "じょさんし",
+      "ちょうおんぱ",
+      "ようすいけんさ"
+    ],
+    "answerIndex": 2,
+    "explanation": "超音波 = ちょうおんぱ(超声波(检查))"
+  },
+  {
+    "id": "pregnancy-preg-w27-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "超音波",
+    "answer": "ちょうおんぱ|chouonpa",
+    "answerFormat": "hiragana",
+    "explanation": "超音波 = ちょうおんぱ(超声波(检查))"
+  },
+  {
+    "id": "pregnancy-preg-w27-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "超音波",
+    "answer": "ちょうおんぱ|chouonpa",
+    "answerFormat": "hiragana",
+    "explanation": "超音波 = ちょうおんぱ(超声波(检查))"
+  },
+  {
+    "id": "pregnancy-preg-w28-w1-000",
+    "type": "choice",
+    "question": "尿検査 是什么意思?",
+    "options": [
+      "父母课堂",
+      "母子手册(简称)",
+      "尿检",
+      "洗澡(婴儿)"
+    ],
+    "answerIndex": 2,
+    "explanation": "尿検査(にょうけんさ) = 尿检"
+  },
+  {
+    "id": "pregnancy-preg-w28-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "尿検査",
+    "options": [
+      "尿检",
+      "血糖值",
+      "生产费用",
+      "孕中期(16-27 周)"
+    ],
+    "answerIndex": 0,
+    "explanation": "尿検査(にょうけんさ) = 尿检"
+  },
+  {
+    "id": "pregnancy-preg-w28-w3-000",
+    "type": "choice",
+    "question": "尿检 用日语怎么说?",
+    "options": [
+      "張り",
+      "助産師",
+      "尿検査",
+      "分娩"
+    ],
+    "answerIndex": 2,
+    "explanation": "尿検査(にょうけんさ) = 尿检"
+  },
+  {
+    "id": "pregnancy-preg-w28-w4-000",
+    "type": "choice",
+    "question": "尿検査 的读音是?",
+    "options": [
+      "またまにぃまーく",
+      "にょうけんさ",
+      "たいじしんぱく",
+      "にんしんとうにょうびょう"
+    ],
+    "answerIndex": 1,
+    "explanation": "尿検査 = にょうけんさ(尿检)"
+  },
+  {
+    "id": "pregnancy-preg-w28-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "尿検査",
+    "answer": "にょうけんさ|nyou-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "尿検査 = にょうけんさ(尿检)"
+  },
+  {
+    "id": "pregnancy-preg-w28-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "尿検査",
+    "answer": "にょうけんさ|nyou-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "尿検査 = にょうけんさ(尿检)"
+  },
+  {
+    "id": "pregnancy-preg-w29-w1-000",
+    "type": "choice",
+    "question": "血液検査 是什么意思?",
+    "options": [
+      "血检",
+      "孕中期(16-27 周)",
+      "个人编号(类似身份证号)",
+      "超声波(检查)"
+    ],
+    "answerIndex": 0,
+    "explanation": "血液検査(けつえきけんさ) = 血检"
+  },
+  {
+    "id": "pregnancy-preg-w29-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "血液検査",
+    "options": [
+      "孕妇",
+      "生育一次性补助金(50 万)",
+      "产检",
+      "血检"
+    ],
+    "answerIndex": 3,
+    "explanation": "血液検査(けつえきけんさ) = 血检"
+  },
+  {
+    "id": "pregnancy-preg-w29-w3-000",
+    "type": "choice",
+    "question": "血检 用日语怎么说?",
+    "options": [
+      "胞状奇胎",
+      "血液検査",
+      "自然分娩",
+      "授乳"
+    ],
+    "answerIndex": 1,
+    "explanation": "血液検査(けつえきけんさ) = 血检"
+  },
+  {
+    "id": "pregnancy-preg-w29-w4-000",
+    "type": "choice",
+    "question": "血液検査 的读音是?",
+    "options": [
+      "にんしんとうにょうびょう",
+      "しゅっせいつうちひょう",
+      "はすい",
+      "けつえきけんさ"
+    ],
+    "answerIndex": 3,
+    "explanation": "血液検査 = けつえきけんさ(血检)"
+  },
+  {
+    "id": "pregnancy-preg-w29-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "血液検査",
+    "answer": "けつえきけんさ|ketsueki-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "血液検査 = けつえきけんさ(血检)"
+  },
+  {
+    "id": "pregnancy-preg-w29-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "血液検査",
+    "answer": "けつえきけんさ|ketsueki-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "血液検査 = けつえきけんさ(血检)"
+  },
+  {
+    "id": "pregnancy-preg-w30-w1-000",
+    "type": "choice",
+    "question": "血糖値 是什么意思?",
+    "options": [
+      "胎盘",
+      "戌日安产祈愿(传统)",
+      "胎动",
+      "血糖值"
+    ],
+    "answerIndex": 3,
+    "explanation": "血糖値(けっとうち) = 血糖值"
+  },
+  {
+    "id": "pregnancy-preg-w30-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "血糖値",
+    "options": [
+      "预产期",
+      "孕中期(16-27 周)",
+      "出生登记",
+      "血糖值"
+    ],
+    "answerIndex": 3,
+    "explanation": "血糖値(けっとうち) = 血糖值"
+  },
+  {
+    "id": "pregnancy-preg-w30-w3-000",
+    "type": "choice",
+    "question": "血糖值 用日语怎么说?",
+    "options": [
+      "羊水",
+      "分娩",
+      "羊水検査",
+      "血糖値"
+    ],
+    "answerIndex": 3,
+    "explanation": "血糖値(けっとうち) = 血糖值"
+  },
+  {
+    "id": "pregnancy-preg-w30-w4-000",
+    "type": "choice",
+    "question": "血糖値 的读音是?",
+    "options": [
+      "けっとうち",
+      "にゅうじ",
+      "さとがえりしゅっさん",
+      "えいんせっかい"
+    ],
+    "answerIndex": 0,
+    "explanation": "血糖値 = けっとうち(血糖值)"
+  },
+  {
+    "id": "pregnancy-preg-w30-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "血糖値",
+    "answer": "けっとうち|kettouchi",
+    "answerFormat": "hiragana",
+    "explanation": "血糖値 = けっとうち(血糖值)"
+  },
+  {
+    "id": "pregnancy-preg-w30-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "血糖値",
+    "answer": "けっとうち|kettouchi",
+    "answerFormat": "hiragana",
+    "explanation": "血糖値 = けっとうち(血糖值)"
+  },
+  {
+    "id": "pregnancy-preg-w31-w1-000",
+    "type": "choice",
+    "question": "血圧測定 是什么意思?",
+    "options": [
+      "计划分娩(催产)",
+      "测血压",
+      "尿布",
+      "生育一次性补助金(50 万)"
+    ],
+    "answerIndex": 1,
+    "explanation": "血圧測定(けつあつそくてい) = 测血压"
+  },
+  {
+    "id": "pregnancy-preg-w31-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "血圧測定",
+    "options": [
+      "孕吐(汉字写法)",
+      "见红(产前征兆)",
+      "生育一次性补助金(50 万)",
+      "测血压"
+    ],
+    "answerIndex": 3,
+    "explanation": "血圧測定(けつあつそくてい) = 测血压"
+  },
+  {
+    "id": "pregnancy-preg-w31-w3-000",
+    "type": "choice",
+    "question": "测血压 用日语怎么说?",
+    "options": [
+      "つわり",
+      "自然分娩",
+      "血圧測定",
+      "母子健康手帳"
+    ],
+    "answerIndex": 2,
+    "explanation": "血圧測定(けつあつそくてい) = 测血压"
+  },
+  {
+    "id": "pregnancy-preg-w31-w4-000",
+    "type": "choice",
+    "question": "血圧測定 的读音是?",
+    "options": [
+      "けつあつそくてい",
+      "またまにぃまーく",
+      "たいどう",
+      "にぷと"
+    ],
+    "answerIndex": 0,
+    "explanation": "血圧測定 = けつあつそくてい(测血压)"
+  },
+  {
+    "id": "pregnancy-preg-w31-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "血圧測定",
+    "answer": "けつあつそくてい|ketsuatsu-sokutei",
+    "answerFormat": "hiragana",
+    "explanation": "血圧測定 = けつあつそくてい(测血压)"
+  },
+  {
+    "id": "pregnancy-preg-w31-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "血圧測定",
+    "answer": "けつあつそくてい|ketsuatsu-sokutei",
+    "answerFormat": "hiragana",
+    "explanation": "血圧測定 = けつあつそくてい(测血压)"
+  },
+  {
+    "id": "pregnancy-preg-w32-w1-000",
+    "type": "choice",
+    "question": "体重測定 是什么意思?",
+    "options": [
+      "产检",
+      "孕早期(~15 周)",
+      "阵痛/宫缩",
+      "测体重"
+    ],
+    "answerIndex": 3,
+    "explanation": "体重測定(たいじゅうそくてい) = 测体重"
+  },
+  {
+    "id": "pregnancy-preg-w32-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "体重測定",
+    "options": [
+      "生育一次性补助金(50 万)",
+      "戌日安产祈愿(传统)",
+      "胎盘",
+      "测体重"
+    ],
+    "answerIndex": 3,
+    "explanation": "体重測定(たいじゅうそくてい) = 测体重"
+  },
+  {
+    "id": "pregnancy-preg-w32-w3-000",
+    "type": "choice",
+    "question": "测体重 用日语怎么说?",
+    "options": [
+      "体重測定",
+      "助産師",
+      "羊水",
+      "血圧測定"
+    ],
+    "answerIndex": 0,
+    "explanation": "体重測定(たいじゅうそくてい) = 测体重"
+  },
+  {
+    "id": "pregnancy-preg-w32-w4-000",
+    "type": "choice",
+    "question": "体重測定 的读音是?",
+    "options": [
+      "ぼしけんこうてちょう",
+      "りょうしんがっきゅう",
+      "さんきゅう",
+      "たいじゅうそくてい"
+    ],
+    "answerIndex": 3,
+    "explanation": "体重測定 = たいじゅうそくてい(测体重)"
+  },
+  {
+    "id": "pregnancy-preg-w32-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "体重測定",
+    "answer": "たいじゅうそくてい|taijuu-sokutei",
+    "answerFormat": "hiragana",
+    "explanation": "体重測定 = たいじゅうそくてい(测体重)"
+  },
+  {
+    "id": "pregnancy-preg-w32-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "体重測定",
+    "answer": "たいじゅうそくてい|taijuu-sokutei",
+    "answerFormat": "hiragana",
+    "explanation": "体重測定 = たいじゅうそくてい(测体重)"
+  },
+  {
+    "id": "pregnancy-preg-w33-w1-000",
+    "type": "choice",
+    "question": "貧血 是什么意思?",
+    "options": [
+      "奶粉",
+      "听力筛查(新生儿)",
+      "出院",
+      "贫血"
+    ],
+    "answerIndex": 3,
+    "explanation": "貧血(ひんけつ) = 贫血"
+  },
+  {
+    "id": "pregnancy-preg-w33-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "貧血",
+    "options": [
+      "贫血",
+      "产前检查",
+      "新生儿",
+      "胎动"
+    ],
+    "answerIndex": 0,
+    "explanation": "貧血(ひんけつ) = 贫血"
+  },
+  {
+    "id": "pregnancy-preg-w33-w3-000",
+    "type": "choice",
+    "question": "贫血 用日语怎么说?",
+    "options": [
+      "貧血",
+      "出産育児一時金",
+      "妊娠届",
+      "戌の日の安産祈願"
+    ],
+    "answerIndex": 0,
+    "explanation": "貧血(ひんけつ) = 贫血"
+  },
+  {
+    "id": "pregnancy-preg-w33-w4-000",
+    "type": "choice",
+    "question": "貧血 的读音是?",
+    "options": [
+      "ひんけつ",
+      "えいんせっかい",
+      "むつうぶんべん",
+      "にんぷ"
+    ],
+    "answerIndex": 0,
+    "explanation": "貧血 = ひんけつ(贫血)"
+  },
+  {
+    "id": "pregnancy-preg-w33-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "貧血",
+    "answer": "ひんけつ|hinketsu",
+    "answerFormat": "hiragana",
+    "explanation": "貧血 = ひんけつ(贫血)"
+  },
+  {
+    "id": "pregnancy-preg-w33-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "貧血",
+    "answer": "ひんけつ|hinketsu",
+    "answerFormat": "hiragana",
+    "explanation": "貧血 = ひんけつ(贫血)"
+  },
+  {
+    "id": "pregnancy-preg-w34-w1-000",
+    "type": "choice",
+    "question": "妊娠高血圧症候群 是什么意思?",
+    "options": [
+      "生产/生孩子",
+      "生育一次性补助金(50 万)",
+      "剖腹产",
+      "妊娠高血压综合征"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠高血圧症候群(にんしんこうけつあつしょうこうぐん) = 妊娠高血压综合征"
+  },
+  {
+    "id": "pregnancy-preg-w34-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊娠高血圧症候群",
+    "options": [
+      "妊娠高血压综合征",
+      "计划分娩(催产)",
+      "尿布",
+      "回娘家生产"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊娠高血圧症候群(にんしんこうけつあつしょうこうぐん) = 妊娠高血压综合征"
+  },
+  {
+    "id": "pregnancy-preg-w34-w3-000",
+    "type": "choice",
+    "question": "妊娠高血压综合征 用日语怎么说?",
+    "options": [
+      "妊娠高血圧症候群",
+      "入院",
+      "張り",
+      "羊水検査"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊娠高血圧症候群(にんしんこうけつあつしょうこうぐん) = 妊娠高血压综合征"
+  },
+  {
+    "id": "pregnancy-preg-w34-w4-000",
+    "type": "choice",
+    "question": "妊娠高血圧症候群 的读音是?",
+    "options": [
+      "せっぱくそうざん",
+      "にんぷ",
+      "にんしんこうけつあつしょうこうぐん",
+      "ほけんし"
+    ],
+    "answerIndex": 2,
+    "explanation": "妊娠高血圧症候群 = にんしんこうけつあつしょうこうぐん(妊娠高血压综合征)"
+  },
+  {
+    "id": "pregnancy-preg-w34-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊娠高血圧症候群",
+    "answer": "にんしんこうけつあつしょうこうぐん|ninshin-kouketsuatsu-shoukougun",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠高血圧症候群 = にんしんこうけつあつしょうこうぐん(妊娠高血压综合征)"
+  },
+  {
+    "id": "pregnancy-preg-w34-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊娠高血圧症候群",
+    "answer": "にんしんこうけつあつしょうこうぐん|ninshin-kouketsuatsu-shoukougun",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠高血圧症候群 = にんしんこうけつあつしょうこうぐん(妊娠高血压综合征)"
+  },
+  {
+    "id": "pregnancy-preg-w35-w1-000",
+    "type": "choice",
+    "question": "妊娠糖尿病 是什么意思?",
+    "options": [
+      "出生登记",
+      "妊娠糖尿病",
+      "测体重",
+      "阵痛/宫缩"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊娠糖尿病(にんしんとうにょうびょう) = 妊娠糖尿病"
+  },
+  {
+    "id": "pregnancy-preg-w35-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊娠糖尿病",
+    "options": [
+      "妊娠糖尿病",
+      "出生一个月参拜神社",
+      "先兆早产",
+      "妇产科医生"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊娠糖尿病(にんしんとうにょうびょう) = 妊娠糖尿病"
+  },
+  {
+    "id": "pregnancy-preg-w35-w3-000",
+    "type": "choice",
+    "question": "妊娠糖尿病 用日语怎么说?",
+    "options": [
+      "受診券",
+      "悪阻",
+      "血液検査",
+      "妊娠糖尿病"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠糖尿病(にんしんとうにょうびょう) = 妊娠糖尿病"
+  },
+  {
+    "id": "pregnancy-preg-w35-w4-000",
+    "type": "choice",
+    "question": "妊娠糖尿病 的读音是?",
+    "options": [
+      "しゅっせいまえけんさ",
+      "しゅっさん",
+      "ふじんか",
+      "にんしんとうにょうびょう"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠糖尿病 = にんしんとうにょうびょう(妊娠糖尿病)"
+  },
+  {
+    "id": "pregnancy-preg-w35-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊娠糖尿病",
+    "answer": "にんしんとうにょうびょう|ninshin-tounyoubyou",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠糖尿病 = にんしんとうにょうびょう(妊娠糖尿病)"
+  },
+  {
+    "id": "pregnancy-preg-w35-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊娠糖尿病",
+    "answer": "にんしんとうにょうびょう|ninshin-tounyoubyou",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠糖尿病 = にんしんとうにょうびょう(妊娠糖尿病)"
+  },
+  {
+    "id": "pregnancy-preg-w36-w1-000",
+    "type": "choice",
+    "question": "出産予定日 是什么意思?",
+    "options": [
+      "哺乳/喂奶",
+      "羊水",
+      "孕吐/害喜",
+      "预产期"
+    ],
+    "answerIndex": 3,
+    "explanation": "出産予定日(しゅっさんよていび) = 预产期"
+  },
+  {
+    "id": "pregnancy-preg-w36-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "出産予定日",
+    "options": [
+      "出生通知单(明信片)",
+      "父母课堂",
+      "预产期",
+      "妊娠高血压综合征"
+    ],
+    "answerIndex": 2,
+    "explanation": "出産予定日(しゅっさんよていび) = 预产期"
+  },
+  {
+    "id": "pregnancy-preg-w36-w3-000",
+    "type": "choice",
+    "question": "预产期 用日语怎么说?",
+    "options": [
+      "羊水検査",
+      "胎児心拍",
+      "分娩",
+      "出産予定日"
+    ],
+    "answerIndex": 3,
+    "explanation": "出産予定日(しゅっさんよていび) = 预产期"
+  },
+  {
+    "id": "pregnancy-preg-w36-w4-000",
+    "type": "choice",
+    "question": "出産予定日 的读音是?",
+    "options": [
+      "しゅっせいとどけ",
+      "ほうじょうきたい",
+      "たいいん",
+      "しゅっさんよていび"
+    ],
+    "answerIndex": 3,
+    "explanation": "出産予定日 = しゅっさんよていび(预产期)"
+  },
+  {
+    "id": "pregnancy-preg-w36-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "出産予定日",
+    "answer": "しゅっさんよていび|shussan-yoteibi",
+    "answerFormat": "hiragana",
+    "explanation": "出産予定日 = しゅっさんよていび(预产期)"
+  },
+  {
+    "id": "pregnancy-preg-w36-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "出産予定日",
+    "answer": "しゅっさんよていび|shussan-yoteibi",
+    "answerFormat": "hiragana",
+    "explanation": "出産予定日 = しゅっさんよていび(预产期)"
+  },
+  {
+    "id": "pregnancy-preg-w37-w1-000",
+    "type": "choice",
+    "question": "妊娠週数 是什么意思?",
+    "options": [
+      "妊娠高血压综合征",
+      "怀孕周数",
+      "拉玛泽呼吸法",
+      "妇产科医生"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊娠週数(にんしんしゅうすう) = 怀孕周数"
+  },
+  {
+    "id": "pregnancy-preg-w37-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊娠週数",
+    "options": [
+      "个人编号(类似身份证号)",
+      "住院(待产)",
+      "怀孕周数",
+      "孕后期(28 周~)"
+    ],
+    "answerIndex": 2,
+    "explanation": "妊娠週数(にんしんしゅうすう) = 怀孕周数"
+  },
+  {
+    "id": "pregnancy-preg-w37-w3-000",
+    "type": "choice",
+    "question": "怀孕周数 用日语怎么说?",
+    "options": [
+      "妊娠週数",
+      "両親学級",
+      "妊婦帯",
+      "妊娠初期"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊娠週数(にんしんしゅうすう) = 怀孕周数"
+  },
+  {
+    "id": "pregnancy-preg-w37-w4-000",
+    "type": "choice",
+    "question": "妊娠週数 的读音是?",
+    "options": [
+      "けいかくぶんべん",
+      "おしるし",
+      "えいんせっかい",
+      "にんしんしゅうすう"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠週数 = にんしんしゅうすう(怀孕周数)"
+  },
+  {
+    "id": "pregnancy-preg-w37-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊娠週数",
+    "answer": "にんしんしゅうすう|ninshin-shuusuu",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠週数 = にんしんしゅうすう(怀孕周数)"
+  },
+  {
+    "id": "pregnancy-preg-w37-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊娠週数",
+    "answer": "にんしんしゅうすう|ninshin-shuusuu",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠週数 = にんしんしゅうすう(怀孕周数)"
+  },
+  {
+    "id": "pregnancy-preg-w38-w1-000",
+    "type": "choice",
+    "question": "妊娠初期 是什么意思?",
+    "options": [
+      "父母课堂",
+      "出生一个月参拜神社",
+      "孕早期(~15 周)",
+      "怀孕周数"
+    ],
+    "answerIndex": 2,
+    "explanation": "妊娠初期(にんしんしょき) = 孕早期(~15 周)"
+  },
+  {
+    "id": "pregnancy-preg-w38-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊娠初期",
+    "options": [
+      "出生登记",
+      "孕早期(~15 周)",
+      "怀孕申报表",
+      "回娘家生产"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊娠初期(にんしんしょき) = 孕早期(~15 周)"
+  },
+  {
+    "id": "pregnancy-preg-w38-w3-000",
+    "type": "choice",
+    "question": "孕早期(~15 周) 用日语怎么说?",
+    "options": [
+      "妊娠届",
+      "出産予定日",
+      "婦人科",
+      "妊娠初期"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠初期(にんしんしょき) = 孕早期(~15 周)"
+  },
+  {
+    "id": "pregnancy-preg-w38-w4-000",
+    "type": "choice",
+    "question": "妊娠初期 的读音是?",
+    "options": [
+      "けつえきけんさ",
+      "ほけんし",
+      "ようすいけんさ",
+      "にんしんしょき"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠初期 = にんしんしょき(孕早期(~15 周))"
+  },
+  {
+    "id": "pregnancy-preg-w38-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊娠初期",
+    "answer": "にんしんしょき|ninshin-shoki",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠初期 = にんしんしょき(孕早期(~15 周))"
+  },
+  {
+    "id": "pregnancy-preg-w38-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊娠初期",
+    "answer": "にんしんしょき|ninshin-shoki",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠初期 = にんしんしょき(孕早期(~15 周))"
+  },
+  {
+    "id": "pregnancy-preg-w39-w1-000",
+    "type": "choice",
+    "question": "妊娠中期 是什么意思?",
+    "options": [
+      "哺乳/喂奶",
+      "血检",
+      "孕中期(16-27 周)",
+      "子宫发紧(假宫缩)"
+    ],
+    "answerIndex": 2,
+    "explanation": "妊娠中期(にんしんちゅうき) = 孕中期(16-27 周)"
+  },
+  {
+    "id": "pregnancy-preg-w39-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊娠中期",
+    "options": [
+      "胎动",
+      "阵痛/宫缩",
+      "怀孕/妊娠",
+      "孕中期(16-27 周)"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠中期(にんしんちゅうき) = 孕中期(16-27 周)"
+  },
+  {
+    "id": "pregnancy-preg-w39-w3-000",
+    "type": "choice",
+    "question": "孕中期(16-27 周) 用日语怎么说?",
+    "options": [
+      "妊娠中期",
+      "体重測定",
+      "周数",
+      "妊娠高血圧症候群"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊娠中期(にんしんちゅうき) = 孕中期(16-27 周)"
+  },
+  {
+    "id": "pregnancy-preg-w39-w4-000",
+    "type": "choice",
+    "question": "妊娠中期 的读音是?",
+    "options": [
+      "にんしんちゅうき",
+      "にんしんとどけしょ",
+      "えいんせっかい",
+      "しゅっせいつうちひょう"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊娠中期 = にんしんちゅうき(孕中期(16-27 周))"
+  },
+  {
+    "id": "pregnancy-preg-w39-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊娠中期",
+    "answer": "にんしんちゅうき|ninshin-chuuki",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠中期 = にんしんちゅうき(孕中期(16-27 周))"
+  },
+  {
+    "id": "pregnancy-preg-w39-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊娠中期",
+    "answer": "にんしんちゅうき|ninshin-chuuki",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠中期 = にんしんちゅうき(孕中期(16-27 周))"
+  },
+  {
+    "id": "pregnancy-preg-w40-w1-000",
+    "type": "choice",
+    "question": "妊娠後期 是什么意思?",
+    "options": [
+      "孕后期(28 周~)",
+      "出生登记",
+      "无痛分娩",
+      "生产费用"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊娠後期(にんしんこうき) = 孕后期(28 周~)"
+  },
+  {
+    "id": "pregnancy-preg-w40-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊娠後期",
+    "options": [
+      "孕妇腹带",
+      "孕后期(28 周~)",
+      "父母课堂",
+      "出生通知单(明信片)"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊娠後期(にんしんこうき) = 孕后期(28 周~)"
+  },
+  {
+    "id": "pregnancy-preg-w40-w3-000",
+    "type": "choice",
+    "question": "孕后期(28 周~) 用日语怎么说?",
+    "options": [
+      "胎動",
+      "妊娠後期",
+      "聴覚スクリーニング",
+      "貧血"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊娠後期(にんしんこうき) = 孕后期(28 周~)"
+  },
+  {
+    "id": "pregnancy-preg-w40-w4-000",
+    "type": "choice",
+    "question": "妊娠後期 的读音是?",
+    "options": [
+      "ちょうかくすくりーにんぐ",
+      "にんしんしゅうすう",
+      "じんつう",
+      "にんしんこうき"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠後期 = にんしんこうき(孕后期(28 周~))"
+  },
+  {
+    "id": "pregnancy-preg-w40-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊娠後期",
+    "answer": "にんしんこうき|ninshin-kouki",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠後期 = にんしんこうき(孕后期(28 周~))"
+  },
+  {
+    "id": "pregnancy-preg-w40-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊娠後期",
+    "answer": "にんしんこうき|ninshin-kouki",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠後期 = にんしんこうき(孕后期(28 周~))"
+  },
+  {
+    "id": "pregnancy-preg-w41-w1-000",
+    "type": "choice",
+    "question": "出産育児一時金 是什么意思?",
+    "options": [
+      "生育一次性补助金(50 万)",
+      "保健师(役所有)",
+      "妇科(不接生)",
+      "哺乳/喂奶"
+    ],
+    "answerIndex": 0,
+    "explanation": "出産育児一時金(しゅっさんいくじいちじきん) = 生育一次性补助金(50 万)"
+  },
+  {
+    "id": "pregnancy-preg-w41-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "出産育児一時金",
+    "options": [
+      "生育一次性补助金(50 万)",
+      "自然分娩/顺产",
+      "羊水检查",
+      "孕吐(汉字写法)"
+    ],
+    "answerIndex": 0,
+    "explanation": "出産育児一時金(しゅっさんいくじいちじきん) = 生育一次性补助金(50 万)"
+  },
+  {
+    "id": "pregnancy-preg-w41-w3-000",
+    "type": "choice",
+    "question": "生育一次性补助金(50 万) 用日语怎么说?",
+    "options": [
+      "妊娠後期",
+      "おしるし",
+      "出産育児一時金",
+      "自然分娩"
+    ],
+    "answerIndex": 2,
+    "explanation": "出産育児一時金(しゅっさんいくじいちじきん) = 生育一次性补助金(50 万)"
+  },
+  {
+    "id": "pregnancy-preg-w41-w4-000",
+    "type": "choice",
+    "question": "出産育児一時金 的读音是?",
+    "options": [
+      "にんしんせん",
+      "ちょうかくすくりーにんぐ",
+      "さんか",
+      "しゅっさんいくじいちじきん"
+    ],
+    "answerIndex": 3,
+    "explanation": "出産育児一時金 = しゅっさんいくじいちじきん(生育一次性补助金(50 万))"
+  },
+  {
+    "id": "pregnancy-preg-w41-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "出産育児一時金",
+    "answer": "しゅっさんいくじいちじきん|shussan-ikuji-ichijikin",
+    "answerFormat": "hiragana",
+    "explanation": "出産育児一時金 = しゅっさんいくじいちじきん(生育一次性补助金(50 万))"
+  },
+  {
+    "id": "pregnancy-preg-w41-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "出産育児一時金",
+    "answer": "しゅっさんいくじいちじきん|shussan-ikuji-ichijikin",
+    "answerFormat": "hiragana",
+    "explanation": "出産育児一時金 = しゅっさんいくじいちじきん(生育一次性补助金(50 万))"
+  },
+  {
+    "id": "pregnancy-preg-w42-w1-000",
+    "type": "choice",
+    "question": "出生届 是什么意思?",
+    "options": [
+      "新生儿",
+      "出生登记",
+      "回娘家生产",
+      "脐带"
+    ],
+    "answerIndex": 1,
+    "explanation": "出生届(しゅっせいとどけ) = 出生登记"
+  },
+  {
+    "id": "pregnancy-preg-w42-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "出生届",
+    "options": [
+      "母子手册(简称)",
+      "孕妇徽章(挂在包上)",
+      "孕后期(28 周~)",
+      "出生登记"
+    ],
+    "answerIndex": 3,
+    "explanation": "出生届(しゅっせいとどけ) = 出生登记"
+  },
+  {
+    "id": "pregnancy-preg-w42-w3-000",
+    "type": "choice",
+    "question": "出生登记 用日语怎么说?",
+    "options": [
+      "出生届",
+      "授乳",
+      "羊水",
+      "へその緒"
+    ],
+    "answerIndex": 0,
+    "explanation": "出生届(しゅっせいとどけ) = 出生登记"
+  },
+  {
+    "id": "pregnancy-preg-w42-w4-000",
+    "type": "choice",
+    "question": "出生届 的读音是?",
+    "options": [
+      "しゅっさんいくじいちじきん",
+      "じょさんし",
+      "しゅっせいとどけ",
+      "さんふじんかい"
+    ],
+    "answerIndex": 2,
+    "explanation": "出生届 = しゅっせいとどけ(出生登记)"
+  },
+  {
+    "id": "pregnancy-preg-w42-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "出生届",
+    "answer": "しゅっせいとどけ|shussei-todoke",
+    "answerFormat": "hiragana",
+    "explanation": "出生届 = しゅっせいとどけ(出生登记)"
+  },
+  {
+    "id": "pregnancy-preg-w42-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "出生届",
+    "answer": "しゅっせいとどけ|shussei-todoke",
+    "answerFormat": "hiragana",
+    "explanation": "出生届 = しゅっせいとどけ(出生登记)"
+  },
+  {
+    "id": "pregnancy-preg-w43-w1-000",
+    "type": "choice",
+    "question": "出生通知票 是什么意思?",
+    "options": [
+      "测体重",
+      "先兆早产",
+      "胎儿心跳",
+      "出生通知单(明信片)"
+    ],
+    "answerIndex": 3,
+    "explanation": "出生通知票(しゅっせいつうちひょう) = 出生通知单(明信片)"
+  },
+  {
+    "id": "pregnancy-preg-w43-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "出生通知票",
+    "options": [
+      "胎儿心跳",
+      "奶粉",
+      "出生通知单(明信片)",
+      "出生登记"
+    ],
+    "answerIndex": 2,
+    "explanation": "出生通知票(しゅっせいつうちひょう) = 出生通知单(明信片)"
+  },
+  {
+    "id": "pregnancy-preg-w43-w3-000",
+    "type": "choice",
+    "question": "出生通知单(明信片) 用日语怎么说?",
+    "options": [
+      "産婦人科医",
+      "産婦人科",
+      "育休",
+      "出生通知票"
+    ],
+    "answerIndex": 3,
+    "explanation": "出生通知票(しゅっせいつうちひょう) = 出生通知单(明信片)"
+  },
+  {
+    "id": "pregnancy-preg-w43-w4-000",
+    "type": "choice",
+    "question": "出生通知票 的读音是?",
+    "options": [
+      "しゅっせいつうちひょう",
+      "しんせいじ",
+      "らまーずほう",
+      "もくよく"
+    ],
+    "answerIndex": 0,
+    "explanation": "出生通知票 = しゅっせいつうちひょう(出生通知单(明信片))"
+  },
+  {
+    "id": "pregnancy-preg-w43-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "出生通知票",
+    "answer": "しゅっせいつうちひょう|shussei-tsuuchihyou",
+    "answerFormat": "hiragana",
+    "explanation": "出生通知票 = しゅっせいつうちひょう(出生通知单(明信片))"
+  },
+  {
+    "id": "pregnancy-preg-w43-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "出生通知票",
+    "answer": "しゅっせいつうちひょう|shussei-tsuuchihyou",
+    "answerFormat": "hiragana",
+    "explanation": "出生通知票 = しゅっせいつうちひょう(出生通知单(明信片))"
+  },
+  {
+    "id": "pregnancy-preg-w44-w1-000",
+    "type": "choice",
+    "question": "母親学級 是什么意思?",
+    "options": [
+      "计划分娩(催产)",
+      "胎盘",
+      "母亲课堂",
+      "分娩(医学词)"
+    ],
+    "answerIndex": 2,
+    "explanation": "母親学級(ははおやがっきゅう) = 母亲课堂"
+  },
+  {
+    "id": "pregnancy-preg-w44-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "母親学級",
+    "options": [
+      "孕早期(~15 周)",
+      "超声波(检查)",
+      "孕妇徽章(挂在包上)",
+      "母亲课堂"
+    ],
+    "answerIndex": 3,
+    "explanation": "母親学級(ははおやがっきゅう) = 母亲课堂"
+  },
+  {
+    "id": "pregnancy-preg-w44-w3-000",
+    "type": "choice",
+    "question": "母亲课堂 用日语怎么说?",
+    "options": [
+      "産科",
+      "母子手帳",
+      "母親学級",
+      "妊娠届"
+    ],
+    "answerIndex": 2,
+    "explanation": "母親学級(ははおやがっきゅう) = 母亲课堂"
+  },
+  {
+    "id": "pregnancy-preg-w44-w4-000",
+    "type": "choice",
+    "question": "母親学級 的读音是?",
+    "options": [
+      "ふじんか",
+      "ははおやがっきゅう",
+      "にんしん",
+      "じゅにゅう"
+    ],
+    "answerIndex": 1,
+    "explanation": "母親学級 = ははおやがっきゅう(母亲课堂)"
+  },
+  {
+    "id": "pregnancy-preg-w44-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "母親学級",
+    "answer": "ははおやがっきゅう|hahaoya-gakkyuu",
+    "answerFormat": "hiragana",
+    "explanation": "母親学級 = ははおやがっきゅう(母亲课堂)"
+  },
+  {
+    "id": "pregnancy-preg-w44-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "母親学級",
+    "answer": "ははおやがっきゅう|hahaoya-gakkyuu",
+    "answerFormat": "hiragana",
+    "explanation": "母親学級 = ははおやがっきゅう(母亲课堂)"
+  },
+  {
+    "id": "pregnancy-preg-w45-w1-000",
+    "type": "choice",
+    "question": "両親学級 是什么意思?",
+    "options": [
+      "父母课堂",
+      "助产士/助产师",
+      "生育一次性补助金(50 万)",
+      "会阴侧切"
+    ],
+    "answerIndex": 0,
+    "explanation": "両親学級(りょうしんがっきゅう) = 父母课堂"
+  },
+  {
+    "id": "pregnancy-preg-w45-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "両親学級",
+    "options": [
+      "出院",
+      "住院(待产)",
+      "回娘家生产",
+      "父母课堂"
+    ],
+    "answerIndex": 3,
+    "explanation": "両親学級(りょうしんがっきゅう) = 父母课堂"
+  },
+  {
+    "id": "pregnancy-preg-w45-w3-000",
+    "type": "choice",
+    "question": "父母课堂 用日语怎么说?",
+    "options": [
+      "帝王切開",
+      "会陰切開",
+      "出生前検査",
+      "両親学級"
+    ],
+    "answerIndex": 3,
+    "explanation": "両親学級(りょうしんがっきゅう) = 父母课堂"
+  },
+  {
+    "id": "pregnancy-preg-w45-w4-000",
+    "type": "choice",
+    "question": "両親学級 的读音是?",
+    "options": [
+      "ぼにゅう",
+      "にんしんしょき",
+      "りょうしんがっきゅう",
+      "まいなんばー"
+    ],
+    "answerIndex": 2,
+    "explanation": "両親学級 = りょうしんがっきゅう(父母课堂)"
+  },
+  {
+    "id": "pregnancy-preg-w45-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "両親学級",
+    "answer": "りょうしんがっきゅう|ryoushin-gakkyuu",
+    "answerFormat": "hiragana",
+    "explanation": "両親学級 = りょうしんがっきゅう(父母课堂)"
+  },
+  {
+    "id": "pregnancy-preg-w45-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "両親学級",
+    "answer": "りょうしんがっきゅう|ryoushin-gakkyuu",
+    "answerFormat": "hiragana",
+    "explanation": "両親学級 = りょうしんがっきゅう(父母课堂)"
+  },
+  {
+    "id": "pregnancy-preg-w46-w1-000",
+    "type": "choice",
+    "question": "母乳 是什么意思?",
+    "options": [
+      "会阴侧切",
+      "胎动",
+      "出生第七天仪式",
+      "母乳"
+    ],
+    "answerIndex": 3,
+    "explanation": "母乳(ぼにゅう) = 母乳"
+  },
+  {
+    "id": "pregnancy-preg-w46-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "母乳",
+    "options": [
+      "产前检查",
+      "母子健康手册",
+      "母乳",
+      "葡萄胎"
+    ],
+    "answerIndex": 2,
+    "explanation": "母乳(ぼにゅう) = 母乳"
+  },
+  {
+    "id": "pregnancy-preg-w46-w3-000",
+    "type": "choice",
+    "question": "母乳 用日语怎么说?",
+    "options": [
+      "マタニティマーク",
+      "母乳",
+      "両親学級",
+      "妊娠糖尿病"
+    ],
+    "answerIndex": 1,
+    "explanation": "母乳(ぼにゅう) = 母乳"
+  },
+  {
+    "id": "pregnancy-preg-w46-w4-000",
+    "type": "choice",
+    "question": "母乳 的读音是?",
+    "options": [
+      "おしちや",
+      "しんせいじ",
+      "せっぱくそうざん",
+      "ぼにゅう"
+    ],
+    "answerIndex": 3,
+    "explanation": "母乳 = ぼにゅう(母乳)"
+  },
+  {
+    "id": "pregnancy-preg-w46-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "母乳",
+    "answer": "ぼにゅう|bonyuu",
+    "answerFormat": "hiragana",
+    "explanation": "母乳 = ぼにゅう(母乳)"
+  },
+  {
+    "id": "pregnancy-preg-w46-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "母乳",
+    "answer": "ぼにゅう|bonyuu",
+    "answerFormat": "hiragana",
+    "explanation": "母乳 = ぼにゅう(母乳)"
+  },
+  {
+    "id": "pregnancy-preg-w47-w1-000",
+    "type": "choice",
+    "question": "ミルク 是什么意思?",
+    "options": [
+      "哺乳/喂奶",
+      "育儿假",
+      "奶粉",
+      "超声波(检查)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ミルク(みるく) = 奶粉"
+  },
+  {
+    "id": "pregnancy-preg-w47-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ミルク",
+    "options": [
+      "奶粉",
+      "会阴侧切",
+      "测体重",
+      "血糖值"
+    ],
+    "answerIndex": 0,
+    "explanation": "ミルク(みるく) = 奶粉"
+  },
+  {
+    "id": "pregnancy-preg-w47-w3-000",
+    "type": "choice",
+    "question": "奶粉 用日语怎么说?",
+    "options": [
+      "妊娠",
+      "ミルク",
+      "切迫早産",
+      "体重測定"
+    ],
+    "answerIndex": 1,
+    "explanation": "ミルク(みるく) = 奶粉"
+  },
+  {
+    "id": "pregnancy-preg-w47-w4-000",
+    "type": "choice",
+    "question": "ミルク 的读音是?",
+    "options": [
+      "さんか",
+      "みるく",
+      "じゅにゅう",
+      "さかご"
+    ],
+    "answerIndex": 1,
+    "explanation": "ミルク = みるく(奶粉)"
+  },
+  {
+    "id": "pregnancy-preg-w47-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ミルク",
+    "answer": "みるく|miruku",
+    "answerFormat": "hiragana",
+    "explanation": "ミルク = みるく(奶粉)"
+  },
+  {
+    "id": "pregnancy-preg-w47-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ミルク",
+    "answer": "みるく|miruku",
+    "answerFormat": "hiragana",
+    "explanation": "ミルク = みるく(奶粉)"
+  },
+  {
+    "id": "pregnancy-preg-w48-w1-000",
+    "type": "choice",
+    "question": "授乳 是什么意思?",
+    "options": [
+      "周数",
+      "生产费用",
+      "哺乳/喂奶",
+      "计划分娩(催产)"
+    ],
+    "answerIndex": 2,
+    "explanation": "授乳(じゅにゅう) = 哺乳/喂奶"
+  },
+  {
+    "id": "pregnancy-preg-w48-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "授乳",
+    "options": [
+      "哺乳/喂奶",
+      "洗澡(婴儿)",
+      "孕吐(汉字写法)",
+      "产科(只接生)"
+    ],
+    "answerIndex": 0,
+    "explanation": "授乳(じゅにゅう) = 哺乳/喂奶"
+  },
+  {
+    "id": "pregnancy-preg-w48-w3-000",
+    "type": "choice",
+    "question": "哺乳/喂奶 用日语怎么说?",
+    "options": [
+      "周数",
+      "産科",
+      "授乳",
+      "妊娠届出書"
+    ],
+    "answerIndex": 2,
+    "explanation": "授乳(じゅにゅう) = 哺乳/喂奶"
+  },
+  {
+    "id": "pregnancy-preg-w48-w4-000",
+    "type": "choice",
+    "question": "授乳 的读音是?",
+    "options": [
+      "ぼにゅう",
+      "おむつ",
+      "じゅにゅう",
+      "しゅっせいまえけんさ"
+    ],
+    "answerIndex": 2,
+    "explanation": "授乳 = じゅにゅう(哺乳/喂奶)"
+  },
+  {
+    "id": "pregnancy-preg-w48-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "授乳",
+    "answer": "じゅにゅう|junyuu",
+    "answerFormat": "hiragana",
+    "explanation": "授乳 = じゅにゅう(哺乳/喂奶)"
+  },
+  {
+    "id": "pregnancy-preg-w48-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "授乳",
+    "answer": "じゅにゅう|junyuu",
+    "answerFormat": "hiragana",
+    "explanation": "授乳 = じゅにゅう(哺乳/喂奶)"
+  },
+  {
+    "id": "pregnancy-preg-w49-w1-000",
+    "type": "choice",
+    "question": "沐浴 是什么意思?",
+    "options": [
+      "孕早期(~15 周)",
+      "个人编号(类似身份证号)",
+      "洗澡(婴儿)",
+      "婴儿"
+    ],
+    "answerIndex": 2,
+    "explanation": "沐浴(もくよく) = 洗澡(婴儿)"
+  },
+  {
+    "id": "pregnancy-preg-w49-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "沐浴",
+    "options": [
+      "破水",
+      "孕妇",
+      "洗澡(婴儿)",
+      "见红(产前征兆)"
+    ],
+    "answerIndex": 2,
+    "explanation": "沐浴(もくよく) = 洗澡(婴儿)"
+  },
+  {
+    "id": "pregnancy-preg-w49-w3-000",
+    "type": "choice",
+    "question": "洗澡(婴儿) 用日语怎么说?",
+    "options": [
+      "羊水検査",
+      "出生届",
+      "沐浴",
+      "無痛分娩"
+    ],
+    "answerIndex": 2,
+    "explanation": "沐浴(もくよく) = 洗澡(婴儿)"
+  },
+  {
+    "id": "pregnancy-preg-w49-w4-000",
+    "type": "choice",
+    "question": "沐浴 的读音是?",
+    "options": [
+      "しゅっさんてあてきん",
+      "もくよく",
+      "しゅっさんいくじいちじきん",
+      "けつえきけんさ"
+    ],
+    "answerIndex": 1,
+    "explanation": "沐浴 = もくよく(洗澡(婴儿))"
+  },
+  {
+    "id": "pregnancy-preg-w49-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "沐浴",
+    "answer": "もくよく|mokuyoku",
+    "answerFormat": "hiragana",
+    "explanation": "沐浴 = もくよく(洗澡(婴儿))"
+  },
+  {
+    "id": "pregnancy-preg-w49-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "沐浴",
+    "answer": "もくよく|mokuyoku",
+    "answerFormat": "hiragana",
+    "explanation": "沐浴 = もくよく(洗澡(婴儿))"
+  },
+  {
+    "id": "pregnancy-preg-w50-w1-000",
+    "type": "choice",
+    "question": "おむつ 是什么意思?",
+    "options": [
+      "尿布",
+      "妇科(不接生)",
+      "妊娠纹",
+      "尿检"
+    ],
+    "answerIndex": 0,
+    "explanation": "おむつ(おむつ) = 尿布"
+  },
+  {
+    "id": "pregnancy-preg-w50-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "おむつ",
+    "options": [
+      "孕妇徽章(挂在包上)",
+      "葡萄胎",
+      "胎儿心跳",
+      "尿布"
+    ],
+    "answerIndex": 3,
+    "explanation": "おむつ(おむつ) = 尿布"
+  },
+  {
+    "id": "pregnancy-preg-w50-w3-000",
+    "type": "choice",
+    "question": "尿布 用日语怎么说?",
+    "options": [
+      "沐浴",
+      "おむつ",
+      "お宮参り",
+      "胞衣"
+    ],
+    "answerIndex": 1,
+    "explanation": "おむつ(おむつ) = 尿布"
+  },
+  {
+    "id": "pregnancy-preg-w50-w4-000",
+    "type": "choice",
+    "question": "おむつ 的读音是?",
+    "options": [
+      "けつえきけんさ",
+      "おしちや",
+      "おむつ",
+      "にんぷけんしん"
+    ],
+    "answerIndex": 2,
+    "explanation": "おむつ = おむつ(尿布)"
+  },
+  {
+    "id": "pregnancy-preg-w50-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "おむつ",
+    "answer": "おむつ|omutsu",
+    "answerFormat": "hiragana",
+    "explanation": "おむつ = おむつ(尿布)"
+  },
+  {
+    "id": "pregnancy-preg-w50-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "おむつ",
+    "answer": "おむつ|omutsu",
+    "answerFormat": "hiragana",
+    "explanation": "おむつ = おむつ(尿布)"
+  },
+  {
+    "id": "pregnancy-preg-w51-w1-000",
+    "type": "choice",
+    "question": "新生児 是什么意思?",
+    "options": [
+      "出生第七天仪式",
+      "母子健康手册",
+      "新生儿",
+      "阵痛/宫缩"
+    ],
+    "answerIndex": 2,
+    "explanation": "新生児(しんせいじ) = 新生儿"
+  },
+  {
+    "id": "pregnancy-preg-w51-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "新生児",
+    "options": [
+      "破水",
+      "会阴侧切",
+      "新生儿",
+      "戌日安产祈愿(传统)"
+    ],
+    "answerIndex": 2,
+    "explanation": "新生児(しんせいじ) = 新生儿"
+  },
+  {
+    "id": "pregnancy-preg-w51-w3-000",
+    "type": "choice",
+    "question": "新生儿 用日语怎么说?",
+    "options": [
+      "胎児心拍",
+      "聴覚スクリーニング",
+      "胎動",
+      "新生児"
+    ],
+    "answerIndex": 3,
+    "explanation": "新生児(しんせいじ) = 新生儿"
+  },
+  {
+    "id": "pregnancy-preg-w51-w4-000",
+    "type": "choice",
+    "question": "新生児 的读音是?",
+    "options": [
+      "ははおやがっきゅう",
+      "ほうい",
+      "しんせいじ",
+      "ひんけつ"
+    ],
+    "answerIndex": 2,
+    "explanation": "新生児 = しんせいじ(新生儿)"
+  },
+  {
+    "id": "pregnancy-preg-w51-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "新生児",
+    "answer": "しんせいじ|shinseiji",
+    "answerFormat": "hiragana",
+    "explanation": "新生児 = しんせいじ(新生儿)"
+  },
+  {
+    "id": "pregnancy-preg-w51-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "新生児",
+    "answer": "しんせいじ|shinseiji",
+    "answerFormat": "hiragana",
+    "explanation": "新生児 = しんせいじ(新生儿)"
+  },
+  {
+    "id": "pregnancy-preg-w52-w1-000",
+    "type": "choice",
+    "question": "乳児 是什么意思?",
+    "options": [
+      "贫血",
+      "剖腹产",
+      "婴儿",
+      "自然分娩/顺产"
+    ],
+    "answerIndex": 2,
+    "explanation": "乳児(にゅうじ) = 婴儿"
+  },
+  {
+    "id": "pregnancy-preg-w52-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "乳児",
+    "options": [
+      "听力筛查(新生儿)",
+      "个人编号(类似身份证号)",
+      "婴儿",
+      "先兆早产"
+    ],
+    "answerIndex": 2,
+    "explanation": "乳児(にゅうじ) = 婴儿"
+  },
+  {
+    "id": "pregnancy-preg-w52-w3-000",
+    "type": "choice",
+    "question": "婴儿 用日语怎么说?",
+    "options": [
+      "新生児",
+      "乳児",
+      "出生届",
+      "産休"
+    ],
+    "answerIndex": 1,
+    "explanation": "乳児(にゅうじ) = 婴儿"
+  },
+  {
+    "id": "pregnancy-preg-w52-w4-000",
+    "type": "choice",
+    "question": "乳児 的读音是?",
+    "options": [
+      "はり",
+      "さかご",
+      "にゅうじ",
+      "しゅっさんいくじいちじきん"
+    ],
+    "answerIndex": 2,
+    "explanation": "乳児 = にゅうじ(婴儿)"
+  },
+  {
+    "id": "pregnancy-preg-w52-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "乳児",
+    "answer": "にゅうじ|nyuuji",
+    "answerFormat": "hiragana",
+    "explanation": "乳児 = にゅうじ(婴儿)"
+  },
+  {
+    "id": "pregnancy-preg-w52-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "乳児",
+    "answer": "にゅうじ|nyuuji",
+    "answerFormat": "hiragana",
+    "explanation": "乳児 = にゅうじ(婴儿)"
+  },
+  {
+    "id": "pregnancy-preg-w53-w1-000",
+    "type": "choice",
+    "question": "聴覚スクリーニング 是什么意思?",
+    "options": [
+      "出院",
+      "听力筛查(新生儿)",
+      "出生通知单(明信片)",
+      "孕中期(16-27 周)"
+    ],
+    "answerIndex": 1,
+    "explanation": "聴覚スクリーニング(ちょうかくすくりーにんぐ) = 听力筛查(新生儿)"
+  },
+  {
+    "id": "pregnancy-preg-w53-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "聴覚スクリーニング",
+    "options": [
+      "助产士/助产师",
+      "听力筛查(新生儿)",
+      "怀孕周数",
+      "计划分娩(催产)"
+    ],
+    "answerIndex": 1,
+    "explanation": "聴覚スクリーニング(ちょうかくすくりーにんぐ) = 听力筛查(新生儿)"
+  },
+  {
+    "id": "pregnancy-preg-w53-w3-000",
+    "type": "choice",
+    "question": "听力筛查(新生儿) 用日语怎么说?",
+    "options": [
+      "母乳",
+      "聴覚スクリーニング",
+      "退院",
+      "産休"
+    ],
+    "answerIndex": 1,
+    "explanation": "聴覚スクリーニング(ちょうかくすくりーにんぐ) = 听力筛查(新生儿)"
+  },
+  {
+    "id": "pregnancy-preg-w53-w4-000",
+    "type": "choice",
+    "question": "聴覚スクリーニング 的读音是?",
+    "options": [
+      "たいじしんぱく",
+      "ひんけつ",
+      "ちょうかくすくりーにんぐ",
+      "じんつう"
+    ],
+    "answerIndex": 2,
+    "explanation": "聴覚スクリーニング = ちょうかくすくりーにんぐ(听力筛查(新生儿))"
+  },
+  {
+    "id": "pregnancy-preg-w53-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "聴覚スクリーニング",
+    "answer": "ちょうかくすくりーにんぐ|choukaku-sukuriiningu",
+    "answerFormat": "hiragana",
+    "explanation": "聴覚スクリーニング = ちょうかくすくりーにんぐ(听力筛查(新生儿))"
+  },
+  {
+    "id": "pregnancy-preg-w53-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "聴覚スクリーニング",
+    "answer": "ちょうかくすくりーにんぐ|choukaku-sukuriiningu",
+    "answerFormat": "hiragana",
+    "explanation": "聴覚スクリーニング = ちょうかくすくりーにんぐ(听力筛查(新生儿))"
+  },
+  {
+    "id": "pregnancy-preg-w54-w1-000",
+    "type": "choice",
+    "question": "先天性異常 是什么意思?",
+    "options": [
+      "脐带",
+      "产检补助券",
+      "先天性异常",
+      "预产期"
+    ],
+    "answerIndex": 2,
+    "explanation": "先天性異常(せんせいいじょう) = 先天性异常"
+  },
+  {
+    "id": "pregnancy-preg-w54-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "先天性異常",
+    "options": [
+      "出生一个月参拜神社",
+      "母乳",
+      "先天性异常",
+      "葡萄胎"
+    ],
+    "answerIndex": 2,
+    "explanation": "先天性異常(せんせいいじょう) = 先天性异常"
+  },
+  {
+    "id": "pregnancy-preg-w54-w3-000",
+    "type": "choice",
+    "question": "先天性异常 用日语怎么说?",
+    "options": [
+      "血液検査",
+      "先天性異常",
+      "お宮参り",
+      "自然分娩"
+    ],
+    "answerIndex": 1,
+    "explanation": "先天性異常(せんせいいじょう) = 先天性异常"
+  },
+  {
+    "id": "pregnancy-preg-w54-w4-000",
+    "type": "choice",
+    "question": "先天性異常 的读音是?",
+    "options": [
+      "せんせいいじょう",
+      "はり",
+      "たいじしんぱく",
+      "ははおやがっきゅう"
+    ],
+    "answerIndex": 0,
+    "explanation": "先天性異常 = せんせいいじょう(先天性异常)"
+  },
+  {
+    "id": "pregnancy-preg-w54-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "先天性異常",
+    "answer": "せんせいいじょう|sensei-ijou",
+    "answerFormat": "hiragana",
+    "explanation": "先天性異常 = せんせいいじょう(先天性异常)"
+  },
+  {
+    "id": "pregnancy-preg-w54-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "先天性異常",
+    "answer": "せんせいいじょう|sensei-ijou",
+    "answerFormat": "hiragana",
+    "explanation": "先天性異常 = せんせいいじょう(先天性异常)"
+  },
+  {
+    "id": "pregnancy-preg-w55-w1-000",
+    "type": "choice",
+    "question": "出生前検査 是什么意思?",
+    "options": [
+      "生产/生孩子",
+      "产前检查",
+      "奶粉",
+      "拉玛泽呼吸法"
+    ],
+    "answerIndex": 1,
+    "explanation": "出生前検査(しゅっせいまえけんさ) = 产前检查"
+  },
+  {
+    "id": "pregnancy-preg-w55-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "出生前検査",
+    "options": [
+      "出院",
+      "产前检查",
+      "妊娠高血压综合征",
+      "先天性异常"
+    ],
+    "answerIndex": 1,
+    "explanation": "出生前検査(しゅっせいまえけんさ) = 产前检查"
+  },
+  {
+    "id": "pregnancy-preg-w55-w3-000",
+    "type": "choice",
+    "question": "产前检查 用日语怎么说?",
+    "options": [
+      "胞状奇胎",
+      "胎児心拍",
+      "体重測定",
+      "出生前検査"
+    ],
+    "answerIndex": 3,
+    "explanation": "出生前検査(しゅっせいまえけんさ) = 产前检查"
+  },
+  {
+    "id": "pregnancy-preg-w55-w4-000",
+    "type": "choice",
+    "question": "出生前検査 的读音是?",
+    "options": [
+      "さかご",
+      "へそのお",
+      "しゅっせいまえけんさ",
+      "しゅうすう"
+    ],
+    "answerIndex": 2,
+    "explanation": "出生前検査 = しゅっせいまえけんさ(产前检查)"
+  },
+  {
+    "id": "pregnancy-preg-w55-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "出生前検査",
+    "answer": "しゅっせいまえけんさ|shusseimae-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "出生前検査 = しゅっせいまえけんさ(产前检查)"
+  },
+  {
+    "id": "pregnancy-preg-w55-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "出生前検査",
+    "answer": "しゅっせいまえけんさ|shusseimae-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "出生前検査 = しゅっせいまえけんさ(产前检查)"
+  },
+  {
+    "id": "pregnancy-preg-w56-w1-000",
+    "type": "choice",
+    "question": "NIPT 是什么意思?",
+    "options": [
+      "母子手册(简称)",
+      "无痛分娩",
+      "无创产前基因检测",
+      "孕中期(16-27 周)"
+    ],
+    "answerIndex": 2,
+    "explanation": "NIPT(にぷと) = 无创产前基因检测"
+  },
+  {
+    "id": "pregnancy-preg-w56-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "NIPT",
+    "options": [
+      "无创产前基因检测",
+      "育儿假",
+      "羊水",
+      "分娩(医学词)"
+    ],
+    "answerIndex": 0,
+    "explanation": "NIPT(にぷと) = 无创产前基因检测"
+  },
+  {
+    "id": "pregnancy-preg-w56-w3-000",
+    "type": "choice",
+    "question": "无创产前基因检测 用日语怎么说?",
+    "options": [
+      "産婦人科医",
+      "母親学級",
+      "NIPT",
+      "出生通知票"
+    ],
+    "answerIndex": 2,
+    "explanation": "NIPT(にぷと) = 无创产前基因检测"
+  },
+  {
+    "id": "pregnancy-preg-w56-w4-000",
+    "type": "choice",
+    "question": "NIPT 的读音是?",
+    "options": [
+      "おむつ",
+      "にぷと",
+      "つわり",
+      "ぼしてちょう"
+    ],
+    "answerIndex": 1,
+    "explanation": "NIPT = にぷと(无创产前基因检测)"
+  },
+  {
+    "id": "pregnancy-preg-w56-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "NIPT",
+    "answer": "にぷと|nipto",
+    "answerFormat": "hiragana",
+    "explanation": "NIPT = にぷと(无创产前基因检测)"
+  },
+  {
+    "id": "pregnancy-preg-w56-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "NIPT",
+    "answer": "にぷと|nipto",
+    "answerFormat": "hiragana",
+    "explanation": "NIPT = にぷと(无创产前基因检测)"
+  },
+  {
+    "id": "pregnancy-preg-w57-w1-000",
+    "type": "choice",
+    "question": "羊水検査 是什么意思?",
+    "options": [
+      "羊水检查",
+      "孕中期(16-27 周)",
+      "听力筛查(新生儿)",
+      "父母课堂"
+    ],
+    "answerIndex": 0,
+    "explanation": "羊水検査(ようすいけんさ) = 羊水检查"
+  },
+  {
+    "id": "pregnancy-preg-w57-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "羊水検査",
+    "options": [
+      "羊水检查",
+      "血检",
+      "母乳",
+      "子宫发紧(假宫缩)"
+    ],
+    "answerIndex": 0,
+    "explanation": "羊水検査(ようすいけんさ) = 羊水检查"
+  },
+  {
+    "id": "pregnancy-preg-w57-w3-000",
+    "type": "choice",
+    "question": "羊水检查 用日语怎么说?",
+    "options": [
+      "羊水検査",
+      "母乳",
+      "両親学級",
+      "妊娠糖尿病"
+    ],
+    "answerIndex": 0,
+    "explanation": "羊水検査(ようすいけんさ) = 羊水检查"
+  },
+  {
+    "id": "pregnancy-preg-w57-w4-000",
+    "type": "choice",
+    "question": "羊水検査 的读音是?",
+    "options": [
+      "にんしんこうけつあつしょうこうぐん",
+      "ほけんし",
+      "ようすいけんさ",
+      "はり"
+    ],
+    "answerIndex": 2,
+    "explanation": "羊水検査 = ようすいけんさ(羊水检查)"
+  },
+  {
+    "id": "pregnancy-preg-w57-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "羊水検査",
+    "answer": "ようすいけんさ|yousui-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "羊水検査 = ようすいけんさ(羊水检查)"
+  },
+  {
+    "id": "pregnancy-preg-w57-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "羊水検査",
+    "answer": "ようすいけんさ|yousui-kensa",
+    "answerFormat": "hiragana",
+    "explanation": "羊水検査 = ようすいけんさ(羊水检查)"
+  },
+  {
+    "id": "pregnancy-preg-w58-w1-000",
+    "type": "choice",
+    "question": "入院 是什么意思?",
+    "options": [
+      "妊娠高血压综合征",
+      "孕早期(~15 周)",
+      "测血压",
+      "住院(待产)"
+    ],
+    "answerIndex": 3,
+    "explanation": "入院(にゅういん) = 住院(待产)"
+  },
+  {
+    "id": "pregnancy-preg-w58-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "入院",
+    "options": [
+      "住院(待产)",
+      "先兆早产",
+      "见红(产前征兆)",
+      "孕早期(~15 周)"
+    ],
+    "answerIndex": 0,
+    "explanation": "入院(にゅういん) = 住院(待产)"
+  },
+  {
+    "id": "pregnancy-preg-w58-w3-000",
+    "type": "choice",
+    "question": "住院(待产) 用日语怎么说?",
+    "options": [
+      "母親学級",
+      "NIPT",
+      "入院",
+      "おしるし"
+    ],
+    "answerIndex": 2,
+    "explanation": "入院(にゅういん) = 住院(待产)"
+  },
+  {
+    "id": "pregnancy-preg-w58-w4-000",
+    "type": "choice",
+    "question": "入院 的读音是?",
+    "options": [
+      "にゅういん",
+      "へそのお",
+      "にんしんこうけつあつしょうこうぐん",
+      "しゅっせいとどけ"
+    ],
+    "answerIndex": 0,
+    "explanation": "入院 = にゅういん(住院(待产))"
+  },
+  {
+    "id": "pregnancy-preg-w58-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "入院",
+    "answer": "にゅういん|nyuuin",
+    "answerFormat": "hiragana",
+    "explanation": "入院 = にゅういん(住院(待产))"
+  },
+  {
+    "id": "pregnancy-preg-w58-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "入院",
+    "answer": "にゅういん|nyuuin",
+    "answerFormat": "hiragana",
+    "explanation": "入院 = にゅういん(住院(待产))"
+  },
+  {
+    "id": "pregnancy-preg-w59-w1-000",
+    "type": "choice",
+    "question": "退院 是什么意思?",
+    "options": [
+      "母亲课堂",
+      "出院",
+      "妇产科医生",
+      "母子健康手册"
+    ],
+    "answerIndex": 1,
+    "explanation": "退院(たいいん) = 出院"
+  },
+  {
+    "id": "pregnancy-preg-w59-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "退院",
+    "options": [
+      "出院",
+      "超声波(检查)",
+      "孕妇腹带",
+      "预产期"
+    ],
+    "answerIndex": 0,
+    "explanation": "退院(たいいん) = 出院"
+  },
+  {
+    "id": "pregnancy-preg-w59-w3-000",
+    "type": "choice",
+    "question": "出院 用日语怎么说?",
+    "options": [
+      "退院",
+      "妊婦",
+      "受診券",
+      "陣痛"
+    ],
+    "answerIndex": 0,
+    "explanation": "退院(たいいん) = 出院"
+  },
+  {
+    "id": "pregnancy-preg-w59-w4-000",
+    "type": "choice",
+    "question": "退院 的读音是?",
+    "options": [
+      "しゅっさんよていび",
+      "しんせいじ",
+      "たいいん",
+      "にんしんしゅうすう"
+    ],
+    "answerIndex": 2,
+    "explanation": "退院 = たいいん(出院)"
+  },
+  {
+    "id": "pregnancy-preg-w59-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "退院",
+    "answer": "たいいん|taiin",
+    "answerFormat": "hiragana",
+    "explanation": "退院 = たいいん(出院)"
+  },
+  {
+    "id": "pregnancy-preg-w59-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "退院",
+    "answer": "たいいん|taiin",
+    "answerFormat": "hiragana",
+    "explanation": "退院 = たいいん(出院)"
+  },
+  {
+    "id": "pregnancy-preg-w60-w1-000",
+    "type": "choice",
+    "question": "里帰り出産 是什么意思?",
+    "options": [
+      "出生登记",
+      "回娘家生产",
+      "妊娠申报表(正式)",
+      "戌日安产祈愿(传统)"
+    ],
+    "answerIndex": 1,
+    "explanation": "里帰り出産(さとがえりしゅっさん) = 回娘家生产"
+  },
+  {
+    "id": "pregnancy-preg-w60-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "里帰り出産",
+    "options": [
+      "出生通知单(明信片)",
+      "回娘家生产",
+      "妇产科医生",
+      "破水"
+    ],
+    "answerIndex": 1,
+    "explanation": "里帰り出産(さとがえりしゅっさん) = 回娘家生产"
+  },
+  {
+    "id": "pregnancy-preg-w60-w3-000",
+    "type": "choice",
+    "question": "回娘家生产 用日语怎么说?",
+    "options": [
+      "里帰り出産",
+      "切迫早産",
+      "貧血",
+      "つわり"
+    ],
+    "answerIndex": 0,
+    "explanation": "里帰り出産(さとがえりしゅっさん) = 回娘家生产"
+  },
+  {
+    "id": "pregnancy-preg-w60-w4-000",
+    "type": "choice",
+    "question": "里帰り出産 的读音是?",
+    "options": [
+      "じんつう",
+      "さとがえりしゅっさん",
+      "にゅういん",
+      "もくよく"
+    ],
+    "answerIndex": 1,
+    "explanation": "里帰り出産 = さとがえりしゅっさん(回娘家生产)"
+  },
+  {
+    "id": "pregnancy-preg-w60-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "里帰り出産",
+    "answer": "さとがえりしゅっさん|satogaeri-shussan",
+    "answerFormat": "hiragana",
+    "explanation": "里帰り出産 = さとがえりしゅっさん(回娘家生产)"
+  },
+  {
+    "id": "pregnancy-preg-w60-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "里帰り出産",
+    "answer": "さとがえりしゅっさん|satogaeri-shussan",
+    "answerFormat": "hiragana",
+    "explanation": "里帰り出産 = さとがえりしゅっさん(回娘家生产)"
+  },
+  {
+    "id": "pregnancy-preg-w61-w1-000",
+    "type": "choice",
+    "question": "マタニティマーク 是什么意思?",
+    "options": [
+      "孕妇徽章(挂在包上)",
+      "妇产科",
+      "育儿假",
+      "母子健康手册"
+    ],
+    "answerIndex": 0,
+    "explanation": "マタニティマーク(またまにぃまーく) = 孕妇徽章(挂在包上)"
+  },
+  {
+    "id": "pregnancy-preg-w61-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "マタニティマーク",
+    "options": [
+      "回娘家生产",
+      "孕妇徽章(挂在包上)",
+      "拉玛泽呼吸法",
+      "孕早期(~15 周)"
+    ],
+    "answerIndex": 1,
+    "explanation": "マタニティマーク(またまにぃまーく) = 孕妇徽章(挂在包上)"
+  },
+  {
+    "id": "pregnancy-preg-w61-w3-000",
+    "type": "choice",
+    "question": "孕妇徽章(挂在包上) 用日语怎么说?",
+    "options": [
+      "血圧測定",
+      "マタニティマーク",
+      "出生前検査",
+      "張り"
+    ],
+    "answerIndex": 1,
+    "explanation": "マタニティマーク(またまにぃまーく) = 孕妇徽章(挂在包上)"
+  },
+  {
+    "id": "pregnancy-preg-w61-w4-000",
+    "type": "choice",
+    "question": "マタニティマーク 的读音是?",
+    "options": [
+      "にんしんとうにょうびょう",
+      "またまにぃまーく",
+      "おしちや",
+      "さんか"
+    ],
+    "answerIndex": 1,
+    "explanation": "マタニティマーク = またまにぃまーく(孕妇徽章(挂在包上))"
+  },
+  {
+    "id": "pregnancy-preg-w61-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "マタニティマーク",
+    "answer": "またまにぃまーく|matanitii-maaku",
+    "answerFormat": "hiragana",
+    "explanation": "マタニティマーク = またまにぃまーく(孕妇徽章(挂在包上))"
+  },
+  {
+    "id": "pregnancy-preg-w61-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "マタニティマーク",
+    "answer": "またまにぃまーく|matanitii-maaku",
+    "answerFormat": "hiragana",
+    "explanation": "マタニティマーク = またまにぃまーく(孕妇徽章(挂在包上))"
+  },
+  {
+    "id": "pregnancy-preg-w62-w1-000",
+    "type": "choice",
+    "question": "ラマーズ法 是什么意思?",
+    "options": [
+      "拉玛泽呼吸法",
+      "母子健康手册",
+      "妊娠高血压综合征",
+      "孕吐/害喜"
+    ],
+    "answerIndex": 0,
+    "explanation": "ラマーズ法(らまーずほう) = 拉玛泽呼吸法"
+  },
+  {
+    "id": "pregnancy-preg-w62-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "ラマーズ法",
+    "options": [
+      "周数",
+      "母子健康手册",
+      "拉玛泽呼吸法",
+      "戌日安产祈愿(传统)"
+    ],
+    "answerIndex": 2,
+    "explanation": "ラマーズ法(らまーずほう) = 拉玛泽呼吸法"
+  },
+  {
+    "id": "pregnancy-preg-w62-w3-000",
+    "type": "choice",
+    "question": "拉玛泽呼吸法 用日语怎么说?",
+    "options": [
+      "ラマーズ法",
+      "産婦人科",
+      "先天性異常",
+      "両親学級"
+    ],
+    "answerIndex": 0,
+    "explanation": "ラマーズ法(らまーずほう) = 拉玛泽呼吸法"
+  },
+  {
+    "id": "pregnancy-preg-w62-w4-000",
+    "type": "choice",
+    "question": "ラマーズ法 的读音是?",
+    "options": [
+      "らまーずほう",
+      "もくよく",
+      "にんしん",
+      "はり"
+    ],
+    "answerIndex": 0,
+    "explanation": "ラマーズ法 = らまーずほう(拉玛泽呼吸法)"
+  },
+  {
+    "id": "pregnancy-preg-w62-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "ラマーズ法",
+    "answer": "らまーずほう|ramaazu-hou",
+    "answerFormat": "hiragana",
+    "explanation": "ラマーズ法 = らまーずほう(拉玛泽呼吸法)"
+  },
+  {
+    "id": "pregnancy-preg-w62-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "ラマーズ法",
+    "answer": "らまーずほう|ramaazu-hou",
+    "answerFormat": "hiragana",
+    "explanation": "ラマーズ法 = らまーずほう(拉玛泽呼吸法)"
+  },
+  {
+    "id": "pregnancy-preg-w63-w1-000",
+    "type": "choice",
+    "question": "会陰切開 是什么意思?",
+    "options": [
+      "测体重",
+      "会阴侧切",
+      "母亲课堂",
+      "血检"
+    ],
+    "answerIndex": 1,
+    "explanation": "会陰切開(えいんせっかい) = 会阴侧切"
+  },
+  {
+    "id": "pregnancy-preg-w63-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "会陰切開",
+    "options": [
+      "会阴侧切",
+      "母亲课堂",
+      "育儿假",
+      "拉玛泽呼吸法"
+    ],
+    "answerIndex": 0,
+    "explanation": "会陰切開(えいんせっかい) = 会阴侧切"
+  },
+  {
+    "id": "pregnancy-preg-w63-w3-000",
+    "type": "choice",
+    "question": "会阴侧切 用日语怎么说?",
+    "options": [
+      "羊水検査",
+      "会陰切開",
+      "へその緒",
+      "妊娠線"
+    ],
+    "answerIndex": 1,
+    "explanation": "会陰切開(えいんせっかい) = 会阴侧切"
+  },
+  {
+    "id": "pregnancy-preg-w63-w4-000",
+    "type": "choice",
+    "question": "会陰切開 的读音是?",
+    "options": [
+      "さんきゅう",
+      "えいんせっかい",
+      "いくきゅう",
+      "おしるし"
+    ],
+    "answerIndex": 1,
+    "explanation": "会陰切開 = えいんせっかい(会阴侧切)"
+  },
+  {
+    "id": "pregnancy-preg-w63-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "会陰切開",
+    "answer": "えいんせっかい|eirin-sekkai",
+    "answerFormat": "hiragana",
+    "explanation": "会陰切開 = えいんせっかい(会阴侧切)"
+  },
+  {
+    "id": "pregnancy-preg-w63-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "会陰切開",
+    "answer": "えいんせっかい|eirin-sekkai",
+    "answerFormat": "hiragana",
+    "explanation": "会陰切開 = えいんせっかい(会阴侧切)"
+  },
+  {
+    "id": "pregnancy-preg-w64-w1-000",
+    "type": "choice",
+    "question": "計画分娩 是什么意思?",
+    "options": [
+      "听力筛查(新生儿)",
+      "先兆早产",
+      "孕后期(28 周~)",
+      "计划分娩(催产)"
+    ],
+    "answerIndex": 3,
+    "explanation": "計画分娩(けいかくぶんべん) = 计划分娩(催产)"
+  },
+  {
+    "id": "pregnancy-preg-w64-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "計画分娩",
+    "options": [
+      "子宫发紧(假宫缩)",
+      "住院(待产)",
+      "生产/生孩子",
+      "计划分娩(催产)"
+    ],
+    "answerIndex": 3,
+    "explanation": "計画分娩(けいかくぶんべん) = 计划分娩(催产)"
+  },
+  {
+    "id": "pregnancy-preg-w64-w3-000",
+    "type": "choice",
+    "question": "计划分娩(催产) 用日语怎么说?",
+    "options": [
+      "乳児",
+      "羊水検査",
+      "計画分娩",
+      "おしるし"
+    ],
+    "answerIndex": 2,
+    "explanation": "計画分娩(けいかくぶんべん) = 计划分娩(催产)"
+  },
+  {
+    "id": "pregnancy-preg-w64-w4-000",
+    "type": "choice",
+    "question": "計画分娩 的读音是?",
+    "options": [
+      "ぶんべん",
+      "けいかくぶんべん",
+      "さかご",
+      "しゅっさんよていび"
+    ],
+    "answerIndex": 1,
+    "explanation": "計画分娩 = けいかくぶんべん(计划分娩(催产))"
+  },
+  {
+    "id": "pregnancy-preg-w64-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "計画分娩",
+    "answer": "けいかくぶんべん|keikaku-bunben",
+    "answerFormat": "hiragana",
+    "explanation": "計画分娩 = けいかくぶんべん(计划分娩(催产))"
+  },
+  {
+    "id": "pregnancy-preg-w64-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "計画分娩",
+    "answer": "けいかくぶんべん|keikaku-bunben",
+    "answerFormat": "hiragana",
+    "explanation": "計画分娩 = けいかくぶんべん(计划分娩(催产))"
+  },
+  {
+    "id": "pregnancy-preg-w65-w1-000",
+    "type": "choice",
+    "question": "出産費用 是什么意思?",
+    "options": [
+      "产检",
+      "出生第七天仪式",
+      "生产费用",
+      "预产期"
+    ],
+    "answerIndex": 2,
+    "explanation": "出産費用(しゅっさんひよう) = 生产费用"
+  },
+  {
+    "id": "pregnancy-preg-w65-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "出産費用",
+    "options": [
+      "胎动",
+      "出生一个月参拜神社",
+      "生产费用",
+      "妊娠纹"
+    ],
+    "answerIndex": 2,
+    "explanation": "出産費用(しゅっさんひよう) = 生产费用"
+  },
+  {
+    "id": "pregnancy-preg-w65-w3-000",
+    "type": "choice",
+    "question": "生产费用 用日语怎么说?",
+    "options": [
+      "体重測定",
+      "産休",
+      "出産費用",
+      "妊娠高血圧症候群"
+    ],
+    "answerIndex": 2,
+    "explanation": "出産費用(しゅっさんひよう) = 生产费用"
+  },
+  {
+    "id": "pregnancy-preg-w65-w4-000",
+    "type": "choice",
+    "question": "出産費用 的读音是?",
+    "options": [
+      "にんしんせん",
+      "ほうい",
+      "しゅっさんひよう",
+      "もくよく"
+    ],
+    "answerIndex": 2,
+    "explanation": "出産費用 = しゅっさんひよう(生产费用)"
+  },
+  {
+    "id": "pregnancy-preg-w65-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "出産費用",
+    "answer": "しゅっさんひよう|shussan-hiyou",
+    "answerFormat": "hiragana",
+    "explanation": "出産費用 = しゅっさんひよう(生产费用)"
+  },
+  {
+    "id": "pregnancy-preg-w65-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "出産費用",
+    "answer": "しゅっさんひよう|shussan-hiyou",
+    "answerFormat": "hiragana",
+    "explanation": "出産費用 = しゅっさんひよう(生产费用)"
+  },
+  {
+    "id": "pregnancy-preg-w66-w1-000",
+    "type": "choice",
+    "question": "産休 是什么意思?",
+    "options": [
+      "回娘家生产",
+      "尿检",
+      "羊水",
+      "产假"
+    ],
+    "answerIndex": 3,
+    "explanation": "産休(さんきゅう) = 产假"
+  },
+  {
+    "id": "pregnancy-preg-w66-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "産休",
+    "options": [
+      "血检",
+      "破水",
+      "产假",
+      "妇产科"
+    ],
+    "answerIndex": 2,
+    "explanation": "産休(さんきゅう) = 产假"
+  },
+  {
+    "id": "pregnancy-preg-w66-w3-000",
+    "type": "choice",
+    "question": "产假 用日语怎么说?",
+    "options": [
+      "出生前検査",
+      "陣痛",
+      "母子手帳",
+      "産休"
+    ],
+    "answerIndex": 3,
+    "explanation": "産休(さんきゅう) = 产假"
+  },
+  {
+    "id": "pregnancy-preg-w66-w4-000",
+    "type": "choice",
+    "question": "産休 的读音是?",
+    "options": [
+      "さんきゅう",
+      "おしるし",
+      "しぜんぶんべん",
+      "にんしんこうけつあつしょうこうぐん"
+    ],
+    "answerIndex": 0,
+    "explanation": "産休 = さんきゅう(产假)"
+  },
+  {
+    "id": "pregnancy-preg-w66-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "産休",
+    "answer": "さんきゅう|sankyu",
+    "answerFormat": "hiragana",
+    "explanation": "産休 = さんきゅう(产假)"
+  },
+  {
+    "id": "pregnancy-preg-w66-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "産休",
+    "answer": "さんきゅう|sankyu",
+    "answerFormat": "hiragana",
+    "explanation": "産休 = さんきゅう(产假)"
+  },
+  {
+    "id": "pregnancy-preg-w67-w1-000",
+    "type": "choice",
+    "question": "育休 是什么意思?",
+    "options": [
+      "血检",
+      "产检",
+      "脐带",
+      "育儿假"
+    ],
+    "answerIndex": 3,
+    "explanation": "育休(いくきゅう) = 育儿假"
+  },
+  {
+    "id": "pregnancy-preg-w67-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "育休",
+    "options": [
+      "生产费用",
+      "胎盘",
+      "育儿假",
+      "胎儿心跳"
+    ],
+    "answerIndex": 2,
+    "explanation": "育休(いくきゅう) = 育儿假"
+  },
+  {
+    "id": "pregnancy-preg-w67-w3-000",
+    "type": "choice",
+    "question": "育儿假 用日语怎么说?",
+    "options": [
+      "貧血",
+      "両親学級",
+      "妊婦",
+      "育休"
+    ],
+    "answerIndex": 3,
+    "explanation": "育休(いくきゅう) = 育儿假"
+  },
+  {
+    "id": "pregnancy-preg-w67-w4-000",
+    "type": "choice",
+    "question": "育休 的读音是?",
+    "options": [
+      "いくきゅう",
+      "じょさんし",
+      "にんしんこうけつあつしょうこうぐん",
+      "しゅっさんひよう"
+    ],
+    "answerIndex": 0,
+    "explanation": "育休 = いくきゅう(育儿假)"
+  },
+  {
+    "id": "pregnancy-preg-w67-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "育休",
+    "answer": "いくきゅう|ikukyuu",
+    "answerFormat": "hiragana",
+    "explanation": "育休 = いくきゅう(育儿假)"
+  },
+  {
+    "id": "pregnancy-preg-w67-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "育休",
+    "answer": "いくきゅう|ikukyuu",
+    "answerFormat": "hiragana",
+    "explanation": "育休 = いくきゅう(育儿假)"
+  },
+  {
+    "id": "pregnancy-preg-w68-w1-000",
+    "type": "choice",
+    "question": "出産手当金 是什么意思?",
+    "options": [
+      "生产津贴(上班的人)",
+      "妇科(不接生)",
+      "无创产前基因检测",
+      "出生第七天仪式"
+    ],
+    "answerIndex": 0,
+    "explanation": "出産手当金(しゅっさんてあてきん) = 生产津贴(上班的人)"
+  },
+  {
+    "id": "pregnancy-preg-w68-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "出産手当金",
+    "options": [
+      "戌日安产祈愿(传统)",
+      "生产津贴(上班的人)",
+      "周数",
+      "母亲课堂"
+    ],
+    "answerIndex": 1,
+    "explanation": "出産手当金(しゅっさんてあてきん) = 生产津贴(上班的人)"
+  },
+  {
+    "id": "pregnancy-preg-w68-w3-000",
+    "type": "choice",
+    "question": "生产津贴(上班的人) 用日语怎么说?",
+    "options": [
+      "出産手当金",
+      "妊娠",
+      "妊婦",
+      "出生届"
+    ],
+    "answerIndex": 0,
+    "explanation": "出産手当金(しゅっさんてあてきん) = 生产津贴(上班的人)"
+  },
+  {
+    "id": "pregnancy-preg-w68-w4-000",
+    "type": "choice",
+    "question": "出産手当金 的读音是?",
+    "options": [
+      "しゅっさんてあてきん",
+      "たいいん",
+      "みるく",
+      "たいじゅうそくてい"
+    ],
+    "answerIndex": 0,
+    "explanation": "出産手当金 = しゅっさんてあてきん(生产津贴(上班的人))"
+  },
+  {
+    "id": "pregnancy-preg-w68-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "出産手当金",
+    "answer": "しゅっさんてあてきん|shussan-teatekin",
+    "answerFormat": "hiragana",
+    "explanation": "出産手当金 = しゅっさんてあてきん(生产津贴(上班的人))"
+  },
+  {
+    "id": "pregnancy-preg-w68-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "出産手当金",
+    "answer": "しゅっさんてあてきん|shussan-teatekin",
+    "answerFormat": "hiragana",
+    "explanation": "出産手当金 = しゅっさんてあてきん(生产津贴(上班的人))"
+  },
+  {
+    "id": "pregnancy-preg-w69-w1-000",
+    "type": "choice",
+    "question": "マイナンバー 是什么意思?",
+    "options": [
+      "个人编号(类似身份证号)",
+      "B 超检查",
+      "妇产科医生",
+      "孕中期(16-27 周)"
+    ],
+    "answerIndex": 0,
+    "explanation": "マイナンバー(まいなんばー) = 个人编号(类似身份证号)"
+  },
+  {
+    "id": "pregnancy-preg-w69-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "マイナンバー",
+    "options": [
+      "个人编号(类似身份证号)",
+      "奶粉",
+      "生产津贴(上班的人)",
+      "计划分娩(催产)"
+    ],
+    "answerIndex": 0,
+    "explanation": "マイナンバー(まいなんばー) = 个人编号(类似身份证号)"
+  },
+  {
+    "id": "pregnancy-preg-w69-w3-000",
+    "type": "choice",
+    "question": "个人编号(类似身份证号) 用日语怎么说?",
+    "options": [
+      "胞衣",
+      "マイナンバー",
+      "育休",
+      "貧血"
+    ],
+    "answerIndex": 1,
+    "explanation": "マイナンバー(まいなんばー) = 个人编号(类似身份证号)"
+  },
+  {
+    "id": "pregnancy-preg-w69-w4-000",
+    "type": "choice",
+    "question": "マイナンバー 的读音是?",
+    "options": [
+      "ぼにゅう",
+      "つわり",
+      "まいなんばー",
+      "ほけんし"
+    ],
+    "answerIndex": 2,
+    "explanation": "マイナンバー = まいなんばー(个人编号(类似身份证号))"
+  },
+  {
+    "id": "pregnancy-preg-w69-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "マイナンバー",
+    "answer": "まいなんばー|mainanbaa",
+    "answerFormat": "hiragana",
+    "explanation": "マイナンバー = まいなんばー(个人编号(类似身份证号))"
+  },
+  {
+    "id": "pregnancy-preg-w69-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "マイナンバー",
+    "answer": "まいなんばー|mainanbaa",
+    "answerFormat": "hiragana",
+    "explanation": "マイナンバー = まいなんばー(个人编号(类似身份证号))"
+  },
+  {
+    "id": "pregnancy-preg-w70-w1-000",
+    "type": "choice",
+    "question": "妊娠届出書 是什么意思?",
+    "options": [
+      "超声波(检查)",
+      "生育一次性补助金(50 万)",
+      "出生登记",
+      "妊娠申报表(正式)"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠届出書(にんしんとどけしょ) = 妊娠申报表(正式)"
+  },
+  {
+    "id": "pregnancy-preg-w70-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊娠届出書",
+    "options": [
+      "孕妇腹带",
+      "羊水",
+      "妊娠申报表(正式)",
+      "生产费用"
+    ],
+    "answerIndex": 2,
+    "explanation": "妊娠届出書(にんしんとどけしょ) = 妊娠申报表(正式)"
+  },
+  {
+    "id": "pregnancy-preg-w70-w3-000",
+    "type": "choice",
+    "question": "妊娠申报表(正式) 用日语怎么说?",
+    "options": [
+      "出生届",
+      "切迫早産",
+      "沐浴",
+      "妊娠届出書"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠届出書(にんしんとどけしょ) = 妊娠申报表(正式)"
+  },
+  {
+    "id": "pregnancy-preg-w70-w4-000",
+    "type": "choice",
+    "question": "妊娠届出書 的读音是?",
+    "options": [
+      "しゅっせいまえけんさ",
+      "にんしんとどけしょ",
+      "けいかくぶんべん",
+      "せっぱくそうざん"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊娠届出書 = にんしんとどけしょ(妊娠申报表(正式))"
+  },
+  {
+    "id": "pregnancy-preg-w70-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊娠届出書",
+    "answer": "にんしんとどけしょ|ninshin-todokesho",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠届出書 = にんしんとどけしょ(妊娠申报表(正式))"
+  },
+  {
+    "id": "pregnancy-preg-w70-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊娠届出書",
+    "answer": "にんしんとどけしょ|ninshin-todokesho",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠届出書 = にんしんとどけしょ(妊娠申报表(正式))"
+  },
+  {
+    "id": "pregnancy-preg-w71-w1-000",
+    "type": "choice",
+    "question": "胎児心拍 是什么意思?",
+    "options": [
+      "超声波(检查)",
+      "血糖值",
+      "胎儿心跳",
+      "个人编号(类似身份证号)"
+    ],
+    "answerIndex": 2,
+    "explanation": "胎児心拍(たいじしんぱく) = 胎儿心跳"
+  },
+  {
+    "id": "pregnancy-preg-w71-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "胎児心拍",
+    "options": [
+      "脐带",
+      "生产/生孩子",
+      "会阴侧切",
+      "胎儿心跳"
+    ],
+    "answerIndex": 3,
+    "explanation": "胎児心拍(たいじしんぱく) = 胎儿心跳"
+  },
+  {
+    "id": "pregnancy-preg-w71-w3-000",
+    "type": "choice",
+    "question": "胎儿心跳 用日语怎么说?",
+    "options": [
+      "母子健康手帳",
+      "帝王切開",
+      "胎児心拍",
+      "退院"
+    ],
+    "answerIndex": 2,
+    "explanation": "胎児心拍(たいじしんぱく) = 胎儿心跳"
+  },
+  {
+    "id": "pregnancy-preg-w71-w4-000",
+    "type": "choice",
+    "question": "胎児心拍 的读音是?",
+    "options": [
+      "りょうしんがっきゅう",
+      "しんせいじ",
+      "たいじしんぱく",
+      "じゅにゅう"
+    ],
+    "answerIndex": 2,
+    "explanation": "胎児心拍 = たいじしんぱく(胎儿心跳)"
+  },
+  {
+    "id": "pregnancy-preg-w71-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "胎児心拍",
+    "answer": "たいじしんぱく|taiji-shinpaku",
+    "answerFormat": "hiragana",
+    "explanation": "胎児心拍 = たいじしんぱく(胎儿心跳)"
+  },
+  {
+    "id": "pregnancy-preg-w71-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "胎児心拍",
+    "answer": "たいじしんぱく|taiji-shinpaku",
+    "answerFormat": "hiragana",
+    "explanation": "胎児心拍 = たいじしんぱく(胎儿心跳)"
+  },
+  {
+    "id": "pregnancy-preg-w72-w1-000",
+    "type": "choice",
+    "question": "周数 是什么意思?",
+    "options": [
+      "周数",
+      "孕吐(汉字写法)",
+      "新生儿",
+      "无痛分娩"
+    ],
+    "answerIndex": 0,
+    "explanation": "周数(しゅうすう) = 周数"
+  },
+  {
+    "id": "pregnancy-preg-w72-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "周数",
+    "options": [
+      "尿布",
+      "周数",
+      "见红(产前征兆)",
+      "胎动"
+    ],
+    "answerIndex": 1,
+    "explanation": "周数(しゅうすう) = 周数"
+  },
+  {
+    "id": "pregnancy-preg-w72-w3-000",
+    "type": "choice",
+    "question": "周数 用日语怎么说?",
+    "options": [
+      "羊水検査",
+      "周数",
+      "逆子",
+      "出産育児一時金"
+    ],
+    "answerIndex": 1,
+    "explanation": "周数(しゅうすう) = 周数"
+  },
+  {
+    "id": "pregnancy-preg-w72-w4-000",
+    "type": "choice",
+    "question": "周数 的读音是?",
+    "options": [
+      "しゅうすう",
+      "いぬのひのあんざんきがん",
+      "にんぷけんしん",
+      "ちょうかくすくりーにんぐ"
+    ],
+    "answerIndex": 0,
+    "explanation": "周数 = しゅうすう(周数)"
+  },
+  {
+    "id": "pregnancy-preg-w72-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "周数",
+    "answer": "しゅうすう|shuusuu",
+    "answerFormat": "hiragana",
+    "explanation": "周数 = しゅうすう(周数)"
+  },
+  {
+    "id": "pregnancy-preg-w72-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "周数",
+    "answer": "しゅうすう|shuusuu",
+    "answerFormat": "hiragana",
+    "explanation": "周数 = しゅうすう(周数)"
+  },
+  {
+    "id": "pregnancy-preg-w73-w1-000",
+    "type": "choice",
+    "question": "切迫早産 是什么意思?",
+    "options": [
+      "母亲课堂",
+      "计划分娩(催产)",
+      "测体重",
+      "先兆早产"
+    ],
+    "answerIndex": 3,
+    "explanation": "切迫早産(せっぱくそうざん) = 先兆早产"
+  },
+  {
+    "id": "pregnancy-preg-w73-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "切迫早産",
+    "options": [
+      "新生儿",
+      "羊水",
+      "出生通知单(明信片)",
+      "先兆早产"
+    ],
+    "answerIndex": 3,
+    "explanation": "切迫早産(せっぱくそうざん) = 先兆早产"
+  },
+  {
+    "id": "pregnancy-preg-w73-w3-000",
+    "type": "choice",
+    "question": "先兆早产 用日语怎么说?",
+    "options": [
+      "お七夜",
+      "分娩",
+      "切迫早産",
+      "出産育児一時金"
+    ],
+    "answerIndex": 2,
+    "explanation": "切迫早産(せっぱくそうざん) = 先兆早产"
+  },
+  {
+    "id": "pregnancy-preg-w73-w4-000",
+    "type": "choice",
+    "question": "切迫早産 的读音是?",
+    "options": [
+      "せっぱくそうざん",
+      "しゅっさんひよう",
+      "むつうぶんべん",
+      "にんしんしゅうすう"
+    ],
+    "answerIndex": 0,
+    "explanation": "切迫早産 = せっぱくそうざん(先兆早产)"
+  },
+  {
+    "id": "pregnancy-preg-w73-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "切迫早産",
+    "answer": "せっぱくそうざん|seppaku-souzan",
+    "answerFormat": "hiragana",
+    "explanation": "切迫早産 = せっぱくそうざん(先兆早产)"
+  },
+  {
+    "id": "pregnancy-preg-w73-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "切迫早産",
+    "answer": "せっぱくそうざん|seppaku-souzan",
+    "answerFormat": "hiragana",
+    "explanation": "切迫早産 = せっぱくそうざん(先兆早产)"
+  },
+  {
+    "id": "pregnancy-preg-w74-w1-000",
+    "type": "choice",
+    "question": "胞状奇胎 是什么意思?",
+    "options": [
+      "产检补助券",
+      "先兆早产",
+      "羊水",
+      "葡萄胎"
+    ],
+    "answerIndex": 3,
+    "explanation": "胞状奇胎(ほうじょうきたい) = 葡萄胎"
+  },
+  {
+    "id": "pregnancy-preg-w74-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "胞状奇胎",
+    "options": [
+      "B 超检查",
+      "产假",
+      "葡萄胎",
+      "周数"
+    ],
+    "answerIndex": 2,
+    "explanation": "胞状奇胎(ほうじょうきたい) = 葡萄胎"
+  },
+  {
+    "id": "pregnancy-preg-w74-w3-000",
+    "type": "choice",
+    "question": "葡萄胎 用日语怎么说?",
+    "options": [
+      "胞状奇胎",
+      "尿検査",
+      "お宮参り",
+      "超音波"
+    ],
+    "answerIndex": 0,
+    "explanation": "胞状奇胎(ほうじょうきたい) = 葡萄胎"
+  },
+  {
+    "id": "pregnancy-preg-w74-w4-000",
+    "type": "choice",
+    "question": "胞状奇胎 的读音是?",
+    "options": [
+      "しゅっさんひよう",
+      "ほうじょうきたい",
+      "しぜんぶんべん",
+      "えいんせっかい"
+    ],
+    "answerIndex": 1,
+    "explanation": "胞状奇胎 = ほうじょうきたい(葡萄胎)"
+  },
+  {
+    "id": "pregnancy-preg-w74-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "胞状奇胎",
+    "answer": "ほうじょうきたい|houjou-kitai",
+    "answerFormat": "hiragana",
+    "explanation": "胞状奇胎 = ほうじょうきたい(葡萄胎)"
+  },
+  {
+    "id": "pregnancy-preg-w74-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "胞状奇胎",
+    "answer": "ほうじょうきたい|houjou-kitai",
+    "answerFormat": "hiragana",
+    "explanation": "胞状奇胎 = ほうじょうきたい(葡萄胎)"
+  },
+  {
+    "id": "pregnancy-preg-w75-w1-000",
+    "type": "choice",
+    "question": "胞衣 是什么意思?",
+    "options": [
+      "测血压",
+      "测体重",
+      "胎盘",
+      "生产/生孩子"
+    ],
+    "answerIndex": 2,
+    "explanation": "胞衣(ほうい) = 胎盘"
+  },
+  {
+    "id": "pregnancy-preg-w75-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "胞衣",
+    "options": [
+      "无创产前基因检测",
+      "孕妇徽章(挂在包上)",
+      "产前检查",
+      "胎盘"
+    ],
+    "answerIndex": 3,
+    "explanation": "胞衣(ほうい) = 胎盘"
+  },
+  {
+    "id": "pregnancy-preg-w75-w3-000",
+    "type": "choice",
+    "question": "胎盘 用日语怎么说?",
+    "options": [
+      "保健師",
+      "胞衣",
+      "戌の日の安産祈願",
+      "妊婦"
+    ],
+    "answerIndex": 1,
+    "explanation": "胞衣(ほうい) = 胎盘"
+  },
+  {
+    "id": "pregnancy-preg-w75-w4-000",
+    "type": "choice",
+    "question": "胞衣 的读音是?",
+    "options": [
+      "おしちや",
+      "にんしんしゅうすう",
+      "ほうい",
+      "さんか"
+    ],
+    "answerIndex": 2,
+    "explanation": "胞衣 = ほうい(胎盘)"
+  },
+  {
+    "id": "pregnancy-preg-w75-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "胞衣",
+    "answer": "ほうい|houi",
+    "answerFormat": "hiragana",
+    "explanation": "胞衣 = ほうい(胎盘)"
+  },
+  {
+    "id": "pregnancy-preg-w75-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "胞衣",
+    "answer": "ほうい|houi",
+    "answerFormat": "hiragana",
+    "explanation": "胞衣 = ほうい(胎盘)"
+  },
+  {
+    "id": "pregnancy-preg-w76-w1-000",
+    "type": "choice",
+    "question": "へその緒 是什么意思?",
+    "options": [
+      "剖腹产",
+      "阵痛/宫缩",
+      "住院(待产)",
+      "脐带"
+    ],
+    "answerIndex": 3,
+    "explanation": "へその緒(へそのお) = 脐带"
+  },
+  {
+    "id": "pregnancy-preg-w76-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "へその緒",
+    "options": [
+      "破水",
+      "脐带",
+      "戌日安产祈愿(传统)",
+      "妊娠糖尿病"
+    ],
+    "answerIndex": 1,
+    "explanation": "へその緒(へそのお) = 脐带"
+  },
+  {
+    "id": "pregnancy-preg-w76-w3-000",
+    "type": "choice",
+    "question": "脐带 用日语怎么说?",
+    "options": [
+      "胞衣",
+      "出生届",
+      "へその緒",
+      "エコー検査"
+    ],
+    "answerIndex": 2,
+    "explanation": "へその緒(へそのお) = 脐带"
+  },
+  {
+    "id": "pregnancy-preg-w76-w4-000",
+    "type": "choice",
+    "question": "へその緒 的读音是?",
+    "options": [
+      "はり",
+      "さんか",
+      "にょうけんさ",
+      "へそのお"
+    ],
+    "answerIndex": 3,
+    "explanation": "へその緒 = へそのお(脐带)"
+  },
+  {
+    "id": "pregnancy-preg-w76-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "へその緒",
+    "answer": "へそのお|hesonoo",
+    "answerFormat": "hiragana",
+    "explanation": "へその緒 = へそのお(脐带)"
+  },
+  {
+    "id": "pregnancy-preg-w76-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "へその緒",
+    "answer": "へそのお|hesonoo",
+    "answerFormat": "hiragana",
+    "explanation": "へその緒 = へそのお(脐带)"
+  },
+  {
+    "id": "pregnancy-preg-w77-w1-000",
+    "type": "choice",
+    "question": "羊水 是什么意思?",
+    "options": [
+      "个人编号(类似身份证号)",
+      "母子手册(简称)",
+      "怀孕/妊娠",
+      "羊水"
+    ],
+    "answerIndex": 3,
+    "explanation": "羊水(ようすい) = 羊水"
+  },
+  {
+    "id": "pregnancy-preg-w77-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "羊水",
+    "options": [
+      "住院(待产)",
+      "婴儿",
+      "回娘家生产",
+      "羊水"
+    ],
+    "answerIndex": 3,
+    "explanation": "羊水(ようすい) = 羊水"
+  },
+  {
+    "id": "pregnancy-preg-w77-w3-000",
+    "type": "choice",
+    "question": "羊水 用日语怎么说?",
+    "options": [
+      "尿検査",
+      "血糖値",
+      "血液検査",
+      "羊水"
+    ],
+    "answerIndex": 3,
+    "explanation": "羊水(ようすい) = 羊水"
+  },
+  {
+    "id": "pregnancy-preg-w77-w4-000",
+    "type": "choice",
+    "question": "羊水 的读音是?",
+    "options": [
+      "にんぷ",
+      "けつえきけんさ",
+      "ようすい",
+      "しんせいじ"
+    ],
+    "answerIndex": 2,
+    "explanation": "羊水 = ようすい(羊水)"
+  },
+  {
+    "id": "pregnancy-preg-w77-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "羊水",
+    "answer": "ようすい|yousui",
+    "answerFormat": "hiragana",
+    "explanation": "羊水 = ようすい(羊水)"
+  },
+  {
+    "id": "pregnancy-preg-w77-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "羊水",
+    "answer": "ようすい|yousui",
+    "answerFormat": "hiragana",
+    "explanation": "羊水 = ようすい(羊水)"
+  },
+  {
+    "id": "pregnancy-preg-w78-w1-000",
+    "type": "choice",
+    "question": "妊娠線 是什么意思?",
+    "options": [
+      "母乳",
+      "产前检查",
+      "妊娠纹",
+      "羊水检查"
+    ],
+    "answerIndex": 2,
+    "explanation": "妊娠線(にんしんせん) = 妊娠纹"
+  },
+  {
+    "id": "pregnancy-preg-w78-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊娠線",
+    "options": [
+      "听力筛查(新生儿)",
+      "生产费用",
+      "计划分娩(催产)",
+      "妊娠纹"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠線(にんしんせん) = 妊娠纹"
+  },
+  {
+    "id": "pregnancy-preg-w78-w3-000",
+    "type": "choice",
+    "question": "妊娠纹 用日语怎么说?",
+    "options": [
+      "おしるし",
+      "羊水",
+      "助産師",
+      "妊娠線"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊娠線(にんしんせん) = 妊娠纹"
+  },
+  {
+    "id": "pregnancy-preg-w78-w4-000",
+    "type": "choice",
+    "question": "妊娠線 的读音是?",
+    "options": [
+      "ふじんか",
+      "ほけんし",
+      "にんしんせん",
+      "にんしんしゅうすう"
+    ],
+    "answerIndex": 2,
+    "explanation": "妊娠線 = にんしんせん(妊娠纹)"
+  },
+  {
+    "id": "pregnancy-preg-w78-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊娠線",
+    "answer": "にんしんせん|ninshinsen",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠線 = にんしんせん(妊娠纹)"
+  },
+  {
+    "id": "pregnancy-preg-w78-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊娠線",
+    "answer": "にんしんせん|ninshinsen",
+    "answerFormat": "hiragana",
+    "explanation": "妊娠線 = にんしんせん(妊娠纹)"
+  },
+  {
+    "id": "pregnancy-preg-w79-w1-000",
+    "type": "choice",
+    "question": "悪阻 是什么意思?",
+    "options": [
+      "孕吐(汉字写法)",
+      "自然分娩/顺产",
+      "葡萄胎",
+      "生产/生孩子"
+    ],
+    "answerIndex": 0,
+    "explanation": "悪阻(つわり) = 孕吐(汉字写法)"
+  },
+  {
+    "id": "pregnancy-preg-w79-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "悪阻",
+    "options": [
+      "孕吐(汉字写法)",
+      "尿布",
+      "婴儿",
+      "回娘家生产"
+    ],
+    "answerIndex": 0,
+    "explanation": "悪阻(つわり) = 孕吐(汉字写法)"
+  },
+  {
+    "id": "pregnancy-preg-w79-w3-000",
+    "type": "choice",
+    "question": "孕吐(汉字写法) 用日语怎么说?",
+    "options": [
+      "おむつ",
+      "悪阻",
+      "出産費用",
+      "帝王切開"
+    ],
+    "answerIndex": 1,
+    "explanation": "悪阻(つわり) = 孕吐(汉字写法)"
+  },
+  {
+    "id": "pregnancy-preg-w79-w4-000",
+    "type": "choice",
+    "question": "悪阻 的读音是?",
+    "options": [
+      "しゅっせいとどけ",
+      "つわり",
+      "ていおうせっかい",
+      "ちょうおんぱ"
+    ],
+    "answerIndex": 1,
+    "explanation": "悪阻 = つわり(孕吐(汉字写法))"
+  },
+  {
+    "id": "pregnancy-preg-w79-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "悪阻",
+    "answer": "つわり|tsuwari",
+    "answerFormat": "hiragana",
+    "explanation": "悪阻 = つわり(孕吐(汉字写法))"
+  },
+  {
+    "id": "pregnancy-preg-w79-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "悪阻",
+    "answer": "つわり|tsuwari",
+    "answerFormat": "hiragana",
+    "explanation": "悪阻 = つわり(孕吐(汉字写法))"
+  },
+  {
+    "id": "pregnancy-preg-w80-w1-000",
+    "type": "choice",
+    "question": "妊婦帯 是什么意思?",
+    "options": [
+      "预产期",
+      "孕妇腹带",
+      "哺乳/喂奶",
+      "产假"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊婦帯(にんぷおび) = 孕妇腹带"
+  },
+  {
+    "id": "pregnancy-preg-w80-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "妊婦帯",
+    "options": [
+      "孕妇腹带",
+      "怀孕周数",
+      "母子手册(简称)",
+      "出生一个月参拜神社"
+    ],
+    "answerIndex": 0,
+    "explanation": "妊婦帯(にんぷおび) = 孕妇腹带"
+  },
+  {
+    "id": "pregnancy-preg-w80-w3-000",
+    "type": "choice",
+    "question": "孕妇腹带 用日语怎么说?",
+    "options": [
+      "周数",
+      "血糖値",
+      "妊婦帯",
+      "助産師"
+    ],
+    "answerIndex": 2,
+    "explanation": "妊婦帯(にんぷおび) = 孕妇腹带"
+  },
+  {
+    "id": "pregnancy-preg-w80-w4-000",
+    "type": "choice",
+    "question": "妊婦帯 的读音是?",
+    "options": [
+      "ぼにゅう",
+      "はり",
+      "しゅっせいとどけ",
+      "にんぷおび"
+    ],
+    "answerIndex": 3,
+    "explanation": "妊婦帯 = にんぷおび(孕妇腹带)"
+  },
+  {
+    "id": "pregnancy-preg-w80-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "妊婦帯",
+    "answer": "にんぷおび|ninpu-obi",
+    "answerFormat": "hiragana",
+    "explanation": "妊婦帯 = にんぷおび(孕妇腹带)"
+  },
+  {
+    "id": "pregnancy-preg-w80-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "妊婦帯",
+    "answer": "にんぷおび|ninpu-obi",
+    "answerFormat": "hiragana",
+    "explanation": "妊婦帯 = にんぷおび(孕妇腹带)"
+  },
+  {
+    "id": "pregnancy-preg-w81-w1-000",
+    "type": "choice",
+    "question": "戌の日の安産祈願 是什么意思?",
+    "options": [
+      "会阴侧切",
+      "戌日安产祈愿(传统)",
+      "孕中期(16-27 周)",
+      "助产士/助产师"
+    ],
+    "answerIndex": 1,
+    "explanation": "戌の日の安産祈願(いぬのひのあんざんきがん) = 戌日安产祈愿(传统)"
+  },
+  {
+    "id": "pregnancy-preg-w81-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "戌の日の安産祈願",
+    "options": [
+      "羊水检查",
+      "血检",
+      "戌日安产祈愿(传统)",
+      "拉玛泽呼吸法"
+    ],
+    "answerIndex": 2,
+    "explanation": "戌の日の安産祈願(いぬのひのあんざんきがん) = 戌日安产祈愿(传统)"
+  },
+  {
+    "id": "pregnancy-preg-w81-w3-000",
+    "type": "choice",
+    "question": "戌日安产祈愿(传统) 用日语怎么说?",
+    "options": [
+      "産婦人科医",
+      "超音波",
+      "戌の日の安産祈願",
+      "妊娠"
+    ],
+    "answerIndex": 2,
+    "explanation": "戌の日の安産祈願(いぬのひのあんざんきがん) = 戌日安产祈愿(传统)"
+  },
+  {
+    "id": "pregnancy-preg-w81-w4-000",
+    "type": "choice",
+    "question": "戌の日の安産祈願 的读音是?",
+    "options": [
+      "いぬのひのあんざんきがん",
+      "えいんせっかい",
+      "せんせいいじょう",
+      "たいじしんぱく"
+    ],
+    "answerIndex": 0,
+    "explanation": "戌の日の安産祈願 = いぬのひのあんざんきがん(戌日安产祈愿(传统))"
+  },
+  {
+    "id": "pregnancy-preg-w81-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "戌の日の安産祈願",
+    "answer": "いぬのひのあんざんきがん|inunohi-no-anzan-kigan",
+    "answerFormat": "hiragana",
+    "explanation": "戌の日の安産祈願 = いぬのひのあんざんきがん(戌日安产祈愿(传统))"
+  },
+  {
+    "id": "pregnancy-preg-w81-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "戌の日の安産祈願",
+    "answer": "いぬのひのあんざんきがん|inunohi-no-anzan-kigan",
+    "answerFormat": "hiragana",
+    "explanation": "戌の日の安産祈願 = いぬのひのあんざんきがん(戌日安产祈愿(传统))"
+  },
+  {
+    "id": "pregnancy-preg-w82-w1-000",
+    "type": "choice",
+    "question": "お七夜 是什么意思?",
+    "options": [
+      "胎位不正/臀位",
+      "拉玛泽呼吸法",
+      "出生第七天仪式",
+      "计划分娩(催产)"
+    ],
+    "answerIndex": 2,
+    "explanation": "お七夜(おしちや) = 出生第七天仪式"
+  },
+  {
+    "id": "pregnancy-preg-w82-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "お七夜",
+    "options": [
+      "出院",
+      "听力筛查(新生儿)",
+      "出生第七天仪式",
+      "生育一次性补助金(50 万)"
+    ],
+    "answerIndex": 2,
+    "explanation": "お七夜(おしちや) = 出生第七天仪式"
+  },
+  {
+    "id": "pregnancy-preg-w82-w3-000",
+    "type": "choice",
+    "question": "出生第七天仪式 用日语怎么说?",
+    "options": [
+      "尿検査",
+      "お七夜",
+      "妊娠中期",
+      "出生通知票"
+    ],
+    "answerIndex": 1,
+    "explanation": "お七夜(おしちや) = 出生第七天仪式"
+  },
+  {
+    "id": "pregnancy-preg-w82-w4-000",
+    "type": "choice",
+    "question": "お七夜 的读音是?",
+    "options": [
+      "たいじしんぱく",
+      "しゅっせいまえけんさ",
+      "おしちや",
+      "にんぷ"
+    ],
+    "answerIndex": 2,
+    "explanation": "お七夜 = おしちや(出生第七天仪式)"
+  },
+  {
+    "id": "pregnancy-preg-w82-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "お七夜",
+    "answer": "おしちや|oshichiya",
+    "answerFormat": "hiragana",
+    "explanation": "お七夜 = おしちや(出生第七天仪式)"
+  },
+  {
+    "id": "pregnancy-preg-w82-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "お七夜",
+    "answer": "おしちや|oshichiya",
+    "answerFormat": "hiragana",
+    "explanation": "お七夜 = おしちや(出生第七天仪式)"
+  },
+  {
+    "id": "pregnancy-preg-w83-w1-000",
+    "type": "choice",
+    "question": "お宮参り 是什么意思?",
+    "options": [
+      "胎儿心跳",
+      "血检",
+      "妇产科医生",
+      "出生一个月参拜神社"
+    ],
+    "answerIndex": 3,
+    "explanation": "お宮参り(おみやまいり) = 出生一个月参拜神社"
+  },
+  {
+    "id": "pregnancy-preg-w83-w2-000",
+    "type": "listening",
+    "question": "听到的词是什么意思?",
+    "audio": "お宮参り",
+    "options": [
+      "母乳",
+      "胎位不正/臀位",
+      "个人编号(类似身份证号)",
+      "出生一个月参拜神社"
+    ],
+    "answerIndex": 3,
+    "explanation": "お宮参り(おみやまいり) = 出生一个月参拜神社"
+  },
+  {
+    "id": "pregnancy-preg-w83-w3-000",
+    "type": "choice",
+    "question": "出生一个月参拜神社 用日语怎么说?",
+    "options": [
+      "お宮参り",
+      "張り",
+      "産婦人科",
+      "胎動"
+    ],
+    "answerIndex": 0,
+    "explanation": "お宮参り(おみやまいり) = 出生一个月参拜神社"
+  },
+  {
+    "id": "pregnancy-preg-w83-w4-000",
+    "type": "choice",
+    "question": "お宮参り 的读音是?",
+    "options": [
+      "たいじゅうそくてい",
+      "おみやまいり",
+      "はり",
+      "じゅしんけん"
+    ],
+    "answerIndex": 1,
+    "explanation": "お宮参り = おみやまいり(出生一个月参拜神社)"
+  },
+  {
+    "id": "pregnancy-preg-w83-w5-000",
+    "type": "spelling",
+    "question": "请写出读音(假名)",
+    "prompt": "お宮参り",
+    "answer": "おみやまいり|omiyamairi",
+    "answerFormat": "hiragana",
+    "explanation": "お宮参り = おみやまいり(出生一个月参拜神社)"
+  },
+  {
+    "id": "pregnancy-preg-w83-w6-000",
+    "type": "spell-audio",
+    "question": "听音频,写出假名",
+    "audio": "お宮参り",
+    "answer": "おみやまいり|omiyamairi",
+    "answerFormat": "hiragana",
+    "explanation": "お宮参り = おみやまいり(出生一个月参拜神社)"
+  },
+  {
+    "id": "pregnancy-preg-g01-g1-000",
+    "type": "choice",
+    "question": "语法「动词辞書形 + 予定です」的意思是?",
+    "options": [
+      "应该……(说话人确信)",
+      "预定做……(计划)",
+      "……就好了(愿望/建议)",
+      "也许……(可能性低)"
+    ],
+    "answerIndex": 1,
+    "explanation": "来週、妊婦健診を受ける予定です。 = 预定下周产检。"
+  },
+  {
+    "id": "pregnancy-preg-g01-g2-000",
+    "type": "choice",
+    "question": "意思「预定做……(计划)」对应哪个语法?",
+    "options": [
+      "动词て形 + あげる / もらう",
+      "动词辞書形 / 普通体 + はずです",
+      "动词た形 + ら どうですか",
+      "动词辞書形 + 予定です"
+    ],
+    "answerIndex": 3,
+    "explanation": "动词辞書形 + 予定です = 预定做……(计划)"
+  },
+  {
+    "id": "pregnancy-preg-g02-g1-000",
+    "type": "choice",
+    "question": "语法「动词た形 + ら どうですか」的意思是?",
+    "options": [
+      "提前做……(准备)",
+      "趁着……(在某个状态期间)",
+      "关于……(话题)",
+      "做……怎么样?(建议)"
+    ],
+    "answerIndex": 3,
+    "explanation": "もう少し休んだらどうですか。 = 再休息一下怎么样?"
+  },
+  {
+    "id": "pregnancy-preg-g02-g2-000",
+    "type": "choice",
+    "question": "意思「做……怎么样?(建议)」对应哪个语法?",
+    "options": [
+      "动词辞書形 + ことにしています",
+      "て形 + おく",
+      "动词て形 + あげる / もらう",
+      "动词た形 + ら どうですか"
+    ],
+    "answerIndex": 3,
+    "explanation": "动词た形 + ら どうですか = 做……怎么样?(建议)"
+  },
+  {
+    "id": "pregnancy-preg-g03-g1-000",
+    "type": "choice",
+    "question": "语法「动词辞書形 / ない形 + ようにしてください」的意思是?",
+    "options": [
+      "为别人做…… / 别人为自己做……",
+      "趁着……(在某个状态期间)",
+      "请做到……(医生指示)",
+      "每次……都……"
+    ],
+    "answerIndex": 2,
+    "explanation": "重いものを持たないようにしてください。 = 请不要拿重的东西。"
+  },
+  {
+    "id": "pregnancy-preg-g03-g2-000",
+    "type": "choice",
+    "question": "意思「请做到……(医生指示)」对应哪个语法?",
+    "options": [
+      "动词辞書形 / 普通体 + はずです",
+      "动词た形 + ら どうですか",
+      "动词辞書形 / ない形 + ようにしてください",
+      "动词辞書形 + たびに"
+    ],
+    "answerIndex": 2,
+    "explanation": "动词辞書形 / ない形 + ようにしてください = 请做到……(医生指示)"
+  },
+  {
+    "id": "pregnancy-preg-g04-g1-000",
+    "type": "choice",
+    "question": "语法「句子普通体 / な形容詞 + かもしれません」的意思是?",
+    "options": [
+      "好像……(根据感觉推测)",
+      "也许……(可能性低)",
+      "……就好了(愿望/建议)",
+      "被……(被动)"
+    ],
+    "answerIndex": 1,
+    "explanation": "つわりがもう少し続くかもしれません。 = 孕吐可能还会持续一阵。"
+  },
+  {
+    "id": "pregnancy-preg-g04-g2-000",
+    "type": "choice",
+    "question": "意思「也许……(可能性低)」对应哪个语法?",
+    "options": [
+      "て形 + おく",
+      "动词ば形 / た形 + いい / といい",
+      "动词辞書形 + 予定です",
+      "句子普通体 / な形容詞 + かもしれません"
+    ],
+    "answerIndex": 3,
+    "explanation": "句子普通体 / な形容詞 + かもしれません = 也许……(可能性低)"
+  },
+  {
+    "id": "pregnancy-preg-g05-g1-000",
+    "type": "choice",
+    "question": "语法「动词辞書形 + ことにしています」的意思是?",
+    "options": [
+      "趁着……(在某个状态期间)",
+      "也许……(可能性低)",
+      "(习惯性地)总是做……(自我约定)",
+      "被……(被动)"
+    ],
+    "answerIndex": 2,
+    "explanation": "毎日30分歩くようにしています。 = 我坚持每天走 30 分钟。"
+  },
+  {
+    "id": "pregnancy-preg-g05-g2-000",
+    "type": "choice",
+    "question": "意思「(习惯性地)总是做……(自我约定)」对应哪个语法?",
+    "options": [
+      "动词辞書形 + たびに",
+      "动词辞書形 + ことにしています",
+      "动词ば形 / た形 + いい / といい",
+      "动词て形 + あげる / もらう"
+    ],
+    "answerIndex": 1,
+    "explanation": "动词辞書形 + ことにしています = (习惯性地)总是做……(自我约定)"
+  },
+  {
+    "id": "pregnancy-preg-g06-g1-000",
+    "type": "choice",
+    "question": "语法「动词て形 + あげる / もらう」的意思是?",
+    "options": [
+      "做……怎么样?(建议)",
+      "趁着……(在某个状态期间)",
+      "……就好了(愿望/建议)",
+      "为别人做…… / 别人为自己做……"
+    ],
+    "answerIndex": 3,
+    "explanation": "先生に出産の流れを説明していただきました。 = 医生给我说明了生产流程。"
+  },
+  {
+    "id": "pregnancy-preg-g06-g2-000",
+    "type": "choice",
+    "question": "意思「为别人做…… / 别人为自己做……」对应哪个语法?",
+    "options": [
+      "句子普通体 / な形容詞 + かもしれません",
+      "动词た形 + ら どうですか",
+      "动词辞書形 + たびに",
+      "动词て形 + あげる / もらう"
+    ],
+    "answerIndex": 3,
+    "explanation": "动词て形 + あげる / もらう = 为别人做…… / 别人为自己做……"
+  },
+  {
+    "id": "pregnancy-preg-g07-g1-000",
+    "type": "choice",
+    "question": "语法「动词辞書形 / 普通体 + はずです」的意思是?",
+    "options": [
+      "做……怎么样?(建议)",
+      "应该……(说话人确信)",
+      "每次……都……",
+      "趁着……(在某个状态期间)"
+    ],
+    "answerIndex": 1,
+    "explanation": "来週からつわりが軽くなるはずです。 = 孕吐下周应该会减轻。"
+  },
+  {
+    "id": "pregnancy-preg-g07-g2-000",
+    "type": "choice",
+    "question": "意思「应该……(说话人确信)」对应哪个语法?",
+    "options": [
+      "动词辞書形 / 普通体 + はずです",
+      "普通体 + みたいです",
+      "动词辞書形 + ことにしています",
+      "句子 + だけでなく + 名词 + も"
+    ],
+    "answerIndex": 0,
+    "explanation": "动词辞書形 / 普通体 + はずです = 应该……(说话人确信)"
+  },
+  {
+    "id": "pregnancy-preg-g08-g1-000",
+    "type": "choice",
+    "question": "语法「动词辞書形 / た形 + うちに」的意思是?",
+    "options": [
+      "做……怎么样?(建议)",
+      "也许……(可能性低)",
+      "为别人做…… / 别人为自己做……",
+      "趁着……(在某个状态期间)"
+    ],
+    "answerIndex": 3,
+    "explanation": "元気なうちに、買い物に行っておきたいです。 = 趁有精神的时候,想去购物。"
+  },
+  {
+    "id": "pregnancy-preg-g08-g2-000",
+    "type": "choice",
+    "question": "意思「趁着……(在某个状态期间)」对应哪个语法?",
+    "options": [
+      "动词辞書形 / た形 + うちに",
+      "名词 + について",
+      "动词未然形 + れる / られる",
+      "动词辞書形 + たびに"
+    ],
+    "answerIndex": 0,
+    "explanation": "动词辞書形 / た形 + うちに = 趁着……(在某个状态期间)"
+  },
+  {
+    "id": "pregnancy-preg-g09-g1-000",
+    "type": "choice",
+    "question": "语法「普通体 + みたいです」的意思是?",
+    "options": [
+      "关于……(话题)",
+      "做……怎么样?(建议)",
+      "好像……(根据感觉推测)",
+      "预定做……(计划)"
+    ],
+    "answerIndex": 2,
+    "explanation": "今日、少しつわりがひどいみたいです。 = 今天孕吐好像更严重了。"
+  },
+  {
+    "id": "pregnancy-preg-g09-g2-000",
+    "type": "choice",
+    "question": "意思「好像……(根据感觉推测)」对应哪个语法?",
+    "options": [
+      "动词辞書形 / た形 + うちに",
+      "普通体 + みたいです",
+      "动词辞書形 + たびに",
+      "动词ば形 / た形 + いい / といい"
+    ],
+    "answerIndex": 1,
+    "explanation": "普通体 + みたいです = 好像……(根据感觉推测)"
+  },
+  {
+    "id": "pregnancy-preg-g10-g1-000",
+    "type": "choice",
+    "question": "语法「て形 + おく」的意思是?",
+    "options": [
+      "做……怎么样?(建议)",
+      "预定做……(计划)",
+      "提前做……(准备)",
+      "不仅……而且……"
+    ],
+    "answerIndex": 2,
+    "explanation": "入院バッグを準備しておきました。 = 已经把待产包准备好了。"
+  },
+  {
+    "id": "pregnancy-preg-g10-g2-000",
+    "type": "choice",
+    "question": "意思「提前做……(准备)」对应哪个语法?",
+    "options": [
+      "动词て形 + あげる / もらう",
+      "名词 + について",
+      "て形 + おく",
+      "动词辞書形 / た形 + うちに"
+    ],
+    "answerIndex": 2,
+    "explanation": "て形 + おく = 提前做……(准备)"
+  },
+  {
+    "id": "pregnancy-preg-g11-g1-000",
+    "type": "choice",
+    "question": "语法「动词ば形 / た形 + いい / といい」的意思是?",
+    "options": [
+      "做……怎么样?(建议)",
+      "为别人做…… / 别人为自己做……",
+      "……就好了(愿望/建议)",
+      "提前做……(准备)"
+    ],
+    "answerIndex": 2,
+    "explanation": "無理をしなければ、大丈夫です。 = 不勉强的话,就没问题。"
+  },
+  {
+    "id": "pregnancy-preg-g11-g2-000",
+    "type": "choice",
+    "question": "意思「……就好了(愿望/建议)」对应哪个语法?",
+    "options": [
+      "动词未然形 + れる / られる",
+      "动词ば形 / た形 + いい / といい",
+      "名词 + について",
+      "句子普通体 / な形容詞 + かもしれません"
+    ],
+    "answerIndex": 1,
+    "explanation": "动词ば形 / た形 + いい / といい = ……就好了(愿望/建议)"
+  },
+  {
+    "id": "pregnancy-preg-g12-g1-000",
+    "type": "choice",
+    "question": "语法「动词辞書形 + たびに」的意思是?",
+    "options": [
+      "……就好了(愿望/建议)",
+      "每次……都……",
+      "提前做……(准备)",
+      "请做到……(医生指示)"
+    ],
+    "answerIndex": 1,
+    "explanation": "健診のたびに、体重を測ります。 = 每次产检都量体重。"
+  },
+  {
+    "id": "pregnancy-preg-g12-g2-000",
+    "type": "choice",
+    "question": "意思「每次……都……」对应哪个语法?",
+    "options": [
+      "动词辞書形 / た形 + うちに",
+      "动词辞書形 + たびに",
+      "名词 + について",
+      "普通体 + みたいです"
+    ],
+    "answerIndex": 1,
+    "explanation": "动词辞書形 + たびに = 每次……都……"
+  },
+  {
+    "id": "pregnancy-preg-g13-g1-000",
+    "type": "choice",
+    "question": "语法「名词 + について」的意思是?",
+    "options": [
+      "不仅……而且……",
+      "关于……(话题)",
+      "也许……(可能性低)",
+      "被……(被动)"
+    ],
+    "answerIndex": 1,
+    "explanation": "妊娠中の食事について説明します。 = 我来讲解一下怀孕期间的饮食。"
+  },
+  {
+    "id": "pregnancy-preg-g13-g2-000",
+    "type": "choice",
+    "question": "意思「关于……(话题)」对应哪个语法?",
+    "options": [
+      "动词辞書形 / ない形 + ようにしてください",
+      "动词辞書形 + たびに",
+      "动词ば形 / た形 + いい / といい",
+      "名词 + について"
+    ],
+    "answerIndex": 3,
+    "explanation": "名词 + について = 关于……(话题)"
+  },
+  {
+    "id": "pregnancy-preg-g14-g1-000",
+    "type": "choice",
+    "question": "语法「句子 + だけでなく + 名词 + も」的意思是?",
+    "options": [
+      "不仅……而且……",
+      "做……怎么样?(建议)",
+      "为别人做…… / 别人为自己做……",
+      "关于……(话题)"
+    ],
+    "answerIndex": 0,
+    "explanation": "つわりだけでなく、頭痛もあります。 = 不仅孕吐,还头疼。"
+  },
+  {
+    "id": "pregnancy-preg-g14-g2-000",
+    "type": "choice",
+    "question": "意思「不仅……而且……」对应哪个语法?",
+    "options": [
+      "名词 + について",
+      "动词辞書形 + 予定です",
+      "句子 + だけでなく + 名词 + も",
+      "普通体 + みたいです"
+    ],
+    "answerIndex": 2,
+    "explanation": "句子 + だけでなく + 名词 + も = 不仅……而且……"
+  },
+  {
+    "id": "pregnancy-preg-g15-g1-000",
+    "type": "choice",
+    "question": "语法「动词未然形 + れる / られる」的意思是?",
+    "options": [
+      "被……(被动)",
+      "应该……(说话人确信)",
+      "为别人做…… / 别人为自己做……",
+      "关于……(话题)"
+    ],
+    "answerIndex": 0,
+    "explanation": "分娩中にたくさんの方に支えられました。 = 分娩时得到了很多人的支持。"
+  },
+  {
+    "id": "pregnancy-preg-g15-g2-000",
+    "type": "choice",
+    "question": "意思「被……(被动)」对应哪个语法?",
+    "options": [
+      "动词辞書形 / ない形 + ようにしてください",
+      "句子 + だけでなく + 名词 + も",
+      "动词未然形 + れる / られる",
+      "动词辞書形 / 普通体 + はずです"
+    ],
+    "answerIndex": 2,
+    "explanation": "动词未然形 + れる / られる = 被……(被动)"
+  }
+]

@@ -1,0 +1,664 @@
+{
+  "basics": [
+    {
+      "id": "keis体",
+      "title": "敬体与简体",
+      "summary": "学会在不同场合用合适的说法",
+      "items": [
+        { "term": "简体", "desc": "朋友/家人间用,亲密表达", "example": "書く" },
+        { "term": "敬体", "desc": "正式场合用,陌生人/上司/服务场景", "example": "書きます" }
+      ],
+      "conjugation": "敬体 = 简体 + です/ます",
+      "tip": "今日是敬体 → 今日です/書きます; 今日是简体 → 今日/書く"
+    },
+    {
+      "id": "keigo",
+      "title": "敬语体系总览",
+      "summary": "尊敬语/谦让语/丁宁语的关系与代表动词",
+      "items": [
+        { "term": "尊敬语", "desc": "抬高对方的动作", "example": "いらっしゃる / なさる / おっしゃる" },
+        { "term": "谦让语", "desc": "压低自己/我方人员的动作", "example": "申す / 参る / いただく" },
+        { "term": "丁宁语", "desc": "礼貌语气", "example": "です / ます / ございます" }
+      ],
+      "conjugation": "尊敬语把对方动作抬高,谦让语把我方动作降低"
+    },
+    {
+      "id": "classification",
+      "title": "动词分类",
+      "summary": "掌握动词的识别方法",
+      "items": [
+        { "term": "I 类(五段)", "desc": "词尾按五十音图う段变化,变形覆盖五段", "example": "書く / 話す / 行く / 泳ぐ" },
+        { "term": "II 类(一段)", "desc": "去「る」+新后缀,只有一段", "example": "食べる / 寝る / 見る" },
+        { "term": "III 类", "desc": "する(サ变)+ 来る(カ变)", "example": "する / 来る" }
+      ],
+      "conjugation": "古く(古)→ 来る(カ)变,する(サ)变特殊"
+    },
+    {
+      "id": "jidoushi-tadoushi",
+      "title": "自动词与他动词",
+      "summary": "理解动作的主体与对象关系",
+      "items": [
+        { "term": "自动词", "desc": "动作自然发生(窗开了)", "example": "窓が開いた" },
+        { "term": "他动词", "desc": "对对象施加动作(人开窗)", "example": "窓を開けた" }
+      ],
+      "conjugation": "開く(自)/ 開ける(他); 壊れる(自)/ 壊す(他)"
+    },
+    {
+      "id": "conditional",
+      "title": "条件表达对比",
+      "summary": "ば/たら/なら/と的误用与场景选择",
+      "items": [
+        { "term": "ば", "desc": "一般/普遍真理", "example": "雨が降れば、行きません" },
+        { "term": "たら", "desc": "具体/偶然/过去", "example": "雨が降ったら、行きません" },
+        { "term": "なら", "desc": "以对方话题为前提", "example": "雨が降るなら、行きません" }
+      ],
+      "conjugation": "雨なら、傘で行こう → 雨が降るなら、出かけません"
+    },
+    {
+      "id": "common-pitfalls",
+      "title": "常见「坑」",
+      "summary": "避开学日语中的易错点和陷阱",
+      "items": [
+        { "term": "分类混淆", "desc": "見ます/寝る分不清是 I 类还是 II 类?其实看词尾", "example": "「見」是ま行上一段,「寝」是ら行下一段" },
+        { "term": "动词同形", "desc": "自动词即/他动词型,绝不混", "example": "「磨く」是 I 类," },
+        { "term": "敬体误用", "desc": "对老师用简体是大忌", "example": "" }
+      ]
+    }
+  ],
+
+  "forms": [
+    {
+      "id": "masu",
+      "name": "ます形 (礼貌形)",
+      "emoji": "📝",
+      "color": "from-pink-400 to-rose-500",
+      "summary": "最常用也最安全的说法!工作/服务场景首选它~",
+      "rules": [
+        "I 类(五段):词尾う段→い段 +「ます」→ 書きます、書きます、飲みます、はなします",
+        "II 类(一段):去「る」+「ます」→ 食べます、見ます",
+        "III 类:来ます / します"
+      ],
+      "tips": ["如果不确定用法,先用ます形,既礼貌又稳妥!"],
+      "examples": [
+        { "word": "書く", "conjugation": "書きます", "translation": "写(现在/未来)" },
+        { "word": "食べる", "conjugation": "食べました", "translation": "吃(过去)" },
+        { "word": "お願いする", "conjugation": "お願いします", "translation": "拜托(固定礼貌表达)" }
+      ]
+    },
+    {
+      "id": "te",
+      "name": "て形・た形",
+      "emoji": "🎵",
+      "color": "from-blue-400 to-cyan-500",
+      "summary": "连接句子、表示请求/过去/并列,万能连接词!",
+      "rules": [
+        "I 类五段活用(三大类):",
+        "  - う/つ/る → って: 書く→書いて、会う→会って",
+        "  - く → いて: 書く→書いて(注意:特殊)、行く→行って",
+        "  - ぐ → いで: 泳ぐ→泳いで",
+        "  - む/ぶ/ぬ → んで: 飲む→飲んで、遊ぶ→遊んで、死ぬ→死んで",
+        "  - す → して: 話す→話して",
+        "II 类(一段):去「る」+「て/た」→ 食べて/食べた",
+        "III 类:来て/来た、して/した"
+      ],
+      "tips": [
+        "て形 + います:表示进行中(正在写=書いています)",
+        "て形 + ください:表示请求(请写一下=書いてください)",
+        "て形 + しまう:表示遗憾(写丢了=書いてしまった)"
+      ],
+      "examples": [
+        { "word": "食べる", "conjugation": "食べて", "translation": "吃了(て形)" },
+        { "word": "行く", "conjugation": "行って", "translation": "去了(注意:浊音化,不去「いて」)" },
+        { "word": "飲む", "conjugation": "飲みました", "translation": "喝了(过去)" }
+      ]
+    },
+    {
+      "id": "nai",
+      "name": "ない形 (否定)",
+      "emoji": "🚫",
+      "color": "from-rose-400 to-pink-500",
+      "summary": "表示否定(不做/没有)的最基本形式",
+      "rules": [
+        "I 类(五段):う段→あ段 +「ない」→ 書かない、飲まない、話さない",
+        "II 类(一段):去「る」+「ない」→ 食べない、見ない",
+        "III 类:来ない / しない"
+      ],
+      "tips": [
+        "敬体否定:〜ません = 〜ない + ます",
+        "过去否定:〜なかった / 〜ませんでした"
+      ],
+      "examples": [
+        { "word": "書く", "conjugation": "書かない", "translation": "不写" },
+        { "word": "食べる", "conjugation": "食べない", "translation": "不吃" },
+        { "word": "する", "conjugation": "しない", "translation": "不做" }
+      ]
+    },
+    {
+      "id": "potential",
+      "name": "可能形 (能~)",
+      "emoji": "💪",
+      "color": "from-emerald-400 to-green-500",
+      "summary": "表示「能做某事」,相当于 can",
+      "rules": [
+        "I 类(五段):う段→え段 +「る」→ 書ける、飲める、話せる",
+        "II 类(一段):去「る」+「られる」→ 食べられる、見られる",
+        "III 类:来られる / できる(します→できます)"
+      ],
+      "tips": [
+        "可能形 + ます:書けます(能写)",
+        "更口语:〜ことができる"
+      ],
+      "examples": [
+        { "word": "書く", "conjugation": "書ける", "translation": "能写/会写" },
+        { "word": "食べる", "conjugation": "食べられる", "translation": "能吃" },
+        { "word": "する", "conjugation": "できる", "translation": "能做" }
+      ]
+    },
+    {
+      "id": "imperative",
+      "name": "命令形",
+      "emoji": "▶️",
+      "color": "from-amber-400 to-yellow-500",
+      "summary": "强硬的命令,只用于紧急/广告/标语",
+      "rules": [
+        "I 类(五段):う段→え段 + 音:書け、飲め、話せ",
+        "II 类(一段):词干 +「ろ/よ」:食べろ/食べよ",
+        "III 类:来い / しろ/せよ"
+      ],
+      "tips": [
+        "日常用「〜てください/〜なさい」更礼貌",
+        "标语/广告常用命令形:走れ! / 飲め! (可口可乐)"
+      ],
+      "examples": [
+        { "word": "走る", "conjugation": "走れ", "translation": "跑!" },
+        { "word": "食べる", "conjugation": "食べろ", "translation": "吃!" }
+      ]
+    },
+    {
+      "id": "volitional",
+      "name": "意志形 (打算~)",
+      "emoji": "💡",
+      "color": "from-purple-400 to-violet-500",
+      "summary": "表示「打算/想要」做某事(用于提议自己)",
+      "rules": [
+        "I 类(五段):う段→お段 +「う」:書こう、飲もう、話そう",
+        "II 类(一段):词干 +「よう」:食べよう、寝よう",
+        "III 类:来よう / しよう"
+      ],
+      "tips": [
+        "简体:書こう(我打算写)",
+        "敬体:〜ましょう(我们一起~吧)= 意志形 + ます"
+      ],
+      "examples": [
+        { "word": "行く", "conjugation": "行こう", "translation": "走吧(一起)" },
+        { "word": "食べる", "conjugation": "食べましょう", "translation": "一起吃吧" }
+      ]
+    },
+    {
+      "id": "ba",
+      "name": "ば形 (假定形)",
+      "emoji": "🌳",
+      "color": "from-emerald-300 to-teal-500",
+      "summary": "通用/客观的条件,「如果~就~」",
+      "rules": [
+        "I 类(五段):う段→え段 +「ば」:書けば、飲めば、話せば",
+        "II 类(一段):去「る」+「れば」:食べれば、寝れば",
+        "III 类:来れば / すれば"
+      ],
+      "tips": [
+        "常用于自然/一般条件,非特定",
+        "「雨が降れば」= 如果下雨(一般)"
+      ],
+      "examples": [
+        { "word": "安い", "conjugation": "安ければ", "translation": "如果便宜(注:形容词也用ば)" },
+        { "word": "書く", "conjugation": "書けば", "translation": "如果写" }
+      ]
+    },
+    {
+      "id": "passive",
+      "name": "被动形 (被~)",
+      "emoji": "🛡️",
+      "color": "from-sky-400 to-blue-500",
+      "summary": "表示「被某人/某事做了」,委婉/受害",
+      "rules": [
+        "I 类(五段):う段→あ段 +「れる」:書かれる、飲まれる、話される",
+        "II 类(一段):去「る」+「られる」:食べられる、寝られる",
+        "III 类:来られる / される"
+      ],
+      "tips": [
+        "直接被动:先生に褒められた(被老师表扬)",
+        "受害被动:雨に降られた(被雨淋了,倒霉)",
+        "日语被动 ≠ 英语被动那么常用"
+      ],
+      "examples": [
+        { "word": "褒める", "conjugation": "褒められる", "translation": "被表扬" },
+        { "word": "食べる", "conjugation": "食べられる", "translation": "被吃" }
+      ]
+    },
+    {
+      "id": "respectful",
+      "name": "尊敬语",
+      "emoji": "🙏",
+      "color": "from-amber-300 to-orange-500",
+      "summary": "抬高对方动作,服务/职场必备",
+      "rules": [
+        "特殊敬语动词(推荐记忆):",
+        "  行く/来る/いる → いらっしゃる",
+        "  言う → おっしゃる",
+        "  食べる/飲む → 召し上がる",
+        "  見る → ご覧になる",
+        "  する → なさる",
+        "  知る → お知りになる",
+        "お/ご + 动词 + になる:ご出発になる(您出发)"
+      ],
+      "tips": ["初级先记住 5 个特殊敬语动词,中级再学规则"],
+      "examples": [
+        { "word": "食べる", "conjugation": "召し上がる", "translation": "吃(敬语)" },
+        { "word": "言う", "conjugation": "おっしゃる", "translation": "说(敬语)" }
+      ]
+    },
+    {
+      "id": "causative",
+      "name": "使役形 (让~做)",
+      "emoji": "😈",
+      "color": "from-rose-500 to-red-500",
+      "summary": "「让/迫使/允许」某人做某事",
+      "rules": [
+        "I 类(五段):う段→あ段 +「せる」:書かせる、飲ませる、話させる",
+        "II 类(一段):去「る」+「させる」:食べさせる、寝させる",
+        "III 类:来させる / させる"
+      ],
+      "tips": [
+        "使役 + てもらう:让别人做~",
+        "使役 + てくれない:催人做~"
+      ],
+      "examples": [
+        { "word": "食べる", "conjugation": "食べさせる", "translation": "让(他)吃" },
+        { "word": "行く", "conjugation": "行かせる", "translation": "让(他)去" }
+      ]
+    },
+    {
+      "id": "causative-passive",
+      "name": "使役被动 (被迫~)",
+      "emoji": "💀",
+      "color": "from-pink-500 to-rose-600",
+      "summary": "「被迫做~」,日语里超常用的被动",
+      "rules": [
+        "I 类(五段):使役形 +「られる」:書かせられる",
+        "II 类(一段):使役形 -「せる」+「させられる」:食べさせられる",
+        "III 类:来させられる / させられる"
+      ],
+      "tips": [
+        "表示「不得不~」「被迫~」:雨で运动会が中止させられた",
+        "JLPT N3-N2 必考点"
+      ],
+      "examples": [
+        { "word": "食べる", "conjugation": "食べさせられる", "translation": "被迫吃" },
+        { "word": "行く", "conjugation": "行かせられる", "translation": "被迫去" }
+      ]
+    },
+    {
+      "id": "prohibition",
+      "name": "禁止形 (别~!)",
+      "emoji": "⛔",
+      "color": "from-red-500 to-red-700",
+      "summary": "「禁止做某事」,命令形的否定",
+      "rules": [
+        "命令形 + な:書くな! 飲むな! 食べるな!",
+        "敬体:〜ないでください(请别~) = ない形 + で + ください"
+      ],
+      "tips": [
+        "语感:命令形+な = 粗鲁禁止(标牌/口语)",
+        "礼貌版:〜ないでください / 〜ないでいただけませんか"
+      ],
+      "examples": [
+        { "word": "走る", "conjugation": "走るな", "translation": "别跑!" },
+        { "word": "食べる", "conjugation": "食べないで", "translation": "别吃" }
+      ]
+    }
+  ],
+
+  "commonVerbs": [
+    {
+      "id": "kaku", "dictionary": "書く", "reading": "かく", "meaning": "写", "type": "godan",
+      "forms": {
+        "masu": "書きます", "te": "書いて", "ta": "書いた",
+        "nai": "書かない", "nakatta": "書かなかった",
+        "potential": "書ける", "potential-masu": "書けます",
+        "imperative": "書け", "volitional": "書こう",
+        "ba": "書けば", "passive": "書かれる", "causative": "書かせる",
+        "causative-passive": "書かせられる", "prohibition": "書くな"
+      }
+    },
+    {
+      "id": "yomu", "dictionary": "読む", "reading": "よむ", "meaning": "读", "type": "godan",
+      "forms": {
+        "masu": "読みます", "te": "読んで", "ta": "読んだ",
+        "nai": "読まない", "nakatta": "読まなかった",
+        "potential": "読める", "potential-masu": "読めます",
+        "imperative": "読め", "volitional": "読もう",
+        "ba": "読めば", "passive": "読まれる", "causative": "読ませる",
+        "causative-passive": "読ませられる", "prohibition": "読むな"
+      }
+    },
+    {
+      "id": "hanasu", "dictionary": "話す", "reading": "はなす", "meaning": "说/讲", "type": "godan",
+      "forms": {
+        "masu": "話します", "te": "話して", "ta": "話した",
+        "nai": "話さない", "nakatta": "話さなかった",
+        "potential": "話せる", "potential-masu": "話せます",
+        "imperative": "話せ", "volitional": "話そう",
+        "ba": "話せば", "passive": "話される", "causative": "話させる",
+        "causative-passive": "話させられる", "prohibition": "話すな"
+      }
+    },
+    {
+      "id": "iku", "dictionary": "行く", "reading": "いく", "meaning": "去", "type": "godan",
+      "forms": {
+        "masu": "行きます", "te": "行って", "ta": "行った",
+        "nai": "行かない", "nakatta": "行かなかった",
+        "potential": "行ける", "potential-masu": "行けます",
+        "imperative": "行け", "volitional": "行こう",
+        "ba": "行けば", "passive": "行かれる", "causative": "行かせる",
+        "causative-passive": "行かせられる", "prohibition": "行くな"
+      }
+    },
+    {
+      "id": "kuru", "dictionary": "来る", "reading": "くる", "meaning": "来", "type": "kuru",
+      "forms": {
+        "masu": "来ます", "te": "来て", "ta": "来た",
+        "nai": "来ない", "nakatta": "来なかった",
+        "potential": "来られる", "potential-masu": "来られます",
+        "imperative": "来い", "volitional": "来よう",
+        "ba": "来れば", "passive": "来られる", "causative": "来させる",
+        "causative-passive": "来させられる", "prohibition": "来るな"
+      }
+    },
+    {
+      "id": "suru", "dictionary": "する", "reading": "する", "meaning": "做", "type": "suru",
+      "forms": {
+        "masu": "します", "te": "して", "ta": "した",
+        "nai": "しない", "nakatta": "しなかった",
+        "potential": "できる", "potential-masu": "できます",
+        "imperative": "しろ", "volitional": "しよう",
+        "ba": "すれば", "passive": "される", "causative": "させる",
+        "causative-passive": "させられる", "prohibition": "するな"
+      }
+    },
+    {
+      "id": "taberu", "dictionary": "食べる", "reading": "たべる", "meaning": "吃", "type": "ichidan",
+      "forms": {
+        "masu": "食べます", "te": "食べて", "ta": "食べた",
+        "nai": "食べない", "nakatta": "食べなかった",
+        "potential": "食べられる", "potential-masu": "食べられます",
+        "imperative": "食べろ", "volitional": "食べよう",
+        "ba": "食べれば", "passive": "食べられる", "causative": "食べさせる",
+        "causative-passive": "食べさせられる", "prohibition": "食べるな"
+      }
+    },
+    {
+      "id": "miru", "dictionary": "見る", "reading": "みる", "meaning": "看", "type": "ichidan",
+      "forms": {
+        "masu": "見ます", "te": "見て", "ta": "見た",
+        "nai": "見ない", "nakatta": "見なかった",
+        "potential": "見られる", "potential-masu": "見られます",
+        "imperative": "見ろ", "volitional": "見よう",
+        "ba": "見れば", "passive": "見られる", "causative": "見させる",
+        "causative-passive": "見させられる", "prohibition": "見るな"
+      }
+    },
+    {
+      "id": "neru", "dictionary": "寝る", "reading": "ねる", "meaning": "睡", "type": "ichidan",
+      "forms": {
+        "masu": "寝ます", "te": "寝て", "ta": "寝た",
+        "nai": "寝ない", "nakatta": "寝なかった",
+        "potential": "寝られる", "potential-masu": "寝られます",
+        "imperative": "寝ろ", "volitional": "寝よう",
+        "ba": "寝れば", "passive": "寝られる", "causative": "寝させる",
+        "causative-passive": "寝させられる", "prohibition": "寝るな"
+      }
+    },
+    {
+      "id": "okiru", "dictionary": "起きる", "reading": "おきる", "meaning": "起床/发生", "type": "ichidan",
+      "forms": {
+        "masu": "起きます", "te": "起きて", "ta": "起きた",
+        "nai": "起きない", "nakatta": "起きなかった",
+        "potential": "起きられる", "potential-masu": "起きられます",
+        "imperative": "起きろ", "volitional": "起きよう",
+        "ba": "起きれば", "passive": "起きられる", "causative": "起きさせる",
+        "causative-passive": "起きさせられる", "prohibition": "起きるな"
+      }
+    },
+    {
+      "id": "nomu", "dictionary": "飲む", "reading": "のむ", "meaning": "喝", "type": "godan",
+      "forms": {
+        "masu": "飲みます", "te": "飲んで", "ta": "飲んだ",
+        "nai": "飲まない", "nakatta": "飲まなかった",
+        "potential": "飲める", "potential-masu": "飲めます",
+        "imperative": "飲め", "volitional": "飲もう",
+        "ba": "飲めば", "passive": "飲まれる", "causative": "飲ませる",
+        "causative-passive": "飲ませられる", "prohibition": "飲むな"
+      }
+    },
+    {
+      "id": "hashiru", "dictionary": "走る", "reading": "はしる", "meaning": "跑", "type": "ichidan",
+      "forms": {
+        "masu": "走ります", "te": "走って", "ta": "走った",
+        "nai": "走らない", "nakatta": "走らなかった",
+        "potential": "走れる", "potential-masu": "走れます",
+        "imperative": "走れ", "volitional": "走ろう",
+        "ba": "走れば", "passive": "走られる", "causative": "走らせる",
+        "causative-passive": "走らせられる", "prohibition": "走るな"
+      }
+    },
+    {
+      "id": "kiku", "dictionary": "聞く", "reading": "きく", "meaning": "听/问", "type": "godan",
+      "forms": {
+        "masu": "聞きます", "te": "聞いて", "ta": "聞いた",
+        "nai": "聞かない", "nakatta": "聞かなかった",
+        "potential": "聞ける", "potential-masu": "聞けます",
+        "imperative": "聞け", "volitional": "聞こう",
+        "ba": "聞けば", "passive": "聞かれる", "causative": "聞かせる",
+        "causative-passive": "聞かせられる", "prohibition": "聞くな"
+      }
+    },
+    {
+      "id": "matsu", "dictionary": "待つ", "reading": "まつ", "meaning": "等", "type": "godan",
+      "forms": {
+        "masu": "待ちます", "te": "待って", "ta": "待った",
+        "nai": "待たない", "nakatta": "待たなかった",
+        "potential": "待てる", "potential-masu": "待てます",
+        "imperative": "待て", "volitional": "待とう",
+        "ba": "待てば", "passive": "待たれる", "causative": "待たせる",
+        "causative-passive": "待たせられる", "prohibition": "待つな"
+      }
+    },
+    {
+      "id": "kaeru", "dictionary": "帰る", "reading": "かえる", "meaning": "回/回去", "type": "ichidan",
+      "forms": {
+        "masu": "帰ります", "te": "帰って", "ta": "帰った",
+        "nai": "帰らない", "nakatta": "帰らなかった",
+        "potential": "帰れる", "potential-masu": "帰れます",
+        "imperative": "帰れ", "volitional": "帰ろう",
+        "ba": "帰れば", "passive": "帰られる", "causative": "帰らせる",
+        "causative-passive": "帰らせられる", "prohibition": "帰るな"
+      }
+    },
+    {
+      "id": "aruku", "dictionary": "歩く", "reading": "あるく", "meaning": "走/步行", "type": "godan",
+      "forms": {
+        "masu": "歩きます", "te": "歩いて", "ta": "歩いた",
+        "nai": "歩かない", "nakatta": "歩かなかった",
+        "potential": "歩ける", "potential-masu": "歩けます",
+        "imperative": "歩け", "volitional": "歩こう",
+        "ba": "歩けば", "passive": "歩かれる", "causative": "歩かせる",
+        "causative-passive": "歩かせられる", "prohibition": "歩くな"
+      }
+    },
+    {
+      "id": "shinu", "dictionary": "死ぬ", "reading": "しぬ", "meaning": "死", "type": "godan",
+      "forms": {
+        "masu": "死にます", "te": "死んで", "ta": "死んだ",
+        "nai": "死なない", "nakatta": "死ななかった",
+        "potential": "死ねる", "potential-masu": "死ねます",
+        "imperative": "死ね", "volitional": "死のう",
+        "ba": "死ねば", "passive": "死なれる", "causative": "死なせる",
+        "causative-passive": "死なせられる", "prohibition": "死ぬな"
+      }
+    },
+    {
+      "id": "oyogu", "dictionary": "泳ぐ", "reading": "およぐ", "meaning": "游泳", "type": "godan",
+      "forms": {
+        "masu": "泳ぎます", "te": "泳いで", "ta": "泳いだ",
+        "nai": "泳がない", "nakatta": "泳がなかった",
+        "potential": "泳げる", "potential-masu": "泳げます",
+        "imperative": "泳げ", "volitional": "泳ごう",
+        "ba": "泳げば", "passive": "泳がれる", "causative": "泳がせる",
+        "causative-passive": "泳がせられる", "prohibition": "泳ぐな"
+      }
+    },
+    {
+      "id": "asobu", "dictionary": "遊ぶ", "reading": "あそぶ", "meaning": "玩", "type": "godan",
+      "forms": {
+        "masu": "遊びます", "te": "遊んで", "ta": "遊んだ",
+        "nai": "遊ばない", "nakatta": "遊ばなかった",
+        "potential": "遊べる", "potential-masu": "遊べます",
+        "imperative": "遊べ", "volitional": "遊ぼう",
+        "ba": "遊べば", "passive": "遊ばれる", "causative": "遊ばせる",
+        "causative-passive": "遊ばせられる", "prohibition": "遊ぶな"
+      }
+    },
+    {
+      "id": "shigoto", "dictionary": "働く", "reading": "はたらく", "meaning": "工作", "type": "godan",
+      "forms": {
+        "masu": "働きます", "te": "働いて", "ta": "働いた",
+        "nai": "働かない", "nakatta": "働かなかった",
+        "potential": "働ける", "potential-masu": "働けます",
+        "imperative": "働け", "volitional": "働こう",
+        "ba": "働けば", "passive": "働かれる", "causative": "働かせる",
+        "causative-passive": "働かせられる", "prohibition": "働くな"
+      }
+    },
+    {
+      "id": "hanasu2", "dictionary": "話す", "reading": "はなす", "meaning": "说/讲", "type": "godan",
+      "forms": {
+        "masu": "話します", "te": "話して", "ta": "話した",
+        "nai": "話さない", "nakatta": "話さなかった",
+        "potential": "話せる", "potential-masu": "話せます",
+        "imperative": "話せ", "volitional": "話そう",
+        "ba": "話せば", "passive": "話される", "causative": "話させる",
+        "causative-passive": "話させられる", "prohibition": "話すな"
+      }
+    },
+    {
+      "id": "shinu2", "dictionary": "知る", "reading": "しる", "meaning": "知道", "type": "ichidan",
+      "forms": {
+        "masu": "知ります", "te": "知って", "ta": "知った",
+        "nai": "知らない", "nakatta": "知らなかった",
+        "potential": "知れる", "potential-masu": "知れます",
+        "imperative": "知れ", "volitional": "知ろう",
+        "ba": "知れば", "passive": "知られる", "causative": "知らせる",
+        "causative-passive": "知らせられる", "prohibition": "知るな"
+      }
+    },
+    {
+      "id": "dekiru", "dictionary": "出来る", "reading": "できる", "meaning": "会/能完成", "type": "ichidan",
+      "forms": {
+        "masu": "出来ます", "te": "出来て", "ta": "出来た",
+        "nai": "出来ない", "nakatta": "出来なかった",
+        "potential": "出来る", "potential-masu": "出来ます",
+        "imperative": "出来ろ", "volitional": "出来よう",
+        "ba": "出来れば", "passive": "出来られる", "causative": "出来させる",
+        "causative-passive": "出来させられる", "prohibition": "出来るな"
+      }
+    },
+    {
+      "id": "wakaru", "dictionary": "分かる", "reading": "わかる", "meaning": "懂/理解", "type": "godan",
+      "forms": {
+        "masu": "分かります", "te": "分かって", "ta": "分かった",
+        "nai": "分からない", "nakatta": "分からなかった",
+        "potential": "分かる", "potential-masu": "分かります",
+        "imperative": "分かれ", "volitional": "分かろう",
+        "ba": "分かれば", "passive": "分かれる", "causative": "分からせる",
+        "causative-passive": "分からせられる", "prohibition": "分かるな"
+      }
+    },
+    {
+      "id": "shimeru", "dictionary": "閉める", "reading": "しめる", "meaning": "关(他动)", "type": "ichidan",
+      "forms": {
+        "masu": "閉めます", "te": "閉めて", "ta": "閉めた",
+        "nai": "閉めない", "nakatta": "閉めなかった",
+        "potential": "閉められる", "potential-masu": "閉められます",
+        "imperative": "閉めろ", "volitional": "閉めよう",
+        "ba": "閉めれば", "passive": "閉められる", "causative": "閉めさせる",
+        "causative-passive": "閉めさせられる", "prohibition": "閉めるな"
+      }
+    },
+    {
+      "id": "akete", "dictionary": "開ける", "reading": "あける", "meaning": "开(他动)", "type": "ichidan",
+      "forms": {
+        "masu": "開けます", "te": "開けて", "ta": "開けた",
+        "nai": "開けない", "nakatta": "開けなかった",
+        "potential": "開けられる", "potential-masu": "開けられます",
+        "imperative": "開けろ", "volitional": "開けよう",
+        "ba": "開ければ", "passive": "開けられる", "causative": "開けさせる",
+        "causative-passive": "開けさせられる", "prohibition": "開けるな"
+      }
+    },
+    {
+      "id": "dekiru2", "dictionary": "出る", "reading": "でる", "meaning": "出去/出门", "type": "ichidan",
+      "forms": {
+        "masu": "出ます", "te": "出て", "ta": "出た",
+        "nai": "出ない", "nakatta": "出なかった",
+        "potential": "出られる", "potential-masu": "出られます",
+        "imperative": "出ろ", "volitional": "出よう",
+        "ba": "出れば", "passive": "出される", "causative": "出させる",
+        "causative-passive": "出させられる", "prohibition": "出るな"
+      }
+    },
+    {
+      "id": "hairu", "dictionary": "入る", "reading": "はいる", "meaning": "进入", "type": "godan",
+      "forms": {
+        "masu": "入ります", "te": "入って", "ta": "入った",
+        "nai": "入らない", "nakatta": "入らなかった",
+        "potential": "入れる", "potential-masu": "入れます",
+        "imperative": "入れ", "volitional": "入ろう",
+        "ba": "入れば", "passive": "入れられる", "causative": "入れさせる",
+        "causative-passive": "入れさせられる", "prohibition": "入るな"
+      }
+    },
+    {
+      "id": "tsukuru", "dictionary": "作る", "reading": "つくる", "meaning": "做/制作", "type": "godan",
+      "forms": {
+        "masu": "作ります", "te": "作って", "ta": "作った",
+        "nai": "作らない", "nakatta": "作らなかった",
+        "potential": "作れる", "potential-masu": "作れます",
+        "imperative": "作れ", "volitional": "作ろう",
+        "ba": "作れば", "passive": "作られる", "causative": "作らせる",
+        "causative-passive": "作らせられる", "prohibition": "作るな"
+      }
+    },
+    {
+      "id": "oshieru", "dictionary": "教える", "reading": "おしえる", "meaning": "教", "type": "ichidan",
+      "forms": {
+        "masu": "教えます", "te": "教えて", "ta": "教えた",
+        "nai": "教えない", "nakatta": "教えなかった",
+        "potential": "教えられる", "potential-masu": "教えられます",
+        "imperative": "教えろ", "volitional": "教えよう",
+        "ba": "教えれば", "passive": "教えられる", "causative": "教えさせる",
+        "causative-passive": "教えさせられる", "prohibition": "教えるな"
+      }
+    },
+    {
+      "id": "shiru", "dictionary": "知る", "reading": "しる", "meaning": "知道", "type": "ichidan",
+      "forms": {
+        "masu": "知ります", "te": "知って", "ta": "知った",
+        "nai": "知らない", "nakatta": "知らなかった",
+        "potential": "知れる", "potential-masu": "知れます",
+        "imperative": "知れ", "volitional": "知ろう",
+        "ba": "知れば", "passive": "知られる", "causative": "知らせる",
+        "causative-passive": "知らせられる", "prohibition": "知るな"
+      }
+    }
+  ]
+}
