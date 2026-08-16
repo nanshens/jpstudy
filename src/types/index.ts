@@ -183,6 +183,7 @@ export interface VerbBasicsCard {
   items: VerbBasicsItem[];
   conjugation?: string;
   tip?: string;
+  details?: string[];
 }
 
 export interface VerbData {
