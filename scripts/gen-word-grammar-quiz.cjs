@@ -6,7 +6,7 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..', 'public', 'data', 'scenarios');
 // 包含 traffic-rules(虽然它有 350 truefalse,但 traffic-rules 没 words/grammar 词库在 scenarios-index)
-const TARGETS = ['driving', 'enrollment', 'course-practice', 'road-test', 'signs-rules', 'medical', 'pregnancy'];
+const TARGETS = ['driving', 'enrollment', 'course-practice', 'road-test', 'signs-rules', 'medical', 'pregnancy', 'it-work'];
 // traffic-rules 直接放 public/data/ 老的格式,跳过
 
 function shuffle(arr) {

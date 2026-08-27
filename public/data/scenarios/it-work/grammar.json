@@ -1,0 +1,422 @@
+[
+  {
+    "id": "g-01",
+    "pattern": "〜について",
+    "meaning": "关于...",
+    "title": "〜について",
+    "explanation": "关于...",
+    "examples": [
+      {
+        "jp": "この件について確認したいのですが。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-02",
+    "pattern": "〜の件",
+    "meaning": "关于...的事",
+    "title": "〜の件",
+    "explanation": "关于...的事",
+    "examples": [
+      {
+        "jp": "○○の件でご連絡しました。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-03",
+    "pattern": "〜していただけますか",
+    "meaning": "能请您...吗",
+    "title": "〜していただけますか",
+    "explanation": "能请您...吗",
+    "examples": [
+      {
+        "jp": "ご確認いただけますか。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-04",
+    "pattern": "〜いただけますでしょうか",
+    "meaning": "能否请您...吗 (更礼貌)",
+    "title": "〜いただけますでしょうか",
+    "explanation": "能否请您...吗 (更礼貌)",
+    "examples": [
+      {
+        "jp": "お時間いただけますでしょうか。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-05",
+    "pattern": "〜と思います",
+    "meaning": "我觉得...",
+    "title": "〜と思います",
+    "explanation": "我觉得...",
+    "examples": [
+      {
+        "jp": "原因はそこだと思います。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-06",
+    "pattern": "〜かと存じます",
+    "meaning": "我认为 (自谦)",
+    "title": "〜かと存じます",
+    "explanation": "我认为 (自谦)",
+    "examples": [
+      {
+        "jp": "問題ないかと存じます。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-07",
+    "pattern": "〜ようにしてください",
+    "meaning": "请按照...做",
+    "title": "〜ようにしてください",
+    "explanation": "请按照...做",
+    "examples": [
+      {
+        "jp": "ブランチを切るようにしてください。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-08",
+    "pattern": "〜の場合は",
+    "meaning": "在...的情况下",
+    "title": "〜の場合は",
+    "explanation": "在...的情况下",
+    "examples": [
+      {
+        "jp": "エラーが発生した場合は連絡してください。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-09",
+    "pattern": "〜する予定でおります",
+    "meaning": "我计划...",
+    "title": "〜する予定でおります",
+    "explanation": "我计划...",
+    "examples": [
+      {
+        "jp": "来週リリースする予定でおります。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-10",
+    "pattern": "〜する必要があります",
+    "meaning": "有必要...",
+    "title": "〜する必要があります",
+    "explanation": "有必要...",
+    "examples": [
+      {
+        "jp": "再起動する必要があります。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-11",
+    "pattern": "〜してもよろしいでしょうか",
+    "meaning": "可以...吗",
+    "title": "〜してもよろしいでしょうか",
+    "explanation": "可以...吗",
+    "examples": [
+      {
+        "jp": "リリースしてもよろしいでしょうか。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-12",
+    "pattern": "〜のようにいたします",
+    "meaning": "我会...做",
+    "title": "〜のようにいたします",
+    "explanation": "我会...做",
+    "examples": [
+      {
+        "jp": "本日中に対応いたします。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-13",
+    "pattern": "〜の対応をお願いします",
+    "meaning": "请处理...",
+    "title": "〜の対応をお願いします",
+    "explanation": "请处理...",
+    "examples": [
+      {
+        "jp": "至急の対応をお願いします。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-14",
+    "pattern": "〜する際は",
+    "meaning": "做...的时候",
+    "title": "〜する際は",
+    "explanation": "做...的时候",
+    "examples": [
+      {
+        "jp": "マージする際はレビューが必要です。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-15",
+    "pattern": "〜によると",
+    "meaning": "根据...",
+    "title": "〜によると",
+    "explanation": "根据...",
+    "examples": [
+      {
+        "jp": "ログによると API 呼び出しが失敗しています。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-16",
+    "pattern": "〜とのことでした",
+    "meaning": "据说...",
+    "title": "〜とのことでした",
+    "explanation": "据说...",
+    "examples": [
+      {
+        "jp": "田中さんからは完了したとのことでした。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-17",
+    "pattern": "〜ていただけますでしょうか",
+    "meaning": "能请您帮我...吗 (更礼貌)",
+    "title": "〜ていただけますでしょうか",
+    "explanation": "能请您帮我...吗 (更礼貌)",
+    "examples": [
+      {
+        "jp": "PR をレビューしていただけますでしょうか。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-18",
+    "pattern": "〜のか",
+    "meaning": "...的 (强调疑问)",
+    "title": "〜のか",
+    "explanation": "...的 (强调疑问)",
+    "examples": [
+      {
+        "jp": "本当に不具合なのか、もう一度確認します。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-19",
+    "pattern": "〜によって",
+    "meaning": "根据 / 由于",
+    "title": "〜によって",
+    "explanation": "根据 / 由于",
+    "examples": [
+      {
+        "jp": "環境によって動作が異なります。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-20",
+    "pattern": "〜ことがあります",
+    "meaning": "有时候会...",
+    "title": "〜ことがあります",
+    "explanation": "有时候会...",
+    "examples": [
+      {
+        "jp": "稀にタイムアウトになることがあります。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-21",
+    "pattern": "〜のほう",
+    "meaning": "...那一边 (委婉指人)",
+    "title": "〜のほう",
+    "explanation": "...那一边 (委婉指人)",
+    "examples": [
+      {
+        "jp": "○○さんのほうにも共有しておきます。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-22",
+    "pattern": "〜いただければと思います",
+    "meaning": "如果能...的话 (委婉请求)",
+    "title": "〜いただければと思います",
+    "explanation": "如果能...的话 (委婉请求)",
+    "examples": [
+      {
+        "jp": "早めにご返信いただければと思います。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-23",
+    "pattern": "〜いたす",
+    "meaning": "做 (自谦)",
+    "title": "〜いたす",
+    "explanation": "做 (自谦)",
+    "examples": [
+      {
+        "jp": "確認いたしまして、追ってご連絡いたします。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-24",
+    "pattern": "〜させていただく",
+    "meaning": "请允许我... (自谦)",
+    "title": "〜させていただく",
+    "explanation": "请允许我... (自谦)",
+    "examples": [
+      {
+        "jp": "仕様について確認させていただきます。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-25",
+    "pattern": "〜なんですが",
+    "meaning": "...是这样的 (犹豫开场)",
+    "title": "〜なんですが",
+    "explanation": "...是这样的 (犹豫开场)",
+    "examples": [
+      {
+        "jp": "少し聞きたいんですが、お時間ありますか。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-26",
+    "pattern": "〜ことになる",
+    "meaning": "就变成 / 决定",
+    "title": "〜ことになる",
+    "explanation": "就变成 / 决定",
+    "examples": [
+      {
+        "jp": "来週からテスト環境で検証することになります。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-27",
+    "pattern": "〜ようにする",
+    "meaning": "做到...",
+    "title": "〜ようにする",
+    "explanation": "做到...",
+    "examples": [
+      {
+        "jp": "レビューコメントに対応するようにしています。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-28",
+    "pattern": "〜ことになっている",
+    "meaning": "规定 / 预定",
+    "title": "〜ことになっている",
+    "explanation": "规定 / 预定",
+    "examples": [
+      {
+        "jp": "本番リリース前に QA を行うことになっています。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-29",
+    "pattern": "〜ております",
+    "meaning": "正在... (自谦)",
+    "title": "〜ております",
+    "explanation": "正在... (自谦)",
+    "examples": [
+      {
+        "jp": "只今確認しております。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "id": "g-30",
+    "pattern": "〜いただけますと幸いです",
+    "meaning": "如能...则不胜感激",
+    "title": "〜いただけますと幸いです",
+    "explanation": "如能...则不胜感激",
+    "examples": [
+      {
+        "jp": "ご確認いただけますと幸いです。",
+        "reading": "",
+        "meaning": ""
+      }
+    ]
+  }
+]

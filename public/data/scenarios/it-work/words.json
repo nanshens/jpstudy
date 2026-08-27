@@ -1,0 +1,1339 @@
+[
+  {
+    "id": "w-role-01",
+    "reading": "エンジニア",
+    "meaning": "工程师",
+    "jp": "エンジニア",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-02",
+    "reading": "プログラマー",
+    "meaning": "程序员",
+    "jp": "プログラマー",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-03",
+    "reading": "マネージャー",
+    "meaning": "经理 / 主管",
+    "jp": "マネージャー",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-04",
+    "reading": "プロジェクトマネージャー",
+    "meaning": "项目经理 (PM)",
+    "jp": "プロジェクトマネージャー",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-05",
+    "reading": "システムエンジニア",
+    "meaning": "系统工程师 (SE)",
+    "jp": "システムエンジニア",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-06",
+    "reading": "テックリード",
+    "meaning": "技术负责人",
+    "jp": "テックリード",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-07",
+    "reading": "デザイナー",
+    "meaning": "设计师",
+    "jp": "デザイナー",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-08",
+    "reading": "テスター",
+    "meaning": "测试员",
+    "jp": "テスター",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-09",
+    "reading": "フロントエンドエンジニア",
+    "meaning": "前端工程师",
+    "jp": "フロントエンドエンジニア",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-10",
+    "reading": "バックエンドエンジニア",
+    "meaning": "后端工程师",
+    "jp": "バックエンドエンジニア",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-11",
+    "reading": "インフラエンジニア",
+    "meaning": "基础设施工程师",
+    "jp": "インフラエンジニア",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-12",
+    "reading": "データサイエンティスト",
+    "meaning": "数据科学家",
+    "jp": "データサイエンティスト",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-13",
+    "reading": "プロダクトオーナー",
+    "meaning": "产品负责人 (PO)",
+    "jp": "プロダクトオーナー",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-14",
+    "reading": "スクラムマスター",
+    "meaning": "Scrum 主持",
+    "jp": "スクラムマスター",
+    "romaji": ""
+  },
+  {
+    "id": "w-role-15",
+    "reading": "チームリーダー",
+    "meaning": "组长",
+    "jp": "チームリーダー",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-01",
+    "reading": "うちあわせ",
+    "meaning": "碰头会 / 会议",
+    "jp": "打ち合わせ",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-02",
+    "reading": "ミーティング",
+    "meaning": "会议",
+    "jp": "ミーティング",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-03",
+    "reading": "かいぎ",
+    "meaning": "会议",
+    "jp": "会議",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-04",
+    "reading": "スタンドアップ",
+    "meaning": "站会",
+    "jp": "スタンドアップ",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-05",
+    "reading": "しんちょくほうこく",
+    "meaning": "进度报告",
+    "jp": "進捗報告",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-06",
+    "reading": "レビュー",
+    "meaning": "审查 / 评审",
+    "jp": "レビュー",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-07",
+    "reading": "ブレインストーミング",
+    "meaning": "头脑风暴",
+    "jp": "ブレインストーミング",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-08",
+    "reading": "ふりかえり",
+    "meaning": "回顾 (retro)",
+    "jp": "振り返り",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-09",
+    "reading": "ワンオンワン",
+    "meaning": "一对一会议 (1on1)",
+    "jp": "ワンオンワン",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-10",
+    "reading": "あさかい",
+    "meaning": "早会",
+    "jp": "朝会",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-11",
+    "reading": "しゅうじかいぎ",
+    "meaning": "周会",
+    "jp": "週次会議",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-12",
+    "reading": "そうかい",
+    "meaning": "全员大会",
+    "jp": "総会",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-13",
+    "reading": "ぎじろく",
+    "meaning": "会议记录",
+    "jp": "議事録",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-14",
+    "reading": "アジェンダ",
+    "meaning": "议程",
+    "jp": "アジェンダ",
+    "romaji": ""
+  },
+  {
+    "id": "w-mtg-15",
+    "reading": "ぎだい",
+    "meaning": "议题",
+    "jp": "議題",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-01",
+    "reading": "ギット",
+    "meaning": "版本控制工具",
+    "jp": "Git",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-02",
+    "reading": "ギットハブ",
+    "meaning": "代码托管平台",
+    "jp": "GitHub",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-03",
+    "reading": "ギットラブ",
+    "meaning": "自建代码托管",
+    "jp": "GitLab",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-04",
+    "reading": "スラック",
+    "meaning": "团队聊天工具",
+    "jp": "Slack",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-05",
+    "reading": "マイクロソフト チームズ",
+    "meaning": "微软团队协作",
+    "jp": "Microsoft Teams",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-06",
+    "reading": "ジラ",
+    "meaning": "任务管理工具",
+    "jp": "Jira",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-07",
+    "reading": "コンフルエンス",
+    "meaning": "文档协作工具",
+    "jp": "Confluence",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-08",
+    "reading": "ノーション",
+    "meaning": "笔记/文档工具",
+    "jp": "Notion",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-09",
+    "reading": "トレロ",
+    "meaning": "看板工具",
+    "jp": "Trello",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-10",
+    "reading": "アサナ",
+    "meaning": "任务管理",
+    "jp": "Asana",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-11",
+    "reading": "フィグマ",
+    "meaning": "设计协作工具",
+    "jp": "Figma",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-12",
+    "reading": "ブイエスコード",
+    "meaning": "代码编辑器",
+    "jp": "VSCode",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-13",
+    "reading": "インテリジェイ アイディア",
+    "meaning": "Java IDE",
+    "jp": "IntelliJ IDEA",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-14",
+    "reading": "パイチャーム",
+    "meaning": "Python IDE",
+    "jp": "PyCharm",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-15",
+    "reading": "ドッカー",
+    "meaning": "容器化平台",
+    "jp": "Docker",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-16",
+    "reading": "クーバネティス",
+    "meaning": "容器编排 (k8s)",
+    "jp": "Kubernetes",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-17",
+    "reading": "ジェンキンス",
+    "meaning": "CI/CD 工具",
+    "jp": "Jenkins",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-18",
+    "reading": "ギットハブ アクションズ",
+    "meaning": "CI/CD 服务",
+    "jp": "GitHub Actions",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-19",
+    "reading": "テラフォーム",
+    "meaning": "基础设施即代码",
+    "jp": "Terraform",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-20",
+    "reading": "アンシブル",
+    "meaning": "自动化运维",
+    "jp": "Ansible",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-21",
+    "reading": "ズーム",
+    "meaning": "视频会议",
+    "jp": "Zoom",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-22",
+    "reading": "グーグル ミート",
+    "meaning": "谷歌视频会议",
+    "jp": "Google Meet",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-23",
+    "reading": "ウェブエックス",
+    "meaning": "思科视频会议",
+    "jp": "Webex",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-24",
+    "reading": "ポストマン",
+    "meaning": "API 测试工具",
+    "jp": "Postman",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-25",
+    "reading": "スウォッガー",
+    "meaning": "API 文档工具",
+    "jp": "Swagger",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-26",
+    "reading": "セントリー",
+    "meaning": "错误监控",
+    "jp": "Sentry",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-27",
+    "reading": "データドッグ",
+    "meaning": "应用监控",
+    "jp": "Datadog",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-28",
+    "reading": "グラファナ",
+    "meaning": "可视化监控",
+    "jp": "Grafana",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-29",
+    "reading": "プロメテウス",
+    "meaning": "监控告警",
+    "jp": "Prometheus",
+    "romaji": ""
+  },
+  {
+    "id": "w-tool-30",
+    "reading": "サークルシーアイ",
+    "meaning": "CI/CD 平台",
+    "jp": "CircleCI",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-01",
+    "reading": "ジャバスクリプト",
+    "meaning": "JS 编程语言",
+    "jp": "JavaScript",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-02",
+    "reading": "タイプスクリプト",
+    "meaning": "TS 编程语言",
+    "jp": "TypeScript",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-03",
+    "reading": "パイソン",
+    "meaning": "Python 语言",
+    "jp": "Python",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-04",
+    "reading": "ジャバ",
+    "meaning": "Java 语言",
+    "jp": "Java",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-05",
+    "reading": "ゴー",
+    "meaning": "Go 语言",
+    "jp": "Go",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-06",
+    "reading": "ラスト",
+    "meaning": "Rust 语言",
+    "jp": "Rust",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-07",
+    "reading": "ルビー",
+    "meaning": "Ruby 语言",
+    "jp": "Ruby",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-08",
+    "reading": "ピーエイチピー",
+    "meaning": "PHP 语言",
+    "jp": "PHP",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-09",
+    "reading": "シーシャープ",
+    "meaning": "C# 语言",
+    "jp": "C#",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-10",
+    "reading": "シープラスプラス",
+    "meaning": "C++ 语言",
+    "jp": "C++",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-11",
+    "reading": "コトリン",
+    "meaning": "Kotlin 语言",
+    "jp": "Kotlin",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-12",
+    "reading": "スウィフト",
+    "meaning": "Swift 语言",
+    "jp": "Swift",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-13",
+    "reading": "スカラ",
+    "meaning": "Scala 语言",
+    "jp": "Scala",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-14",
+    "reading": "エスキューエル",
+    "meaning": "结构化查询语言",
+    "jp": "SQL",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-15",
+    "reading": "エイチティーエムエル",
+    "meaning": "超文本标记语言",
+    "jp": "HTML",
+    "romaji": ""
+  },
+  {
+    "id": "w-lang-16",
+    "reading": "シーエスエス",
+    "meaning": "层叠样式表",
+    "jp": "CSS",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-01",
+    "reading": "データベース",
+    "meaning": "数据库 (DB)",
+    "jp": "データベース",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-02",
+    "reading": "サーバー",
+    "meaning": "服务器",
+    "jp": "サーバー",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-03",
+    "reading": "フロントエンド",
+    "meaning": "前端",
+    "jp": "フロントエンド",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-04",
+    "reading": "バックエンド",
+    "meaning": "后端",
+    "jp": "バックエンド",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-05",
+    "reading": "エーアイピー",
+    "meaning": "应用程序接口",
+    "jp": "API",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-06",
+    "reading": "エンドポイント",
+    "meaning": "API 端点",
+    "jp": "エンドポイント",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-07",
+    "reading": "クラウド",
+    "meaning": "云",
+    "jp": "クラウド",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-08",
+    "reading": "セキュリティ",
+    "meaning": "安全 / 安全性",
+    "jp": "セキュリティ",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-09",
+    "reading": "デプロイ",
+    "meaning": "部署",
+    "jp": "デプロイ",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-10",
+    "reading": "テスト",
+    "meaning": "测试",
+    "jp": "テスト",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-11",
+    "reading": "シーアイシーディー",
+    "meaning": "持续集成/部署 (CI/CD)",
+    "jp": "シーアイシーディー",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-12",
+    "reading": "バージョンかんり",
+    "meaning": "版本管理",
+    "jp": "バージョン管理",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-13",
+    "reading": "フレームワーク",
+    "meaning": "框架",
+    "jp": "フレームワーク",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-14",
+    "reading": "ライブラリ",
+    "meaning": "库",
+    "jp": "ライブラリ",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-15",
+    "reading": "ソースコード",
+    "meaning": "源代码",
+    "jp": "ソースコード",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-16",
+    "reading": "リポジトリ",
+    "meaning": "代码仓库",
+    "jp": "リポジトリ",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-17",
+    "reading": "コミット",
+    "meaning": "提交代码",
+    "jp": "コミット",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-18",
+    "reading": "プッシュ",
+    "meaning": "推送",
+    "jp": "プッシュ",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-19",
+    "reading": "プルリクエスト",
+    "meaning": "合并请求 (PR)",
+    "jp": "プルリクエスト",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-20",
+    "reading": "マージ",
+    "meaning": "合并",
+    "jp": "マージ",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-21",
+    "reading": "ブランチ",
+    "meaning": "分支",
+    "jp": "ブランチ",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-22",
+    "reading": "コンフリクト",
+    "meaning": "代码冲突",
+    "jp": "コンフリクト",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-23",
+    "reading": "デバッグ",
+    "meaning": "调试",
+    "jp": "デバッグ",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-24",
+    "reading": "リファクタリング",
+    "meaning": "重构",
+    "jp": "リファクタリング",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-25",
+    "reading": "コードレビュー",
+    "meaning": "代码审查",
+    "jp": "コードレビュー",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-26",
+    "reading": "しようしょ",
+    "meaning": "规约书 / 规格书",
+    "jp": "仕様書",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-27",
+    "reading": "せっけいしょ",
+    "meaning": "设计书",
+    "jp": "設計書",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-28",
+    "reading": "ドキュメント",
+    "meaning": "文档",
+    "jp": "ドキュメント",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-29",
+    "reading": "たんたいテスト",
+    "meaning": "单元测试",
+    "jp": "単体テスト",
+    "romaji": ""
+  },
+  {
+    "id": "w-tech-30",
+    "reading": "けつごうテスト",
+    "meaning": "集成测试",
+    "jp": "結合テスト",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-01",
+    "reading": "パソコン",
+    "meaning": "电脑",
+    "jp": "パソコン",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-02",
+    "reading": "ノートパソコン",
+    "meaning": "笔记本电脑",
+    "jp": "ノートパソコン",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-03",
+    "reading": "モニター",
+    "meaning": "显示器",
+    "jp": "モニター",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-04",
+    "reading": "キーボード",
+    "meaning": "键盘",
+    "jp": "キーボード",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-05",
+    "reading": "マウス",
+    "meaning": "鼠标",
+    "jp": "マウス",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-06",
+    "reading": "トラックパッド",
+    "meaning": "触控板",
+    "jp": "トラックパッド",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-07",
+    "reading": "ヘッドセット",
+    "meaning": "耳机 (耳麦)",
+    "jp": "ヘッドセット",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-08",
+    "reading": "マイク",
+    "meaning": "麦克风",
+    "jp": "マイク",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-09",
+    "reading": "ウェブカメラ",
+    "meaning": "网络摄像头",
+    "jp": "ウェブカメラ",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-10",
+    "reading": "ワイファイ",
+    "meaning": "Wi-Fi 无线网",
+    "jp": "ワイファイ",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-11",
+    "reading": "ブイピーエヌ",
+    "meaning": "虚拟专用网 (VPN)",
+    "jp": "ブイピーエヌ",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-12",
+    "reading": "ファイアウォール",
+    "meaning": "防火墙",
+    "jp": "ファイアウォール",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-13",
+    "reading": "ルーター",
+    "meaning": "路由器",
+    "jp": "ルーター",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-14",
+    "reading": "プロキシ",
+    "meaning": "代理服务器",
+    "jp": "プロキシ",
+    "romaji": ""
+  },
+  {
+    "id": "w-dev-15",
+    "reading": "サーバーしつ",
+    "meaning": "机房",
+    "jp": "サーバー室",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-01",
+    "reading": "ローカルかんきょう",
+    "meaning": "本地环境",
+    "jp": "ローカル環境",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-02",
+    "reading": "かいはつかんきょう",
+    "meaning": "开发环境",
+    "jp": "開発環境",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-03",
+    "reading": "テストかんきょう",
+    "meaning": "测试环境",
+    "jp": "テスト環境",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-04",
+    "reading": "ステージングかんきょう",
+    "meaning": "准生产环境",
+    "jp": "ステージング環境",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-05",
+    "reading": "ほんばんかんきょう",
+    "meaning": "正式环境 (生产)",
+    "jp": "本番環境",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-06",
+    "reading": "けんしょうかんきょう",
+    "meaning": "验证环境",
+    "jp": "検証環境",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-07",
+    "reading": "サンドボックス",
+    "meaning": "沙盒环境",
+    "jp": "サンドボックス",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-08",
+    "reading": "コンテナ",
+    "meaning": "容器",
+    "jp": "コンテナ",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-09",
+    "reading": "かそうマシン",
+    "meaning": "虚拟机 (VM)",
+    "jp": "仮想マシン",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-10",
+    "reading": "イメージ",
+    "meaning": "镜像",
+    "jp": "イメージ",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-11",
+    "reading": "ネットワーク",
+    "meaning": "网络",
+    "jp": "ネットワーク",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-12",
+    "reading": "ドメイン",
+    "meaning": "域名",
+    "jp": "ドメイン",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-13",
+    "reading": "エスエスエル",
+    "meaning": "SSL 加密协议",
+    "jp": "エスエスエル",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-14",
+    "reading": "エスティーエヌ",
+    "meaning": "临时网络 (staging)",
+    "jp": "エスティーエヌ",
+    "romaji": ""
+  },
+  {
+    "id": "w-env-15",
+    "reading": "エンドポイント",
+    "meaning": "端点 / 终端",
+    "jp": "エンドポイント",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-01",
+    "reading": "チケット",
+    "meaning": "工单",
+    "jp": "チケット",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-02",
+    "reading": "タスク",
+    "meaning": "任务",
+    "jp": "タスク",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-03",
+    "reading": "ユーザーストーリー",
+    "meaning": "用户故事",
+    "jp": "ユーザーストーリー",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-04",
+    "reading": "エピック",
+    "meaning": "史诗 (Epic)",
+    "jp": "エピック",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-05",
+    "reading": "スプリント",
+    "meaning": "迭代周期",
+    "jp": "スプリント",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-06",
+    "reading": "バックログ",
+    "meaning": "待办列表",
+    "jp": "バックログ",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-07",
+    "reading": "こうすう",
+    "meaning": "工时",
+    "jp": "工数",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-08",
+    "reading": "みつもり",
+    "meaning": "估算",
+    "jp": "見積もり",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-09",
+    "reading": "しんちょく",
+    "meaning": "进度",
+    "jp": "進捗",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-10",
+    "reading": "のうき",
+    "meaning": "交付期",
+    "jp": "納期",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-11",
+    "reading": "しめきり",
+    "meaning": "截止日期",
+    "jp": "締め切り",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-12",
+    "reading": "イテレーション",
+    "meaning": "迭代",
+    "jp": "イテレーション",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-13",
+    "reading": "マイルストーン",
+    "meaning": "里程碑",
+    "jp": "マイルストーン",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-14",
+    "reading": "リリース",
+    "meaning": "发布 / 上线",
+    "jp": "リリース",
+    "romaji": ""
+  },
+  {
+    "id": "w-wf-15",
+    "reading": "レトロスペクティブ",
+    "meaning": "回顾会议",
+    "jp": "レトロスペクティブ",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-01",
+    "reading": "バグ",
+    "meaning": "缺陷 / Bug",
+    "jp": "バグ",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-02",
+    "reading": "エラー",
+    "meaning": "错误",
+    "jp": "エラー",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-03",
+    "reading": "しょうがい",
+    "meaning": "故障",
+    "jp": "障害",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-04",
+    "reading": "インシデント",
+    "meaning": "事故",
+    "jp": "インシデント",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-05",
+    "reading": "トラブル",
+    "meaning": "麻烦 / 故障",
+    "jp": "トラブル",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-06",
+    "reading": "しゅうせい",
+    "meaning": "修正",
+    "jp": "修正",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-07",
+    "reading": "きんきゅう",
+    "meaning": "紧急",
+    "jp": "緊急",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-08",
+    "reading": "しきゅう",
+    "meaning": "加急",
+    "jp": "至急",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-09",
+    "reading": "ふっきゅう",
+    "meaning": "恢复",
+    "jp": "復旧",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-10",
+    "reading": "ロールバック",
+    "meaning": "回滚",
+    "jp": "ロールバック",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-11",
+    "reading": "げんいんちょうさ",
+    "meaning": "原因调查",
+    "jp": "原因調査",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-12",
+    "reading": "さいはつぼうし",
+    "meaning": "防止复发",
+    "jp": "再発防止",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-13",
+    "reading": "ホットフィックス",
+    "meaning": "热修复",
+    "jp": "ホットフィックス",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-14",
+    "reading": "ログ",
+    "meaning": "日志",
+    "jp": "ログ",
+    "romaji": ""
+  },
+  {
+    "id": "w-bug-15",
+    "reading": "スタックトレース",
+    "meaning": "堆栈跟踪",
+    "jp": "スタックトレース",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-01",
+    "reading": "おつかれさまです",
+    "meaning": "辛苦了 (问候/道别)",
+    "jp": "お疲れ様です",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-02",
+    "reading": "よろしくおねがいいたします",
+    "meaning": "请多关照",
+    "jp": "よろしくお願いいたします",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-03",
+    "reading": "しょうちしました",
+    "meaning": "我知道了",
+    "jp": "承知しました",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-04",
+    "reading": "かくにんしました",
+    "meaning": "我确认了",
+    "jp": "確認しました",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-05",
+    "reading": "きょうゆうします",
+    "meaning": "我分享一下",
+    "jp": "共有します",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-06",
+    "reading": "けんとうします",
+    "meaning": "我考虑一下",
+    "jp": "検討します",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-07",
+    "reading": "たいおうします",
+    "meaning": "我来处理",
+    "jp": "対応します",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-08",
+    "reading": "へんしんします",
+    "meaning": "我会回复",
+    "jp": "返信します",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-09",
+    "reading": "ほうこくします",
+    "meaning": "我汇报一下",
+    "jp": "報告します",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-10",
+    "reading": "れんらくします",
+    "meaning": "我会联系",
+    "jp": "連絡します",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-11",
+    "reading": "おじかんよろしいでしょうか",
+    "meaning": "您现在方便吗?",
+    "jp": "お時間よろしいでしょうか",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-12",
+    "reading": "しょうしょうおまちください",
+    "meaning": "请稍等",
+    "jp": "少々お待ちください",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-13",
+    "reading": "しつれいします",
+    "meaning": "告辞了 / 失礼",
+    "jp": "失礼します",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-14",
+    "reading": "おせわになっております",
+    "meaning": "承蒙关照",
+    "jp": "お世話になっております",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-15",
+    "reading": "もうしわけございません",
+    "meaning": "非常抱歉",
+    "jp": "申し訳ございません",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-16",
+    "reading": "たすかります",
+    "meaning": "帮大忙",
+    "jp": "助かります",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-17",
+    "reading": "りょうかいです",
+    "meaning": "了解",
+    "jp": "了解です",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-18",
+    "reading": "もんだいありません",
+    "meaning": "没问题",
+    "jp": "問題ありません",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-19",
+    "reading": "かのうです",
+    "meaning": "可以",
+    "jp": "可能です",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-20",
+    "reading": "かくにんしてください",
+    "meaning": "请确认",
+    "jp": "ご確認ください",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-21",
+    "reading": "おつかれさまでした",
+    "meaning": "辛苦了 (下班时)",
+    "jp": "お疲れさまでした",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-22",
+    "reading": "よろしくおねがいいたします",
+    "meaning": "请多关照 (重复句型补全)",
+    "jp": "よろしくお願いいたします",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-23",
+    "reading": "おつかれさまです",
+    "meaning": "辛苦了 (口语)",
+    "jp": "お疲れ様でーす",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-24",
+    "reading": "ナイスです",
+    "meaning": "干得好",
+    "jp": "ナイスです",
+    "romaji": ""
+  },
+  {
+    "id": "w-manner-25",
+    "reading": "エビデンス",
+    "meaning": "证据 / 截图证据",
+    "jp": "エビデンス",
+    "romaji": ""
+  }
+]
