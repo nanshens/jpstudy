@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ArrowLeft, BookOpen, GraduationCap, MessageCircle, Headphones, ClipboardCheck, House, FileText } from 'lucide-react';
+import { ArrowLeft, BookOpen, GraduationCap, MessageCircle, Headphones, ClipboardCheck, House, FileText, Keyboard } from 'lucide-react';
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
 import { loadScenario } from '@/lib/loader';
 import { setProgress } from '@/lib/storage';
@@ -12,9 +12,10 @@ import { DialogsView } from './scenario/Dialogs';
 import { ListeningView } from './scenario/Listening';
 import { QuizView } from './scenario/Quiz';
 import { Textbook } from './scenario/Textbook';
+import { TypingView } from './scenario/TypingView';
 import type { ScenarioData } from '@/types';
 
-const BASE_TAB_KEYS = ['overview', 'words', 'grammar', 'dialogs', 'listening', 'quiz'] as const;
+const BASE_TAB_KEYS = ['overview', 'words', 'grammar', 'dialogs', 'listening', 'typing', 'quiz'] as const;
 type BaseTabKey = (typeof BASE_TAB_KEYS)[number];
 type TabKey = BaseTabKey | 'textbook';
 
@@ -105,6 +106,9 @@ export function ScenarioPage() {
             {tabKeys.includes('listening') && (
               <TabsTrigger value="listening" icon={<Headphones className="h-3.5 w-3.5" />}>听力</TabsTrigger>
             )}
+            {tabKeys.includes('typing') && data.words.length > 0 && (
+              <TabsTrigger value="typing" icon={<Keyboard className="h-3.5 w-3.5" />}>打字</TabsTrigger>
+            )}
             {tabKeys.includes('quiz') && (
               <TabsTrigger value="quiz" icon={<ClipboardCheck className="h-3.5 w-3.5" />}>小测</TabsTrigger>
             )}
@@ -157,6 +161,11 @@ export function ScenarioPage() {
         {tabKeys.includes('listening') && (
           <TabsContent value="listening">
             <ListeningView data={data} />
+          </TabsContent>
+        )}
+        {tabKeys.includes('typing') && data.words.length > 0 && (
+          <TabsContent value="typing">
+            <TypingView data={data} />
           </TabsContent>
         )}
         {tabKeys.includes('quiz') && (
