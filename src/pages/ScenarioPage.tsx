@@ -117,7 +117,7 @@ export function ScenarioPage() {
 
         {tabKeys.includes('overview') && (
           <TabsContent value="overview">
-            <Overview data={data} />
+            <Overview data={data} onSwitchTab={(t) => setTab(t as TabKey)} />
           </TabsContent>
         )}
         {tabKeys.includes('textbook') && data.meta.pdf && (

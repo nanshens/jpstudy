@@ -1,85 +1,838 @@
 [
-  { "id": "preg-w01", "jp": "妊娠", "reading": "にんしん", "romaji": "ninshin", "meaning": "怀孕/妊娠", "tag": ["状态"] },
-  { "id": "preg-w02", "jp": "妊婦", "reading": "にんぷ", "romaji": "ninpu", "meaning": "孕妇", "tag": ["人物"] },
-  { "id": "preg-w03", "jp": "妊婦健診", "reading": "にんぷけんしん", "romaji": "ninpu-kenshin", "meaning": "产检", "tag": ["流程"] },
-  { "id": "preg-w04", "jp": "妊娠届", "reading": "にんしんとどけ", "romaji": "ninshin-todoke", "meaning": "怀孕申报表", "tag": ["证件"] },
-  { "id": "preg-w05", "jp": "母子健康手帳", "reading": "ぼしけんこうてちょう", "romaji": "boshi-kenkou-techou", "meaning": "母子健康手册", "tag": ["证件"] },
-  { "id": "preg-w06", "jp": "母子手帳", "reading": "ぼしてちょう", "romaji": "boshi-techou", "meaning": "母子手册(简称)", "tag": ["证件"] },
-  { "id": "preg-w07", "jp": "受診券", "reading": "じゅしんけん", "romaji": "jushinken", "meaning": "产检补助券", "tag": ["证件"] },
-  { "id": "preg-w08", "jp": "産婦人科", "reading": "さんふじんか", "romaji": "sanfujinka", "meaning": "妇产科", "tag": ["科室"] },
-  { "id": "preg-w09", "jp": "産科", "reading": "さんか", "romaji": "sanka", "meaning": "产科(只接生)", "tag": ["科室"] },
-  { "id": "preg-w10", "jp": "婦人科", "reading": "ふじんか", "romaji": "fujinka", "meaning": "妇科(不接生)", "tag": ["科室"] },
-  { "id": "preg-w11", "jp": "助産師", "reading": "じょさんし", "romaji": "josanshi", "meaning": "助产士/助产师", "tag": ["人物"] },
-  { "id": "preg-w12", "jp": "保健師", "reading": "ほけんし", "romaji": "hokenshi", "meaning": "保健师(役所有)", "tag": ["人物"] },
-  { "id": "preg-w13", "jp": "産婦人科医", "reading": "さんふじんかい", "romaji": "sanfujinka-i", "meaning": "妇产科医生", "tag": ["人物"] },
-  { "id": "preg-w14", "jp": "出産", "reading": "しゅっさん", "romaji": "shussan", "meaning": "生产/生孩子", "tag": ["流程"] },
-  { "id": "preg-w15", "jp": "分娩", "reading": "ぶんべん", "romaji": "bunben", "meaning": "分娩(医学词)", "tag": ["流程"] },
-  { "id": "preg-w16", "jp": "自然分娩", "reading": "しぜんぶんべん", "romaji": "shizen-bunben", "meaning": "自然分娩/顺产", "tag": ["流程"] },
-  { "id": "preg-w17", "jp": "帝王切開", "reading": "ていおうせっかい", "romaji": "teiou-sekkai", "meaning": "剖腹产", "tag": ["流程"] },
-  { "id": "preg-w18", "jp": "無痛分娩", "reading": "むつうぶんべん", "romaji": "mutsuu-bunben", "meaning": "无痛分娩", "tag": ["流程"] },
-  { "id": "preg-w19", "jp": "陣痛", "reading": "じんつう", "romaji": "jintsū", "meaning": "阵痛/宫缩", "tag": ["症状"] },
-  { "id": "preg-w20", "jp": "破水", "reading": "はすい", "romaji": "hasui", "meaning": "破水", "tag": ["症状"] },
-  { "id": "preg-w21", "jp": "おしるし", "reading": "おしるし", "romaji": "oshirushi", "meaning": "见红(产前征兆)", "tag": ["症状"] },
-  { "id": "preg-w22", "jp": "つわり", "reading": "つわり", "romaji": "tsuwari", "meaning": "孕吐/害喜", "tag": ["症状"] },
-  { "id": "preg-w23", "jp": "胎動", "reading": "たいどう", "romaji": "taidou", "meaning": "胎动", "tag": ["症状"] },
-  { "id": "preg-w24", "jp": "逆子", "reading": "さかご", "romaji": "sakago", "meaning": "胎位不正/臀位", "tag": ["症状"] },
-  { "id": "preg-w25", "jp": "張り", "reading": "はり", "romaji": "hari", "meaning": "子宫发紧(假宫缩)", "tag": ["症状"] },
-  { "id": "preg-w26", "jp": "エコー検査", "reading": "えこーけんさ", "romaji": "ekoo-kensa", "meaning": "B 超检查", "tag": ["检查"] },
-  { "id": "preg-w27", "jp": "超音波", "reading": "ちょうおんぱ", "romaji": "chouonpa", "meaning": "超声波(检查)", "tag": ["检查"] },
-  { "id": "preg-w28", "jp": "尿検査", "reading": "にょうけんさ", "romaji": "nyou-kensa", "meaning": "尿检", "tag": ["检查"] },
-  { "id": "preg-w29", "jp": "血液検査", "reading": "けつえきけんさ", "romaji": "ketsueki-kensa", "meaning": "血检", "tag": ["检查"] },
-  { "id": "preg-w30", "jp": "血糖値", "reading": "けっとうち", "romaji": "kettouchi", "meaning": "血糖值", "tag": ["检查"] },
-  { "id": "preg-w31", "jp": "血圧測定", "reading": "けつあつそくてい", "romaji": "ketsuatsu-sokutei", "meaning": "测血压", "tag": ["检查"] },
-  { "id": "preg-w32", "jp": "体重測定", "reading": "たいじゅうそくてい", "romaji": "taijuu-sokutei", "meaning": "测体重", "tag": ["检查"] },
-  { "id": "preg-w33", "jp": "貧血", "reading": "ひんけつ", "romaji": "hinketsu", "meaning": "贫血", "tag": ["症状"] },
-  { "id": "preg-w34", "jp": "妊娠高血圧症候群", "reading": "にんしんこうけつあつしょうこうぐん", "romaji": "ninshin-kouketsuatsu-shoukougun", "meaning": "妊娠高血压综合征", "tag": ["疾病"] },
-  { "id": "preg-w35", "jp": "妊娠糖尿病", "reading": "にんしんとうにょうびょう", "romaji": "ninshin-tounyoubyou", "meaning": "妊娠糖尿病", "tag": ["疾病"] },
-  { "id": "preg-w36", "jp": "出産予定日", "reading": "しゅっさんよていび", "romaji": "shussan-yoteibi", "meaning": "预产期", "tag": ["时间"] },
-  { "id": "preg-w37", "jp": "妊娠週数", "reading": "にんしんしゅうすう", "romaji": "ninshin-shuusuu", "meaning": "怀孕周数", "tag": ["时间"] },
-  { "id": "preg-w38", "jp": "妊娠初期", "reading": "にんしんしょき", "romaji": "ninshin-shoki", "meaning": "孕早期(~15 周)", "tag": ["时间"] },
-  { "id": "preg-w39", "jp": "妊娠中期", "reading": "にんしんちゅうき", "romaji": "ninshin-chuuki", "meaning": "孕中期(16-27 周)", "tag": ["时间"] },
-  { "id": "preg-w40", "jp": "妊娠後期", "reading": "にんしんこうき", "romaji": "ninshin-kouki", "meaning": "孕后期(28 周~)", "tag": ["时间"] },
-  { "id": "preg-w41", "jp": "出産育児一時金", "reading": "しゅっさんいくじいちじきん", "romaji": "shussan-ikuji-ichijikin", "meaning": "生育一次性补助金(50 万)", "tag": ["福利"] },
-  { "id": "preg-w42", "jp": "出生届", "reading": "しゅっせいとどけ", "romaji": "shussei-todoke", "meaning": "出生登记", "tag": ["证件"] },
-  { "id": "preg-w43", "jp": "出生通知票", "reading": "しゅっせいつうちひょう", "romaji": "shussei-tsuuchihyou", "meaning": "出生通知单(明信片)", "tag": ["证件"] },
-  { "id": "preg-w44", "jp": "母親学級", "reading": "ははおやがっきゅう", "romaji": "hahaoya-gakkyuu", "meaning": "母亲课堂", "tag": ["流程"] },
-  { "id": "preg-w45", "jp": "両親学級", "reading": "りょうしんがっきゅう", "romaji": "ryoushin-gakkyuu", "meaning": "父母课堂", "tag": ["流程"] },
-  { "id": "preg-w46", "jp": "母乳", "reading": "ぼにゅう", "romaji": "bonyuu", "meaning": "母乳", "tag": ["产后"] },
-  { "id": "preg-w47", "jp": "ミルク", "reading": "みるく", "romaji": "miruku", "meaning": "奶粉", "tag": ["产后"] },
-  { "id": "preg-w48", "jp": "授乳", "reading": "じゅにゅう", "romaji": "junyuu", "meaning": "哺乳/喂奶", "tag": ["产后"] },
-  { "id": "preg-w49", "jp": "沐浴", "reading": "もくよく", "romaji": "mokuyoku", "meaning": "洗澡(婴儿)", "tag": ["产后"] },
-  { "id": "preg-w50", "jp": "おむつ", "reading": "おむつ", "romaji": "omutsu", "meaning": "尿布", "tag": ["物品"] },
-  { "id": "preg-w51", "jp": "新生児", "reading": "しんせいじ", "romaji": "shinseiji", "meaning": "新生儿", "tag": ["人物"] },
-  { "id": "preg-w52", "jp": "乳児", "reading": "にゅうじ", "romaji": "nyuuji", "meaning": "婴儿", "tag": ["人物"] },
-  { "id": "preg-w53", "jp": "聴覚スクリーニング", "reading": "ちょうかくすくりーにんぐ", "romaji": "choukaku-sukuriiningu", "meaning": "听力筛查(新生儿)", "tag": ["检查"] },
-  { "id": "preg-w54", "jp": "先天性異常", "reading": "せんせいいじょう", "romaji": "sensei-ijou", "meaning": "先天性异常", "tag": ["疾病"] },
-  { "id": "preg-w55", "jp": "出生前検査", "reading": "しゅっせいまえけんさ", "romaji": "shusseimae-kensa", "meaning": "产前检查", "tag": ["检查"] },
-  { "id": "preg-w56", "jp": "NIPT", "reading": "にぷと", "romaji": "nipto", "meaning": "无创产前基因检测", "tag": ["检查"] },
-  { "id": "preg-w57", "jp": "羊水検査", "reading": "ようすいけんさ", "romaji": "yousui-kensa", "meaning": "羊水检查", "tag": ["检查"] },
-  { "id": "preg-w58", "jp": "入院", "reading": "にゅういん", "romaji": "nyuuin", "meaning": "住院(待产)", "tag": ["流程"] },
-  { "id": "preg-w59", "jp": "退院", "reading": "たいいん", "romaji": "taiin", "meaning": "出院", "tag": ["流程"] },
-  { "id": "preg-w60", "jp": "里帰り出産", "reading": "さとがえりしゅっさん", "romaji": "satogaeri-shussan", "meaning": "回娘家生产", "tag": ["流程"] },
-  { "id": "preg-w61", "jp": "マタニティマーク", "reading": "またまにぃまーく", "romaji": "matanitii-maaku", "meaning": "孕妇徽章(挂在包上)", "tag": ["物品"] },
-  { "id": "preg-w62", "jp": "ラマーズ法", "reading": "らまーずほう", "romaji": "ramaazu-hou", "meaning": "拉玛泽呼吸法", "tag": ["方法"] },
-  { "id": "preg-w63", "jp": "会陰切開", "reading": "えいんせっかい", "romaji": "eirin-sekkai", "meaning": "会阴侧切", "tag": ["流程"] },
-  { "id": "preg-w64", "jp": "計画分娩", "reading": "けいかくぶんべん", "romaji": "keikaku-bunben", "meaning": "计划分娩(催产)", "tag": ["流程"] },
-  { "id": "preg-w65", "jp": "出産費用", "reading": "しゅっさんひよう", "romaji": "shussan-hiyou", "meaning": "生产费用", "tag": ["费用"] },
-  { "id": "preg-w66", "jp": "産休", "reading": "さんきゅう", "romaji": "sankyu", "meaning": "产假", "tag": ["福利"] },
-  { "id": "preg-w67", "jp": "育休", "reading": "いくきゅう", "romaji": "ikukyuu", "meaning": "育儿假", "tag": ["福利"] },
-  { "id": "preg-w68", "jp": "出産手当金", "reading": "しゅっさんてあてきん", "romaji": "shussan-teatekin", "meaning": "生产津贴(上班的人)", "tag": ["福利"] },
-  { "id": "preg-w69", "jp": "マイナンバー", "reading": "まいなんばー", "romaji": "mainanbaa", "meaning": "个人编号(类似身份证号)", "tag": ["证件"] },
-  { "id": "preg-w70", "jp": "妊娠届出書", "reading": "にんしんとどけしょ", "romaji": "ninshin-todokesho", "meaning": "妊娠申报表(正式)", "tag": ["证件"] },
-  { "id": "preg-w71", "jp": "胎児心拍", "reading": "たいじしんぱく", "romaji": "taiji-shinpaku", "meaning": "胎儿心跳", "tag": ["检查"] },
-  { "id": "preg-w72", "jp": "周数", "reading": "しゅうすう", "romaji": "shuusuu", "meaning": "周数", "tag": ["时间"] },
-  { "id": "preg-w73", "jp": "切迫早産", "reading": "せっぱくそうざん", "romaji": "seppaku-souzan", "meaning": "先兆早产", "tag": ["疾病"] },
-  { "id": "preg-w74", "jp": "胞状奇胎", "reading": "ほうじょうきたい", "romaji": "houjou-kitai", "meaning": "葡萄胎", "tag": ["疾病"] },
-  { "id": "preg-w75", "jp": "胞衣", "reading": "ほうい", "romaji": "houi", "meaning": "胎盘", "tag": ["生理"] },
-  { "id": "preg-w76", "jp": "へその緒", "reading": "へそのお", "romaji": "hesonoo", "meaning": "脐带", "tag": ["生理"] },
-  { "id": "preg-w77", "jp": "羊水", "reading": "ようすい", "romaji": "yousui", "meaning": "羊水", "tag": ["生理"] },
-  { "id": "preg-w78", "jp": "妊娠線", "reading": "にんしんせん", "romaji": "ninshinsen", "meaning": "妊娠纹", "tag": ["症状"] },
-  { "id": "preg-w79", "jp": "悪阻", "reading": "つわり", "romaji": "tsuwari", "meaning": "孕吐(汉字写法)", "tag": ["症状"] },
-  { "id": "preg-w80", "jp": "妊婦帯", "reading": "にんぷおび", "romaji": "ninpu-obi", "meaning": "孕妇腹带", "tag": ["物品"] },
-  { "id": "preg-w81", "jp": "戌の日の安産祈願", "reading": "いぬのひのあんざんきがん", "romaji": "inunohi-no-anzan-kigan", "meaning": "戌日安产祈愿(传统)", "tag": ["习俗"] },
-  { "id": "preg-w82", "jp": "お七夜", "reading": "おしちや", "romaji": "oshichiya", "meaning": "出生第七天仪式", "tag": ["习俗"] },
-  { "id": "preg-w83", "jp": "お宮参り", "reading": "おみやまいり", "romaji": "omiyamairi", "meaning": "出生一个月参拜神社", "tag": ["习俗"] }
+  {
+    "id": "preg-w01",
+    "jp": "妊娠",
+    "reading": "にんしん",
+    "romaji": "ninshin",
+    "meaning": "怀孕/妊娠",
+    "tag": [
+      "状态"
+    ]
+  },
+  {
+    "id": "preg-w02",
+    "jp": "妊婦",
+    "reading": "にんぷ",
+    "romaji": "ninpu",
+    "meaning": "孕妇",
+    "tag": [
+      "人物"
+    ]
+  },
+  {
+    "id": "preg-w03",
+    "jp": "妊婦健診",
+    "reading": "にんぷけんしん",
+    "romaji": "ninpu-kenshin",
+    "meaning": "产检",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w04",
+    "jp": "妊娠届",
+    "reading": "にんしんとどけ",
+    "romaji": "ninshin-todoke",
+    "meaning": "怀孕申报表",
+    "tag": [
+      "证件"
+    ]
+  },
+  {
+    "id": "preg-w05",
+    "jp": "母子健康手帳",
+    "reading": "ぼしけんこうてちょう",
+    "romaji": "boshi-kenkou-techou",
+    "meaning": "母子健康手册",
+    "tag": [
+      "证件"
+    ]
+  },
+  {
+    "id": "preg-w06",
+    "jp": "母子手帳",
+    "reading": "ぼしてちょう",
+    "romaji": "boshi-techou",
+    "meaning": "母子手册(简称)",
+    "tag": [
+      "证件"
+    ]
+  },
+  {
+    "id": "preg-w07",
+    "jp": "受診券",
+    "reading": "じゅしんけん",
+    "romaji": "jushinken",
+    "meaning": "产检补助券",
+    "tag": [
+      "证件"
+    ]
+  },
+  {
+    "id": "preg-w08",
+    "jp": "産婦人科",
+    "reading": "さんふじんか",
+    "romaji": "sanfujinka",
+    "meaning": "妇产科",
+    "tag": [
+      "科室"
+    ]
+  },
+  {
+    "id": "preg-w09",
+    "jp": "産科",
+    "reading": "さんか",
+    "romaji": "sanka",
+    "meaning": "产科(只接生)",
+    "tag": [
+      "科室"
+    ]
+  },
+  {
+    "id": "preg-w10",
+    "jp": "婦人科",
+    "reading": "ふじんか",
+    "romaji": "fujinka",
+    "meaning": "妇科(不接生)",
+    "tag": [
+      "科室"
+    ]
+  },
+  {
+    "id": "preg-w11",
+    "jp": "助産師",
+    "reading": "じょさんし",
+    "romaji": "josanshi",
+    "meaning": "助产士/助产师",
+    "tag": [
+      "人物"
+    ]
+  },
+  {
+    "id": "preg-w12",
+    "jp": "保健師",
+    "reading": "ほけんし",
+    "romaji": "hokenshi",
+    "meaning": "保健师(役所有)",
+    "tag": [
+      "人物"
+    ]
+  },
+  {
+    "id": "preg-w13",
+    "jp": "産婦人科医",
+    "reading": "さんふじんかい",
+    "romaji": "sanfujinka-i",
+    "meaning": "妇产科医生",
+    "tag": [
+      "人物"
+    ]
+  },
+  {
+    "id": "preg-w14",
+    "jp": "出産",
+    "reading": "しゅっさん",
+    "romaji": "shussan",
+    "meaning": "生产/生孩子",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w15",
+    "jp": "分娩",
+    "reading": "ぶんべん",
+    "romaji": "bunben",
+    "meaning": "分娩(医学词)",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w16",
+    "jp": "自然分娩",
+    "reading": "しぜんぶんべん",
+    "romaji": "shizen-bunben",
+    "meaning": "自然分娩/顺产",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w17",
+    "jp": "帝王切開",
+    "reading": "ていおうせっかい",
+    "romaji": "teiou-sekkai",
+    "meaning": "剖腹产",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w18",
+    "jp": "無痛分娩",
+    "reading": "むつうぶんべん",
+    "romaji": "mutsuu-bunben",
+    "meaning": "无痛分娩",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w19",
+    "jp": "陣痛",
+    "reading": "じんつう",
+    "romaji": "jintsū",
+    "meaning": "阵痛/宫缩",
+    "tag": [
+      "症状"
+    ]
+  },
+  {
+    "id": "preg-w20",
+    "jp": "破水",
+    "reading": "はすい",
+    "romaji": "hasui",
+    "meaning": "破水",
+    "tag": [
+      "症状"
+    ]
+  },
+  {
+    "id": "preg-w21",
+    "jp": "おしるし",
+    "reading": "おしるし",
+    "romaji": "oshirushi",
+    "meaning": "见红(产前征兆)",
+    "tag": [
+      "症状"
+    ]
+  },
+  {
+    "id": "preg-w22",
+    "jp": "つわり",
+    "reading": "つわり",
+    "romaji": "tsuwari",
+    "meaning": "孕吐/害喜",
+    "tag": [
+      "症状"
+    ]
+  },
+  {
+    "id": "preg-w23",
+    "jp": "胎動",
+    "reading": "たいどう",
+    "romaji": "taidou",
+    "meaning": "胎动",
+    "tag": [
+      "症状"
+    ]
+  },
+  {
+    "id": "preg-w24",
+    "jp": "逆子",
+    "reading": "さかご",
+    "romaji": "sakago",
+    "meaning": "胎位不正/臀位",
+    "tag": [
+      "症状"
+    ]
+  },
+  {
+    "id": "preg-w25",
+    "jp": "張り",
+    "reading": "はり",
+    "romaji": "hari",
+    "meaning": "子宫发紧(假宫缩)",
+    "tag": [
+      "症状"
+    ]
+  },
+  {
+    "id": "preg-w26",
+    "jp": "エコー検査",
+    "reading": "えこーけんさ",
+    "romaji": "ekoo-kensa",
+    "meaning": "B 超检查",
+    "tag": [
+      "检查"
+    ],
+    "en": "echo examination"
+  },
+  {
+    "id": "preg-w27",
+    "jp": "超音波",
+    "reading": "ちょうおんぱ",
+    "romaji": "chouonpa",
+    "meaning": "超声波(检查)",
+    "tag": [
+      "检查"
+    ]
+  },
+  {
+    "id": "preg-w28",
+    "jp": "尿検査",
+    "reading": "にょうけんさ",
+    "romaji": "nyou-kensa",
+    "meaning": "尿检",
+    "tag": [
+      "检查"
+    ]
+  },
+  {
+    "id": "preg-w29",
+    "jp": "血液検査",
+    "reading": "けつえきけんさ",
+    "romaji": "ketsueki-kensa",
+    "meaning": "血检",
+    "tag": [
+      "检查"
+    ]
+  },
+  {
+    "id": "preg-w30",
+    "jp": "血糖値",
+    "reading": "けっとうち",
+    "romaji": "kettouchi",
+    "meaning": "血糖值",
+    "tag": [
+      "检查"
+    ]
+  },
+  {
+    "id": "preg-w31",
+    "jp": "血圧測定",
+    "reading": "けつあつそくてい",
+    "romaji": "ketsuatsu-sokutei",
+    "meaning": "测血压",
+    "tag": [
+      "检查"
+    ]
+  },
+  {
+    "id": "preg-w32",
+    "jp": "体重測定",
+    "reading": "たいじゅうそくてい",
+    "romaji": "taijuu-sokutei",
+    "meaning": "测体重",
+    "tag": [
+      "检查"
+    ]
+  },
+  {
+    "id": "preg-w33",
+    "jp": "貧血",
+    "reading": "ひんけつ",
+    "romaji": "hinketsu",
+    "meaning": "贫血",
+    "tag": [
+      "症状"
+    ]
+  },
+  {
+    "id": "preg-w34",
+    "jp": "妊娠高血圧症候群",
+    "reading": "にんしんこうけつあつしょうこうぐん",
+    "romaji": "ninshin-kouketsuatsu-shoukougun",
+    "meaning": "妊娠高血压综合征",
+    "tag": [
+      "疾病"
+    ]
+  },
+  {
+    "id": "preg-w35",
+    "jp": "妊娠糖尿病",
+    "reading": "にんしんとうにょうびょう",
+    "romaji": "ninshin-tounyoubyou",
+    "meaning": "妊娠糖尿病",
+    "tag": [
+      "疾病"
+    ]
+  },
+  {
+    "id": "preg-w36",
+    "jp": "出産予定日",
+    "reading": "しゅっさんよていび",
+    "romaji": "shussan-yoteibi",
+    "meaning": "预产期",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "preg-w37",
+    "jp": "妊娠週数",
+    "reading": "にんしんしゅうすう",
+    "romaji": "ninshin-shuusuu",
+    "meaning": "怀孕周数",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "preg-w38",
+    "jp": "妊娠初期",
+    "reading": "にんしんしょき",
+    "romaji": "ninshin-shoki",
+    "meaning": "孕早期(~15 周)",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "preg-w39",
+    "jp": "妊娠中期",
+    "reading": "にんしんちゅうき",
+    "romaji": "ninshin-chuuki",
+    "meaning": "孕中期(16-27 周)",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "preg-w40",
+    "jp": "妊娠後期",
+    "reading": "にんしんこうき",
+    "romaji": "ninshin-kouki",
+    "meaning": "孕后期(28 周~)",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "preg-w41",
+    "jp": "出産育児一時金",
+    "reading": "しゅっさんいくじいちじきん",
+    "romaji": "shussan-ikuji-ichijikin",
+    "meaning": "生育一次性补助金(50 万)",
+    "tag": [
+      "福利"
+    ]
+  },
+  {
+    "id": "preg-w42",
+    "jp": "出生届",
+    "reading": "しゅっせいとどけ",
+    "romaji": "shussei-todoke",
+    "meaning": "出生登记",
+    "tag": [
+      "证件"
+    ]
+  },
+  {
+    "id": "preg-w43",
+    "jp": "出生通知票",
+    "reading": "しゅっせいつうちひょう",
+    "romaji": "shussei-tsuuchihyou",
+    "meaning": "出生通知单(明信片)",
+    "tag": [
+      "证件"
+    ]
+  },
+  {
+    "id": "preg-w44",
+    "jp": "母親学級",
+    "reading": "ははおやがっきゅう",
+    "romaji": "hahaoya-gakkyuu",
+    "meaning": "母亲课堂",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w45",
+    "jp": "両親学級",
+    "reading": "りょうしんがっきゅう",
+    "romaji": "ryoushin-gakkyuu",
+    "meaning": "父母课堂",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w46",
+    "jp": "母乳",
+    "reading": "ぼにゅう",
+    "romaji": "bonyuu",
+    "meaning": "母乳",
+    "tag": [
+      "产后"
+    ]
+  },
+  {
+    "id": "preg-w47",
+    "jp": "ミルク",
+    "reading": "みるく",
+    "romaji": "miruku",
+    "meaning": "奶粉",
+    "tag": [
+      "产后"
+    ],
+    "en": "milk"
+  },
+  {
+    "id": "preg-w48",
+    "jp": "授乳",
+    "reading": "じゅにゅう",
+    "romaji": "junyuu",
+    "meaning": "哺乳/喂奶",
+    "tag": [
+      "产后"
+    ]
+  },
+  {
+    "id": "preg-w49",
+    "jp": "沐浴",
+    "reading": "もくよく",
+    "romaji": "mokuyoku",
+    "meaning": "洗澡(婴儿)",
+    "tag": [
+      "产后"
+    ]
+  },
+  {
+    "id": "preg-w50",
+    "jp": "おむつ",
+    "reading": "おむつ",
+    "romaji": "omutsu",
+    "meaning": "尿布",
+    "tag": [
+      "物品"
+    ]
+  },
+  {
+    "id": "preg-w51",
+    "jp": "新生児",
+    "reading": "しんせいじ",
+    "romaji": "shinseiji",
+    "meaning": "新生儿",
+    "tag": [
+      "人物"
+    ]
+  },
+  {
+    "id": "preg-w52",
+    "jp": "乳児",
+    "reading": "にゅうじ",
+    "romaji": "nyuuji",
+    "meaning": "婴儿",
+    "tag": [
+      "人物"
+    ]
+  },
+  {
+    "id": "preg-w53",
+    "jp": "聴覚スクリーニング",
+    "reading": "ちょうかくすくりーにんぐ",
+    "romaji": "choukaku-sukuriiningu",
+    "meaning": "听力筛查(新生儿)",
+    "tag": [
+      "检查"
+    ],
+    "en": "hearing screening"
+  },
+  {
+    "id": "preg-w54",
+    "jp": "先天性異常",
+    "reading": "せんせいいじょう",
+    "romaji": "sensei-ijou",
+    "meaning": "先天性异常",
+    "tag": [
+      "疾病"
+    ]
+  },
+  {
+    "id": "preg-w55",
+    "jp": "出生前検査",
+    "reading": "しゅっせいまえけんさ",
+    "romaji": "shusseimae-kensa",
+    "meaning": "产前检查",
+    "tag": [
+      "检查"
+    ]
+  },
+  {
+    "id": "preg-w56",
+    "jp": "NIPT",
+    "reading": "にぷと",
+    "romaji": "nipto",
+    "meaning": "无创产前基因检测",
+    "tag": [
+      "检查"
+    ]
+  },
+  {
+    "id": "preg-w57",
+    "jp": "羊水検査",
+    "reading": "ようすいけんさ",
+    "romaji": "yousui-kensa",
+    "meaning": "羊水检查",
+    "tag": [
+      "检查"
+    ]
+  },
+  {
+    "id": "preg-w58",
+    "jp": "入院",
+    "reading": "にゅういん",
+    "romaji": "nyuuin",
+    "meaning": "住院(待产)",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w59",
+    "jp": "退院",
+    "reading": "たいいん",
+    "romaji": "taiin",
+    "meaning": "出院",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w60",
+    "jp": "里帰り出産",
+    "reading": "さとがえりしゅっさん",
+    "romaji": "satogaeri-shussan",
+    "meaning": "回娘家生产",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w61",
+    "jp": "マタニティマーク",
+    "reading": "またまにぃまーく",
+    "romaji": "matanitii-maaku",
+    "meaning": "孕妇徽章(挂在包上)",
+    "tag": [
+      "物品"
+    ],
+    "en": "maternity mark"
+  },
+  {
+    "id": "preg-w62",
+    "jp": "ラマーズ法",
+    "reading": "らまーずほう",
+    "romaji": "ramaazu-hou",
+    "meaning": "拉玛泽呼吸法",
+    "tag": [
+      "方法"
+    ],
+    "en": "Lamaze method"
+  },
+  {
+    "id": "preg-w63",
+    "jp": "会陰切開",
+    "reading": "えいんせっかい",
+    "romaji": "eirin-sekkai",
+    "meaning": "会阴侧切",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w64",
+    "jp": "計画分娩",
+    "reading": "けいかくぶんべん",
+    "romaji": "keikaku-bunben",
+    "meaning": "计划分娩(催产)",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "preg-w65",
+    "jp": "出産費用",
+    "reading": "しゅっさんひよう",
+    "romaji": "shussan-hiyou",
+    "meaning": "生产费用",
+    "tag": [
+      "费用"
+    ]
+  },
+  {
+    "id": "preg-w66",
+    "jp": "産休",
+    "reading": "さんきゅう",
+    "romaji": "sankyu",
+    "meaning": "产假",
+    "tag": [
+      "福利"
+    ]
+  },
+  {
+    "id": "preg-w67",
+    "jp": "育休",
+    "reading": "いくきゅう",
+    "romaji": "ikukyuu",
+    "meaning": "育儿假",
+    "tag": [
+      "福利"
+    ]
+  },
+  {
+    "id": "preg-w68",
+    "jp": "出産手当金",
+    "reading": "しゅっさんてあてきん",
+    "romaji": "shussan-teatekin",
+    "meaning": "生产津贴(上班的人)",
+    "tag": [
+      "福利"
+    ]
+  },
+  {
+    "id": "preg-w69",
+    "jp": "マイナンバー",
+    "reading": "まいなんばー",
+    "romaji": "mainanbaa",
+    "meaning": "个人编号(类似身份证号)",
+    "tag": [
+      "证件"
+    ],
+    "en": "My Number"
+  },
+  {
+    "id": "preg-w70",
+    "jp": "妊娠届出書",
+    "reading": "にんしんとどけしょ",
+    "romaji": "ninshin-todokesho",
+    "meaning": "妊娠申报表(正式)",
+    "tag": [
+      "证件"
+    ]
+  },
+  {
+    "id": "preg-w71",
+    "jp": "胎児心拍",
+    "reading": "たいじしんぱく",
+    "romaji": "taiji-shinpaku",
+    "meaning": "胎儿心跳",
+    "tag": [
+      "检查"
+    ]
+  },
+  {
+    "id": "preg-w72",
+    "jp": "周数",
+    "reading": "しゅうすう",
+    "romaji": "shuusuu",
+    "meaning": "周数",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "preg-w73",
+    "jp": "切迫早産",
+    "reading": "せっぱくそうざん",
+    "romaji": "seppaku-souzan",
+    "meaning": "先兆早产",
+    "tag": [
+      "疾病"
+    ]
+  },
+  {
+    "id": "preg-w74",
+    "jp": "胞状奇胎",
+    "reading": "ほうじょうきたい",
+    "romaji": "houjou-kitai",
+    "meaning": "葡萄胎",
+    "tag": [
+      "疾病"
+    ]
+  },
+  {
+    "id": "preg-w75",
+    "jp": "胞衣",
+    "reading": "ほうい",
+    "romaji": "houi",
+    "meaning": "胎盘",
+    "tag": [
+      "生理"
+    ]
+  },
+  {
+    "id": "preg-w76",
+    "jp": "へその緒",
+    "reading": "へそのお",
+    "romaji": "hesonoo",
+    "meaning": "脐带",
+    "tag": [
+      "生理"
+    ]
+  },
+  {
+    "id": "preg-w77",
+    "jp": "羊水",
+    "reading": "ようすい",
+    "romaji": "yousui",
+    "meaning": "羊水",
+    "tag": [
+      "生理"
+    ]
+  },
+  {
+    "id": "preg-w78",
+    "jp": "妊娠線",
+    "reading": "にんしんせん",
+    "romaji": "ninshinsen",
+    "meaning": "妊娠纹",
+    "tag": [
+      "症状"
+    ]
+  },
+  {
+    "id": "preg-w79",
+    "jp": "悪阻",
+    "reading": "つわり",
+    "romaji": "tsuwari",
+    "meaning": "孕吐(汉字写法)",
+    "tag": [
+      "症状"
+    ]
+  },
+  {
+    "id": "preg-w80",
+    "jp": "妊婦帯",
+    "reading": "にんぷおび",
+    "romaji": "ninpu-obi",
+    "meaning": "孕妇腹带",
+    "tag": [
+      "物品"
+    ]
+  },
+  {
+    "id": "preg-w81",
+    "jp": "戌の日の安産祈願",
+    "reading": "いぬのひのあんざんきがん",
+    "romaji": "inunohi-no-anzan-kigan",
+    "meaning": "戌日安产祈愿(传统)",
+    "tag": [
+      "习俗"
+    ]
+  },
+  {
+    "id": "preg-w82",
+    "jp": "お七夜",
+    "reading": "おしちや",
+    "romaji": "oshichiya",
+    "meaning": "出生第七天仪式",
+    "tag": [
+      "习俗"
+    ]
+  },
+  {
+    "id": "preg-w83",
+    "jp": "お宮参り",
+    "reading": "おみやまいり",
+    "romaji": "omiyamairi",
+    "meaning": "出生一个月参拜神社",
+    "tag": [
+      "习俗"
+    ]
+  }
 ]

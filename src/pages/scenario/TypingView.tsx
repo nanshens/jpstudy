@@ -93,6 +93,9 @@ export function TypingView({ data }: Props) {
     // 自动播放(听写模式必播,其他模式也播)
     setTimeout(() => {
       speak(w.jp, { rate: 0.85 }).catch(() => {});
+      if (w.en) {
+        setTimeout(() => speak(w.en!, { rate: 0.9, lang: 'en-US' }).catch(() => {}), 800);
+      }
     }, 200);
     inputRef.current?.focus();
     editableRef.current?.focus();
@@ -258,6 +261,16 @@ export function TypingView({ data }: Props) {
 
   function play() {
     speak(current.jp, { rate: 0.85 }).catch(() => {});
+    // 片假名/外来语: 自动播英文 (TTS 队列串行,等日文结束)
+    if (current.en) {
+      setTimeout(() => speak(current.en!, { rate: 0.9, lang: 'en-US' }).catch(() => {}), 700);
+    }
+  }
+
+  // 单独播英文 (按钮触发)
+  function playEn() {
+    if (!current.en) return;
+    speak(current.en, { rate: 0.9, lang: 'en-US' }).catch(() => {});
   }
 
   function next() {
@@ -347,6 +360,22 @@ export function TypingView({ data }: Props) {
         {/* 中文意思(练习模式显示,考试模式隐藏) */}
         {sessionMode === 'practice' && current.meaning && (
           <div className="text-sm text-muted-foreground mt-2">{current.meaning}</div>
+        )}
+        {/* 英文(片假名外来语原文,带发音按钮) */}
+        {current.en && (
+          <div className="flex items-center gap-2 mt-1.5">
+            <span className="text-sm font-mono font-semibold text-sky-600 dark:text-sky-400">
+              {current.en}
+            </span>
+            <button
+              type="button"
+              onClick={playEn}
+              title="读英文"
+              className="inline-flex items-center justify-center h-6 w-6 rounded-full text-sky-600 dark:text-sky-400 hover:bg-sky-50 dark:hover:bg-sky-950"
+            >
+              <Volume2 className="h-3.5 w-3.5" />
+            </button>
+          </div>
         )}
       </Card>
 

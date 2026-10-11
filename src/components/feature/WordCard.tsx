@@ -41,6 +41,15 @@ export function WordCard({ scenarioId, word }: Props) {
             <span className="jp text-2xl font-semibold leading-tight tracking-tight">{word.jp}</span>
             <span className="jp text-sm text-muted-foreground">{word.reading}</span>
           </div>
+          {/* 片假名英文辅助 (始终显示在正面) */}
+          {word.en && (
+            <div className="mt-1 flex items-center gap-1.5">
+              <span className="font-mono text-sm font-medium text-sky-600 dark:text-sky-400">
+                {word.en}
+              </span>
+              <SpeakButton text={word.en} lang="en-US" className="h-5 w-5 text-sky-600 dark:text-sky-400 hover:bg-sky-50 dark:hover:bg-sky-950" size="icon" />
+            </div>
+          )}
           <div className="mt-1 text-sm text-muted-foreground line-clamp-2">
             {flipped || known ? (
               <span className="text-foreground">{word.meaning}</span>

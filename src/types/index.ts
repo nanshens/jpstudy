@@ -21,6 +21,7 @@ export interface WordEntry {
   reading: string;
   romaji?: string;
   meaning: string; // 中文
+  en?: string; // 英文 (片假名外来语原文,例如 ミラー → mirror)
   example?: { jp: string; reading: string; meaning: string };
   note?: string;
   tag?: string[]; // 标签: e.g. ['车内', '指示']

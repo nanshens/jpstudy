@@ -8,12 +8,13 @@ import { cn } from '@/lib/cn';
 interface Props {
   text: string;
   rate?: number;
+  lang?: string; // BCP-47 语言标签,默认 ja-JP
   className?: string;
   size?: 'sm' | 'default' | 'icon';
   variant?: 'default' | 'secondary' | 'outline' | 'ghost';
 }
 
-export function SpeakButton({ text, rate = 0.85, className, size = 'icon', variant = 'ghost' }: Props) {
+export function SpeakButton({ text, rate = 0.85, lang = 'ja-JP', className, size = 'icon', variant = 'ghost' }: Props) {
   const [playing, setPlaying] = useState(false);
   if (!text) return null;
   return (
@@ -30,7 +31,7 @@ export function SpeakButton({ text, rate = 0.85, className, size = 'icon', varia
           return;
         }
         setPlaying(true);
-        speak(text, { rate, onEnd: () => setPlaying(false), onError: () => setPlaying(false) });
+        speak(text, { rate, lang, onEnd: () => setPlaying(false), onError: () => setPlaying(false) });
       }}
     >
       <Volume2 className={cn('h-4 w-4', playing && 'animate-pulse text-primary')} />

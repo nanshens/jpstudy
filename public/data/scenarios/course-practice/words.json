@@ -1,267 +1,3048 @@
 [
-{"id":"cp-w01","jp":"ハンドル","reading":"ハンドル","romaji":"handoru","meaning":"方向盘","note":"最常用词","tag":["操控"]},
-{"id":"cp-w02","jp":"クラッチ","reading":"クラッチ","romaji":"kuracchi","meaning":"离合器","note":"MT 专用","tag":["操控"]},
-{"id":"cp-w03","jp":"アクセル","reading":"アクセル","romaji":"akuseru","meaning":"油门","note":"右脚控制","tag":["操控"]},
-{"id":"cp-w04","jp":"ブレーキ","reading":"ブレーキ","romaji":"bureeki","meaning":"刹车","note":"中间踏板","tag":["操控"]},
-{"id":"cp-w05","jp":"サイドブレーキ","reading":"サイドブレーキ","romaji":"saido bureeki","meaning":"手刹","note":"驻车用","tag":["操控"]},
-{"id":"cp-w06","jp":"パーキングブレーキ","reading":"パーキングブレーキ","romaji":"paakingu bureeki","meaning":"驻车制动","note":"手刹正式叫法","tag":["操控"]},
-{"id":"cp-w07","jp":"シフトレバー","reading":"シフトレバー","romaji":"shifuto rebaa","meaning":"换挡杆","note":"MT 才有","tag":["操控"]},
-{"id":"cp-w08","jp":"シフト","reading":"シフト","romaji":"shifuto","meaning":"挡位/换挡","note":"常用缩写","tag":["操控"]},
-{"id":"cp-w09","jp":"ギア","reading":"ギア","romaji":"gia","meaning":"挡位","note":"比 シフト 更口语","tag":["操控"]},
-{"id":"cp-w10","jp":"バックミラー","reading":"バックミラー","romaji":"bakkumiraa","meaning":"车内后视镜","note":"中央镜","tag":["操控"]},
-{"id":"cp-w11","jp":"サイドミラー","reading":"サイドミラー","romaji":"saidomiraa","meaning":"侧后视镜","note":"左右两侧","tag":["操控"]},
-{"id":"cp-w12","jp":"ルームミラー","reading":"ルームミラー","romaji":"ruumumiraa","meaning":"室内镜","note":"= バックミラー","tag":["操控"]},
-{"id":"cp-w13","jp":"ウインカー","reading":"ウインカー","romaji":"uinkaa","meaning":"转向灯","note":"左右拨杆","tag":["操控"]},
-{"id":"cp-w14","jp":"方向指示器","reading":"ほうこうしじき","romaji":"houkou shijiki","meaning":"方向指示器","note":"正式名","tag":["操控"]},
-{"id":"cp-w15","jp":"ハザードランプ","reading":"ハザードランプ","romaji":"hazaado ranpu","meaning":"危险报警灯(双闪)","note":"紧急用","tag":["操控"]},
-{"id":"cp-w16","jp":"クラクション","reading":"クラクション","romaji":"kurakushon","meaning":"喇叭","note":"方向盘中央","tag":["操控"]},
-{"id":"cp-w17","jp":"ワイパー","reading":"ワイパー","romaji":"waipaa","meaning":"雨刷","note":"右侧拨杆","tag":["操控"]},
-{"id":"cp-w18","jp":"ホーン","reading":"ホーン","romaji":"hoon","meaning":"喇叭","note":"= クラクション","tag":["操控"]},
-{"id":"cp-w19","jp":"ペダル","reading":"ペダル","romaji":"pedaru","meaning":"踏板","note":"总称","tag":["操控"]},
-{"id":"cp-w20","jp":"半クラ","reading":"はんクラ","romaji":"han-kura","meaning":"半联动","note":"MT 起步关键","tag":["操控"]},
-{"id":"cp-w21","jp":"半クラッチ","reading":"はんクラッチ","romaji":"han-kuracchi","meaning":"半联动","note":"半クラ 正式写法","tag":["操控"]},
-{"id":"cp-w22","jp":"クリープ","reading":"クリープ","romaji":"kuriipu","meaning":"爬行(AT)","note":"D 挡松刹车会动","tag":["操控"]},
-{"id":"cp-w23","jp":"エンスト","reading":"エンスト","romaji":"ensuto","meaning":"熄火","note":"MT 新手常见","tag":["操控"]},
-{"id":"cp-w24","jp":"空ぶかし","reading":"からぶかし","romaji":"kara-bukashi","meaning":"空踩油门","note":"应避免","tag":["操控"]},
-{"id":"cp-w25","jp":"吹かし","reading":"ふかし","romaji":"fukashi","meaning":"轰油门","note":"同 空ぶかし","tag":["操控"]},
-{"id":"cp-w26","jp":"急発進","reading":"きゅうはっしん","romaji":"kyuuhasshin","meaning":"猛起步","note":"考试扣分项","tag":["操控"]},
-{"id":"cp-w27","jp":"急ブレーキ","reading":"きゅうブレーキ","romaji":"kyuu-bureeki","meaning":"急刹车","note":"要避免","tag":["操控"]},
-{"id":"cp-w28","jp":"徐行","reading":"じょこう","romaji":"jokou","meaning":"慢行","note":"法规用语","tag":["操控"]},
-{"id":"cp-w29","jp":"一旦停止","reading":"いったんていし","romaji":"ittan teishi","meaning":"临时停车","note":"= 一時停止","tag":["操控"]},
-{"id":"cp-w30","jp":"一時停止","reading":"いちじていし","romaji":"ichiji teishi","meaning":"临时停车","note":"看到止まれ","tag":["操控"]},
-{"id":"cp-w31","jp":"完全停止","reading":"かんぜんていし","romaji":"kanzen teishi","meaning":"完全停止","note":"车要停稳","tag":["操控"]},
-{"id":"cp-w32","jp":"停止線","reading":"ていしせん","romaji":"teishisen","meaning":"停止线","note":"白线前停","tag":["操控"]},
-{"id":"cp-w33","jp":"発進","reading":"はっしん","romaji":"hasshin","meaning":"起步","note":"D 挡松刹车","tag":["操控"]},
-{"id":"cp-w34","jp":"停車","reading":"ていしゃ","romaji":"teisha","meaning":"停车","note":"长时间停车","tag":["操控"]},
-{"id":"cp-w35","jp":"駐車","reading":"ちゅうしゃ","romaji":"chuusha","meaning":"停放(车辆)","note":"靠边停放","tag":["操控"]},
-{"id":"cp-w36","jp":"右折","reading":"うせつ","romaji":"usetsu","meaning":"右转","note":"大转弯","tag":["操控"]},
-{"id":"cp-w37","jp":"左折","reading":"させつ","romaji":"sasetsu","meaning":"左转","note":"小转弯","tag":["操控"]},
-{"id":"cp-w38","jp":"直進","reading":"ちょくしん","romaji":"chokushin","meaning":"直行","note":"不转弯","tag":["操控"]},
-{"id":"cp-w39","jp":"後退","reading":"こうたい","romaji":"koutai","meaning":"倒车","note":"= バック","tag":["操控"]},
-{"id":"cp-w40","jp":"バック","reading":"バック","romaji":"bakku","meaning":"倒车","note":"口语","tag":["操控"]},
-{"id":"cp-w41","jp":"クランク","reading":"クランク","romaji":"kuranku","meaning":"直角弯","note":"狭窄直角","tag":["项目"]},
-{"id":"cp-w42","jp":"S字","reading":"エスじ","romaji":"esu-ji","meaning":"S 形弯道","note":"连续弯","tag":["项目"]},
-{"id":"cp-w43","jp":"S字カーブ","reading":"エスじカーブ","romaji":"esu-ji kaabu","meaning":"S 形弯道","note":"= S字","tag":["项目"]},
-{"id":"cp-w44","jp":"隘路","reading":"あいろ","romaji":"airo","meaning":"窄路","note":"教习项目","tag":["项目"]},
-{"id":"cp-w45","jp":"坂道発進","reading":"さかみちはっしん","romaji":"sakamichi hasshin","meaning":"坡道起步","note":"= 坂道","tag":["项目"]},
-{"id":"cp-w46","jp":"坂道","reading":"さかみち","romaji":"sakamichi","meaning":"坡道","note":"上下坡","tag":["项目"]},
-{"id":"cp-w47","jp":"上り坂","reading":"のぼりざか","romaji":"noborizaka","meaning":"上坡","note":"考试重点","tag":["项目"]},
-{"id":"cp-w48","jp":"下り坂","reading":"くだりざか","romaji":"kudarizaka","meaning":"下坡","note":"用低挡控制","tag":["项目"]},
-{"id":"cp-w49","jp":"方向変換","reading":"ほうこうへんかん","romaji":"houkou henkan","meaning":"方向转换","note":"用倒车换方向","tag":["项目"]},
-{"id":"cp-w50","jp":"縦列駐車","reading":"じゅうれつちゅうしゃ","romaji":"juuretsu chuusha","meaning":"纵列停车","note":"路边停车","tag":["项目"]},
-{"id":"cp-w51","jp":"平行駐車","reading":"へいこうちゅうしゃ","romaji":"heikou chuusha","meaning":"平行停车","note":"车库式","tag":["项目"]},
-{"id":"cp-w52","jp":"車庫入れ","reading":"しゃこいれ","romaji":"shako ire","meaning":"入库","note":"= 平行駐車","tag":["项目"]},
-{"id":"cp-w53","jp":"切り返し","reading":"きりかえし","romaji":"kirikaeshi","meaning":"方向盘来回打","note":"调整车头","tag":["项目"]},
-{"id":"cp-w54","jp":"内輪差","reading":"ないりんさ","romaji":"nairinsa","meaning":"内轮差","note":"转弯注意","tag":["项目"]},
-{"id":"cp-w55","jp":"外輪差","reading":"がいりんさ","romaji":"gairinsa","meaning":"外轮差","note":"转弯注意","tag":["项目"]},
-{"id":"cp-w56","jp":"路肩","reading":"ろかた","romaji":"rokata","meaning":"路肩","note":"靠边时用","tag":["项目"]},
-{"id":"cp-w57","jp":"縁石","reading":"えんせき","romaji":"enseki","meaning":"路沿石","note":"压到扣分","tag":["项目"]},
-{"id":"cp-w58","jp":"脱輪","reading":"だっりん","romaji":"datsurin","meaning":"车轮脱落","note":"考试一発不合格","tag":["项目"]},
-{"id":"cp-w59","jp":"接触","reading":"せっしょく","romaji":"sesshoku","meaning":"接触(碰)","note":"碰杆 = 扣分","tag":["项目"]},
-{"id":"cp-w60","jp":"乗り上げ","reading":"のりあげ","romaji":"noriage","meaning":"骑上(路沿)","note":"要避免","tag":["项目"]},
-{"id":"cp-w61","jp":"ミラー","reading":"ミラー","romaji":"miraa","meaning":"后视镜","note":"缩略说法","tag":["操作"]},
-{"id":"cp-w62","jp":"目視","reading":"もくし","romaji":"mokushi","meaning":"目视确认","note":"安全确认","tag":["操作"]},
-{"id":"cp-w63","jp":"首振り","reading":"くびふり","romaji":"kubifuri","meaning":"扭头看","note":"盲区确认","tag":["操作"]},
-{"id":"cp-w64","jp":"安全確認","reading":"あんぜんかくにん","romaji":"anzen kakunin","meaning":"安全确认","note":"考试必做","tag":["操作"]},
-{"id":"cp-w65","jp":"巻き込み確認","reading":"まきこみかくにん","romaji":"makikomi kakunin","meaning":"卷边确认","note":"转弯时","tag":["操作"]},
-{"id":"cp-w66","jp":"死角","reading":"しかく","romaji":"shikaku","meaning":"盲区","note":"需要扭头","tag":["操作"]},
-{"id":"cp-w67","jp":"車線","reading":"しゃせん","romaji":"shasen","meaning":"车道","note":"白线之间","tag":["操作"]},
-{"id":"cp-w68","jp":"車線変更","reading":"しゃせんへんこう","romaji":"shasen henkou","meaning":"变道","note":"路上必学","tag":["操作"]},
-{"id":"cp-w69","jp":"右側通行","reading":"みぎがわつうこう","romaji":"migi-gawa tsuukou","meaning":"右侧通行","note":"日本基本","tag":["操作"]},
-{"id":"cp-w70","jp":"左側通行","reading":"ひだりがわつうこう","romaji":"hidari-gawa tsuukou","meaning":"左侧通行","note":"少见","tag":["操作"]},
-{"id":"cp-w71","jp":"中央線","reading":"ちゅうおうせん","romaji":"chuuou sen","meaning":"中央线","note":"黄线不能压","tag":["操作"]},
-{"id":"cp-w72","jp":"車線帯","reading":"しゃせんたい","romaji":"shasen-tai","meaning":"车道带","note":"白色虚线","tag":["操作"]},
-{"id":"cp-w73","jp":"実線","reading":"じっせん","romaji":"jissen","meaning":"实线","note":"不能跨越","tag":["操作"]},
-{"id":"cp-w74","jp":"破線","reading":"はせん","romaji":"hasen","meaning":"虚线","note":"可跨越","tag":["操作"]},
-{"id":"cp-w75","jp":"右側後方","reading":"うそくこうほう","romaji":"usoku kouhou","meaning":"右后方","note":"变道必看","tag":["操作"]},
-{"id":"cp-w76","jp":"左側後方","reading":"ささくこうほう","romaji":"sasoku kouhou","meaning":"左后方","note":"变道必看","tag":["操作"]},
-{"id":"cp-w77","jp":"アクセルワーク","reading":"アクセルワーク","romaji":"akuseru waaku","meaning":"油门操作","note":"要线性","tag":["操作"]},
-{"id":"cp-w78","jp":"ブレーキング","reading":"ブレーキング","romaji":"bureekingu","meaning":"刹车技术","note":"考试评分点","tag":["操作"]},
-{"id":"cp-w79","jp":"速度調節","reading":"そくどちょうせつ","romaji":"sokudo chousetsu","meaning":"速度调节","note":"基本功","tag":["操作"]},
-{"id":"cp-w80","jp":"車間距離","reading":"しゃかんきょり","romaji":"shakan kyori","meaning":"车距","note":"路上 2 秒以上","tag":["操作"]},
-{"id":"cp-w81","jp":"先行車","reading":"せんこうしゃ","romaji":"senkousha","meaning":"前车","note":"前方参照","tag":["操作"]},
-{"id":"cp-w82","jp":"合図","reading":"あいず","romaji":"aizu","meaning":"示意/打信号","note":"变道前必做","tag":["操作"]},
-{"id":"cp-w83","jp":"進路変更","reading":"しんろへんこう","romaji":"shinro henkou","meaning":"变道","note":"= 車線変更","tag":["操作"]},
-{"id":"cp-w84","jp":"右左折合図","reading":"うさせつあいず","romaji":"usasetsu aizu","meaning":"转向信号","note":"提前 30 米","tag":["操作"]},
-{"id":"cp-w85","jp":"進路","reading":"しんろ","romaji":"shinro","meaning":"行进方向","note":"考试关键词","tag":["操作"]},
-{"id":"cp-w86","jp":"前方の安全","reading":"ぜんぽうのあんぜん","romaji":"zenpou no anzen","meaning":"前方安全","note":"教官口令","tag":["操作"]},
-{"id":"cp-w87","jp":"後方の安全","reading":"こうほうのあんぜん","romaji":"kougou no anzen","meaning":"后方安全","note":"教官口令","tag":["操作"]},
-{"id":"cp-w88","jp":"周囲の安全","reading":"しゅういのあんぜん","romaji":"shuui no anzen","meaning":"周围安全","note":"教官口令","tag":["操作"]},
-{"id":"cp-w89","jp":"歩行者の確認","reading":"ほこうしゃのかくにん","romaji":"hokousha no kakunin","meaning":"确认行人","note":"路口必做","tag":["操作"]},
-{"id":"cp-w90","jp":"対向車","reading":"たいこうしゃ","romaji":"taikousha","meaning":"对向车","note":"对面来车","tag":["操作"]},
-{"id":"cp-w91","jp":"先行車","reading":"せんこうしゃ","romaji":"senkousha","meaning":"前车","note":"前方车","tag":["操作"]},
-{"id":"cp-w92","jp":"後続車","reading":"こうぞくしゃ","romaji":"kouzokusha","meaning":"后车","note":"后方车","tag":["操作"]},
-{"id":"cp-w93","jp":"速度標識","reading":"そくどひょうしき","romaji":"sokudo hyoushiki","meaning":"限速标志","note":"红圈数字","tag":["项目"]},
-{"id":"cp-w94","jp":"徐行標識","reading":"じょこうひょうしき","romaji":"jokou hyoushiki","meaning":"慢行标志","note":"道路施工区","tag":["项目"]},
-{"id":"cp-w95","jp":"停止線","reading":"ていしせん","romaji":"teishisen","meaning":"停止线","note":"实线","tag":["项目"]},
-{"id":"cp-w96","jp":"発進準備","reading":"はっしんじゅんび","romaji":"hasshin junbi","meaning":"起步准备","note":"调座椅镜子","tag":["流程"]},
-{"id":"cp-w97","jp":"運転姿勢","reading":"うんてんしせい","romaji":"unten shisei","meaning":"驾驶姿势","note":"3 点支撑","tag":["流程"]},
-{"id":"cp-w98","jp":"着座","reading":"ちゃくざ","romaji":"chakuza","meaning":"就座","note":"上车第一步","tag":["流程"]},
-{"id":"cp-w99","jp":"シートベルト","reading":"シートベルト","romaji":"shiito beruto","meaning":"安全带","note":"必系","tag":["流程"]},
-{"id":"cp-w100","jp":"ドア","reading":"ドア","romaji":"doa","meaning":"车门","note":"上下车","tag":["流程"]},
-{"id":"cp-w101","jp":"助手席","reading":"じょしゅせき","romaji":"joshuseki","meaning":"副驾座","note":"教官位置","tag":["流程"]},
-{"id":"cp-w102","jp":"教習車","reading":"きょうしゅうしゃ","romaji":"kyoushuusha","meaning":"教练车","note":"带辅助刹车","tag":["流程"]},
-{"id":"cp-w103","jp":"補助ブレーキ","reading":"ほじょブレーキ","romaji":"hojo bureeki","meaning":"辅助刹车","note":"副驾脚边","tag":["流程"]},
-{"id":"cp-w104","jp":"補助ミラー","reading":"ほじょミラー","romaji":"hojo miraa","meaning":"辅助镜","note":"副驾前","tag":["流程"]},
-{"id":"cp-w105","jp":"エンジンブレーキ","reading":"エンジンブレーキ","romaji":"enjin bureeki","meaning":"引擎制动","note":"下坡用低挡","tag":["术语"]},
-{"id":"cp-w106","jp":"フットブレーキ","reading":"フットブレーキ","romaji":"futto bureeki","meaning":"脚刹","note":"= ブレーキ","tag":["术语"]},
-{"id":"cp-w107","jp":"踏み替え","reading":"ふみかえ","romaji":"fumikae","meaning":"换脚(MT)","note":"油门刹车互换","tag":["术语"]},
-{"id":"cp-w108","jp":"1速","reading":"いちそく","romaji":"ichi-soku","meaning":"1 挡","note":"起步","tag":["术语"]},
-{"id":"cp-w109","jp":"2速","reading":"にそく","romaji":"ni-soku","meaning":"2 挡","note":"低速","tag":["术语"]},
-{"id":"cp-w110","jp":"3速","reading":"さんそく","romaji":"san-soku","meaning":"3 挡","note":"中速","tag":["术语"]},
-{"id":"cp-w111","jp":"Dレンジ","reading":"ディーレンジ","romaji":"Dii renji","meaning":"D 挡(AT)","note":"前进挡","tag":["术语"]},
-{"id":"cp-w112","jp":"Rレンジ","reading":"アールレンジ","romaji":"R renji","meaning":"R 挡(AT)","note":"倒车挡","tag":["术语"]},
-{"id":"cp-w113","jp":"Pレンジ","reading":"ピーレンジ","romaji":"Pii renji","meaning":"P 挡(AT)","note":"驻车挡","tag":["术语"]},
-{"id":"cp-w114","jp":"ニュートラル","reading":"ニュートラル","romaji":"nyuutaru","meaning":"空挡","note":"N","tag":["术语"]},
-{"id":"cp-w115","jp":"ロー","reading":"ロー","romaji":"roo","meaning":"低速挡(AT)","note":"下陡坡用","tag":["术语"]},
-{"id":"cp-w116","jp":"進入","reading":"しんにゅう","romaji":"shinnyuu","meaning":"驶入","note":"进入弯道","tag":["动作"]},
-{"id":"cp-w117","jp":"通過","reading":"つうか","romaji":"tsuuka","meaning":"通过","note":"经过某点","tag":["动作"]},
-{"id":"cp-w118","jp":"脱出","reading":"だっしゅつ","romaji":"dashshutsu","meaning":"驶出","note":"离开弯道","tag":["动作"]},
-{"id":"cp-w119","jp":"合流","reading":"ごうりゅう","romaji":"gouryuu","meaning":"汇入","note":"高速入口","tag":["动作"]},
-{"id":"cp-w120","jp":"分岐","reading":"ぶんき","romaji":"bunki","meaning":"分岔","note":"道路分开","tag":["動作"]},
-{"id":"cp-w121","jp":"合流車線","reading":"ごうりゅうしゃせん","romaji":"gouryuu shasen","meaning":"加速车道","note":"汇入用","tag":["动作"]},
-{"id":"cp-w122","jp":"本線","reading":"ほんせん","romaji":"honsen","meaning":"主线","note":"高速主路","tag":["動作"]},
-{"id":"cp-w123","jp":"速度超過","reading":"そくどちょうか","romaji":"sokudo chooka","meaning":"超速","note":"一発不合格","tag":["术语"]},
-{"id":"cp-w124","jp":"速度不足","reading":"そくどふそく","romaji":"sokudo fusoku","meaning":"速度过慢","note":"路上要避免","tag":["术语"]},
-{"id":"cp-w125","jp":"脱線","reading":"だっせん","romaji":"dassen","meaning":"驶离车道","note":"考试扣分","tag":["术语"]},
-{"id":"cp-w126","jp":"蛇行","reading":"だこう","romaji":"dakou","meaning":"蛇行","note":"S 形行驶","tag":["术语"]},
-{"id":"cp-w127","jp":"ふらつき","reading":"ふらつき","romaji":"furatsuki","meaning":"车身摇晃","note":"不稳","tag":["术语"]},
-{"id":"cp-w128","jp":"急ハンドル","reading":"きゅうハンドル","romaji":"kyuu handoru","meaning":"猛打方向盘","note":"要避免","tag":["术语"]},
-{"id":"cp-w129","jp":"片手運転","reading":"かたてうんてん","romaji":"katate unten","meaning":"单手驾驶","note":"考试扣分","tag":["术语"]},
-{"id":"cp-w130","jp":"教習時間","reading":"きょうしゅうじかん","romaji":"kyoushuu jikan","meaning":"教习时间","note":"按限计算","tag":["流程"]},
-{"id":"cp-w131","jp":"教習期限","reading":"きょうしゅうきげん","romaji":"kyoushuu kigen","meaning":"教习期限","note":"9 个月","tag":["流程"]},
-{"id":"cp-w132","jp":"修了証","reading":"しゅうりょうしょう","romaji":"shuuryoushou","meaning":"结业证","note":"卒検必需","tag":["流程"]},
-{"id":"cp-w133","jp":"修了時限","reading":"しゅうりょうじげん","romaji":"shuuryou jigen","meaning":"结业时数","note":"必须修满","tag":["流程"]},
-{"id":"cp-w134","jp":"効果測定","reading":"こうかそくてい","romaji":"kouka sokutei","meaning":"效果测试","note":"1 阶段末","tag":["流程"]},
-{"id":"cp-w135","jp":"仮免学科","reading":"かりめんがっか","romaji":"karimen gakka","meaning":"仮免笔试","note":"校外商工中心","tag":["流程"]},
-{"id":"cp-w136","jp":"卒検","reading":"そっけん","romaji":"sokken","meaning":"毕业检定","note":"路考","tag":["流程"]},
-{"id":"cp-w137","jp":"検定場","reading":"けんていじょう","romaji":"kenteijou","meaning":"考场","note":"如鲛洲","tag":["流程"]},
-{"id":"cp-w138","jp":"検定官","reading":"けんていかん","romaji":"kenteikan","meaning":"考试官","note":"严肃","tag":["流程"]},
-{"id":"cp-w139","jp":"路上試験","reading":"ろじょうしけん","romaji":"rojou shiken","meaning":"路上考试","note":"卒検实际","tag":["流程"]},
-{"id":"cp-w140","jp":"コース","reading":"コース","romaji":"koosu","meaning":"路线","note":"考试路线","tag":["流程"]},
-{"id":"cp-w141","jp":"周回","reading":"しゅうかい","romaji":"shuukai","meaning":"绕一圈","note":"考试常要求","tag":["流程"]},
-{"id":"cp-w142","jp":"信号無視","reading":"しんごうむし","romaji":"shingou mushi","meaning":"闯红灯","note":"一発不合格","tag":["术语"]},
-{"id":"cp-w143","jp":"一時停止違反","reading":"いちじていしごはん","romaji":"ichiji teishi ihan","meaning":"未在止まれ停车","note":"一発不合格","tag":["术语"]},
-{"id":"cp-w144","jp":"優先道路妨害","reading":"ゆうせんどうろぼうがい","romaji":"yuusen douro bougai","meaning":"妨碍优先道路","note":"一発不合格","tag":["术语"]},
-{"id":"cp-w145","jp":"安全運転義務違反","reading":"あんぜんうんてんぎむいはん","romaji":"anzen unten gimu ihan","meaning":"违反安全驾驶义务","note":"通用扣分项","tag":["术语"]},
-{"id":"cp-w146","jp":"減点","reading":"げんてん","romaji":"genten","meaning":"扣分","note":"100 分扣光就停","tag":["术语"]},
-{"id":"cp-w147","jp":"中止","reading":"ちゅうし","romaji":"chuushi","meaning":"中止(考试)","note":"= 一発不合格","tag":["术语"]},
-{"id":"cp-w148","jp":"失格","reading":"しっかく","romaji":"shikaku","meaning":"不合格","note":"= 中止","tag":["术语"]},
-{"id":"cp-w149","jp":"合格","reading":"ごうかく","romaji":"goukaku","meaning":"合格","note":"考试通过","tag":["术语"]},
-{"id":"cp-w150","jp":"卒業","reading":"そつぎょう","romaji":"sotsugyou","meaning":"毕业(驾校)","note":"卒検合格","tag":["术语"]},
-{"id":"cp-w151","jp":"シート","reading":"シート","romaji":"shiito","meaning":"座椅","note":"驾驶座","tag":["座位"]},
-{"id":"cp-w152","jp":"運転席","reading":"うんてんせき","romaji":"untenseki","meaning":"驾驶座","note":"左侧","tag":["座位"]},
-{"id":"cp-w153","jp":"シート高さ","reading":"シートたかさ","romaji":"shiito takasa","meaning":"座椅高度","note":"调整视野","tag":["座位"]},
-{"id":"cp-w154","jp":"シート前後","reading":"シートぜんご","romaji":"shiito zengo","meaning":"座椅前后","note":"腿能伸直","tag":["座位"]},
-{"id":"cp-w155","jp":"背もたれ","reading":"せもたれ","romaji":"semotare","meaning":"靠背","note":"坐姿","tag":["座位"]},
-{"id":"cp-w156","jp":"リクライニング","reading":"リクライニング","romaji":"rikurainingu","meaning":"靠背调节","note":"不要躺太斜","tag":["座位"]},
-{"id":"cp-w157","jp":"ヘッドレスト","reading":"ヘッドレスト","romaji":"heddoresuto","meaning":"头枕","note":"头顶对齐","tag":["座位"]},
-{"id":"cp-w158","jp":"シートヒーター","reading":"シートヒーター","romaji":"shiito hiitaa","meaning":"座椅加热","note":"冬季用","tag":["座位"]},
-{"id":"cp-w159","jp":"ランバーサポート","reading":"ランバーサポート","romaji":"rambaa sapooto","meaning":"腰部支撑","note":"缓解疲劳","tag":["座位"]},
-{"id":"cp-w160","jp":"ハンドル調整","reading":"ハンドルちょうせい","romaji":"handoru chousei","meaning":"方向盘调整","note":"前后上下","tag":["方向盘"]},
-{"id":"cp-w161","jp":"テレスコピック","reading":"テレスコピック","romaji":"teresukopikku","meaning":"方向盘伸缩","note":"调节远近","tag":["方向盘"]},
-{"id":"cp-w162","jp":"チルト","reading":"チルト","romaji":"chiruto","meaning":"方向盘倾斜","note":"调节上下","tag":["方向盘"]},
-{"id":"cp-w163","jp":"ハンドルロック","reading":"ハンドルロック","romaji":"handoru rokku","meaning":"方向盘锁","note":"拔钥匙后用","tag":["方向盘"]},
-{"id":"cp-w164","jp":"ハンドルカバー","reading":"ハンドルカバー","romaji":"handoru kabaa","meaning":"方向盘套","note":"防滑","tag":["方向盘"]},
-{"id":"cp-w165","jp":"アクセルペダル","reading":"アクセルペダル","romaji":"akuseru pedaru","meaning":"油门踏板","note":"右脚控制","tag":["踏板"]},
-{"id":"cp-w166","jp":"ブレーキペダル","reading":"ブレーキペダル","romaji":"bureeki pedaru","meaning":"刹车踏板","note":"右脚控制(AT)","tag":["踏板"]},
-{"id":"cp-w167","jp":"ペダル踏み間違い","reading":"ペダルふみまちがい","romaji":"pedaru fumimachigai","meaning":"踏板踩错","note":"错踩油门事故","tag":["踏板"]},
-{"id":"cp-w168","jp":"ペダル位置","reading":"ペダルいち","romaji":"pedaru ichi","meaning":"踏板位置","note":"调整座椅","tag":["踏板"]},
-{"id":"cp-w169","jp":"右足一本","reading":"みぎあし いっぽん","romaji":"migiashi ippon","meaning":"右脚单控(AT)","note":"AT 默认","tag":["踏板"]},
-{"id":"cp-w170","jp":"左足は使わず","reading":"ひだりあしは つかわず","romaji":"hidariashi wa tsukawazu","meaning":"左脚不用(AT)","note":"AT 休息","tag":["踏板"]},
-{"id":"cp-w171","jp":"速度計","reading":"そくどけい","romaji":"sokudokei","meaning":"速度表","note":"仪表盘","tag":["仪表"]},
-{"id":"cp-w172","jp":"回転計","reading":"かいてんけい","romaji":"kaitenkei","meaning":"转速表","note":"AT 也用","tag":["仪表"]},
-{"id":"cp-w173","jp":"タコメーター","reading":"タコメーター","romaji":"takomeetaa","meaning":"转速表","note":"= 回転計","tag":["仪表"]},
-{"id":"cp-w174","jp":"スピードメーター","reading":"スピードメーター","romaji":"supiido meetaa","meaning":"速度表","note":"= 速度計","tag":["仪表"]},
-{"id":"cp-w175","jp":"燃料計","reading":"ねんりょうけい","romaji":"nenryoukei","meaning":"油量表","note":"汽油量","tag":["仪表"]},
-{"id":"cp-w176","jp":"水温計","reading":"すいおんけい","romaji":"suionkei","meaning":"水温表","note":"发动机温度","tag":["仪表"]},
-{"id":"cp-w177","jp":"走行距離計","reading":"そうこうきょりけい","romaji":"soukou kyorikei","meaning":"里程表","note":"ODO/TRIP","tag":["仪表"]},
-{"id":"cp-w178","jp":"オドメーター","reading":"オドメーター","romaji":"odomeetaa","meaning":"总里程","note":"ODO","tag":["仪表"]},
-{"id":"cp-w179","jp":"トリップメーター","reading":"トリップメーター","romaji":"torippu meetaa","meaning":"单次里程","note":"TRIP","tag":["仪表"]},
-{"id":"cp-w180","jp":"燃料残量警告灯","reading":"ねんりょう ざんりょう けいこくとう","romaji":"nenryou zanryou keikokutou","meaning":"油量警告灯","note":"该加油了","tag":["仪表"]},
-{"id":"cp-w181","jp":"エンジン警告灯","reading":"エンジンけいこくとう","romaji":"enjin keikokutou","meaning":"发动机警告灯","note":"黄/红灯要停车","tag":["仪表"]},
-{"id":"cp-w182","jp":"バッテリー警告灯","reading":"バッテリーけいこくとう","romaji":"batterii keikokutou","meaning":"电瓶警告灯","note":"充电故障","tag":["仪表"]},
-{"id":"cp-w183","jp":"オイル警告灯","reading":"オイルけいこくとう","romaji":"oiru keikokutou","meaning":"机油警告灯","note":"缺机油","tag":["仪表"]},
-{"id":"cp-w184","jp":"シートベルト警告灯","reading":"シートベルトけいこくとう","romaji":"shiito beruto keikokutou","meaning":"安全带未系灯","note":"要系安全带","tag":["仪表"]},
-{"id":"cp-w185","jp":"半ドア警告灯","reading":"はんドアけいこくとう","romaji":"han doa keikokutou","meaning":"车门未关灯","note":"= ドア半開き","tag":["仪表"]},
-{"id":"cp-w186","jp":"ヘッドライト","reading":"ヘッドライト","romaji":"heddoraito","meaning":"前照灯","note":"= ヘッドランプ","tag":["灯光"]},
-{"id":"cp-w187","jp":"ヘッドランプ","reading":"ヘッドランプ","romaji":"heddorampu","meaning":"前照灯","note":"夜间开车","tag":["灯光"]},
-{"id":"cp-w188","jp":"ロービーム","reading":"ロービーム","romaji":"roobiimu","meaning":"近光灯","note":"会车时","tag":["灯光"]},
-{"id":"cp-w189","jp":"ハイビーム","reading":"ハイビーム","romaji":"haibiimu","meaning":"远光灯","note":"无车时","tag":["灯光"]},
-{"id":"cp-w190","jp":"スモールライト","reading":"スモールライト","romaji":"sumooru raito","meaning":"示廓灯","note":"傍晚/隧道","tag":["灯光"]},
-{"id":"cp-w191","jp":"ポジションランプ","reading":"ポジションランプ","romaji":"pojishon ranpu","meaning":"位置灯","note":"= スモールライト","tag":["灯光"]},
-{"id":"cp-w192","jp":"フォグランプ","reading":"フォグランプ","romaji":"fogu ranpu","meaning":"雾灯","note":"雨天/雾天","tag":["灯光"]},
-{"id":"cp-w193","jp":"リアフォグ","reading":"リアフォグ","romaji":"ria fogu","meaning":"后雾灯","note":"少数车有","tag":["灯光"]},
-{"id":"cp-w194","jp":"ブレーキランプ","reading":"ブレーキランプ","romaji":"bureeki ranpu","meaning":"刹车灯","note":"后车看","tag":["灯光"]},
-{"id":"cp-w195","jp":"テールランプ","reading":"テールランプ","romaji":"teeru ranpu","meaning":"尾灯","note":"红色","tag":["灯光"]},
-{"id":"cp-w196","jp":"バックランプ","reading":"バックランプ","romaji":"bakku ranpu","meaning":"倒车灯","note":"白色","tag":["灯光"]},
-{"id":"cp-w197","jp":"ライセンスランプ","reading":"ライセンスランプ","romaji":"raisensu ranpu","meaning":"车牌灯","note":"夜间看牌","tag":["灯光"]},
-{"id":"cp-w198","jp":"室内灯","reading":"しつないとう","romaji":"shitsunaitou","meaning":"室内灯","note":"车内照明","tag":["灯光"]},
-{"id":"cp-w199","jp":"ルームランプ","reading":"ルームランプ","romaji":"ruumu ranpu","meaning":"室内灯","note":"= 室内灯","tag":["灯光"]},
-{"id":"cp-w200","jp":"イルミネーション","reading":"イルミネーション","romaji":"irumineeshon","meaning":"车内装饰灯","note":"夜间亮","tag":["灯光"]},
-{"id":"cp-w201","jp":"エアコン","reading":"エアコン","romaji":"eakon","meaning":"空调","note":"= 冷房暖房","tag":["空调"]},
-{"id":"cp-w202","jp":"冷房","reading":"れいぼう","romaji":"reibou","meaning":"制冷","note":"= クーラー","tag":["空调"]},
-{"id":"cp-w203","jp":"暖房","reading":"だんぼう","romaji":"danbou","meaning":"制热","note":"= ヒーター","tag":["空调"]},
-{"id":"cp-w204","jp":"クーラー","reading":"クーラー","romaji":"kuuraa","meaning":"冷气","note":"= 冷房","tag":["空调"]},
-{"id":"cp-w205","jp":"ヒーター","reading":"ヒーター","romaji":"hiitaa","meaning":"暖气","note":"= 暖房","tag":["空调"]},
-{"id":"cp-w206","jp":"温度調節","reading":"おんどちょうせつ","romaji":"ondo chousetsu","meaning":"温度调节","note":"AC 旋钮","tag":["空调"]},
-{"id":"cp-w207","jp":"風量","reading":"ふうりょう","romaji":"fuuryou","meaning":"风量","note":"档位","tag":["空调"]},
-{"id":"cp-w208","jp":"風向","reading":"ふうこう","romaji":"fuukou","meaning":"风向","note":"吹哪里","tag":["空调"]},
-{"id":"cp-w209","jp":"送風","reading":"そうふう","romaji":"soufu","meaning":"送风","note":"自然风","tag":["空调"]},
-{"id":"cp-w210","jp":"内気循環","reading":"うちき じゅんかん","romaji":"uchiki junkan","meaning":"内循环","note":"车内循环","tag":["空调"]},
-{"id":"cp-w211","jp":"外気導入","reading":"がいき どうにゅう","romaji":"gaiki dounyuu","meaning":"外循环","note":"车外空气","tag":["空调"]},
-{"id":"cp-w212","jp":"デフロスター","reading":"デフロスター","romaji":"defurosutaa","meaning":"除霜","note":"前挡风玻璃","tag":["空调"]},
-{"id":"cp-w213","jp":"リアデフォッガー","reading":"リアデフォッガー","romaji":"ria defoggaa","meaning":"后挡风玻璃除霜","note":"雨雪天","tag":["空调"]},
-{"id":"cp-w214","jp":"フロントワイパー","reading":"フロントワイパー","romaji":"furonto waipaa","meaning":"前雨刷","note":"雨雪天","tag":["雨刷"]},
-{"id":"cp-w215","jp":"リアワイパー","reading":"リアワイパー","romaji":"ria waipaa","meaning":"后雨刷","note":"后窗","tag":["雨刷"]},
-{"id":"cp-w216","jp":"間欠ワイパー","reading":"かんけつワイパー","romaji":"kanketsu waipaa","meaning":"间歇雨刷","note":"小雨","tag":["雨刷"]},
-{"id":"cp-w217","jp":"オートワイパー","reading":"オートワイパー","romaji":"ooto waipaa","meaning":"自动雨刷","note":"感应式","tag":["雨刷"]},
-{"id":"cp-w218","jp":"ウォッシャー液","reading":"ウォッシャーえき","romaji":"wosshyaa eki","meaning":"雨刷水/玻璃水","note":"要加满","tag":["雨刷"]},
-{"id":"cp-w219","jp":"ウォッシャー噴射","reading":"ウォッシャーふんしゃ","romaji":"wosshyaa funsha","meaning":"喷玻璃水","note":"按拨杆端","tag":["雨刷"]},
-{"id":"cp-w220","jp":"ワイパーブレード","reading":"ワイパーブレード","romaji":"waipaa bureedo","meaning":"雨刷条","note":"磨损件","tag":["雨刷"]},
-{"id":"cp-w221","jp":"ワイパーゴム","reading":"ワイパーゴム","romaji":"waipaa gomu","meaning":"雨刷胶条","note":"= ブレード","tag":["雨刷"]},
-{"id":"cp-w222","jp":"電動ドアミラー","reading":"でんどうドアミラー","romaji":"dendou doa miraa","meaning":"电动后视镜","note":"开关调节","tag":["后视镜"]},
-{"id":"cp-w223","jp":"格納ミラー","reading":"かくのうミラー","romaji":"kakunou miraa","meaning":"折叠后视镜","note":"按钮或自动","tag":["后视镜"]},
-{"id":"cp-w224","jp":"自動防眩ミラー","reading":"じどうぼうげんミラー","romaji":"jidou bougen miraa","meaning":"自动防眩后视镜","note":"防远光炫目","tag":["后视镜"]},
-{"id":"cp-w225","jp":"ルームミラー調整","reading":"ルームミラーちょうせい","romaji":"ruumu miraa chousei","meaning":"室内镜调整","note":"地平线在中央","tag":["后视镜"]},
-{"id":"cp-w226","jp":"サイドミラー調整","reading":"サイドミラーちょうせい","romaji":"saidomiraa chousei","meaning":"侧镜调整","note":"车身占 1/4","tag":["后视镜"]},
-{"id":"cp-w227","jp":"キーレスエントリー","reading":"キーレスエントリー","romaji":"kiiresu entorii","meaning":"无钥匙进入","note":"按钮开门","tag":["启动"]},
-{"id":"cp-w228","jp":"スマートキー","reading":"スマートキー","romaji":"sumaato kii","meaning":"智能钥匙","note":"现代车标配","tag":["启动"]},
-{"id":"cp-w229","jp":"プッシュスタート","reading":"プッシュスタート","romaji":"pusshu sutaato","meaning":"按钮启动","note":"踩刹车按","tag":["启动"]},
-{"id":"cp-w230","jp":"エンジンスタート","reading":"エンジンスタート","romaji":"enjin sutaato","meaning":"发动机启动","note":"传统钥匙","tag":["启动"]},
-{"id":"cp-w231","jp":"エンジン始動","reading":"エンジンしどう","romaji":"enjin shidou","meaning":"发动机启动","note":"= スタート","tag":["启动"]},
-{"id":"cp-w232","jp":"パワーウィンドウ","reading":"パワーウィンドウ","romaji":"pawaa windoo","meaning":"电动车窗","note":"开关","tag":["车窗"]},
-{"id":"cp-w233","jp":"ウィンドウロック","reading":"ウィンドウロック","romaji":"windoo rokku","meaning":"车窗锁","note":"防儿童开","tag":["车窗"]},
-{"id":"cp-w234","jp":"サンルーフ","reading":"サンルーフ","romaji":"sanruufu","meaning":"天窗","note":"高级车","tag":["车窗"]},
-{"id":"cp-w235","jp":"ドアロック","reading":"ドアロック","romaji":"doa rokku","meaning":"车门锁","note":"= 集中ドアロック","tag":["车窗"]},
-{"id":"cp-w236","jp":"集中ドアロック","reading":"しゅうちゅうドアロック","romaji":"shuuchuu doa rokku","meaning":"中控锁","note":"一键锁全车","tag":["车窗"]},
-{"id":"cp-w237","jp":"エコモード","reading":"エコモード","romaji":"ekomoodo","meaning":"经济模式","note":"省油","tag":["驾驶"]},
-{"id":"cp-w238","jp":"スポーツモード","reading":"スポーツモード","romaji":"supootsu moodo","meaning":"运动模式","note":"高转速","tag":["驾驶"]},
-{"id":"cp-w239","jp":"スノーモード","reading":"スノーモード","romaji":"sunoo moodo","meaning":"雪地模式","note":"2 挡起步","tag":["驾驶"]},
-{"id":"cp-w240","jp":"マニュアルモード","reading":"マニュアルモード","romaji":"manyuaru moodo","meaning":"手动模式(AT)","note":"= M 挡","tag":["驾驶"]},
-{"id":"cp-w241","jp":"Mレンジ","reading":"エムレンジ","romaji":"Emu renji","meaning":"M 挡(AT 手动)","note":"AT 手动模式","tag":["驾驶"]},
-{"id":"cp-w242","jp":"Sモード","reading":"エスモード","romaji":"Esu moodo","meaning":"S 模式","note":"运动/雪地切换","tag":["驾驶"]},
-{"id":"cp-w243","jp":"Lレンジ","reading":"エルレンジ","romaji":"Eru renji","meaning":"L 挡","note":"下陡坡用","tag":["驾驶"]},
-{"id":"cp-w244","jp":"2ndスタート","reading":"セカンドスタート","romaji":"sekando sutaato","meaning":"2 挡起步","note":"雪地","tag":["驾驶"]},
-{"id":"cp-w245","jp":"ヒルスタートアシスト","reading":"ヒルスタートアシスト","romaji":"hiru sutaato ashisuto","meaning":"坡道起步辅助","note":"防止后滑","tag":["驾驶"]},
-{"id":"cp-w246","jp":"クルーズコントロール","reading":"クルーズコントロール","romaji":"kuruuzu kontorooru","meaning":"定速巡航","note":"高速用","tag":["驾驶"]},
-{"id":"cp-w247","jp":"アダプティブクルーズ","reading":"アダプティブクルーズ","romaji":" adaputeibu kuruuzu","meaning":"自适应巡航","note":"ACC","tag":["驾驶"]},
-{"id":"cp-w248","jp":"アダプティブクルーズコントロール","reading":"アダプティブクルーズコントロール","romaji":" adaputeibu kuruuzu kontorooru","meaning":"自适应巡航控制","note":"跟车","tag":["驾驶"]},
-{"id":"cp-w249","jp":"レーンキープアシスト","reading":"レーンキープアシスト","romaji":"reenkiipu ashisuto","meaning":"车道保持辅助","note":"防偏离","tag":["驾驶"]},
-{"id":"cp-w250","jp":"パーキングセンサー","reading":"パーキングセンサー","romaji":"paakingu sensaa","meaning":"驻车传感器","note":"倒车雷达","tag":["驾驶"]},
-{"id":"cp-w251","jp":"バックモニター","reading":"バックモニター","romaji":"bakku monitaa","meaning":"倒车影像","note":"后视摄像头","tag":["驾驶"]},
-{"id":"cp-w252","jp":"アラウンドビュー","reading":"アラウンドビュー","romaji":"araundo byuu","meaning":"360 度影像","note":"全景","tag":["驾驶"]},
-{"id":"cp-w253","jp":"シートベルト着用","reading":"シートベルトちゃくよう","romaji":"shiito beruto chakuyou","meaning":"系安全带","note":"全员必系","tag":["安全"]},
-{"id":"cp-w254","jp":"チャイルドシート","reading":"チャイルドシート","romaji":"chairudo shiito","meaning":"儿童安全座椅","note":"儿童必坐","tag":["安全"]},
-{"id":"cp-w255","jp":"ISOFIX","reading":"アイソフィックス","romaji":"aisofikkusu","meaning":"ISOFIX 接口","note":"儿童座椅固定","tag":["安全"]},
-{"id":"cp-w256","jp":"ABS","reading":"エー・ビー・エス","romaji":"eebiiesu","meaning":"防抱死","note":"急刹不抱死","tag":["安全"]},
-{"id":"cp-w257","jp":"アンチロックブレーキ","reading":"アンチロックブレーキ","romaji":"anchirokku bureeki","meaning":"防抱死制动","note":"= ABS","tag":["安全"]},
-{"id":"cp-w258","jp":"ESC","reading":"イー・エス・シー","romaji":"iiesushii","meaning":"车身稳定控制","note":"防侧滑","tag":["安全"]},
-{"id":"cp-w259","jp":"横滑り防止","reading":"よこすべりぼうし","romaji":"yokosuberi boushi","meaning":"防侧滑","note":"= ESC","tag":["安全"]},
-{"id":"cp-w260","jp":"エアバッグ","reading":"エアバッグ","romaji":"eabaggu","meaning":"安全气囊","note":"不要放杂物","tag":["安全"]},
-{"id":"cp-w261","jp":"SRS","reading":"エスアールエス","romaji":"esuaaruesu","meaning":"辅助约束系统","note":"= エアバッグ","tag":["安全"]},
-{"id":"cp-w262","jp":"シートベルトプリテンショナー","reading":"シートベルトプリテンショナー","romaji":"shiito beruto puritenshonaa","meaning":"安全带预紧","note":"事故瞬间收紧","tag":["安全"]},
-{"id":"cp-w263","jp":"衝突被害軽減ブレーキ","reading":"しょうとつひがいけいげんブレーキ","romaji":"shoutotsu higai keigen bureeki","meaning":"自动刹车辅助","note":"AEB","tag":["安全"]},
-{"id":"cp-w264","jp":"踏み間違い防止","reading":"ふみまちがいぼうし","romaji":"fumimachigai boushi","meaning":"防错踩油门","note":"误踩防护","tag":["安全"]},
-{"id":"cp-w265","jp":"ふらつき警報","reading":"ふらつきけいほう","romaji":"furatsuki keihou","meaning":"车道偏离警报","note":"防疲劳","tag":["安全"]}
+  {
+    "id": "cp-w01",
+    "jp": "ハンドル",
+    "reading": "ハンドル",
+    "romaji": "handoru",
+    "meaning": "方向盘",
+    "note": "最常用词",
+    "tag": [
+      "操控"
+    ],
+    "en": "steering wheel"
+  },
+  {
+    "id": "cp-w02",
+    "jp": "クラッチ",
+    "reading": "クラッチ",
+    "romaji": "kuracchi",
+    "meaning": "离合器",
+    "note": "MT 专用",
+    "tag": [
+      "操控"
+    ],
+    "en": "clutch"
+  },
+  {
+    "id": "cp-w03",
+    "jp": "アクセル",
+    "reading": "アクセル",
+    "romaji": "akuseru",
+    "meaning": "油门",
+    "note": "右脚控制",
+    "tag": [
+      "操控"
+    ],
+    "en": "accelerator"
+  },
+  {
+    "id": "cp-w04",
+    "jp": "ブレーキ",
+    "reading": "ブレーキ",
+    "romaji": "bureeki",
+    "meaning": "刹车",
+    "note": "中间踏板",
+    "tag": [
+      "操控"
+    ],
+    "en": "brake"
+  },
+  {
+    "id": "cp-w05",
+    "jp": "サイドブレーキ",
+    "reading": "サイドブレーキ",
+    "romaji": "saido bureeki",
+    "meaning": "手刹",
+    "note": "驻车用",
+    "tag": [
+      "操控"
+    ],
+    "en": "side brake"
+  },
+  {
+    "id": "cp-w06",
+    "jp": "パーキングブレーキ",
+    "reading": "パーキングブレーキ",
+    "romaji": "paakingu bureeki",
+    "meaning": "驻车制动",
+    "note": "手刹正式叫法",
+    "tag": [
+      "操控"
+    ],
+    "en": "parking brake"
+  },
+  {
+    "id": "cp-w07",
+    "jp": "シフトレバー",
+    "reading": "シフトレバー",
+    "romaji": "shifuto rebaa",
+    "meaning": "换挡杆",
+    "note": "MT 才有",
+    "tag": [
+      "操控"
+    ],
+    "en": "shift lever"
+  },
+  {
+    "id": "cp-w08",
+    "jp": "シフト",
+    "reading": "シフト",
+    "romaji": "shifuto",
+    "meaning": "挡位/换挡",
+    "note": "常用缩写",
+    "tag": [
+      "操控"
+    ],
+    "en": "shift"
+  },
+  {
+    "id": "cp-w09",
+    "jp": "ギア",
+    "reading": "ギア",
+    "romaji": "gia",
+    "meaning": "挡位",
+    "note": "比 シフト 更口语",
+    "tag": [
+      "操控"
+    ],
+    "en": "gear"
+  },
+  {
+    "id": "cp-w10",
+    "jp": "バックミラー",
+    "reading": "バックミラー",
+    "romaji": "bakkumiraa",
+    "meaning": "车内后视镜",
+    "note": "中央镜",
+    "tag": [
+      "操控"
+    ],
+    "en": "rearview mirror"
+  },
+  {
+    "id": "cp-w11",
+    "jp": "サイドミラー",
+    "reading": "サイドミラー",
+    "romaji": "saidomiraa",
+    "meaning": "侧后视镜",
+    "note": "左右两侧",
+    "tag": [
+      "操控"
+    ],
+    "en": "side mirror"
+  },
+  {
+    "id": "cp-w12",
+    "jp": "ルームミラー",
+    "reading": "ルームミラー",
+    "romaji": "ruumumiraa",
+    "meaning": "室内镜",
+    "note": "= バックミラー",
+    "tag": [
+      "操控"
+    ],
+    "en": "room mirror"
+  },
+  {
+    "id": "cp-w13",
+    "jp": "ウインカー",
+    "reading": "ウインカー",
+    "romaji": "uinkaa",
+    "meaning": "转向灯",
+    "note": "左右拨杆",
+    "tag": [
+      "操控"
+    ],
+    "en": "turn signal"
+  },
+  {
+    "id": "cp-w14",
+    "jp": "方向指示器",
+    "reading": "ほうこうしじき",
+    "romaji": "houkou shijiki",
+    "meaning": "方向指示器",
+    "note": "正式名",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w15",
+    "jp": "ハザードランプ",
+    "reading": "ハザードランプ",
+    "romaji": "hazaado ranpu",
+    "meaning": "危险报警灯(双闪)",
+    "note": "紧急用",
+    "tag": [
+      "操控"
+    ],
+    "en": "hazard lamp"
+  },
+  {
+    "id": "cp-w16",
+    "jp": "クラクション",
+    "reading": "クラクション",
+    "romaji": "kurakushon",
+    "meaning": "喇叭",
+    "note": "方向盘中央",
+    "tag": [
+      "操控"
+    ],
+    "en": "horn"
+  },
+  {
+    "id": "cp-w17",
+    "jp": "ワイパー",
+    "reading": "ワイパー",
+    "romaji": "waipaa",
+    "meaning": "雨刷",
+    "note": "右侧拨杆",
+    "tag": [
+      "操控"
+    ],
+    "en": "wiper"
+  },
+  {
+    "id": "cp-w18",
+    "jp": "ホーン",
+    "reading": "ホーン",
+    "romaji": "hoon",
+    "meaning": "喇叭",
+    "note": "= クラクション",
+    "tag": [
+      "操控"
+    ],
+    "en": "horn"
+  },
+  {
+    "id": "cp-w19",
+    "jp": "ペダル",
+    "reading": "ペダル",
+    "romaji": "pedaru",
+    "meaning": "踏板",
+    "note": "总称",
+    "tag": [
+      "操控"
+    ],
+    "en": "pedal"
+  },
+  {
+    "id": "cp-w20",
+    "jp": "半クラ",
+    "reading": "はんクラ",
+    "romaji": "han-kura",
+    "meaning": "半联动",
+    "note": "MT 起步关键",
+    "tag": [
+      "操控"
+    ],
+    "en": "half clutch"
+  },
+  {
+    "id": "cp-w21",
+    "jp": "半クラッチ",
+    "reading": "はんクラッチ",
+    "romaji": "han-kuracchi",
+    "meaning": "半联动",
+    "note": "半クラ 正式写法",
+    "tag": [
+      "操控"
+    ],
+    "en": "half clutch"
+  },
+  {
+    "id": "cp-w22",
+    "jp": "クリープ",
+    "reading": "クリープ",
+    "romaji": "kuriipu",
+    "meaning": "爬行(AT)",
+    "note": "D 挡松刹车会动",
+    "tag": [
+      "操控"
+    ],
+    "en": "creep"
+  },
+  {
+    "id": "cp-w23",
+    "jp": "エンスト",
+    "reading": "エンスト",
+    "romaji": "ensuto",
+    "meaning": "熄火",
+    "note": "MT 新手常见",
+    "tag": [
+      "操控"
+    ],
+    "en": "engine stall"
+  },
+  {
+    "id": "cp-w24",
+    "jp": "空ぶかし",
+    "reading": "からぶかし",
+    "romaji": "kara-bukashi",
+    "meaning": "空踩油门",
+    "note": "应避免",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w25",
+    "jp": "吹かし",
+    "reading": "ふかし",
+    "romaji": "fukashi",
+    "meaning": "轰油门",
+    "note": "同 空ぶかし",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w26",
+    "jp": "急発進",
+    "reading": "きゅうはっしん",
+    "romaji": "kyuuhasshin",
+    "meaning": "猛起步",
+    "note": "考试扣分项",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w27",
+    "jp": "急ブレーキ",
+    "reading": "きゅうブレーキ",
+    "romaji": "kyuu-bureeki",
+    "meaning": "急刹车",
+    "note": "要避免",
+    "tag": [
+      "操控"
+    ],
+    "en": "sudden braking"
+  },
+  {
+    "id": "cp-w28",
+    "jp": "徐行",
+    "reading": "じょこう",
+    "romaji": "jokou",
+    "meaning": "慢行",
+    "note": "法规用语",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w29",
+    "jp": "一旦停止",
+    "reading": "いったんていし",
+    "romaji": "ittan teishi",
+    "meaning": "临时停车",
+    "note": "= 一時停止",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w30",
+    "jp": "一時停止",
+    "reading": "いちじていし",
+    "romaji": "ichiji teishi",
+    "meaning": "临时停车",
+    "note": "看到止まれ",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w31",
+    "jp": "完全停止",
+    "reading": "かんぜんていし",
+    "romaji": "kanzen teishi",
+    "meaning": "完全停止",
+    "note": "车要停稳",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w32",
+    "jp": "停止線",
+    "reading": "ていしせん",
+    "romaji": "teishisen",
+    "meaning": "停止线",
+    "note": "白线前停",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w33",
+    "jp": "発進",
+    "reading": "はっしん",
+    "romaji": "hasshin",
+    "meaning": "起步",
+    "note": "D 挡松刹车",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w34",
+    "jp": "停車",
+    "reading": "ていしゃ",
+    "romaji": "teisha",
+    "meaning": "停车",
+    "note": "长时间停车",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w35",
+    "jp": "駐車",
+    "reading": "ちゅうしゃ",
+    "romaji": "chuusha",
+    "meaning": "停放(车辆)",
+    "note": "靠边停放",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w36",
+    "jp": "右折",
+    "reading": "うせつ",
+    "romaji": "usetsu",
+    "meaning": "右转",
+    "note": "大转弯",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w37",
+    "jp": "左折",
+    "reading": "させつ",
+    "romaji": "sasetsu",
+    "meaning": "左转",
+    "note": "小转弯",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w38",
+    "jp": "直進",
+    "reading": "ちょくしん",
+    "romaji": "chokushin",
+    "meaning": "直行",
+    "note": "不转弯",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w39",
+    "jp": "後退",
+    "reading": "こうたい",
+    "romaji": "koutai",
+    "meaning": "倒车",
+    "note": "= バック",
+    "tag": [
+      "操控"
+    ]
+  },
+  {
+    "id": "cp-w40",
+    "jp": "バック",
+    "reading": "バック",
+    "romaji": "bakku",
+    "meaning": "倒车",
+    "note": "口语",
+    "tag": [
+      "操控"
+    ],
+    "en": "reverse"
+  },
+  {
+    "id": "cp-w41",
+    "jp": "クランク",
+    "reading": "クランク",
+    "romaji": "kuranku",
+    "meaning": "直角弯",
+    "note": "狭窄直角",
+    "tag": [
+      "项目"
+    ],
+    "en": "crank turn"
+  },
+  {
+    "id": "cp-w42",
+    "jp": "S字",
+    "reading": "エスじ",
+    "romaji": "esu-ji",
+    "meaning": "S 形弯道",
+    "note": "连续弯",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w43",
+    "jp": "S字カーブ",
+    "reading": "エスじカーブ",
+    "romaji": "esu-ji kaabu",
+    "meaning": "S 形弯道",
+    "note": "= S字",
+    "tag": [
+      "项目"
+    ],
+    "en": "S-curve"
+  },
+  {
+    "id": "cp-w44",
+    "jp": "隘路",
+    "reading": "あいろ",
+    "romaji": "airo",
+    "meaning": "窄路",
+    "note": "教习项目",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w45",
+    "jp": "坂道発進",
+    "reading": "さかみちはっしん",
+    "romaji": "sakamichi hasshin",
+    "meaning": "坡道起步",
+    "note": "= 坂道",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w46",
+    "jp": "坂道",
+    "reading": "さかみち",
+    "romaji": "sakamichi",
+    "meaning": "坡道",
+    "note": "上下坡",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w47",
+    "jp": "上り坂",
+    "reading": "のぼりざか",
+    "romaji": "noborizaka",
+    "meaning": "上坡",
+    "note": "考试重点",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w48",
+    "jp": "下り坂",
+    "reading": "くだりざか",
+    "romaji": "kudarizaka",
+    "meaning": "下坡",
+    "note": "用低挡控制",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w49",
+    "jp": "方向変換",
+    "reading": "ほうこうへんかん",
+    "romaji": "houkou henkan",
+    "meaning": "方向转换",
+    "note": "用倒车换方向",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w50",
+    "jp": "縦列駐車",
+    "reading": "じゅうれつちゅうしゃ",
+    "romaji": "juuretsu chuusha",
+    "meaning": "纵列停车",
+    "note": "路边停车",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w51",
+    "jp": "平行駐車",
+    "reading": "へいこうちゅうしゃ",
+    "romaji": "heikou chuusha",
+    "meaning": "平行停车",
+    "note": "车库式",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w52",
+    "jp": "車庫入れ",
+    "reading": "しゃこいれ",
+    "romaji": "shako ire",
+    "meaning": "入库",
+    "note": "= 平行駐車",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w53",
+    "jp": "切り返し",
+    "reading": "きりかえし",
+    "romaji": "kirikaeshi",
+    "meaning": "方向盘来回打",
+    "note": "调整车头",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w54",
+    "jp": "内輪差",
+    "reading": "ないりんさ",
+    "romaji": "nairinsa",
+    "meaning": "内轮差",
+    "note": "转弯注意",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w55",
+    "jp": "外輪差",
+    "reading": "がいりんさ",
+    "romaji": "gairinsa",
+    "meaning": "外轮差",
+    "note": "转弯注意",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w56",
+    "jp": "路肩",
+    "reading": "ろかた",
+    "romaji": "rokata",
+    "meaning": "路肩",
+    "note": "靠边时用",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w57",
+    "jp": "縁石",
+    "reading": "えんせき",
+    "romaji": "enseki",
+    "meaning": "路沿石",
+    "note": "压到扣分",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w58",
+    "jp": "脱輪",
+    "reading": "だっりん",
+    "romaji": "datsurin",
+    "meaning": "车轮脱落",
+    "note": "考试一発不合格",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w59",
+    "jp": "接触",
+    "reading": "せっしょく",
+    "romaji": "sesshoku",
+    "meaning": "接触(碰)",
+    "note": "碰杆 = 扣分",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w60",
+    "jp": "乗り上げ",
+    "reading": "のりあげ",
+    "romaji": "noriage",
+    "meaning": "骑上(路沿)",
+    "note": "要避免",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w61",
+    "jp": "ミラー",
+    "reading": "ミラー",
+    "romaji": "miraa",
+    "meaning": "后视镜",
+    "note": "缩略说法",
+    "tag": [
+      "操作"
+    ],
+    "en": "mirror"
+  },
+  {
+    "id": "cp-w62",
+    "jp": "目視",
+    "reading": "もくし",
+    "romaji": "mokushi",
+    "meaning": "目视确认",
+    "note": "安全确认",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w63",
+    "jp": "首振り",
+    "reading": "くびふり",
+    "romaji": "kubifuri",
+    "meaning": "扭头看",
+    "note": "盲区确认",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w64",
+    "jp": "安全確認",
+    "reading": "あんぜんかくにん",
+    "romaji": "anzen kakunin",
+    "meaning": "安全确认",
+    "note": "考试必做",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w65",
+    "jp": "巻き込み確認",
+    "reading": "まきこみかくにん",
+    "romaji": "makikomi kakunin",
+    "meaning": "卷边确认",
+    "note": "转弯时",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w66",
+    "jp": "死角",
+    "reading": "しかく",
+    "romaji": "shikaku",
+    "meaning": "盲区",
+    "note": "需要扭头",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w67",
+    "jp": "車線",
+    "reading": "しゃせん",
+    "romaji": "shasen",
+    "meaning": "车道",
+    "note": "白线之间",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w68",
+    "jp": "車線変更",
+    "reading": "しゃせんへんこう",
+    "romaji": "shasen henkou",
+    "meaning": "变道",
+    "note": "路上必学",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w69",
+    "jp": "右側通行",
+    "reading": "みぎがわつうこう",
+    "romaji": "migi-gawa tsuukou",
+    "meaning": "右侧通行",
+    "note": "日本基本",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w70",
+    "jp": "左側通行",
+    "reading": "ひだりがわつうこう",
+    "romaji": "hidari-gawa tsuukou",
+    "meaning": "左侧通行",
+    "note": "少见",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w71",
+    "jp": "中央線",
+    "reading": "ちゅうおうせん",
+    "romaji": "chuuou sen",
+    "meaning": "中央线",
+    "note": "黄线不能压",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w72",
+    "jp": "車線帯",
+    "reading": "しゃせんたい",
+    "romaji": "shasen-tai",
+    "meaning": "车道带",
+    "note": "白色虚线",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w73",
+    "jp": "実線",
+    "reading": "じっせん",
+    "romaji": "jissen",
+    "meaning": "实线",
+    "note": "不能跨越",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w74",
+    "jp": "破線",
+    "reading": "はせん",
+    "romaji": "hasen",
+    "meaning": "虚线",
+    "note": "可跨越",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w75",
+    "jp": "右側後方",
+    "reading": "うそくこうほう",
+    "romaji": "usoku kouhou",
+    "meaning": "右后方",
+    "note": "变道必看",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w76",
+    "jp": "左側後方",
+    "reading": "ささくこうほう",
+    "romaji": "sasoku kouhou",
+    "meaning": "左后方",
+    "note": "变道必看",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w77",
+    "jp": "アクセルワーク",
+    "reading": "アクセルワーク",
+    "romaji": "akuseru waaku",
+    "meaning": "油门操作",
+    "note": "要线性",
+    "tag": [
+      "操作"
+    ],
+    "en": "accelerator work"
+  },
+  {
+    "id": "cp-w78",
+    "jp": "ブレーキング",
+    "reading": "ブレーキング",
+    "romaji": "bureekingu",
+    "meaning": "刹车技术",
+    "note": "考试评分点",
+    "tag": [
+      "操作"
+    ],
+    "en": "braking technique"
+  },
+  {
+    "id": "cp-w79",
+    "jp": "速度調節",
+    "reading": "そくどちょうせつ",
+    "romaji": "sokudo chousetsu",
+    "meaning": "速度调节",
+    "note": "基本功",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w80",
+    "jp": "車間距離",
+    "reading": "しゃかんきょり",
+    "romaji": "shakan kyori",
+    "meaning": "车距",
+    "note": "路上 2 秒以上",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w81",
+    "jp": "先行車",
+    "reading": "せんこうしゃ",
+    "romaji": "senkousha",
+    "meaning": "前车",
+    "note": "前方参照",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w82",
+    "jp": "合図",
+    "reading": "あいず",
+    "romaji": "aizu",
+    "meaning": "示意/打信号",
+    "note": "变道前必做",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w83",
+    "jp": "進路変更",
+    "reading": "しんろへんこう",
+    "romaji": "shinro henkou",
+    "meaning": "变道",
+    "note": "= 車線変更",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w84",
+    "jp": "右左折合図",
+    "reading": "うさせつあいず",
+    "romaji": "usasetsu aizu",
+    "meaning": "转向信号",
+    "note": "提前 30 米",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w85",
+    "jp": "進路",
+    "reading": "しんろ",
+    "romaji": "shinro",
+    "meaning": "行进方向",
+    "note": "考试关键词",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w86",
+    "jp": "前方の安全",
+    "reading": "ぜんぽうのあんぜん",
+    "romaji": "zenpou no anzen",
+    "meaning": "前方安全",
+    "note": "教官口令",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w87",
+    "jp": "後方の安全",
+    "reading": "こうほうのあんぜん",
+    "romaji": "kougou no anzen",
+    "meaning": "后方安全",
+    "note": "教官口令",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w88",
+    "jp": "周囲の安全",
+    "reading": "しゅういのあんぜん",
+    "romaji": "shuui no anzen",
+    "meaning": "周围安全",
+    "note": "教官口令",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w89",
+    "jp": "歩行者の確認",
+    "reading": "ほこうしゃのかくにん",
+    "romaji": "hokousha no kakunin",
+    "meaning": "确认行人",
+    "note": "路口必做",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w90",
+    "jp": "対向車",
+    "reading": "たいこうしゃ",
+    "romaji": "taikousha",
+    "meaning": "对向车",
+    "note": "对面来车",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w91",
+    "jp": "先行車",
+    "reading": "せんこうしゃ",
+    "romaji": "senkousha",
+    "meaning": "前车",
+    "note": "前方车",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w92",
+    "jp": "後続車",
+    "reading": "こうぞくしゃ",
+    "romaji": "kouzokusha",
+    "meaning": "后车",
+    "note": "后方车",
+    "tag": [
+      "操作"
+    ]
+  },
+  {
+    "id": "cp-w93",
+    "jp": "速度標識",
+    "reading": "そくどひょうしき",
+    "romaji": "sokudo hyoushiki",
+    "meaning": "限速标志",
+    "note": "红圈数字",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w94",
+    "jp": "徐行標識",
+    "reading": "じょこうひょうしき",
+    "romaji": "jokou hyoushiki",
+    "meaning": "慢行标志",
+    "note": "道路施工区",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w95",
+    "jp": "停止線",
+    "reading": "ていしせん",
+    "romaji": "teishisen",
+    "meaning": "停止线",
+    "note": "实线",
+    "tag": [
+      "项目"
+    ]
+  },
+  {
+    "id": "cp-w96",
+    "jp": "発進準備",
+    "reading": "はっしんじゅんび",
+    "romaji": "hasshin junbi",
+    "meaning": "起步准备",
+    "note": "调座椅镜子",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w97",
+    "jp": "運転姿勢",
+    "reading": "うんてんしせい",
+    "romaji": "unten shisei",
+    "meaning": "驾驶姿势",
+    "note": "3 点支撑",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w98",
+    "jp": "着座",
+    "reading": "ちゃくざ",
+    "romaji": "chakuza",
+    "meaning": "就座",
+    "note": "上车第一步",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w99",
+    "jp": "シートベルト",
+    "reading": "シートベルト",
+    "romaji": "shiito beruto",
+    "meaning": "安全带",
+    "note": "必系",
+    "tag": [
+      "流程"
+    ],
+    "en": "seatbelt"
+  },
+  {
+    "id": "cp-w100",
+    "jp": "ドア",
+    "reading": "ドア",
+    "romaji": "doa",
+    "meaning": "车门",
+    "note": "上下车",
+    "tag": [
+      "流程"
+    ],
+    "en": "door"
+  },
+  {
+    "id": "cp-w101",
+    "jp": "助手席",
+    "reading": "じょしゅせき",
+    "romaji": "joshuseki",
+    "meaning": "副驾座",
+    "note": "教官位置",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w102",
+    "jp": "教習車",
+    "reading": "きょうしゅうしゃ",
+    "romaji": "kyoushuusha",
+    "meaning": "教练车",
+    "note": "带辅助刹车",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w103",
+    "jp": "補助ブレーキ",
+    "reading": "ほじょブレーキ",
+    "romaji": "hojo bureeki",
+    "meaning": "辅助刹车",
+    "note": "副驾脚边",
+    "tag": [
+      "流程"
+    ],
+    "en": "auxiliary brake"
+  },
+  {
+    "id": "cp-w104",
+    "jp": "補助ミラー",
+    "reading": "ほじょミラー",
+    "romaji": "hojo miraa",
+    "meaning": "辅助镜",
+    "note": "副驾前",
+    "tag": [
+      "流程"
+    ],
+    "en": "auxiliary mirror"
+  },
+  {
+    "id": "cp-w105",
+    "jp": "エンジンブレーキ",
+    "reading": "エンジンブレーキ",
+    "romaji": "enjin bureeki",
+    "meaning": "引擎制动",
+    "note": "下坡用低挡",
+    "tag": [
+      "术语"
+    ],
+    "en": "engine brake"
+  },
+  {
+    "id": "cp-w106",
+    "jp": "フットブレーキ",
+    "reading": "フットブレーキ",
+    "romaji": "futto bureeki",
+    "meaning": "脚刹",
+    "note": "= ブレーキ",
+    "tag": [
+      "术语"
+    ],
+    "en": "foot brake"
+  },
+  {
+    "id": "cp-w107",
+    "jp": "踏み替え",
+    "reading": "ふみかえ",
+    "romaji": "fumikae",
+    "meaning": "换脚(MT)",
+    "note": "油门刹车互换",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w108",
+    "jp": "1速",
+    "reading": "いちそく",
+    "romaji": "ichi-soku",
+    "meaning": "1 挡",
+    "note": "起步",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w109",
+    "jp": "2速",
+    "reading": "にそく",
+    "romaji": "ni-soku",
+    "meaning": "2 挡",
+    "note": "低速",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w110",
+    "jp": "3速",
+    "reading": "さんそく",
+    "romaji": "san-soku",
+    "meaning": "3 挡",
+    "note": "中速",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w111",
+    "jp": "Dレンジ",
+    "reading": "ディーレンジ",
+    "romaji": "Dii renji",
+    "meaning": "D 挡(AT)",
+    "note": "前进挡",
+    "tag": [
+      "术语"
+    ],
+    "en": "D range"
+  },
+  {
+    "id": "cp-w112",
+    "jp": "Rレンジ",
+    "reading": "アールレンジ",
+    "romaji": "R renji",
+    "meaning": "R 挡(AT)",
+    "note": "倒车挡",
+    "tag": [
+      "术语"
+    ],
+    "en": "R range"
+  },
+  {
+    "id": "cp-w113",
+    "jp": "Pレンジ",
+    "reading": "ピーレンジ",
+    "romaji": "Pii renji",
+    "meaning": "P 挡(AT)",
+    "note": "驻车挡",
+    "tag": [
+      "术语"
+    ],
+    "en": "P range"
+  },
+  {
+    "id": "cp-w114",
+    "jp": "ニュートラル",
+    "reading": "ニュートラル",
+    "romaji": "nyuutaru",
+    "meaning": "空挡",
+    "note": "N",
+    "tag": [
+      "术语"
+    ],
+    "en": "neutral"
+  },
+  {
+    "id": "cp-w115",
+    "jp": "ロー",
+    "reading": "ロー",
+    "romaji": "roo",
+    "meaning": "低速挡(AT)",
+    "note": "下陡坡用",
+    "tag": [
+      "术语"
+    ],
+    "en": "low"
+  },
+  {
+    "id": "cp-w116",
+    "jp": "進入",
+    "reading": "しんにゅう",
+    "romaji": "shinnyuu",
+    "meaning": "驶入",
+    "note": "进入弯道",
+    "tag": [
+      "动作"
+    ]
+  },
+  {
+    "id": "cp-w117",
+    "jp": "通過",
+    "reading": "つうか",
+    "romaji": "tsuuka",
+    "meaning": "通过",
+    "note": "经过某点",
+    "tag": [
+      "动作"
+    ]
+  },
+  {
+    "id": "cp-w118",
+    "jp": "脱出",
+    "reading": "だっしゅつ",
+    "romaji": "dashshutsu",
+    "meaning": "驶出",
+    "note": "离开弯道",
+    "tag": [
+      "动作"
+    ]
+  },
+  {
+    "id": "cp-w119",
+    "jp": "合流",
+    "reading": "ごうりゅう",
+    "romaji": "gouryuu",
+    "meaning": "汇入",
+    "note": "高速入口",
+    "tag": [
+      "动作"
+    ]
+  },
+  {
+    "id": "cp-w120",
+    "jp": "分岐",
+    "reading": "ぶんき",
+    "romaji": "bunki",
+    "meaning": "分岔",
+    "note": "道路分开",
+    "tag": [
+      "動作"
+    ]
+  },
+  {
+    "id": "cp-w121",
+    "jp": "合流車線",
+    "reading": "ごうりゅうしゃせん",
+    "romaji": "gouryuu shasen",
+    "meaning": "加速车道",
+    "note": "汇入用",
+    "tag": [
+      "动作"
+    ]
+  },
+  {
+    "id": "cp-w122",
+    "jp": "本線",
+    "reading": "ほんせん",
+    "romaji": "honsen",
+    "meaning": "主线",
+    "note": "高速主路",
+    "tag": [
+      "動作"
+    ]
+  },
+  {
+    "id": "cp-w123",
+    "jp": "速度超過",
+    "reading": "そくどちょうか",
+    "romaji": "sokudo chooka",
+    "meaning": "超速",
+    "note": "一発不合格",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w124",
+    "jp": "速度不足",
+    "reading": "そくどふそく",
+    "romaji": "sokudo fusoku",
+    "meaning": "速度过慢",
+    "note": "路上要避免",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w125",
+    "jp": "脱線",
+    "reading": "だっせん",
+    "romaji": "dassen",
+    "meaning": "驶离车道",
+    "note": "考试扣分",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w126",
+    "jp": "蛇行",
+    "reading": "だこう",
+    "romaji": "dakou",
+    "meaning": "蛇行",
+    "note": "S 形行驶",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w127",
+    "jp": "ふらつき",
+    "reading": "ふらつき",
+    "romaji": "furatsuki",
+    "meaning": "车身摇晃",
+    "note": "不稳",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w128",
+    "jp": "急ハンドル",
+    "reading": "きゅうハンドル",
+    "romaji": "kyuu handoru",
+    "meaning": "猛打方向盘",
+    "note": "要避免",
+    "tag": [
+      "术语"
+    ],
+    "en": "sudden steering"
+  },
+  {
+    "id": "cp-w129",
+    "jp": "片手運転",
+    "reading": "かたてうんてん",
+    "romaji": "katate unten",
+    "meaning": "单手驾驶",
+    "note": "考试扣分",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w130",
+    "jp": "教習時間",
+    "reading": "きょうしゅうじかん",
+    "romaji": "kyoushuu jikan",
+    "meaning": "教习时间",
+    "note": "按限计算",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w131",
+    "jp": "教習期限",
+    "reading": "きょうしゅうきげん",
+    "romaji": "kyoushuu kigen",
+    "meaning": "教习期限",
+    "note": "9 个月",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w132",
+    "jp": "修了証",
+    "reading": "しゅうりょうしょう",
+    "romaji": "shuuryoushou",
+    "meaning": "结业证",
+    "note": "卒検必需",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w133",
+    "jp": "修了時限",
+    "reading": "しゅうりょうじげん",
+    "romaji": "shuuryou jigen",
+    "meaning": "结业时数",
+    "note": "必须修满",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w134",
+    "jp": "効果測定",
+    "reading": "こうかそくてい",
+    "romaji": "kouka sokutei",
+    "meaning": "效果测试",
+    "note": "1 阶段末",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w135",
+    "jp": "仮免学科",
+    "reading": "かりめんがっか",
+    "romaji": "karimen gakka",
+    "meaning": "仮免笔试",
+    "note": "校外商工中心",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w136",
+    "jp": "卒検",
+    "reading": "そっけん",
+    "romaji": "sokken",
+    "meaning": "毕业检定",
+    "note": "路考",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w137",
+    "jp": "検定場",
+    "reading": "けんていじょう",
+    "romaji": "kenteijou",
+    "meaning": "考场",
+    "note": "如鲛洲",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w138",
+    "jp": "検定官",
+    "reading": "けんていかん",
+    "romaji": "kenteikan",
+    "meaning": "考试官",
+    "note": "严肃",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w139",
+    "jp": "路上試験",
+    "reading": "ろじょうしけん",
+    "romaji": "rojou shiken",
+    "meaning": "路上考试",
+    "note": "卒検实际",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w140",
+    "jp": "コース",
+    "reading": "コース",
+    "romaji": "koosu",
+    "meaning": "路线",
+    "note": "考试路线",
+    "tag": [
+      "流程"
+    ],
+    "en": "course"
+  },
+  {
+    "id": "cp-w141",
+    "jp": "周回",
+    "reading": "しゅうかい",
+    "romaji": "shuukai",
+    "meaning": "绕一圈",
+    "note": "考试常要求",
+    "tag": [
+      "流程"
+    ]
+  },
+  {
+    "id": "cp-w142",
+    "jp": "信号無視",
+    "reading": "しんごうむし",
+    "romaji": "shingou mushi",
+    "meaning": "闯红灯",
+    "note": "一発不合格",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w143",
+    "jp": "一時停止違反",
+    "reading": "いちじていしごはん",
+    "romaji": "ichiji teishi ihan",
+    "meaning": "未在止まれ停车",
+    "note": "一発不合格",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w144",
+    "jp": "優先道路妨害",
+    "reading": "ゆうせんどうろぼうがい",
+    "romaji": "yuusen douro bougai",
+    "meaning": "妨碍优先道路",
+    "note": "一発不合格",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w145",
+    "jp": "安全運転義務違反",
+    "reading": "あんぜんうんてんぎむいはん",
+    "romaji": "anzen unten gimu ihan",
+    "meaning": "违反安全驾驶义务",
+    "note": "通用扣分项",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w146",
+    "jp": "減点",
+    "reading": "げんてん",
+    "romaji": "genten",
+    "meaning": "扣分",
+    "note": "100 分扣光就停",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w147",
+    "jp": "中止",
+    "reading": "ちゅうし",
+    "romaji": "chuushi",
+    "meaning": "中止(考试)",
+    "note": "= 一発不合格",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w148",
+    "jp": "失格",
+    "reading": "しっかく",
+    "romaji": "shikaku",
+    "meaning": "不合格",
+    "note": "= 中止",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w149",
+    "jp": "合格",
+    "reading": "ごうかく",
+    "romaji": "goukaku",
+    "meaning": "合格",
+    "note": "考试通过",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w150",
+    "jp": "卒業",
+    "reading": "そつぎょう",
+    "romaji": "sotsugyou",
+    "meaning": "毕业(驾校)",
+    "note": "卒検合格",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "cp-w151",
+    "jp": "シート",
+    "reading": "シート",
+    "romaji": "shiito",
+    "meaning": "座椅",
+    "note": "驾驶座",
+    "tag": [
+      "座位"
+    ],
+    "en": "seat"
+  },
+  {
+    "id": "cp-w152",
+    "jp": "運転席",
+    "reading": "うんてんせき",
+    "romaji": "untenseki",
+    "meaning": "驾驶座",
+    "note": "左侧",
+    "tag": [
+      "座位"
+    ]
+  },
+  {
+    "id": "cp-w153",
+    "jp": "シート高さ",
+    "reading": "シートたかさ",
+    "romaji": "shiito takasa",
+    "meaning": "座椅高度",
+    "note": "调整视野",
+    "tag": [
+      "座位"
+    ],
+    "en": "seat height"
+  },
+  {
+    "id": "cp-w154",
+    "jp": "シート前後",
+    "reading": "シートぜんご",
+    "romaji": "shiito zengo",
+    "meaning": "座椅前后",
+    "note": "腿能伸直",
+    "tag": [
+      "座位"
+    ],
+    "en": "seat fore-aft"
+  },
+  {
+    "id": "cp-w155",
+    "jp": "背もたれ",
+    "reading": "せもたれ",
+    "romaji": "semotare",
+    "meaning": "靠背",
+    "note": "坐姿",
+    "tag": [
+      "座位"
+    ]
+  },
+  {
+    "id": "cp-w156",
+    "jp": "リクライニング",
+    "reading": "リクライニング",
+    "romaji": "rikurainingu",
+    "meaning": "靠背调节",
+    "note": "不要躺太斜",
+    "tag": [
+      "座位"
+    ],
+    "en": "reclining"
+  },
+  {
+    "id": "cp-w157",
+    "jp": "ヘッドレスト",
+    "reading": "ヘッドレスト",
+    "romaji": "heddoresuto",
+    "meaning": "头枕",
+    "note": "头顶对齐",
+    "tag": [
+      "座位"
+    ],
+    "en": "headrest"
+  },
+  {
+    "id": "cp-w158",
+    "jp": "シートヒーター",
+    "reading": "シートヒーター",
+    "romaji": "shiito hiitaa",
+    "meaning": "座椅加热",
+    "note": "冬季用",
+    "tag": [
+      "座位"
+    ],
+    "en": "seat heater"
+  },
+  {
+    "id": "cp-w159",
+    "jp": "ランバーサポート",
+    "reading": "ランバーサポート",
+    "romaji": "rambaa sapooto",
+    "meaning": "腰部支撑",
+    "note": "缓解疲劳",
+    "tag": [
+      "座位"
+    ],
+    "en": "lumbar support"
+  },
+  {
+    "id": "cp-w160",
+    "jp": "ハンドル調整",
+    "reading": "ハンドルちょうせい",
+    "romaji": "handoru chousei",
+    "meaning": "方向盘调整",
+    "note": "前后上下",
+    "tag": [
+      "方向盘"
+    ],
+    "en": "steering wheel adjustment"
+  },
+  {
+    "id": "cp-w161",
+    "jp": "テレスコピック",
+    "reading": "テレスコピック",
+    "romaji": "teresukopikku",
+    "meaning": "方向盘伸缩",
+    "note": "调节远近",
+    "tag": [
+      "方向盘"
+    ],
+    "en": "telescopic"
+  },
+  {
+    "id": "cp-w162",
+    "jp": "チルト",
+    "reading": "チルト",
+    "romaji": "chiruto",
+    "meaning": "方向盘倾斜",
+    "note": "调节上下",
+    "tag": [
+      "方向盘"
+    ],
+    "en": "tilt"
+  },
+  {
+    "id": "cp-w163",
+    "jp": "ハンドルロック",
+    "reading": "ハンドルロック",
+    "romaji": "handoru rokku",
+    "meaning": "方向盘锁",
+    "note": "拔钥匙后用",
+    "tag": [
+      "方向盘"
+    ],
+    "en": "steering lock"
+  },
+  {
+    "id": "cp-w164",
+    "jp": "ハンドルカバー",
+    "reading": "ハンドルカバー",
+    "romaji": "handoru kabaa",
+    "meaning": "方向盘套",
+    "note": "防滑",
+    "tag": [
+      "方向盘"
+    ],
+    "en": "steering wheel cover"
+  },
+  {
+    "id": "cp-w165",
+    "jp": "アクセルペダル",
+    "reading": "アクセルペダル",
+    "romaji": "akuseru pedaru",
+    "meaning": "油门踏板",
+    "note": "右脚控制",
+    "tag": [
+      "踏板"
+    ],
+    "en": "accelerator pedal"
+  },
+  {
+    "id": "cp-w166",
+    "jp": "ブレーキペダル",
+    "reading": "ブレーキペダル",
+    "romaji": "bureeki pedaru",
+    "meaning": "刹车踏板",
+    "note": "右脚控制(AT)",
+    "tag": [
+      "踏板"
+    ],
+    "en": "brake pedal"
+  },
+  {
+    "id": "cp-w167",
+    "jp": "ペダル踏み間違い",
+    "reading": "ペダルふみまちがい",
+    "romaji": "pedaru fumimachigai",
+    "meaning": "踏板踩错",
+    "note": "错踩油门事故",
+    "tag": [
+      "踏板"
+    ],
+    "en": "pedal misapplication"
+  },
+  {
+    "id": "cp-w168",
+    "jp": "ペダル位置",
+    "reading": "ペダルいち",
+    "romaji": "pedaru ichi",
+    "meaning": "踏板位置",
+    "note": "调整座椅",
+    "tag": [
+      "踏板"
+    ],
+    "en": "pedal position"
+  },
+  {
+    "id": "cp-w169",
+    "jp": "右足一本",
+    "reading": "みぎあし いっぽん",
+    "romaji": "migiashi ippon",
+    "meaning": "右脚单控(AT)",
+    "note": "AT 默认",
+    "tag": [
+      "踏板"
+    ]
+  },
+  {
+    "id": "cp-w170",
+    "jp": "左足は使わず",
+    "reading": "ひだりあしは つかわず",
+    "romaji": "hidariashi wa tsukawazu",
+    "meaning": "左脚不用(AT)",
+    "note": "AT 休息",
+    "tag": [
+      "踏板"
+    ]
+  },
+  {
+    "id": "cp-w171",
+    "jp": "速度計",
+    "reading": "そくどけい",
+    "romaji": "sokudokei",
+    "meaning": "速度表",
+    "note": "仪表盘",
+    "tag": [
+      "仪表"
+    ]
+  },
+  {
+    "id": "cp-w172",
+    "jp": "回転計",
+    "reading": "かいてんけい",
+    "romaji": "kaitenkei",
+    "meaning": "转速表",
+    "note": "AT 也用",
+    "tag": [
+      "仪表"
+    ]
+  },
+  {
+    "id": "cp-w173",
+    "jp": "タコメーター",
+    "reading": "タコメーター",
+    "romaji": "takomeetaa",
+    "meaning": "转速表",
+    "note": "= 回転計",
+    "tag": [
+      "仪表"
+    ],
+    "en": "tachometer"
+  },
+  {
+    "id": "cp-w174",
+    "jp": "スピードメーター",
+    "reading": "スピードメーター",
+    "romaji": "supiido meetaa",
+    "meaning": "速度表",
+    "note": "= 速度計",
+    "tag": [
+      "仪表"
+    ],
+    "en": "speedometer"
+  },
+  {
+    "id": "cp-w175",
+    "jp": "燃料計",
+    "reading": "ねんりょうけい",
+    "romaji": "nenryoukei",
+    "meaning": "油量表",
+    "note": "汽油量",
+    "tag": [
+      "仪表"
+    ]
+  },
+  {
+    "id": "cp-w176",
+    "jp": "水温計",
+    "reading": "すいおんけい",
+    "romaji": "suionkei",
+    "meaning": "水温表",
+    "note": "发动机温度",
+    "tag": [
+      "仪表"
+    ]
+  },
+  {
+    "id": "cp-w177",
+    "jp": "走行距離計",
+    "reading": "そうこうきょりけい",
+    "romaji": "soukou kyorikei",
+    "meaning": "里程表",
+    "note": "ODO/TRIP",
+    "tag": [
+      "仪表"
+    ]
+  },
+  {
+    "id": "cp-w178",
+    "jp": "オドメーター",
+    "reading": "オドメーター",
+    "romaji": "odomeetaa",
+    "meaning": "总里程",
+    "note": "ODO",
+    "tag": [
+      "仪表"
+    ],
+    "en": "odometer"
+  },
+  {
+    "id": "cp-w179",
+    "jp": "トリップメーター",
+    "reading": "トリップメーター",
+    "romaji": "torippu meetaa",
+    "meaning": "单次里程",
+    "note": "TRIP",
+    "tag": [
+      "仪表"
+    ],
+    "en": "trip meter"
+  },
+  {
+    "id": "cp-w180",
+    "jp": "燃料残量警告灯",
+    "reading": "ねんりょう ざんりょう けいこくとう",
+    "romaji": "nenryou zanryou keikokutou",
+    "meaning": "油量警告灯",
+    "note": "该加油了",
+    "tag": [
+      "仪表"
+    ]
+  },
+  {
+    "id": "cp-w181",
+    "jp": "エンジン警告灯",
+    "reading": "エンジンけいこくとう",
+    "romaji": "enjin keikokutou",
+    "meaning": "发动机警告灯",
+    "note": "黄/红灯要停车",
+    "tag": [
+      "仪表"
+    ],
+    "en": "engine warning light"
+  },
+  {
+    "id": "cp-w182",
+    "jp": "バッテリー警告灯",
+    "reading": "バッテリーけいこくとう",
+    "romaji": "batterii keikokutou",
+    "meaning": "电瓶警告灯",
+    "note": "充电故障",
+    "tag": [
+      "仪表"
+    ],
+    "en": "battery warning light"
+  },
+  {
+    "id": "cp-w183",
+    "jp": "オイル警告灯",
+    "reading": "オイルけいこくとう",
+    "romaji": "oiru keikokutou",
+    "meaning": "机油警告灯",
+    "note": "缺机油",
+    "tag": [
+      "仪表"
+    ],
+    "en": "oil warning light"
+  },
+  {
+    "id": "cp-w184",
+    "jp": "シートベルト警告灯",
+    "reading": "シートベルトけいこくとう",
+    "romaji": "shiito beruto keikokutou",
+    "meaning": "安全带未系灯",
+    "note": "要系安全带",
+    "tag": [
+      "仪表"
+    ],
+    "en": "seatbelt warning light"
+  },
+  {
+    "id": "cp-w185",
+    "jp": "半ドア警告灯",
+    "reading": "はんドアけいこくとう",
+    "romaji": "han doa keikokutou",
+    "meaning": "车门未关灯",
+    "note": "= ドア半開き",
+    "tag": [
+      "仪表"
+    ],
+    "en": "door-open warning light"
+  },
+  {
+    "id": "cp-w186",
+    "jp": "ヘッドライト",
+    "reading": "ヘッドライト",
+    "romaji": "heddoraito",
+    "meaning": "前照灯",
+    "note": "= ヘッドランプ",
+    "tag": [
+      "灯光"
+    ],
+    "en": "headlight"
+  },
+  {
+    "id": "cp-w187",
+    "jp": "ヘッドランプ",
+    "reading": "ヘッドランプ",
+    "romaji": "heddorampu",
+    "meaning": "前照灯",
+    "note": "夜间开车",
+    "tag": [
+      "灯光"
+    ],
+    "en": "headlamp"
+  },
+  {
+    "id": "cp-w188",
+    "jp": "ロービーム",
+    "reading": "ロービーム",
+    "romaji": "roobiimu",
+    "meaning": "近光灯",
+    "note": "会车时",
+    "tag": [
+      "灯光"
+    ],
+    "en": "low beam"
+  },
+  {
+    "id": "cp-w189",
+    "jp": "ハイビーム",
+    "reading": "ハイビーム",
+    "romaji": "haibiimu",
+    "meaning": "远光灯",
+    "note": "无车时",
+    "tag": [
+      "灯光"
+    ],
+    "en": "high beam"
+  },
+  {
+    "id": "cp-w190",
+    "jp": "スモールライト",
+    "reading": "スモールライト",
+    "romaji": "sumooru raito",
+    "meaning": "示廓灯",
+    "note": "傍晚/隧道",
+    "tag": [
+      "灯光"
+    ],
+    "en": "small light"
+  },
+  {
+    "id": "cp-w191",
+    "jp": "ポジションランプ",
+    "reading": "ポジションランプ",
+    "romaji": "pojishon ranpu",
+    "meaning": "位置灯",
+    "note": "= スモールライト",
+    "tag": [
+      "灯光"
+    ],
+    "en": "position lamp"
+  },
+  {
+    "id": "cp-w192",
+    "jp": "フォグランプ",
+    "reading": "フォグランプ",
+    "romaji": "fogu ranpu",
+    "meaning": "雾灯",
+    "note": "雨天/雾天",
+    "tag": [
+      "灯光"
+    ],
+    "en": "fog lamp"
+  },
+  {
+    "id": "cp-w193",
+    "jp": "リアフォグ",
+    "reading": "リアフォグ",
+    "romaji": "ria fogu",
+    "meaning": "后雾灯",
+    "note": "少数车有",
+    "tag": [
+      "灯光"
+    ],
+    "en": "rear fog"
+  },
+  {
+    "id": "cp-w194",
+    "jp": "ブレーキランプ",
+    "reading": "ブレーキランプ",
+    "romaji": "bureeki ranpu",
+    "meaning": "刹车灯",
+    "note": "后车看",
+    "tag": [
+      "灯光"
+    ],
+    "en": "brake lamp"
+  },
+  {
+    "id": "cp-w195",
+    "jp": "テールランプ",
+    "reading": "テールランプ",
+    "romaji": "teeru ranpu",
+    "meaning": "尾灯",
+    "note": "红色",
+    "tag": [
+      "灯光"
+    ],
+    "en": "tail lamp"
+  },
+  {
+    "id": "cp-w196",
+    "jp": "バックランプ",
+    "reading": "バックランプ",
+    "romaji": "bakku ranpu",
+    "meaning": "倒车灯",
+    "note": "白色",
+    "tag": [
+      "灯光"
+    ],
+    "en": "reverse lamp"
+  },
+  {
+    "id": "cp-w197",
+    "jp": "ライセンスランプ",
+    "reading": "ライセンスランプ",
+    "romaji": "raisensu ranpu",
+    "meaning": "车牌灯",
+    "note": "夜间看牌",
+    "tag": [
+      "灯光"
+    ],
+    "en": "license plate lamp"
+  },
+  {
+    "id": "cp-w198",
+    "jp": "室内灯",
+    "reading": "しつないとう",
+    "romaji": "shitsunaitou",
+    "meaning": "室内灯",
+    "note": "车内照明",
+    "tag": [
+      "灯光"
+    ]
+  },
+  {
+    "id": "cp-w199",
+    "jp": "ルームランプ",
+    "reading": "ルームランプ",
+    "romaji": "ruumu ranpu",
+    "meaning": "室内灯",
+    "note": "= 室内灯",
+    "tag": [
+      "灯光"
+    ],
+    "en": "room lamp"
+  },
+  {
+    "id": "cp-w200",
+    "jp": "イルミネーション",
+    "reading": "イルミネーション",
+    "romaji": "irumineeshon",
+    "meaning": "车内装饰灯",
+    "note": "夜间亮",
+    "tag": [
+      "灯光"
+    ],
+    "en": "illumination"
+  },
+  {
+    "id": "cp-w201",
+    "jp": "エアコン",
+    "reading": "エアコン",
+    "romaji": "eakon",
+    "meaning": "空调",
+    "note": "= 冷房暖房",
+    "tag": [
+      "空调"
+    ],
+    "en": "air conditioner"
+  },
+  {
+    "id": "cp-w202",
+    "jp": "冷房",
+    "reading": "れいぼう",
+    "romaji": "reibou",
+    "meaning": "制冷",
+    "note": "= クーラー",
+    "tag": [
+      "空调"
+    ]
+  },
+  {
+    "id": "cp-w203",
+    "jp": "暖房",
+    "reading": "だんぼう",
+    "romaji": "danbou",
+    "meaning": "制热",
+    "note": "= ヒーター",
+    "tag": [
+      "空调"
+    ]
+  },
+  {
+    "id": "cp-w204",
+    "jp": "クーラー",
+    "reading": "クーラー",
+    "romaji": "kuuraa",
+    "meaning": "冷气",
+    "note": "= 冷房",
+    "tag": [
+      "空调"
+    ],
+    "en": "cooler"
+  },
+  {
+    "id": "cp-w205",
+    "jp": "ヒーター",
+    "reading": "ヒーター",
+    "romaji": "hiitaa",
+    "meaning": "暖气",
+    "note": "= 暖房",
+    "tag": [
+      "空调"
+    ],
+    "en": "heater"
+  },
+  {
+    "id": "cp-w206",
+    "jp": "温度調節",
+    "reading": "おんどちょうせつ",
+    "romaji": "ondo chousetsu",
+    "meaning": "温度调节",
+    "note": "AC 旋钮",
+    "tag": [
+      "空调"
+    ]
+  },
+  {
+    "id": "cp-w207",
+    "jp": "風量",
+    "reading": "ふうりょう",
+    "romaji": "fuuryou",
+    "meaning": "风量",
+    "note": "档位",
+    "tag": [
+      "空调"
+    ]
+  },
+  {
+    "id": "cp-w208",
+    "jp": "風向",
+    "reading": "ふうこう",
+    "romaji": "fuukou",
+    "meaning": "风向",
+    "note": "吹哪里",
+    "tag": [
+      "空调"
+    ]
+  },
+  {
+    "id": "cp-w209",
+    "jp": "送風",
+    "reading": "そうふう",
+    "romaji": "soufu",
+    "meaning": "送风",
+    "note": "自然风",
+    "tag": [
+      "空调"
+    ]
+  },
+  {
+    "id": "cp-w210",
+    "jp": "内気循環",
+    "reading": "うちき じゅんかん",
+    "romaji": "uchiki junkan",
+    "meaning": "内循环",
+    "note": "车内循环",
+    "tag": [
+      "空调"
+    ]
+  },
+  {
+    "id": "cp-w211",
+    "jp": "外気導入",
+    "reading": "がいき どうにゅう",
+    "romaji": "gaiki dounyuu",
+    "meaning": "外循环",
+    "note": "车外空气",
+    "tag": [
+      "空调"
+    ]
+  },
+  {
+    "id": "cp-w212",
+    "jp": "デフロスター",
+    "reading": "デフロスター",
+    "romaji": "defurosutaa",
+    "meaning": "除霜",
+    "note": "前挡风玻璃",
+    "tag": [
+      "空调"
+    ],
+    "en": "defroster"
+  },
+  {
+    "id": "cp-w213",
+    "jp": "リアデフォッガー",
+    "reading": "リアデフォッガー",
+    "romaji": "ria defoggaa",
+    "meaning": "后挡风玻璃除霜",
+    "note": "雨雪天",
+    "tag": [
+      "空调"
+    ],
+    "en": "rear defogger"
+  },
+  {
+    "id": "cp-w214",
+    "jp": "フロントワイパー",
+    "reading": "フロントワイパー",
+    "romaji": "furonto waipaa",
+    "meaning": "前雨刷",
+    "note": "雨雪天",
+    "tag": [
+      "雨刷"
+    ],
+    "en": "front wiper"
+  },
+  {
+    "id": "cp-w215",
+    "jp": "リアワイパー",
+    "reading": "リアワイパー",
+    "romaji": "ria waipaa",
+    "meaning": "后雨刷",
+    "note": "后窗",
+    "tag": [
+      "雨刷"
+    ],
+    "en": "rear wiper"
+  },
+  {
+    "id": "cp-w216",
+    "jp": "間欠ワイパー",
+    "reading": "かんけつワイパー",
+    "romaji": "kanketsu waipaa",
+    "meaning": "间歇雨刷",
+    "note": "小雨",
+    "tag": [
+      "雨刷"
+    ],
+    "en": "intermittent wiper"
+  },
+  {
+    "id": "cp-w217",
+    "jp": "オートワイパー",
+    "reading": "オートワイパー",
+    "romaji": "ooto waipaa",
+    "meaning": "自动雨刷",
+    "note": "感应式",
+    "tag": [
+      "雨刷"
+    ],
+    "en": "auto wiper"
+  },
+  {
+    "id": "cp-w218",
+    "jp": "ウォッシャー液",
+    "reading": "ウォッシャーえき",
+    "romaji": "wosshyaa eki",
+    "meaning": "雨刷水/玻璃水",
+    "note": "要加满",
+    "tag": [
+      "雨刷"
+    ],
+    "en": "washer fluid"
+  },
+  {
+    "id": "cp-w219",
+    "jp": "ウォッシャー噴射",
+    "reading": "ウォッシャーふんしゃ",
+    "romaji": "wosshyaa funsha",
+    "meaning": "喷玻璃水",
+    "note": "按拨杆端",
+    "tag": [
+      "雨刷"
+    ],
+    "en": "washer spray"
+  },
+  {
+    "id": "cp-w220",
+    "jp": "ワイパーブレード",
+    "reading": "ワイパーブレード",
+    "romaji": "waipaa bureedo",
+    "meaning": "雨刷条",
+    "note": "磨损件",
+    "tag": [
+      "雨刷"
+    ],
+    "en": "wiper blade"
+  },
+  {
+    "id": "cp-w221",
+    "jp": "ワイパーゴム",
+    "reading": "ワイパーゴム",
+    "romaji": "waipaa gomu",
+    "meaning": "雨刷胶条",
+    "note": "= ブレード",
+    "tag": [
+      "雨刷"
+    ],
+    "en": "wiper rubber"
+  },
+  {
+    "id": "cp-w222",
+    "jp": "電動ドアミラー",
+    "reading": "でんどうドアミラー",
+    "romaji": "dendou doa miraa",
+    "meaning": "电动后视镜",
+    "note": "开关调节",
+    "tag": [
+      "后视镜"
+    ],
+    "en": "power door mirror"
+  },
+  {
+    "id": "cp-w223",
+    "jp": "格納ミラー",
+    "reading": "かくのうミラー",
+    "romaji": "kakunou miraa",
+    "meaning": "折叠后视镜",
+    "note": "按钮或自动",
+    "tag": [
+      "后视镜"
+    ],
+    "en": "folding mirror"
+  },
+  {
+    "id": "cp-w224",
+    "jp": "自動防眩ミラー",
+    "reading": "じどうぼうげんミラー",
+    "romaji": "jidou bougen miraa",
+    "meaning": "自动防眩后视镜",
+    "note": "防远光炫目",
+    "tag": [
+      "后视镜"
+    ],
+    "en": "auto-dimming mirror"
+  },
+  {
+    "id": "cp-w225",
+    "jp": "ルームミラー調整",
+    "reading": "ルームミラーちょうせい",
+    "romaji": "ruumu miraa chousei",
+    "meaning": "室内镜调整",
+    "note": "地平线在中央",
+    "tag": [
+      "后视镜"
+    ],
+    "en": "room mirror adjustment"
+  },
+  {
+    "id": "cp-w226",
+    "jp": "サイドミラー調整",
+    "reading": "サイドミラーちょうせい",
+    "romaji": "saidomiraa chousei",
+    "meaning": "侧镜调整",
+    "note": "车身占 1/4",
+    "tag": [
+      "后视镜"
+    ],
+    "en": "side mirror adjustment"
+  },
+  {
+    "id": "cp-w227",
+    "jp": "キーレスエントリー",
+    "reading": "キーレスエントリー",
+    "romaji": "kiiresu entorii",
+    "meaning": "无钥匙进入",
+    "note": "按钮开门",
+    "tag": [
+      "启动"
+    ],
+    "en": "keyless entry"
+  },
+  {
+    "id": "cp-w228",
+    "jp": "スマートキー",
+    "reading": "スマートキー",
+    "romaji": "sumaato kii",
+    "meaning": "智能钥匙",
+    "note": "现代车标配",
+    "tag": [
+      "启动"
+    ],
+    "en": "smart key"
+  },
+  {
+    "id": "cp-w229",
+    "jp": "プッシュスタート",
+    "reading": "プッシュスタート",
+    "romaji": "pusshu sutaato",
+    "meaning": "按钮启动",
+    "note": "踩刹车按",
+    "tag": [
+      "启动"
+    ],
+    "en": "push start"
+  },
+  {
+    "id": "cp-w230",
+    "jp": "エンジンスタート",
+    "reading": "エンジンスタート",
+    "romaji": "enjin sutaato",
+    "meaning": "发动机启动",
+    "note": "传统钥匙",
+    "tag": [
+      "启动"
+    ],
+    "en": "engine start"
+  },
+  {
+    "id": "cp-w231",
+    "jp": "エンジン始動",
+    "reading": "エンジンしどう",
+    "romaji": "enjin shidou",
+    "meaning": "发动机启动",
+    "note": "= スタート",
+    "tag": [
+      "启动"
+    ],
+    "en": "engine ignition"
+  },
+  {
+    "id": "cp-w232",
+    "jp": "パワーウィンドウ",
+    "reading": "パワーウィンドウ",
+    "romaji": "pawaa windoo",
+    "meaning": "电动车窗",
+    "note": "开关",
+    "tag": [
+      "车窗"
+    ],
+    "en": "power window"
+  },
+  {
+    "id": "cp-w233",
+    "jp": "ウィンドウロック",
+    "reading": "ウィンドウロック",
+    "romaji": "windoo rokku",
+    "meaning": "车窗锁",
+    "note": "防儿童开",
+    "tag": [
+      "车窗"
+    ],
+    "en": "window lock"
+  },
+  {
+    "id": "cp-w234",
+    "jp": "サンルーフ",
+    "reading": "サンルーフ",
+    "romaji": "sanruufu",
+    "meaning": "天窗",
+    "note": "高级车",
+    "tag": [
+      "车窗"
+    ],
+    "en": "sunroof"
+  },
+  {
+    "id": "cp-w235",
+    "jp": "ドアロック",
+    "reading": "ドアロック",
+    "romaji": "doa rokku",
+    "meaning": "车门锁",
+    "note": "= 集中ドアロック",
+    "tag": [
+      "车窗"
+    ],
+    "en": "door lock"
+  },
+  {
+    "id": "cp-w236",
+    "jp": "集中ドアロック",
+    "reading": "しゅうちゅうドアロック",
+    "romaji": "shuuchuu doa rokku",
+    "meaning": "中控锁",
+    "note": "一键锁全车",
+    "tag": [
+      "车窗"
+    ],
+    "en": "central door lock"
+  },
+  {
+    "id": "cp-w237",
+    "jp": "エコモード",
+    "reading": "エコモード",
+    "romaji": "ekomoodo",
+    "meaning": "经济模式",
+    "note": "省油",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "eco mode"
+  },
+  {
+    "id": "cp-w238",
+    "jp": "スポーツモード",
+    "reading": "スポーツモード",
+    "romaji": "supootsu moodo",
+    "meaning": "运动模式",
+    "note": "高转速",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "sport mode"
+  },
+  {
+    "id": "cp-w239",
+    "jp": "スノーモード",
+    "reading": "スノーモード",
+    "romaji": "sunoo moodo",
+    "meaning": "雪地模式",
+    "note": "2 挡起步",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "snow mode"
+  },
+  {
+    "id": "cp-w240",
+    "jp": "マニュアルモード",
+    "reading": "マニュアルモード",
+    "romaji": "manyuaru moodo",
+    "meaning": "手动模式(AT)",
+    "note": "= M 挡",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "manual mode"
+  },
+  {
+    "id": "cp-w241",
+    "jp": "Mレンジ",
+    "reading": "エムレンジ",
+    "romaji": "Emu renji",
+    "meaning": "M 挡(AT 手动)",
+    "note": "AT 手动模式",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "M range"
+  },
+  {
+    "id": "cp-w242",
+    "jp": "Sモード",
+    "reading": "エスモード",
+    "romaji": "Esu moodo",
+    "meaning": "S 模式",
+    "note": "运动/雪地切换",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "S mode"
+  },
+  {
+    "id": "cp-w243",
+    "jp": "Lレンジ",
+    "reading": "エルレンジ",
+    "romaji": "Eru renji",
+    "meaning": "L 挡",
+    "note": "下陡坡用",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "L range"
+  },
+  {
+    "id": "cp-w244",
+    "jp": "2ndスタート",
+    "reading": "セカンドスタート",
+    "romaji": "sekando sutaato",
+    "meaning": "2 挡起步",
+    "note": "雪地",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "2nd start"
+  },
+  {
+    "id": "cp-w245",
+    "jp": "ヒルスタートアシスト",
+    "reading": "ヒルスタートアシスト",
+    "romaji": "hiru sutaato ashisuto",
+    "meaning": "坡道起步辅助",
+    "note": "防止后滑",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "hill start assist"
+  },
+  {
+    "id": "cp-w246",
+    "jp": "クルーズコントロール",
+    "reading": "クルーズコントロール",
+    "romaji": "kuruuzu kontorooru",
+    "meaning": "定速巡航",
+    "note": "高速用",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "cruise control"
+  },
+  {
+    "id": "cp-w247",
+    "jp": "アダプティブクルーズ",
+    "reading": "アダプティブクルーズ",
+    "romaji": " adaputeibu kuruuzu",
+    "meaning": "自适应巡航",
+    "note": "ACC",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "adaptive cruise"
+  },
+  {
+    "id": "cp-w248",
+    "jp": "アダプティブクルーズコントロール",
+    "reading": "アダプティブクルーズコントロール",
+    "romaji": " adaputeibu kuruuzu kontorooru",
+    "meaning": "自适应巡航控制",
+    "note": "跟车",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "adaptive cruise control"
+  },
+  {
+    "id": "cp-w249",
+    "jp": "レーンキープアシスト",
+    "reading": "レーンキープアシスト",
+    "romaji": "reenkiipu ashisuto",
+    "meaning": "车道保持辅助",
+    "note": "防偏离",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "lane keep assist"
+  },
+  {
+    "id": "cp-w250",
+    "jp": "パーキングセンサー",
+    "reading": "パーキングセンサー",
+    "romaji": "paakingu sensaa",
+    "meaning": "驻车传感器",
+    "note": "倒车雷达",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "parking sensor"
+  },
+  {
+    "id": "cp-w251",
+    "jp": "バックモニター",
+    "reading": "バックモニター",
+    "romaji": "bakku monitaa",
+    "meaning": "倒车影像",
+    "note": "后视摄像头",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "back monitor"
+  },
+  {
+    "id": "cp-w252",
+    "jp": "アラウンドビュー",
+    "reading": "アラウンドビュー",
+    "romaji": "araundo byuu",
+    "meaning": "360 度影像",
+    "note": "全景",
+    "tag": [
+      "驾驶"
+    ],
+    "en": "around view"
+  },
+  {
+    "id": "cp-w253",
+    "jp": "シートベルト着用",
+    "reading": "シートベルトちゃくよう",
+    "romaji": "shiito beruto chakuyou",
+    "meaning": "系安全带",
+    "note": "全员必系",
+    "tag": [
+      "安全"
+    ],
+    "en": "seatbelt fastened"
+  },
+  {
+    "id": "cp-w254",
+    "jp": "チャイルドシート",
+    "reading": "チャイルドシート",
+    "romaji": "chairudo shiito",
+    "meaning": "儿童安全座椅",
+    "note": "儿童必坐",
+    "tag": [
+      "安全"
+    ],
+    "en": "child seat"
+  },
+  {
+    "id": "cp-w255",
+    "jp": "ISOFIX",
+    "reading": "アイソフィックス",
+    "romaji": "aisofikkusu",
+    "meaning": "ISOFIX 接口",
+    "note": "儿童座椅固定",
+    "tag": [
+      "安全"
+    ]
+  },
+  {
+    "id": "cp-w256",
+    "jp": "ABS",
+    "reading": "エー・ビー・エス",
+    "romaji": "eebiiesu",
+    "meaning": "防抱死",
+    "note": "急刹不抱死",
+    "tag": [
+      "安全"
+    ]
+  },
+  {
+    "id": "cp-w257",
+    "jp": "アンチロックブレーキ",
+    "reading": "アンチロックブレーキ",
+    "romaji": "anchirokku bureeki",
+    "meaning": "防抱死制动",
+    "note": "= ABS",
+    "tag": [
+      "安全"
+    ],
+    "en": "anti-lock brake"
+  },
+  {
+    "id": "cp-w258",
+    "jp": "ESC",
+    "reading": "イー・エス・シー",
+    "romaji": "iiesushii",
+    "meaning": "车身稳定控制",
+    "note": "防侧滑",
+    "tag": [
+      "安全"
+    ]
+  },
+  {
+    "id": "cp-w259",
+    "jp": "横滑り防止",
+    "reading": "よこすべりぼうし",
+    "romaji": "yokosuberi boushi",
+    "meaning": "防侧滑",
+    "note": "= ESC",
+    "tag": [
+      "安全"
+    ]
+  },
+  {
+    "id": "cp-w260",
+    "jp": "エアバッグ",
+    "reading": "エアバッグ",
+    "romaji": "eabaggu",
+    "meaning": "安全气囊",
+    "note": "不要放杂物",
+    "tag": [
+      "安全"
+    ],
+    "en": "airbag"
+  },
+  {
+    "id": "cp-w261",
+    "jp": "SRS",
+    "reading": "エスアールエス",
+    "romaji": "esuaaruesu",
+    "meaning": "辅助约束系统",
+    "note": "= エアバッグ",
+    "tag": [
+      "安全"
+    ]
+  },
+  {
+    "id": "cp-w262",
+    "jp": "シートベルトプリテンショナー",
+    "reading": "シートベルトプリテンショナー",
+    "romaji": "shiito beruto puritenshonaa",
+    "meaning": "安全带预紧",
+    "note": "事故瞬间收紧",
+    "tag": [
+      "安全"
+    ],
+    "en": "seatbelt pretensioner"
+  },
+  {
+    "id": "cp-w263",
+    "jp": "衝突被害軽減ブレーキ",
+    "reading": "しょうとつひがいけいげんブレーキ",
+    "romaji": "shoutotsu higai keigen bureeki",
+    "meaning": "自动刹车辅助",
+    "note": "AEB",
+    "tag": [
+      "安全"
+    ],
+    "en": "collision damage mitigation brake"
+  },
+  {
+    "id": "cp-w264",
+    "jp": "踏み間違い防止",
+    "reading": "ふみまちがいぼうし",
+    "romaji": "fumimachigai boushi",
+    "meaning": "防错踩油门",
+    "note": "误踩防护",
+    "tag": [
+      "安全"
+    ]
+  },
+  {
+    "id": "cp-w265",
+    "jp": "ふらつき警報",
+    "reading": "ふらつきけいほう",
+    "romaji": "furatsuki keihou",
+    "meaning": "车道偏离警报",
+    "note": "防疲劳",
+    "tag": [
+      "安全"
+    ]
+  }
 ]

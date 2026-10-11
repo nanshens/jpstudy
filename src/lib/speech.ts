@@ -53,6 +53,7 @@ export interface SpeakOptions {
   rate?: number; // 0.1 - 10
   pitch?: number; // 0 - 2
   volume?: number; // 0 - 1
+  lang?: string; // BCP-47 语言标签,默认 ja-JP
   onStart?: () => void;
   onEnd?: () => void;
   onError?: (e: unknown) => void;
@@ -61,12 +62,20 @@ export interface SpeakOptions {
 export async function speak(text: string, opts: SpeakOptions = {}): Promise<void> {
   if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
   if (!text || !text.trim()) return;
+  const lang = opts.lang ?? 'ja-JP';
   const voice = cachedVoice ?? (await ensureVoice());
   // 取消队列里堆积的短句
   window.speechSynthesis.cancel();
   const utter = new SpeechSynthesisUtterance(text);
-  if (voice) utter.voice = voice;
-  utter.lang = 'ja-JP';
+  if (voice && (voice.lang || '').toLowerCase().startsWith(lang.toLowerCase().slice(0, 2))) {
+    utter.voice = voice;
+  } else if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+    // 选匹配 lang 的 voice (英文发音等)
+    const voices = window.speechSynthesis.getVoices();
+    const match = voices.find((v) => v.lang.toLowerCase().startsWith(lang.toLowerCase().slice(0, 2)));
+    if (match) utter.voice = match;
+  }
+  utter.lang = lang;
   utter.rate = opts.rate ?? 0.9;
   utter.pitch = opts.pitch ?? 1;
   utter.volume = opts.volume ?? 1;

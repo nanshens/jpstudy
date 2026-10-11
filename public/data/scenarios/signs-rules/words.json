@@ -1,152 +1,1663 @@
 [
-{"id":"sr-w01","jp":"道路標識","reading":"どうろひょうしき","romaji":"douro hyoushiki","meaning":"道路标志","note":"4 大类之一","tag":["分类"]},
-{"id":"sr-w02","jp":"規制標識","reading":"きせいひょうしき","romaji":"kisei hyoushiki","meaning":"規制标志","note":"红/蓝圆形","tag":["分类"]},
-{"id":"sr-w03","jp":"警戒標識","reading":"けいかいひょうしき","romaji":"keikai hyoushiki","meaning":"警戒标志","note":"黄底三角","tag":["分类"]},
-{"id":"sr-w04","jp":"指示標識","reading":"しじひょうしき","romaji":"shiji hyoushiki","meaning":"指示标志","note":"蓝底圆形","tag":["分类"]},
-{"id":"sr-w05","jp":"案内標識","reading":"あんないひょうしき","romaji":"annai hyoushiki","meaning":"指示/路标","note":"蓝底长方形","tag":["分类"]},
-{"id":"sr-w06","jp":"路面標示","reading":"ろめんひょうじ","romaji":"romen hyouji","meaning":"路面标记","note":"= 道路標示","tag":["分类"]},
-{"id":"sr-w07","jp":"本標識","reading":"ほんひょうしき","romaji":"hon-hyoushiki","meaning":"主标志","note":"正式设置","tag":["术语"]},
-{"id":"sr-w08","jp":"補助標識","reading":"ほじょひょうしき","romaji":"hojo hyoushiki","meaning":"辅助标志","note":"补充说明","tag":["术语"]},
-{"id":"sr-w09","jp":"踏み切り","reading":"ふみきり","romaji":"fumikiri","meaning":"道口","note":"= 踏切","tag":["标志"]},
-{"id":"sr-w10","jp":"踏切注意","reading":"ふみきりちゅうい","romaji":"fumikiri chuui","meaning":"道口注意","note":"黄底三角","tag":["标志"]},
-{"id":"sr-w11","jp":"信号機あり","reading":"しんごうきあり","romaji":"shingouki-ari","meaning":"前方有信号灯","note":"= 信号機あり","tag":["标志"]},
-{"id":"sr-w12","jp":"交差点あり","reading":"こうさてんあり","romaji":"kousaten-ari","meaning":"前方有路口","note":"黄底","tag":["标志"]},
-{"id":"sr-w13","jp":"カーブあり","reading":"カーブあり","romaji":"kaabu-ari","meaning":"前方有弯道","note":"黄底","tag":["标志"]},
-{"id":"sr-w14","jp":"上り勾配","reading":"のぼりこうばい","romaji":"nobori koubai","meaning":"上坡","note":"= 上り坂","tag":["标志"]},
-{"id":"sr-w15","jp":"下り勾配","reading":"くだりこうばい","romaji":"kudari koubai","meaning":"下坡","note":"= 下り坂","tag":["标志"]},
-{"id":"sr-w16","jp":"つづら折り","reading":"つづらおり","romaji":"tsuzuraori","meaning":"连续弯","note":"Z 字弯","tag":["标志"]},
-{"id":"sr-w17","jp":"学校・幼稚園・保育所あり","reading":"がっこう・ようちえん・ほいくじょあり","romaji":"gakkou・youchien・hoikujou-ari","meaning":"前方学校/幼儿园","note":"黄底","tag":["标志"]},
-{"id":"sr-w18","jp":"信号機あり","reading":"しんごうきあり","romaji":"shingouki-ari","meaning":"前方信号灯","note":"黄底","tag":["标志"]},
-{"id":"sr-w19","jp":"踏切あり","reading":"ふみきりあり","romaji":"fumikiri-ari","meaning":"前方道口","note":"= 踏切","tag":["标志"]},
-{"id":"sr-w20","jp":"動物注意","reading":"どうぶつちゅうい","romaji":"doubutsu chuui","meaning":"动物出没","note":"鹿/猿","tag":["标志"]},
-{"id":"sr-w21","jp":"橫断歩道","reading":"おうだんほどう","romaji":"oudan hodou","meaning":"人行横道","note":"菱形预告","tag":["标志"]},
-{"id":"sr-w22","jp":"自転車横断帯","reading":"じてんしゃおうだんたい","romaji":"jitensha oudan-tai","meaning":"自行车横穿","note":"= 自転車横断","tag":["标志"]},
-{"id":"sr-w23","jp":"合流注意","reading":"ごうりゅうちゅうい","romaji":"gouryuu chuui","meaning":"合流注意","note":"前方汇入","tag":["标志"]},
-{"id":"sr-w24","jp":"車線数減少","reading":"しゃせんすうげんしょう","romaji":"shasen-suun genshou","meaning":"车道数减少","note":"前方车道变少","tag":["标志"]},
-{"id":"sr-w25","jp":"道路工事中","reading":"どうろこうじちゅう","romaji":"douro kouji-chuu","meaning":"道路施工","note":"= 工事中","tag":["标志"]},
-{"id":"sr-w26","jp":"横風注意","reading":"よこかぜちゅうい","romaji":"yokokaze chuui","meaning":"横风","note":"桥上/隧道","tag":["标志"]},
-{"id":"sr-w27","jp":"落石注意","reading":"らくせきちゅうい","romaji":"rakuseki chuui","meaning":"落石","note":"山区","tag":["标志"]},
-{"id":"sr-w28","jp":"路面凍結","reading":"ろめんとうけつ","romaji":"romen touketsu","meaning":"路面结冰","note":"冬季","tag":["标志"]},
-{"id":"sr-w29","jp":"大雨・洪水","reading":"おおあめ・こうずい","romaji":"ooame・kouzui","meaning":"暴雨/洪水","note":"= 大雨","tag":["标志"]},
-{"id":"sr-w30","jp":"津波注意","reading":"つなみちゅうい","romaji":"tsunami chuui","meaning":"海啸","note":"海岸","tag":["标志"]},
-{"id":"sr-w31","jp":"徐行","reading":"じょこう","romaji":"jokou","meaning":"慢行","note":"= 减速","tag":["标志"]},
-{"id":"sr-w32","jp":"止まれ","reading":"とまれ","romaji":"tomare","meaning":"停","note":"红三角","tag":["标志"]},
-{"id":"sr-w33","jp":"進入禁止","reading":"しんにゅうきんし","romaji":"shinnyuu kinshi","meaning":"禁止进入","note":"红圆白横杠","tag":["标志"]},
-{"id":"sr-w34","jp":"通行禁止","reading":"つうこうきんし","romaji":"tsuukou kinshi","meaning":"禁止通行","note":"红圆","tag":["标志"]},
-{"id":"sr-w35","jp":"通行止め","reading":"つうこうどめ","romaji":"tsuukou-dome","meaning":"禁止通行","note":"= 通行禁止","tag":["标志"]},
-{"id":"sr-w36","jp":"一方通行","reading":"いっぽうつうこう","romaji":"ippou tsuukou","meaning":"单行道","note":"蓝底白箭头","tag":["标志"]},
-{"id":"sr-w37","jp":"車両進入禁止","reading":"しゃりょうしんにゅうきんし","romaji":"sharyou shinnyuu kinshi","meaning":"禁止车辆进入","note":"行人专用","tag":["标志"]},
-{"id":"sr-w38","jp":"車両通行止め","reading":"しゃりょうつうこうどめ","romaji":"sharyou tsuukou-dome","meaning":"禁止车辆通行","note":"只允许行人","tag":["标志"]},
-{"id":"sr-w39","jp":"大型貨物自動車等通行止め","reading":"おおがたかもつじどうしゃとうつうこうどめ","romaji":"oogata kamotsu jidousha-tou tsuukou-dome","meaning":"禁止大型货车","note":"= 大型車通行止め","tag":["标志"]},
-{"id":"sr-w40","jp":"二輪の自動車以外の自動車通行止め","reading":"にりんのじどうしゃいがいのじどうしゃつうこうどめ","romaji":"nirinn no jidousha igai no jidousha tsuukou-dome","meaning":"只允许二轮车","note":"= 二輪車専用","tag":["标志"]},
-{"id":"sr-w41","jp":"自転車専用","reading":"じてんしゃせんよう","romaji":"jitensha senyou","meaning":"自行车专用","note":"= 自転車道","tag":["标志"]},
-{"id":"sr-w42","jp":"歩行者専用","reading":"ほこうしゃせんよう","romaji":"hokousha senyou","meaning":"行人专用","note":"= 歩行者天国","tag":["标志"]},
-{"id":"sr-w43","jp":"歩行者・自転車専用","reading":"ほこうしゃ・じてんしゃせんよう","romaji":"hokousha・jitensha senyou","meaning":"行人和自行车专用","note":"= 自転車歩行者道","tag":["标志"]},
-{"id":"sr-w44","jp":"最高速度","reading":"さいこうそくど","romaji":"saikou sokudo","meaning":"最高速度","note":"红圈数字","tag":["标志"]},
-{"id":"sr-w45","jp":"最低速度","reading":"さいていそくど","romaji":"saitei sokudo","meaning":"最低速度","note":"蓝圈数字","tag":["标志"]},
-{"id":"sr-w46","jp":"速度落せ","reading":"そくどおとせ","romaji":"sokudo otose","meaning":"减速","note":"= 徐行","tag":["标志"]},
-{"id":"sr-w47","jp":"駐車禁止","reading":"ちゅうしゃきんし","romaji":"chuusha kinshi","meaning":"禁止停车","note":"红圈","tag":["标志"]},
-{"id":"sr-w48","jp":"駐停車禁止","reading":"ちゅうていしゃきんし","romaji":"chuuteisha kinshi","meaning":"禁止停放和临时停车","note":"更严格","tag":["标志"]},
-{"id":"sr-w49","jp":"時間制限駐車区間","reading":"じかんせいげんちゅうしゃくかん","romaji":"jikan seigen chuusha kukan","meaning":"限时停车区","note":"= パーキング","tag":["标志"]},
-{"id":"sr-w50","jp":"右折禁止","reading":"うせつきんし","romaji":"usetsu kinshi","meaning":"禁止右转","note":"红圈","tag":["标志"]},
-{"id":"sr-w51","jp":"左折禁止","reading":"させつきんし","romaji":"sasetsu kinshi","meaning":"禁止左转","note":"红圈","tag":["标志"]},
-{"id":"sr-w52","jp":"転回禁止","reading":"てんかいきんし","romaji":"tenkai kinshi","meaning":"禁止掉头","note":"红圈 U","tag":["标志"]},
-{"id":"sr-w53","jp":"追い越し禁止","reading":"おいこしきんし","romaji":"oikoshi kinshi","meaning":"禁止超车","note":"= 追越禁止","tag":["标志"]},
-{"id":"sr-w54","jp":"追越禁止","reading":"おいこしきんし","romaji":"oikoshi kinshi","meaning":"禁止超车","note":"= 追い越し禁止","tag":["标志"]},
-{"id":"sr-w55","jp":"駐車可","reading":"ちゅうしゃか","romaji":"chuusha-ka","meaning":"可停车","note":"蓝底 P","tag":["标志"]},
-{"id":"sr-w56","jp":"優先道路","reading":"ゆうせんどうろ","romaji":"yuusen douro","meaning":"优先道路","note":"黄菱形","tag":["标志"]},
-{"id":"sr-w57","jp":"優先車線","reading":"ゆうせんしゃせん","romaji":"yuusen shasen","meaning":"优先车道","note":"= バス専用","tag":["标志"]},
-{"id":"sr-w58","jp":"専用車線","reading":"せんようしゃせん","romaji":"senyou shasen","meaning":"专用车道","note":"= バス","tag":["标志"]},
-{"id":"sr-w59","jp":"終わり","reading":"おわり","romaji":"owari","meaning":"结束","note":"= ここまで","tag":["标志"]},
-{"id":"sr-w60","jp":"ここまで","reading":"ここまで","romaji":"kokomade","meaning":"到此为止","note":"= 終わり","tag":["标志"]},
-{"id":"sr-w61","jp":"原付","reading":"げんつき","romaji":"gentsuki","meaning":"小排量摩托","note":"<=50cc","tag":["术语"]},
-{"id":"sr-w62","jp":"原動機付自転車","reading":"げんどうきつきじてんしゃ","romaji":"gendouki-tsuki jitensha","meaning":"原付自行车","note":"= 原付","tag":["术语"]},
-{"id":"sr-w63","jp":"普通自動車","reading":"ふつうじどうしゃ","romaji":"futsuu jidousha","meaning":"普通汽车","note":"= 普通车","tag":["术语"]},
-{"id":"sr-w64","jp":"大型自動車","reading":"おおがたじどうしゃ","romaji":"oogata jidousha","meaning":"大型汽车","note":">=11 吨","tag":["术语"]},
-{"id":"sr-w65","jp":"中型自動車","reading":"ちゅうがたじどうしゃ","romaji":"chuugata jidousha","meaning":"中型汽车","note":"7.5-11 吨","tag":["术语"]},
-{"id":"sr-w66","jp":"準中型自動車","reading":"じゅんちゅうがたじどうしゃ","romaji":"junchuugata jidousha","meaning":"准中型汽车","note":"4.5-7.5 吨","tag":["术语"]},
-{"id":"sr-w67","jp":"大型二輪","reading":"おおがたにりん","romaji":"oogata-nirin","meaning":"大型二轮","note":">=400cc","tag":["术语"]},
-{"id":"sr-w68","jp":"普通二輪","reading":"ふつうにりん","romaji":"futsuu-nirin","meaning":"普通二轮","note":"<=400cc","tag":["术语"]},
-{"id":"sr-w69","jp":"軽車両","reading":"けいしゃりょう","romaji":"keisharyou","meaning":"轻型车","note":"自行车等","tag":["术语"]},
-{"id":"sr-w70","jp":"第一種運転免許","reading":"だいいっしゅうんてんめんきょ","romaji":"daiisshu unten menkyo","meaning":"第一种驾照","note":"私家车","tag":["术语"]},
-{"id":"sr-w71","jp":"第二種運転免許","reading":"だいにしゅうんてんめんきょ","romaji":"dainishu unten menkyo","meaning":"第二种驾照","note":"营业用","tag":["术语"]},
-{"id":"sr-w72","jp":"仮運転免許","reading":"かりうんてんめんきょ","romaji":"kari unten menkyo","meaning":"仮驾照","note":"路上练车用","tag":["术语"]},
-{"id":"sr-w73","jp":"運転免許証","reading":"うんてんめんきょしょう","romaji":"unten menkyoshou","meaning":"驾照","note":"= 免許証","tag":["术语"]},
-{"id":"sr-w74","jp":"仮免許証","reading":"かりめんきょしょう","romaji":"karimenkyoshou","meaning":"仮驾照","note":"路上练车","tag":["术语"]},
-{"id":"sr-w75","jp":"初心運転者","reading":"しょしんうんてんしゃ","romaji":"shoshin untensha","meaning":"新手司机","note":"1 年内","tag":["术语"]},
-{"id":"sr-w76","jp":"初心者マーク","reading":"しょしんしゃマーク","romaji":"shoshinsha maaku","meaning":"新手标志","note":"🔰","tag":["标志"]},
-{"id":"sr-w77","jp":"聴覚障害者マーク","reading":"ちょうかくしょうがいしゃマーク","romaji":"choukaku shougaisha maaku","meaning":"听障标志","note":"黄底蜗牛","tag":["标志"]},
-{"id":"sr-w78","jp":"身体障害者標識","reading":"しんたいしょうがいしゃひょうしき","romaji":"shintai shougaisha hyoushiki","meaning":"肢体障碍标志","note":"轮椅","tag":["标志"]},
-{"id":"sr-w79","jp":"高齢運転者標識","reading":"こうれいうんてんしゃひょうしき","romaji":"kourei untensha hyoushiki","meaning":"高龄司机标志","note":"= 高齢者マーク","tag":["标志"]},
-{"id":"sr-w80","jp":"危険物積載車両","reading":"きけんぶつせきさいしゃりょう","romaji":"kikenbutsu sekisai sharyou","meaning":"危险品运输车","note":"= 危険物","tag":["术语"]},
-{"id":"sr-w81","jp":"防火区域","reading":"ぼうかくくいき","romaji":"bouka kuiki","meaning":"防火区域","note":"= 防火","tag":["术语"]},
-{"id":"sr-w82","jp":"自然保護区域","reading":"しぜんほごくいき","romaji":"shizen hogo kuiki","meaning":"自然保护","note":"= 保護","tag":["术语"]},
-{"id":"sr-w83","jp":"騒音規制区域","reading":"そうおんきせいくいき","romaji":"souon kisei kuiki","meaning":"噪音管制","note":"= 騒音","tag":["术语"]},
-{"id":"sr-w84","jp":"振動規制区域","reading":"しんどうきせいくいき","romaji":"shindou kisei kuiki","meaning":"振动管制","note":"= 振動","tag":["术语"]},
-{"id":"sr-w85","jp":"駐車場","reading":"ちゅうしゃじょう","romaji":"chuushajou","meaning":"停车场","note":"= P","tag":["标志"]},
-{"id":"sr-w86","jp":"パーキング","reading":"パーキング","romaji":"paakingu","meaning":"停车","note":"= 駐車場","tag":["标志"]},
-{"id":"sr-w87","jp":"サービスエリア","reading":"サービスエリア","romaji":"saabisu eria","meaning":"服务区","note":"= SA","tag":["标志"]},
-{"id":"sr-w88","jp":"パーキングエリア","reading":"パーキングエリア","romaji":"paakingu eria","meaning":"停车区","note":"= PA","tag":["标志"]},
-{"id":"sr-w89","jp":"料金所","reading":"りょうきんじょ","romaji":"ryoukinjo","meaning":"收费站","note":"= ゲート","tag":["标志"]},
-{"id":"sr-w90","jp":"ETC","reading":"イーティーシー","romaji":"ETC","meaning":"自动收费","note":"= Electronic Toll","tag":["标志"]},
-{"id":"sr-w91","jp":"ガソリンスタンド","reading":"ガソリンスタンド","romaji":"gasorin sutando","meaning":"加油站","note":"= 給油所","tag":["标志"]},
-{"id":"sr-w92","jp":"道の駅","reading":"みちのえき","romaji":"michi no eki","meaning":"公路休息站","note":"= roadside station","tag":["标志"]},
-{"id":"sr-w93","jp":"踏み切り","reading":"ふみきり","romaji":"fumikiri","meaning":"道口","note":"= 踏切","tag":["标志"]},
-{"id":"sr-w94","jp":"自動車専用道","reading":"じどうしゃせんようどう","romaji":"jidousha senyou-dou","meaning":"汽车专用道","note":"= 高速","tag":["术语"]},
-{"id":"sr-w95","jp":"中央線","reading":"ちゅうおうせん","romaji":"chuuou-sen","meaning":"中央线","note":"= 中央分離線","tag":["路面"]},
-{"id":"sr-w96","jp":"実線","reading":"じっせん","romaji":"jissen","meaning":"实线","note":"不能跨越","tag":["路面"]},
-{"id":"sr-w97","jp":"破線","reading":"はせん","romaji":"hasen","meaning":"虚线","note":"可跨越","tag":["路面"]},
-{"id":"sr-w98","jp":"二重線","reading":"にじゅうせん","romaji":"nijuu-sen","meaning":"双线","note":"内侧压线扣分","tag":["路面"]},
-{"id":"sr-w99","jp":"停止線","reading":"ていしせん","romaji":"teishisen","meaning":"停止线","note":"白实线","tag":["路面"]},
-{"id":"sr-w100","jp":"横断歩道","reading":"おうだんほどう","romaji":"oudan hodou","meaning":"人行横道","note":"白色条带","tag":["路面"]},
-{"id":"sr-w101","jp":"車線境界線","reading":"しゃせんきょうかいせん","romaji":"shasen kyoukai-sen","meaning":"车道线","note":"= 車線","tag":["路面"]},
-{"id":"sr-w102","jp":"指示線","reading":"しじせん","romaji":"shiji-sen","meaning":"指示线","note":"= 进行方向","tag":["路面"]},
-{"id":"sr-w103","jp":"中央線","reading":"ちゅうおうせん","romaji":"chuuou-sen","meaning":"中央线","note":"黄实线","tag":["路面"]},
-{"id":"sr-w104","jp":"路側帯","reading":"ろそくたい","romaji":"rosoku-tai","meaning":"路侧带","note":"= 步道","tag":["路面"]},
-{"id":"sr-w105","jp":"停止線","reading":"ていしせん","romaji":"teishisen","meaning":"停止线","note":"路口白实线","tag":["路面"]},
-{"id":"sr-w106","jp":"網状線","reading":"もうじょうせん","romaji":"moujou-sen","meaning":"网格线","note":"不可停车","tag":["路面"]},
-{"id":"sr-w107","jp":"安全地帯","reading":"あんぜんちたい","romaji":"anzen chitai","meaning":"安全岛","note":"斑马线中","tag":["路面"]},
-{"id":"sr-w108","jp":"導流帯","reading":"どうりゅうたい","romaji":"douryuu-tai","meaning":"导流带","note":"= ゼブラ","tag":["路面"]},
-{"id":"sr-w109","jp":"予告矢印","reading":"よこくやじるし","romaji":"yokoku yajirushi","meaning":"预告箭头","note":"= 进行方向","tag":["路面"]},
-{"id":"sr-w110","jp":"進行方向","reading":"しんこうほうこう","romaji":"shinkou houkou","meaning":"行进方向","note":"路口箭头","tag":["路面"]},
-{"id":"sr-w111","jp":"バス専用","reading":"バスせんよう","romaji":"basu senyou","meaning":"公交专用","note":"= 専用車線","tag":["路面"]},
-{"id":"sr-w112","jp":"優先車線","reading":"ゆうせんしゃせん","romaji":"yuusen shasen","meaning":"优先车道","note":"= レーン","tag":["路面"]},
-{"id":"sr-w113","jp":"左折可","reading":"させつか","romaji":"sasetsu-ka","meaning":"可左转","note":"= 左折矢印","tag":["路面"]},
-{"id":"sr-w114","jp":"右折可","reading":"うせつか","romaji":"usetsu-ka","meaning":"可右转","note":"= 右折矢印","tag":["路面"]},
-{"id":"sr-w115","jp":"直進可","reading":"ちょくしんか","romaji":"chokushin-ka","meaning":"可直行","note":"= 直進矢印","tag":["路面"]},
-{"id":"sr-w116","jp":"合流","reading":"ごうりゅう","romaji":"gouryuu","meaning":"汇入","note":"=  合流標識","tag":["路面"]},
-{"id":"sr-w117","jp":"優先","reading":"ゆうせん","romaji":"yuusen","meaning":"优先","note":"= 優先道路","tag":["路面"]},
-{"id":"sr-w118","jp":"徐行","reading":"じょこう","romaji":"jokou","meaning":"慢行","note":"= 路面塗装","tag":["路面"]},
-{"id":"sr-w119","jp":"止まれ","reading":"とまれ","romaji":"tomare","meaning":"停","note":"= 路面塗装","tag":["路面"]},
-{"id":"sr-w120","jp":"バス","reading":"バス","romaji":"basu","meaning":"公交","note":"= 公交","tag":["术语"]},
-{"id":"sr-w121","jp":"優先車線","reading":"ゆうせんしゃせん","romaji":"yuusen shasen","meaning":"优先车道","note":"= 路面塗装","tag":["路面"]},
-{"id":"sr-w122","jp":"車両通行区分","reading":"しゃりょうつうこうくぶん","romaji":"sharyou tsuukou kubun","meaning":"车道划分","note":"= 進行方向別","tag":["路面"]},
-{"id":"sr-w123","jp":"工事中","reading":"こうじちゅう","romaji":"kouji-chuu","meaning":"施工中","note":"= 工事現場","tag":["标志"]},
-{"id":"sr-w124","jp":"片側交互通行","reading":"かたがわこうごつうこう","romaji":"katagawa kougo tsuukou","meaning":"单侧交替通行","note":"= 交互通行","tag":["标志"]},
-{"id":"sr-w125","jp":"徐行","reading":"じょこう","romaji":"jokou","meaning":"慢行","note":"工事区必备","tag":["标志"]},
-{"id":"sr-w126","jp":"迂回","reading":"うかい","romaji":"ukai","meaning":"绕行","note":"= detour","tag":["标志"]},
-{"id":"sr-w127","jp":"指定方向外進行禁止","reading":"していほうこうがいしんこうきんし","romaji":"shitei houkougai shinkou kinshi","meaning":"指定方向外禁行","note":"= 矢印外","tag":["标志"]},
-{"id":"sr-w128","jp":"警笛鳴らせ","reading":"けいてきならせ","romaji":"keiteki narase","meaning":"鸣笛","note":"= 警笛区間","tag":["标志"]},
-{"id":"sr-w129","jp":"警笛禁止","reading":"けいてききんし","romaji":"keiteki kinshi","meaning":"禁止鸣笛","note":"= 鳴らせ禁止","tag":["标志"]},
-{"id":"sr-w130","jp":"横断歩道・自転車横断帯","reading":"おうだんほどう・じてんしゃおうだんたい","romaji":"oudan hodou・jitensha oudan-tai","meaning":"人行横道+自行车横穿","note":"= 路面標示","tag":["路面"]},
-{"id":"sr-w131","jp":"停止禁止部分","reading":"ていしきんしぶぶん","romaji":"teishi kinshi bubun","meaning":"禁停区","note":"= 路面","tag":["路面"]},
-{"id":"sr-w132","jp":"専用・優先","reading":"せんよう・ゆうせん","romaji":"senyou・yuusen","meaning":"专用/优先","note":"= 路面標示","tag":["路面"]},
-{"id":"sr-w133","jp":"進行方向別通行区分","reading":"しんこうほうこうべつつうこうくぶん","romaji":"shinkou houkoubetsu tsuukou kubun","meaning":"按方向分流","note":"= 路面","tag":["路面"]},
-{"id":"sr-w134","jp":"安全地帯","reading":"あんぜんちたい","romaji":"anzen chitai","meaning":"安全岛","note":"= 安全島","tag":["路面"]},
-{"id":"sr-w135","jp":"故障表示","reading":"こしょうひょうじ","romaji":"koshou hyouji","meaning":"故障显示","note":"= 表示","tag":["术语"]},
-{"id":"sr-w136","jp":"通行止め予告","reading":"つうこうどめよこく","romaji":"tsuukou-dome yokoku","meaning":"禁行预告","note":"= 予告","tag":["标志"]},
-{"id":"sr-w137","jp":"工事予告","reading":"こうじよこく","romaji":"kouji yokoku","meaning":"施工预告","note":"= 工事区","tag":["标志"]},
-{"id":"sr-w138","jp":"事故多発","reading":"じこたはつ","romaji":"jiko tahatsu","meaning":"事故多发","note":"= 多い","tag":["标志"]},
-{"id":"sr-w139","jp":"動物飛び出し注意","reading":"どうぶつとびだしちゅうい","romaji":"doubutsu tobidasu chuui","meaning":"动物冲出","note":"= 注意","tag":["标志"]},
-{"id":"sr-w140","jp":"高所作業","reading":"こうしょさぎょう","romaji":"kousho sagyou","meaning":"高空作业","note":"= 工事","tag":["标志"]},
-{"id":"sr-w141","jp":"チェーン装着","reading":"チェーンそうちゃく","romaji":"chēn souchaku","meaning":"装防滑链","note":"冬季山道","tag":["标志"]},
-{"id":"sr-w142","jp":"タイヤチェーン","reading":"タイヤチェーン","romaji":"taiya chēn","meaning":"轮胎防滑链","note":"= チェーン","tag":["术语"]},
-{"id":"sr-w143","jp":"凍結注意","reading":"とうけつちゅうい","romaji":"touketsu chuui","meaning":"结冰注意","note":"= 路面","tag":["标志"]},
-{"id":"sr-w144","jp":"吹雪注意","reading":"ふぶきちゅうい","romaji":"fubuki chuui","meaning":"暴风雪","note":"= 視界不良","tag":["标志"]},
-{"id":"sr-w145","jp":"濃霧注意","reading":"のうむちゅうい","romaji":"noumu chuui","meaning":"浓雾","note":"= 視界不良","tag":["标志"]},
-{"id":"sr-w146","jp":"大雨注意","reading":"おおあめちゅうい","romaji":"ooame chuui","meaning":"大雨","note":"= 注意報","tag":["标志"]},
-{"id":"sr-w147","jp":"雷注意","reading":"かみなりちゅうい","romaji":"kaminari chuui","meaning":"雷电","note":"= 雷","tag":["标志"]},
-{"id":"sr-w148","jp":"高潮注意","reading":"たかしおちゅうい","romaji":"takashio chuui","meaning":"大潮","note":"= 海岸","tag":["标志"]},
-{"id":"sr-w149","jp":"波浪注意","reading":"はろうちゅうい","romaji":"harou chuui","meaning":"海浪","note":"= 海岸","tag":["标志"]},
-{"id":"sr-w150","jp":"暴風注意","reading":"ぼうふうちゅうい","romaji":"boufuu chuui","meaning":"暴风","note":"= 注意報","tag":["标志"]}
+  {
+    "id": "sr-w01",
+    "jp": "道路標識",
+    "reading": "どうろひょうしき",
+    "romaji": "douro hyoushiki",
+    "meaning": "道路标志",
+    "note": "4 大类之一",
+    "tag": [
+      "分类"
+    ]
+  },
+  {
+    "id": "sr-w02",
+    "jp": "規制標識",
+    "reading": "きせいひょうしき",
+    "romaji": "kisei hyoushiki",
+    "meaning": "規制标志",
+    "note": "红/蓝圆形",
+    "tag": [
+      "分类"
+    ]
+  },
+  {
+    "id": "sr-w03",
+    "jp": "警戒標識",
+    "reading": "けいかいひょうしき",
+    "romaji": "keikai hyoushiki",
+    "meaning": "警戒标志",
+    "note": "黄底三角",
+    "tag": [
+      "分类"
+    ]
+  },
+  {
+    "id": "sr-w04",
+    "jp": "指示標識",
+    "reading": "しじひょうしき",
+    "romaji": "shiji hyoushiki",
+    "meaning": "指示标志",
+    "note": "蓝底圆形",
+    "tag": [
+      "分类"
+    ]
+  },
+  {
+    "id": "sr-w05",
+    "jp": "案内標識",
+    "reading": "あんないひょうしき",
+    "romaji": "annai hyoushiki",
+    "meaning": "指示/路标",
+    "note": "蓝底长方形",
+    "tag": [
+      "分类"
+    ]
+  },
+  {
+    "id": "sr-w06",
+    "jp": "路面標示",
+    "reading": "ろめんひょうじ",
+    "romaji": "romen hyouji",
+    "meaning": "路面标记",
+    "note": "= 道路標示",
+    "tag": [
+      "分类"
+    ]
+  },
+  {
+    "id": "sr-w07",
+    "jp": "本標識",
+    "reading": "ほんひょうしき",
+    "romaji": "hon-hyoushiki",
+    "meaning": "主标志",
+    "note": "正式设置",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w08",
+    "jp": "補助標識",
+    "reading": "ほじょひょうしき",
+    "romaji": "hojo hyoushiki",
+    "meaning": "辅助标志",
+    "note": "补充说明",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w09",
+    "jp": "踏み切り",
+    "reading": "ふみきり",
+    "romaji": "fumikiri",
+    "meaning": "道口",
+    "note": "= 踏切",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w10",
+    "jp": "踏切注意",
+    "reading": "ふみきりちゅうい",
+    "romaji": "fumikiri chuui",
+    "meaning": "道口注意",
+    "note": "黄底三角",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w11",
+    "jp": "信号機あり",
+    "reading": "しんごうきあり",
+    "romaji": "shingouki-ari",
+    "meaning": "前方有信号灯",
+    "note": "= 信号機あり",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w12",
+    "jp": "交差点あり",
+    "reading": "こうさてんあり",
+    "romaji": "kousaten-ari",
+    "meaning": "前方有路口",
+    "note": "黄底",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w13",
+    "jp": "カーブあり",
+    "reading": "カーブあり",
+    "romaji": "kaabu-ari",
+    "meaning": "前方有弯道",
+    "note": "黄底",
+    "tag": [
+      "标志"
+    ],
+    "en": "curve ahead"
+  },
+  {
+    "id": "sr-w14",
+    "jp": "上り勾配",
+    "reading": "のぼりこうばい",
+    "romaji": "nobori koubai",
+    "meaning": "上坡",
+    "note": "= 上り坂",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w15",
+    "jp": "下り勾配",
+    "reading": "くだりこうばい",
+    "romaji": "kudari koubai",
+    "meaning": "下坡",
+    "note": "= 下り坂",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w16",
+    "jp": "つづら折り",
+    "reading": "つづらおり",
+    "romaji": "tsuzuraori",
+    "meaning": "连续弯",
+    "note": "Z 字弯",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w17",
+    "jp": "学校・幼稚園・保育所あり",
+    "reading": "がっこう・ようちえん・ほいくじょあり",
+    "romaji": "gakkou・youchien・hoikujou-ari",
+    "meaning": "前方学校/幼儿园",
+    "note": "黄底",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w18",
+    "jp": "信号機あり",
+    "reading": "しんごうきあり",
+    "romaji": "shingouki-ari",
+    "meaning": "前方信号灯",
+    "note": "黄底",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w19",
+    "jp": "踏切あり",
+    "reading": "ふみきりあり",
+    "romaji": "fumikiri-ari",
+    "meaning": "前方道口",
+    "note": "= 踏切",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w20",
+    "jp": "動物注意",
+    "reading": "どうぶつちゅうい",
+    "romaji": "doubutsu chuui",
+    "meaning": "动物出没",
+    "note": "鹿/猿",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w21",
+    "jp": "橫断歩道",
+    "reading": "おうだんほどう",
+    "romaji": "oudan hodou",
+    "meaning": "人行横道",
+    "note": "菱形预告",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w22",
+    "jp": "自転車横断帯",
+    "reading": "じてんしゃおうだんたい",
+    "romaji": "jitensha oudan-tai",
+    "meaning": "自行车横穿",
+    "note": "= 自転車横断",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w23",
+    "jp": "合流注意",
+    "reading": "ごうりゅうちゅうい",
+    "romaji": "gouryuu chuui",
+    "meaning": "合流注意",
+    "note": "前方汇入",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w24",
+    "jp": "車線数減少",
+    "reading": "しゃせんすうげんしょう",
+    "romaji": "shasen-suun genshou",
+    "meaning": "车道数减少",
+    "note": "前方车道变少",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w25",
+    "jp": "道路工事中",
+    "reading": "どうろこうじちゅう",
+    "romaji": "douro kouji-chuu",
+    "meaning": "道路施工",
+    "note": "= 工事中",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w26",
+    "jp": "横風注意",
+    "reading": "よこかぜちゅうい",
+    "romaji": "yokokaze chuui",
+    "meaning": "横风",
+    "note": "桥上/隧道",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w27",
+    "jp": "落石注意",
+    "reading": "らくせきちゅうい",
+    "romaji": "rakuseki chuui",
+    "meaning": "落石",
+    "note": "山区",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w28",
+    "jp": "路面凍結",
+    "reading": "ろめんとうけつ",
+    "romaji": "romen touketsu",
+    "meaning": "路面结冰",
+    "note": "冬季",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w29",
+    "jp": "大雨・洪水",
+    "reading": "おおあめ・こうずい",
+    "romaji": "ooame・kouzui",
+    "meaning": "暴雨/洪水",
+    "note": "= 大雨",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w30",
+    "jp": "津波注意",
+    "reading": "つなみちゅうい",
+    "romaji": "tsunami chuui",
+    "meaning": "海啸",
+    "note": "海岸",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w31",
+    "jp": "徐行",
+    "reading": "じょこう",
+    "romaji": "jokou",
+    "meaning": "慢行",
+    "note": "= 减速",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w32",
+    "jp": "止まれ",
+    "reading": "とまれ",
+    "romaji": "tomare",
+    "meaning": "停",
+    "note": "红三角",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w33",
+    "jp": "進入禁止",
+    "reading": "しんにゅうきんし",
+    "romaji": "shinnyuu kinshi",
+    "meaning": "禁止进入",
+    "note": "红圆白横杠",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w34",
+    "jp": "通行禁止",
+    "reading": "つうこうきんし",
+    "romaji": "tsuukou kinshi",
+    "meaning": "禁止通行",
+    "note": "红圆",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w35",
+    "jp": "通行止め",
+    "reading": "つうこうどめ",
+    "romaji": "tsuukou-dome",
+    "meaning": "禁止通行",
+    "note": "= 通行禁止",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w36",
+    "jp": "一方通行",
+    "reading": "いっぽうつうこう",
+    "romaji": "ippou tsuukou",
+    "meaning": "单行道",
+    "note": "蓝底白箭头",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w37",
+    "jp": "車両進入禁止",
+    "reading": "しゃりょうしんにゅうきんし",
+    "romaji": "sharyou shinnyuu kinshi",
+    "meaning": "禁止车辆进入",
+    "note": "行人专用",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w38",
+    "jp": "車両通行止め",
+    "reading": "しゃりょうつうこうどめ",
+    "romaji": "sharyou tsuukou-dome",
+    "meaning": "禁止车辆通行",
+    "note": "只允许行人",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w39",
+    "jp": "大型貨物自動車等通行止め",
+    "reading": "おおがたかもつじどうしゃとうつうこうどめ",
+    "romaji": "oogata kamotsu jidousha-tou tsuukou-dome",
+    "meaning": "禁止大型货车",
+    "note": "= 大型車通行止め",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w40",
+    "jp": "二輪の自動車以外の自動車通行止め",
+    "reading": "にりんのじどうしゃいがいのじどうしゃつうこうどめ",
+    "romaji": "nirinn no jidousha igai no jidousha tsuukou-dome",
+    "meaning": "只允许二轮车",
+    "note": "= 二輪車専用",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w41",
+    "jp": "自転車専用",
+    "reading": "じてんしゃせんよう",
+    "romaji": "jitensha senyou",
+    "meaning": "自行车专用",
+    "note": "= 自転車道",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w42",
+    "jp": "歩行者専用",
+    "reading": "ほこうしゃせんよう",
+    "romaji": "hokousha senyou",
+    "meaning": "行人专用",
+    "note": "= 歩行者天国",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w43",
+    "jp": "歩行者・自転車専用",
+    "reading": "ほこうしゃ・じてんしゃせんよう",
+    "romaji": "hokousha・jitensha senyou",
+    "meaning": "行人和自行车专用",
+    "note": "= 自転車歩行者道",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w44",
+    "jp": "最高速度",
+    "reading": "さいこうそくど",
+    "romaji": "saikou sokudo",
+    "meaning": "最高速度",
+    "note": "红圈数字",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w45",
+    "jp": "最低速度",
+    "reading": "さいていそくど",
+    "romaji": "saitei sokudo",
+    "meaning": "最低速度",
+    "note": "蓝圈数字",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w46",
+    "jp": "速度落せ",
+    "reading": "そくどおとせ",
+    "romaji": "sokudo otose",
+    "meaning": "减速",
+    "note": "= 徐行",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w47",
+    "jp": "駐車禁止",
+    "reading": "ちゅうしゃきんし",
+    "romaji": "chuusha kinshi",
+    "meaning": "禁止停车",
+    "note": "红圈",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w48",
+    "jp": "駐停車禁止",
+    "reading": "ちゅうていしゃきんし",
+    "romaji": "chuuteisha kinshi",
+    "meaning": "禁止停放和临时停车",
+    "note": "更严格",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w49",
+    "jp": "時間制限駐車区間",
+    "reading": "じかんせいげんちゅうしゃくかん",
+    "romaji": "jikan seigen chuusha kukan",
+    "meaning": "限时停车区",
+    "note": "= パーキング",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w50",
+    "jp": "右折禁止",
+    "reading": "うせつきんし",
+    "romaji": "usetsu kinshi",
+    "meaning": "禁止右转",
+    "note": "红圈",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w51",
+    "jp": "左折禁止",
+    "reading": "させつきんし",
+    "romaji": "sasetsu kinshi",
+    "meaning": "禁止左转",
+    "note": "红圈",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w52",
+    "jp": "転回禁止",
+    "reading": "てんかいきんし",
+    "romaji": "tenkai kinshi",
+    "meaning": "禁止掉头",
+    "note": "红圈 U",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w53",
+    "jp": "追い越し禁止",
+    "reading": "おいこしきんし",
+    "romaji": "oikoshi kinshi",
+    "meaning": "禁止超车",
+    "note": "= 追越禁止",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w54",
+    "jp": "追越禁止",
+    "reading": "おいこしきんし",
+    "romaji": "oikoshi kinshi",
+    "meaning": "禁止超车",
+    "note": "= 追い越し禁止",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w55",
+    "jp": "駐車可",
+    "reading": "ちゅうしゃか",
+    "romaji": "chuusha-ka",
+    "meaning": "可停车",
+    "note": "蓝底 P",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w56",
+    "jp": "優先道路",
+    "reading": "ゆうせんどうろ",
+    "romaji": "yuusen douro",
+    "meaning": "优先道路",
+    "note": "黄菱形",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w57",
+    "jp": "優先車線",
+    "reading": "ゆうせんしゃせん",
+    "romaji": "yuusen shasen",
+    "meaning": "优先车道",
+    "note": "= バス専用",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w58",
+    "jp": "専用車線",
+    "reading": "せんようしゃせん",
+    "romaji": "senyou shasen",
+    "meaning": "专用车道",
+    "note": "= バス",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w59",
+    "jp": "終わり",
+    "reading": "おわり",
+    "romaji": "owari",
+    "meaning": "结束",
+    "note": "= ここまで",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w60",
+    "jp": "ここまで",
+    "reading": "ここまで",
+    "romaji": "kokomade",
+    "meaning": "到此为止",
+    "note": "= 終わり",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w61",
+    "jp": "原付",
+    "reading": "げんつき",
+    "romaji": "gentsuki",
+    "meaning": "小排量摩托",
+    "note": "<=50cc",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w62",
+    "jp": "原動機付自転車",
+    "reading": "げんどうきつきじてんしゃ",
+    "romaji": "gendouki-tsuki jitensha",
+    "meaning": "原付自行车",
+    "note": "= 原付",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w63",
+    "jp": "普通自動車",
+    "reading": "ふつうじどうしゃ",
+    "romaji": "futsuu jidousha",
+    "meaning": "普通汽车",
+    "note": "= 普通车",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w64",
+    "jp": "大型自動車",
+    "reading": "おおがたじどうしゃ",
+    "romaji": "oogata jidousha",
+    "meaning": "大型汽车",
+    "note": ">=11 吨",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w65",
+    "jp": "中型自動車",
+    "reading": "ちゅうがたじどうしゃ",
+    "romaji": "chuugata jidousha",
+    "meaning": "中型汽车",
+    "note": "7.5-11 吨",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w66",
+    "jp": "準中型自動車",
+    "reading": "じゅんちゅうがたじどうしゃ",
+    "romaji": "junchuugata jidousha",
+    "meaning": "准中型汽车",
+    "note": "4.5-7.5 吨",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w67",
+    "jp": "大型二輪",
+    "reading": "おおがたにりん",
+    "romaji": "oogata-nirin",
+    "meaning": "大型二轮",
+    "note": ">=400cc",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w68",
+    "jp": "普通二輪",
+    "reading": "ふつうにりん",
+    "romaji": "futsuu-nirin",
+    "meaning": "普通二轮",
+    "note": "<=400cc",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w69",
+    "jp": "軽車両",
+    "reading": "けいしゃりょう",
+    "romaji": "keisharyou",
+    "meaning": "轻型车",
+    "note": "自行车等",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w70",
+    "jp": "第一種運転免許",
+    "reading": "だいいっしゅうんてんめんきょ",
+    "romaji": "daiisshu unten menkyo",
+    "meaning": "第一种驾照",
+    "note": "私家车",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w71",
+    "jp": "第二種運転免許",
+    "reading": "だいにしゅうんてんめんきょ",
+    "romaji": "dainishu unten menkyo",
+    "meaning": "第二种驾照",
+    "note": "营业用",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w72",
+    "jp": "仮運転免許",
+    "reading": "かりうんてんめんきょ",
+    "romaji": "kari unten menkyo",
+    "meaning": "仮驾照",
+    "note": "路上练车用",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w73",
+    "jp": "運転免許証",
+    "reading": "うんてんめんきょしょう",
+    "romaji": "unten menkyoshou",
+    "meaning": "驾照",
+    "note": "= 免許証",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w74",
+    "jp": "仮免許証",
+    "reading": "かりめんきょしょう",
+    "romaji": "karimenkyoshou",
+    "meaning": "仮驾照",
+    "note": "路上练车",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w75",
+    "jp": "初心運転者",
+    "reading": "しょしんうんてんしゃ",
+    "romaji": "shoshin untensha",
+    "meaning": "新手司机",
+    "note": "1 年内",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w76",
+    "jp": "初心者マーク",
+    "reading": "しょしんしゃマーク",
+    "romaji": "shoshinsha maaku",
+    "meaning": "新手标志",
+    "note": "🔰",
+    "tag": [
+      "标志"
+    ],
+    "en": "beginner mark"
+  },
+  {
+    "id": "sr-w77",
+    "jp": "聴覚障害者マーク",
+    "reading": "ちょうかくしょうがいしゃマーク",
+    "romaji": "choukaku shougaisha maaku",
+    "meaning": "听障标志",
+    "note": "黄底蜗牛",
+    "tag": [
+      "标志"
+    ],
+    "en": "hearing-impaired mark"
+  },
+  {
+    "id": "sr-w78",
+    "jp": "身体障害者標識",
+    "reading": "しんたいしょうがいしゃひょうしき",
+    "romaji": "shintai shougaisha hyoushiki",
+    "meaning": "肢体障碍标志",
+    "note": "轮椅",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w79",
+    "jp": "高齢運転者標識",
+    "reading": "こうれいうんてんしゃひょうしき",
+    "romaji": "kourei untensha hyoushiki",
+    "meaning": "高龄司机标志",
+    "note": "= 高齢者マーク",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w80",
+    "jp": "危険物積載車両",
+    "reading": "きけんぶつせきさいしゃりょう",
+    "romaji": "kikenbutsu sekisai sharyou",
+    "meaning": "危险品运输车",
+    "note": "= 危険物",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w81",
+    "jp": "防火区域",
+    "reading": "ぼうかくくいき",
+    "romaji": "bouka kuiki",
+    "meaning": "防火区域",
+    "note": "= 防火",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w82",
+    "jp": "自然保護区域",
+    "reading": "しぜんほごくいき",
+    "romaji": "shizen hogo kuiki",
+    "meaning": "自然保护",
+    "note": "= 保護",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w83",
+    "jp": "騒音規制区域",
+    "reading": "そうおんきせいくいき",
+    "romaji": "souon kisei kuiki",
+    "meaning": "噪音管制",
+    "note": "= 騒音",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w84",
+    "jp": "振動規制区域",
+    "reading": "しんどうきせいくいき",
+    "romaji": "shindou kisei kuiki",
+    "meaning": "振动管制",
+    "note": "= 振動",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w85",
+    "jp": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "romaji": "chuushajou",
+    "meaning": "停车场",
+    "note": "= P",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w86",
+    "jp": "パーキング",
+    "reading": "パーキング",
+    "romaji": "paakingu",
+    "meaning": "停车",
+    "note": "= 駐車場",
+    "tag": [
+      "标志"
+    ],
+    "en": "parking"
+  },
+  {
+    "id": "sr-w87",
+    "jp": "サービスエリア",
+    "reading": "サービスエリア",
+    "romaji": "saabisu eria",
+    "meaning": "服务区",
+    "note": "= SA",
+    "tag": [
+      "标志"
+    ],
+    "en": "service area"
+  },
+  {
+    "id": "sr-w88",
+    "jp": "パーキングエリア",
+    "reading": "パーキングエリア",
+    "romaji": "paakingu eria",
+    "meaning": "停车区",
+    "note": "= PA",
+    "tag": [
+      "标志"
+    ],
+    "en": "parking area"
+  },
+  {
+    "id": "sr-w89",
+    "jp": "料金所",
+    "reading": "りょうきんじょ",
+    "romaji": "ryoukinjo",
+    "meaning": "收费站",
+    "note": "= ゲート",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w90",
+    "jp": "ETC",
+    "reading": "イーティーシー",
+    "romaji": "ETC",
+    "meaning": "自动收费",
+    "note": "= Electronic Toll",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w91",
+    "jp": "ガソリンスタンド",
+    "reading": "ガソリンスタンド",
+    "romaji": "gasorin sutando",
+    "meaning": "加油站",
+    "note": "= 給油所",
+    "tag": [
+      "标志"
+    ],
+    "en": "gas station"
+  },
+  {
+    "id": "sr-w92",
+    "jp": "道の駅",
+    "reading": "みちのえき",
+    "romaji": "michi no eki",
+    "meaning": "公路休息站",
+    "note": "= roadside station",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w93",
+    "jp": "踏み切り",
+    "reading": "ふみきり",
+    "romaji": "fumikiri",
+    "meaning": "道口",
+    "note": "= 踏切",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w94",
+    "jp": "自動車専用道",
+    "reading": "じどうしゃせんようどう",
+    "romaji": "jidousha senyou-dou",
+    "meaning": "汽车专用道",
+    "note": "= 高速",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w95",
+    "jp": "中央線",
+    "reading": "ちゅうおうせん",
+    "romaji": "chuuou-sen",
+    "meaning": "中央线",
+    "note": "= 中央分離線",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w96",
+    "jp": "実線",
+    "reading": "じっせん",
+    "romaji": "jissen",
+    "meaning": "实线",
+    "note": "不能跨越",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w97",
+    "jp": "破線",
+    "reading": "はせん",
+    "romaji": "hasen",
+    "meaning": "虚线",
+    "note": "可跨越",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w98",
+    "jp": "二重線",
+    "reading": "にじゅうせん",
+    "romaji": "nijuu-sen",
+    "meaning": "双线",
+    "note": "内侧压线扣分",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w99",
+    "jp": "停止線",
+    "reading": "ていしせん",
+    "romaji": "teishisen",
+    "meaning": "停止线",
+    "note": "白实线",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w100",
+    "jp": "横断歩道",
+    "reading": "おうだんほどう",
+    "romaji": "oudan hodou",
+    "meaning": "人行横道",
+    "note": "白色条带",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w101",
+    "jp": "車線境界線",
+    "reading": "しゃせんきょうかいせん",
+    "romaji": "shasen kyoukai-sen",
+    "meaning": "车道线",
+    "note": "= 車線",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w102",
+    "jp": "指示線",
+    "reading": "しじせん",
+    "romaji": "shiji-sen",
+    "meaning": "指示线",
+    "note": "= 进行方向",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w103",
+    "jp": "中央線",
+    "reading": "ちゅうおうせん",
+    "romaji": "chuuou-sen",
+    "meaning": "中央线",
+    "note": "黄实线",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w104",
+    "jp": "路側帯",
+    "reading": "ろそくたい",
+    "romaji": "rosoku-tai",
+    "meaning": "路侧带",
+    "note": "= 步道",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w105",
+    "jp": "停止線",
+    "reading": "ていしせん",
+    "romaji": "teishisen",
+    "meaning": "停止线",
+    "note": "路口白实线",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w106",
+    "jp": "網状線",
+    "reading": "もうじょうせん",
+    "romaji": "moujou-sen",
+    "meaning": "网格线",
+    "note": "不可停车",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w107",
+    "jp": "安全地帯",
+    "reading": "あんぜんちたい",
+    "romaji": "anzen chitai",
+    "meaning": "安全岛",
+    "note": "斑马线中",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w108",
+    "jp": "導流帯",
+    "reading": "どうりゅうたい",
+    "romaji": "douryuu-tai",
+    "meaning": "导流带",
+    "note": "= ゼブラ",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w109",
+    "jp": "予告矢印",
+    "reading": "よこくやじるし",
+    "romaji": "yokoku yajirushi",
+    "meaning": "预告箭头",
+    "note": "= 进行方向",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w110",
+    "jp": "進行方向",
+    "reading": "しんこうほうこう",
+    "romaji": "shinkou houkou",
+    "meaning": "行进方向",
+    "note": "路口箭头",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w111",
+    "jp": "バス専用",
+    "reading": "バスせんよう",
+    "romaji": "basu senyou",
+    "meaning": "公交专用",
+    "note": "= 専用車線",
+    "tag": [
+      "路面"
+    ],
+    "en": "bus only"
+  },
+  {
+    "id": "sr-w112",
+    "jp": "優先車線",
+    "reading": "ゆうせんしゃせん",
+    "romaji": "yuusen shasen",
+    "meaning": "优先车道",
+    "note": "= レーン",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w113",
+    "jp": "左折可",
+    "reading": "させつか",
+    "romaji": "sasetsu-ka",
+    "meaning": "可左转",
+    "note": "= 左折矢印",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w114",
+    "jp": "右折可",
+    "reading": "うせつか",
+    "romaji": "usetsu-ka",
+    "meaning": "可右转",
+    "note": "= 右折矢印",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w115",
+    "jp": "直進可",
+    "reading": "ちょくしんか",
+    "romaji": "chokushin-ka",
+    "meaning": "可直行",
+    "note": "= 直進矢印",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w116",
+    "jp": "合流",
+    "reading": "ごうりゅう",
+    "romaji": "gouryuu",
+    "meaning": "汇入",
+    "note": "=  合流標識",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w117",
+    "jp": "優先",
+    "reading": "ゆうせん",
+    "romaji": "yuusen",
+    "meaning": "优先",
+    "note": "= 優先道路",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w118",
+    "jp": "徐行",
+    "reading": "じょこう",
+    "romaji": "jokou",
+    "meaning": "慢行",
+    "note": "= 路面塗装",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w119",
+    "jp": "止まれ",
+    "reading": "とまれ",
+    "romaji": "tomare",
+    "meaning": "停",
+    "note": "= 路面塗装",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w120",
+    "jp": "バス",
+    "reading": "バス",
+    "romaji": "basu",
+    "meaning": "公交",
+    "note": "= 公交",
+    "tag": [
+      "术语"
+    ],
+    "en": "bus"
+  },
+  {
+    "id": "sr-w121",
+    "jp": "優先車線",
+    "reading": "ゆうせんしゃせん",
+    "romaji": "yuusen shasen",
+    "meaning": "优先车道",
+    "note": "= 路面塗装",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w122",
+    "jp": "車両通行区分",
+    "reading": "しゃりょうつうこうくぶん",
+    "romaji": "sharyou tsuukou kubun",
+    "meaning": "车道划分",
+    "note": "= 進行方向別",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w123",
+    "jp": "工事中",
+    "reading": "こうじちゅう",
+    "romaji": "kouji-chuu",
+    "meaning": "施工中",
+    "note": "= 工事現場",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w124",
+    "jp": "片側交互通行",
+    "reading": "かたがわこうごつうこう",
+    "romaji": "katagawa kougo tsuukou",
+    "meaning": "单侧交替通行",
+    "note": "= 交互通行",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w125",
+    "jp": "徐行",
+    "reading": "じょこう",
+    "romaji": "jokou",
+    "meaning": "慢行",
+    "note": "工事区必备",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w126",
+    "jp": "迂回",
+    "reading": "うかい",
+    "romaji": "ukai",
+    "meaning": "绕行",
+    "note": "= detour",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w127",
+    "jp": "指定方向外進行禁止",
+    "reading": "していほうこうがいしんこうきんし",
+    "romaji": "shitei houkougai shinkou kinshi",
+    "meaning": "指定方向外禁行",
+    "note": "= 矢印外",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w128",
+    "jp": "警笛鳴らせ",
+    "reading": "けいてきならせ",
+    "romaji": "keiteki narase",
+    "meaning": "鸣笛",
+    "note": "= 警笛区間",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w129",
+    "jp": "警笛禁止",
+    "reading": "けいてききんし",
+    "romaji": "keiteki kinshi",
+    "meaning": "禁止鸣笛",
+    "note": "= 鳴らせ禁止",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w130",
+    "jp": "横断歩道・自転車横断帯",
+    "reading": "おうだんほどう・じてんしゃおうだんたい",
+    "romaji": "oudan hodou・jitensha oudan-tai",
+    "meaning": "人行横道+自行车横穿",
+    "note": "= 路面標示",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w131",
+    "jp": "停止禁止部分",
+    "reading": "ていしきんしぶぶん",
+    "romaji": "teishi kinshi bubun",
+    "meaning": "禁停区",
+    "note": "= 路面",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w132",
+    "jp": "専用・優先",
+    "reading": "せんよう・ゆうせん",
+    "romaji": "senyou・yuusen",
+    "meaning": "专用/优先",
+    "note": "= 路面標示",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w133",
+    "jp": "進行方向別通行区分",
+    "reading": "しんこうほうこうべつつうこうくぶん",
+    "romaji": "shinkou houkoubetsu tsuukou kubun",
+    "meaning": "按方向分流",
+    "note": "= 路面",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w134",
+    "jp": "安全地帯",
+    "reading": "あんぜんちたい",
+    "romaji": "anzen chitai",
+    "meaning": "安全岛",
+    "note": "= 安全島",
+    "tag": [
+      "路面"
+    ]
+  },
+  {
+    "id": "sr-w135",
+    "jp": "故障表示",
+    "reading": "こしょうひょうじ",
+    "romaji": "koshou hyouji",
+    "meaning": "故障显示",
+    "note": "= 表示",
+    "tag": [
+      "术语"
+    ]
+  },
+  {
+    "id": "sr-w136",
+    "jp": "通行止め予告",
+    "reading": "つうこうどめよこく",
+    "romaji": "tsuukou-dome yokoku",
+    "meaning": "禁行预告",
+    "note": "= 予告",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w137",
+    "jp": "工事予告",
+    "reading": "こうじよこく",
+    "romaji": "kouji yokoku",
+    "meaning": "施工预告",
+    "note": "= 工事区",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w138",
+    "jp": "事故多発",
+    "reading": "じこたはつ",
+    "romaji": "jiko tahatsu",
+    "meaning": "事故多发",
+    "note": "= 多い",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w139",
+    "jp": "動物飛び出し注意",
+    "reading": "どうぶつとびだしちゅうい",
+    "romaji": "doubutsu tobidasu chuui",
+    "meaning": "动物冲出",
+    "note": "= 注意",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w140",
+    "jp": "高所作業",
+    "reading": "こうしょさぎょう",
+    "romaji": "kousho sagyou",
+    "meaning": "高空作业",
+    "note": "= 工事",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w141",
+    "jp": "チェーン装着",
+    "reading": "チェーンそうちゃく",
+    "romaji": "chēn souchaku",
+    "meaning": "装防滑链",
+    "note": "冬季山道",
+    "tag": [
+      "标志"
+    ],
+    "en": "chain fitting"
+  },
+  {
+    "id": "sr-w142",
+    "jp": "タイヤチェーン",
+    "reading": "タイヤチェーン",
+    "romaji": "taiya chēn",
+    "meaning": "轮胎防滑链",
+    "note": "= チェーン",
+    "tag": [
+      "术语"
+    ],
+    "en": "tire chain"
+  },
+  {
+    "id": "sr-w143",
+    "jp": "凍結注意",
+    "reading": "とうけつちゅうい",
+    "romaji": "touketsu chuui",
+    "meaning": "结冰注意",
+    "note": "= 路面",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w144",
+    "jp": "吹雪注意",
+    "reading": "ふぶきちゅうい",
+    "romaji": "fubuki chuui",
+    "meaning": "暴风雪",
+    "note": "= 視界不良",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w145",
+    "jp": "濃霧注意",
+    "reading": "のうむちゅうい",
+    "romaji": "noumu chuui",
+    "meaning": "浓雾",
+    "note": "= 視界不良",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w146",
+    "jp": "大雨注意",
+    "reading": "おおあめちゅうい",
+    "romaji": "ooame chuui",
+    "meaning": "大雨",
+    "note": "= 注意報",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w147",
+    "jp": "雷注意",
+    "reading": "かみなりちゅうい",
+    "romaji": "kaminari chuui",
+    "meaning": "雷电",
+    "note": "= 雷",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w148",
+    "jp": "高潮注意",
+    "reading": "たかしおちゅうい",
+    "romaji": "takashio chuui",
+    "meaning": "大潮",
+    "note": "= 海岸",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w149",
+    "jp": "波浪注意",
+    "reading": "はろうちゅうい",
+    "romaji": "harou chuui",
+    "meaning": "海浪",
+    "note": "= 海岸",
+    "tag": [
+      "标志"
+    ]
+  },
+  {
+    "id": "sr-w150",
+    "jp": "暴風注意",
+    "reading": "ぼうふうちゅうい",
+    "romaji": "boufuu chuui",
+    "meaning": "暴风",
+    "note": "= 注意報",
+    "tag": [
+      "标志"
+    ]
+  }
 ]

@@ -74,7 +74,8 @@
     "meaning": "方向盘",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "handle"
   },
   {
     "id": "w-brake",
@@ -83,7 +84,8 @@
     "meaning": "刹车",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "brake"
   },
   {
     "id": "w-accel",
@@ -92,7 +94,8 @@
     "meaning": "油门",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "accelerator"
   },
   {
     "id": "w-clutch",
@@ -101,7 +104,8 @@
     "meaning": "离合器(仅MT)",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "clutch"
   },
   {
     "id": "w-gear",
@@ -110,7 +114,8 @@
     "meaning": "档位",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "gear"
   },
   {
     "id": "w-shift",
@@ -119,7 +124,8 @@
     "meaning": "换挡",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "shift"
   },
   {
     "id": "w-pbrake",
@@ -128,7 +134,8 @@
     "meaning": "手刹 / 驻车制动",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "side brake"
   },
   {
     "id": "w-mirror",
@@ -137,7 +144,8 @@
     "meaning": "后视镜",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "mirror"
   },
   {
     "id": "w-room-mirror",
@@ -146,7 +154,8 @@
     "meaning": "车内后视镜",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "room mirror"
   },
   {
     "id": "w-door-mirror",
@@ -155,7 +164,8 @@
     "meaning": "车外后视镜",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "door mirror"
   },
   {
     "id": "w-seat",
@@ -164,7 +174,8 @@
     "meaning": "座椅",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "seat"
   },
   {
     "id": "w-seatbelt",
@@ -173,7 +184,8 @@
     "meaning": "安全带",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "seatbelt"
   },
   {
     "id": "w-key",
@@ -182,7 +194,8 @@
     "meaning": "钥匙",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "key"
   },
   {
     "id": "w-pedal",
@@ -191,7 +204,8 @@
     "meaning": "踏板",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "pedal"
   },
   {
     "id": "w-meter",
@@ -200,7 +214,8 @@
     "meaning": "仪表盘",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "meter"
   },
   {
     "id": "w-hazard",
@@ -209,7 +224,8 @@
     "meaning": "危险报警灯(双闪)",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "hazard"
   },
   {
     "id": "w-winker",
@@ -218,7 +234,8 @@
     "meaning": "转向灯",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "turn signal"
   },
   {
     "id": "w-engine",
@@ -227,7 +244,8 @@
     "meaning": "发动机",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "engine"
   },
   {
     "id": "w-light",
@@ -236,7 +254,8 @@
     "meaning": "灯",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "light"
   },
   {
     "id": "w-wheel",
@@ -245,7 +264,8 @@
     "meaning": "轮胎",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "tire"
   },
   {
     "id": "w-hon",
@@ -254,7 +274,8 @@
     "meaning": "喇叭",
     "tag": [
       "车辆部件"
-    ]
+    ],
+    "en": "klaxon"
   },
   {
     "id": "w-hasshin",
@@ -309,7 +330,8 @@
     "meaning": "掉头",
     "tag": [
       "驾驶操作"
-    ]
+    ],
+    "en": "U-turn"
   },
   {
     "id": "w-sen-henkou",
@@ -694,7 +716,8 @@
     "meaning": "交通规则",
     "tag": [
       "法规"
-    ]
+    ],
+    "en": "traffic rules"
   },
   {
     "id": "w-shiken",
