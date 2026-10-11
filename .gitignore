@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# TTS 凭证 (Google Cloud service account) - 包含 private_key,绝对不要 commit
+scripts/.tts-config.json
+scripts/.tts-config.*.json
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
