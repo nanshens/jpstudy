@@ -41,6 +41,13 @@ const CATEGORY_ORDER: CategoryDef[] = [
     color: 'from-emerald-500 to-teal-500',
   },
   {
+    key: 'exam',
+    title: '日语考试',
+    subtitle: 'N5 / N4 备考、标准教材系统学习',
+    icon: GraduationCap,
+    color: 'from-indigo-500 to-blue-500',
+  },
+  {
     key: 'other',
     title: '其他',
     subtitle: '工作 / 兴趣 / 其他实用场景',

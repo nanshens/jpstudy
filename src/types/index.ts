@@ -104,7 +104,7 @@ export interface QuizQuestion {
 
 export type ScenarioTab = 'overview' | 'textbook' | 'words' | 'grammar' | 'dialogs' | 'listening' | 'quiz';
 
-export type ScenarioCategory = 'driving' | 'medical' | 'life' | 'other';
+export type ScenarioCategory = 'driving' | 'medical' | 'life' | 'exam' | 'other';
 
 export interface ScenarioMeta {
   id: string;
