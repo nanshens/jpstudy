@@ -11,6 +11,17 @@ export function GrammarView({ data }: { data: ScenarioData }) {
   const [active, setActive] = useState(0);
   const g = data.grammar[active];
 
+  // 空态:场景无语法数据 (例如 numbers 场景)
+  if (data.grammar.length === 0) {
+    return (
+      <Card className="p-8 text-center text-muted-foreground text-sm">
+        <Sparkles className="h-8 w-8 mx-auto mb-2 opacity-40" />
+        <p className="font-medium text-foreground mb-1">暂无语法</p>
+        <p>这个场景还没整理语法点。先从单词/打字/小测学起,语法稍后补充。</p>
+      </Card>
+    );
+  }
+
   return (
     <div className="grid md:grid-cols-[260px,1fr] gap-5">
       {/* 左侧列表 */}

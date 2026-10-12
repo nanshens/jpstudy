@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "tts": "node scripts/generate-tts.cjs",
     "tts:force": "node scripts/generate-tts.cjs --force",
-    "tts:dry": "node scripts/tts-dryrun.cjs"
+    "tts:dry": "node scripts/tts-dryrun.cjs",
+    "build:numbers": "node scripts/build-numbers-scenario.cjs"
   },
   "devDependencies": {
     "@types/node": "^26.1.1",
