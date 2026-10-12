@@ -5,12 +5,12 @@
     "question": "听到的词是什么意思?",
     "answer": "0",
     "options": [
-      "1丁目",
+      "29号",
+      "3",
       "0",
-      "1次",
-      "1个人(独自)"
+      "6000"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "ゼロ = 0 (ゼロ)"
   },
   {
@@ -19,12 +19,12 @@
     "question": "听到的词是什么意思?",
     "answer": "0",
     "options": [
+      "30度",
       "0",
-      "1分钟",
-      "100克",
-      "200"
+      "50000 / 5万",
+      "9000"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "零 = 0 (ゼロ/れい)"
   },
   {
@@ -33,12 +33,12 @@
     "question": "听到的词是什么意思?",
     "answer": "1",
     "options": [
-      "1000",
       "1",
-      "3号 / 3天",
-      "500"
+      "3楼",
+      "7年",
+      "周四(简)"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "一 = 1 (いち)"
   },
   {
@@ -47,12 +47,12 @@
     "question": "听到的词是什么意思?",
     "answer": "2",
     "options": [
-      "5人",
-      "1个人(独自)",
-      "2",
-      "星期六 / Saturday"
+      "0",
+      "12号 / 12天",
+      "7点(钟)",
+      "2"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "二 = 2 (に)"
   },
   {
@@ -61,12 +61,12 @@
     "question": "听到的词是什么意思?",
     "answer": "3",
     "options": [
-      "8000",
-      "3",
-      "30",
-      "每月"
+      "1岁",
+      "1000000 / 百万",
+      "700",
+      "3"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "三 = 3 (さん)"
   },
   {
@@ -75,12 +75,12 @@
     "question": "听到的词是什么意思?",
     "answer": "4",
     "options": [
+      "3点(钟)",
+      "周三(简)",
       "4",
-      "大约",
-      "星期三 / Wednesday",
-      "半 / 一半"
+      "9年"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "四 = 4 (し/よん)"
   },
   {
@@ -89,12 +89,12 @@
     "question": "听到的词是什么意思?",
     "answer": "5",
     "options": [
-      "10号 / 10天",
-      "90",
       "5",
-      "1个人(独自)"
+      "3",
+      "0",
+      "100000 / 10万"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "五 = 5 (ご)"
   },
   {
@@ -103,12 +103,12 @@
     "question": "听到的词是什么意思?",
     "answer": "6",
     "options": [
-      "90",
       "12点(钟)",
-      "1点(钟)",
-      "6"
+      "周六(简)",
+      "6",
+      "3000"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "六 = 6 (ろく)"
   },
   {
@@ -118,9 +118,9 @@
     "answer": "7",
     "options": [
       "7",
-      "6",
-      "100000 / 10万",
-      "周六(简)"
+      "8号 / 8天",
+      "周五(简)",
+      "全部"
     ],
     "answerIndex": 0,
     "explanation": "七 = 7 (しち/なな)"
@@ -131,12 +131,12 @@
     "question": "听到的词是什么意思?",
     "answer": "8",
     "options": [
-      "星期一 / Monday",
+      "前年",
+      "1秒",
       "8",
-      "7000",
-      "2月"
+      "8年"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "八 = 8 (はち)"
   },
   {
@@ -145,12 +145,12 @@
     "question": "听到的词是什么意思?",
     "answer": "9",
     "options": [
-      "周日(简)",
-      "0",
-      "2号 / 2天",
-      "9"
+      "11",
+      "9",
+      "100日元",
+      "1年"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "九 = 9 (きゅう/く)"
   },
   {
@@ -159,12 +159,12 @@
     "question": "听到的词是什么意思?",
     "answer": "10",
     "options": [
-      "2",
-      "星期六 / Saturday",
       "10",
-      "80"
+      "50000 / 5万",
+      "3号 / 3天",
+      "7分钟"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "十 = 10 (じゅう)"
   },
   {
@@ -173,12 +173,12 @@
     "question": "听到的词是什么意思?",
     "answer": "11",
     "options": [
-      "18",
-      "1丁目",
+      "10000日元(1万日元)",
       "11",
-      "2000"
+      "周三(简)",
+      "1日元"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "十一 = 11 (じゅういち)"
   },
   {
@@ -187,12 +187,12 @@
     "question": "听到的词是什么意思?",
     "answer": "12",
     "options": [
-      "12",
-      "周五(简)",
-      "每年",
-      "16"
+      "5人",
+      "1台(机器/车)",
+      "4",
+      "12"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "十二 = 12 (じゅうに)"
   },
   {
@@ -201,12 +201,12 @@
     "question": "听到的词是什么意思?",
     "answer": "13",
     "options": [
-      "0",
-      "13",
-      "20号",
-      "12月"
+      "8月",
+      "20",
+      "1秒",
+      "13"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "十三 = 13 (じゅうさん)"
   },
   {
@@ -215,12 +215,12 @@
     "question": "听到的词是什么意思?",
     "answer": "14",
     "options": [
-      "2倍",
-      "每月",
-      "14",
-      "8000"
+      "周六(简)",
+      "5分钟",
+      "13",
+      "14"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "十四 = 14 (じゅうよん/じゅうし)"
   },
   {
@@ -229,12 +229,12 @@
     "question": "听到的词是什么意思?",
     "answer": "15",
     "options": [
-      "10万日元",
-      "50000 / 5万",
+      "每周",
       "15",
-      "0"
+      "10000000 / 千万",
+      "一星期 / 一周"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "十五 = 15 (じゅうご)"
   },
   {
@@ -243,10 +243,10 @@
     "question": "听到的词是什么意思?",
     "answer": "16",
     "options": [
-      "10000000 / 千万",
+      "29号",
       "16",
-      "7000",
-      "14"
+      "100",
+      "100000000 / 1亿"
     ],
     "answerIndex": 1,
     "explanation": "十六 = 16 (じゅうろく)"
@@ -257,12 +257,12 @@
     "question": "听到的词是什么意思?",
     "answer": "17",
     "options": [
+      "4000",
       "17",
-      "6",
-      "第一 / 最",
-      "星期三 / Wednesday"
+      "平日 / 工作日",
+      "两星期 / 两周"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "十七 = 17 (じゅうなな/じゅうしち)"
   },
   {
@@ -271,12 +271,12 @@
     "question": "听到的词是什么意思?",
     "answer": "18",
     "options": [
-      "星期五 / Friday",
-      "2倍",
-      "18",
-      "1张(薄物)"
+      "4月",
+      "2点(钟)",
+      "6月",
+      "18"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "十八 = 18 (じゅうはち)"
   },
   {
@@ -285,12 +285,12 @@
     "question": "听到的词是什么意思?",
     "answer": "19",
     "options": [
-      "50000 / 5万",
+      "5人",
+      "周四(简)",
       "19",
-      "电话号码",
-      "12点(钟)"
+      "13"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "十九 = 19 (じゅうきゅう/じゅうく)"
   },
   {
@@ -299,12 +299,12 @@
     "question": "听到的词是什么意思?",
     "answer": "20",
     "options": [
-      "14",
-      "20",
-      "9月",
-      "7000"
+      "今晚",
+      "10",
+      "1张(薄物)",
+      "20"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "二十 = 20 (にじゅう)"
   },
   {
@@ -314,9 +314,9 @@
     "answer": "30",
     "options": [
       "30",
-      "1米",
-      "90",
-      "2000"
+      "1楼",
+      "13",
+      "2月"
     ],
     "answerIndex": 0,
     "explanation": "三十 = 30 (さんじゅう)"
@@ -327,12 +327,12 @@
     "question": "听到的词是什么意思?",
     "answer": "40",
     "options": [
-      "14",
-      "1张(薄物)",
       "40",
-      "半 / 一半"
+      "2号 / 2天",
+      "今早",
+      "4000"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "四十 = 40 (よんじゅう)"
   },
   {
@@ -341,12 +341,12 @@
     "question": "听到的词是什么意思?",
     "answer": "50",
     "options": [
-      "8月",
-      "100日元",
       "50",
-      "5000"
+      "5分钟",
+      "8",
+      "2倍"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "五十 = 50 (ごじゅう)"
   },
   {
@@ -355,12 +355,12 @@
     "question": "听到的词是什么意思?",
     "answer": "60",
     "options": [
-      "第一 / 最",
-      "2000",
-      "11月",
-      "60"
+      "一个月",
+      "后年",
+      "60",
+      "周二(简)"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "六十 = 60 (ろくじゅう)"
   },
   {
@@ -369,12 +369,12 @@
     "question": "听到的词是什么意思?",
     "answer": "70",
     "options": [
-      "全部",
-      "70",
-      "8000",
-      "200"
+      "19号",
+      "30度",
+      "星期三 / Wednesday",
+      "70"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "七十 = 70 (ななじゅう)"
   },
   {
@@ -384,9 +384,9 @@
     "answer": "80",
     "options": [
       "80",
-      "1000日元",
-      "1个人(独自)",
-      "1人"
+      "12",
+      "50000 / 5万",
+      "1日元"
     ],
     "answerIndex": 0,
     "explanation": "八十 = 80 (はちじゅう)"
@@ -397,12 +397,12 @@
     "question": "听到的词是什么意思?",
     "answer": "90",
     "options": [
-      "10000000 / 千万",
       "90",
-      "700",
-      "星期六 / Saturday"
+      "1年",
+      "10月",
+      "300"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "九十 = 90 (きゅうじゅう)"
   },
   {
@@ -411,12 +411,12 @@
     "question": "听到的词是什么意思?",
     "answer": "100",
     "options": [
-      "1楼",
-      "星期日 / Sunday",
-      "7月",
-      "100"
+      "100",
+      "10人",
+      "10年",
+      "16"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "百 = 100 (ひゃく)"
   },
   {
@@ -425,12 +425,12 @@
     "question": "听到的词是什么意思?",
     "answer": "200",
     "options": [
-      "12月",
-      "12点(钟)",
-      "10000000 / 千万",
-      "200"
+      "0",
+      "14年",
+      "200",
+      "30分"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "二百 = 200 (にひゃく)"
   },
   {
@@ -439,10 +439,10 @@
     "question": "听到的词是什么意思?",
     "answer": "300",
     "options": [
-      "3点(钟)",
-      "9号 / 9天",
+      "20年",
+      "100",
       "300",
-      "6号 / 6天"
+      "3楼"
     ],
     "answerIndex": 2,
     "explanation": "三百 = 300 (さんびゃく)"
@@ -453,12 +453,12 @@
     "question": "听到的词是什么意思?",
     "answer": "400",
     "options": [
+      "8000",
+      "邮编",
       "400",
-      "周五(简)",
-      "1张(薄物)",
-      "50000 / 5万"
+      "3年"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "四百 = 400 (よんひゃく)"
   },
   {
@@ -467,12 +467,12 @@
     "question": "听到的词是什么意思?",
     "answer": "500",
     "options": [
-      "1只(鸟)",
-      "1月",
-      "600",
-      "500"
+      "500",
+      "1年",
+      "26号",
+      "星期五 / Friday"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "五百 = 500 (ごひゃく)"
   },
   {
@@ -481,12 +481,12 @@
     "question": "听到的词是什么意思?",
     "answer": "600",
     "options": [
+      "3人",
+      "30度",
       "600",
-      "1张(薄物)",
-      "1号 / 1天",
-      "1点(钟)"
+      "17号"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "六百 = 600 (ろっぴゃく)"
   },
   {
@@ -495,12 +495,12 @@
     "question": "听到的词是什么意思?",
     "answer": "700",
     "options": [
-      "70",
+      "0",
+      "1只(鸟)",
       "700",
-      "周日(简)",
-      "80"
+      "9"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "七百 = 700 (ななひゃく)"
   },
   {
@@ -509,10 +509,10 @@
     "question": "听到的词是什么意思?",
     "answer": "800",
     "options": [
-      "1楼",
-      "500",
+      "这周",
+      "3点(钟)",
       "800",
-      "900"
+      "100"
     ],
     "answerIndex": 2,
     "explanation": "八百 = 800 (はっぴゃく)"
@@ -524,8 +524,8 @@
     "answer": "900",
     "options": [
       "100",
-      "以下",
-      "1000日元",
+      "8点(钟)",
+      "1台(机器/车)",
       "900"
     ],
     "answerIndex": 3,
@@ -537,10 +537,10 @@
     "question": "听到的词是什么意思?",
     "answer": "1000",
     "options": [
-      "电话号码",
+      "10000日元(1万日元)",
       "1000",
-      "24号",
-      "11"
+      "800",
+      "1000000 / 百万"
     ],
     "answerIndex": 1,
     "explanation": "千 = 1000 (せん)"
@@ -551,12 +551,12 @@
     "question": "听到的词是什么意思?",
     "answer": "2000",
     "options": [
-      "1台(机器/车)",
       "2000",
-      "5月",
-      "7号 / 7天"
+      "7分钟",
+      "3张(薄物)",
+      "5号 / 5天"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "二千 = 2000 (にせん)"
   },
   {
@@ -565,12 +565,12 @@
     "question": "听到的词是什么意思?",
     "answer": "3000",
     "options": [
-      "1000",
-      "2人",
+      "一个月",
       "3000",
-      "800"
+      "28号",
+      "3点(钟)"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "三千 = 3000 (さんぜん)"
   },
   {
@@ -579,9 +579,9 @@
     "question": "听到的词是什么意思?",
     "answer": "4000",
     "options": [
-      "12月",
-      "星期二 / Tuesday",
-      "周一(简)",
+      "1公斤/1公里",
+      "40",
+      "28号",
       "4000"
     ],
     "answerIndex": 3,
@@ -593,12 +593,12 @@
     "question": "听到的词是什么意思?",
     "answer": "5000",
     "options": [
-      "10000000 / 千万",
+      "周日(简)",
+      "50",
       "5000",
-      "周四(简)",
-      "50000 / 5万"
+      "每天"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "五千 = 5000 (ごせん)"
   },
   {
@@ -607,10 +607,10 @@
     "question": "听到的词是什么意思?",
     "answer": "6000",
     "options": [
-      "2",
+      "哪一年?",
       "6000",
-      "24号",
-      "2次"
+      "中午 / 白天",
+      "4分钟"
     ],
     "answerIndex": 1,
     "explanation": "六千 = 6000 (ろくせん)"
@@ -621,12 +621,12 @@
     "question": "听到的词是什么意思?",
     "answer": "7000",
     "options": [
+      "400",
+      "1000",
       "7000",
-      "3号",
-      "50",
-      "24号"
+      "300"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "七千 = 7000 (ななせん)"
   },
   {
@@ -635,12 +635,12 @@
     "question": "听到的词是什么意思?",
     "answer": "8000",
     "options": [
-      "4月",
-      "8000",
-      "1000",
-      "1次"
+      "3号 / 3天",
+      "2人",
+      "一次 / 一回",
+      "8000"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "八千 = 8000 (はっせん)"
   },
   {
@@ -649,10 +649,10 @@
     "question": "听到的词是什么意思?",
     "answer": "9000",
     "options": [
-      "80",
-      "8",
+      "周三(简)",
+      "几点?",
       "9000",
-      "500"
+      "10人"
     ],
     "answerIndex": 2,
     "explanation": "九千 = 9000 (きゅうせん)"
@@ -663,12 +663,12 @@
     "question": "听到的词是什么意思?",
     "answer": "10000 / 1万",
     "options": [
-      "11",
-      "18",
-      "16",
-      "10000 / 1万"
+      "10000 / 1万",
+      "17号",
+      "4年",
+      "3000"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "一万 = 10000 / 1万 (いちまん)"
   },
   {
@@ -677,12 +677,12 @@
     "question": "听到的词是什么意思?",
     "answer": "20000 / 2万",
     "options": [
-      "3号 / 3天",
       "20000 / 2万",
-      "19",
-      "400"
+      "28号",
+      "1只(中小动物)",
+      "每月"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "二万 = 20000 / 2万 (にまん)"
   },
   {
@@ -691,12 +691,12 @@
     "question": "听到的词是什么意思?",
     "answer": "50000 / 5万",
     "options": [
+      "每周",
+      "1丁目",
       "50000 / 5万",
-      "2000",
-      "2根(细长物)",
-      "30"
+      "10年"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "五万 = 50000 / 5万 (ごまん)"
   },
   {
@@ -705,12 +705,12 @@
     "question": "听到的词是什么意思?",
     "answer": "100000 / 10万",
     "options": [
-      "星期二 / Tuesday",
-      "1000",
-      "1只(鸟)",
-      "100000 / 10万"
+      "12点(钟)",
+      "100000 / 10万",
+      "1",
+      "周三(简)"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "十万 = 100000 / 10万 (じゅうまん)"
   },
   {
@@ -719,12 +719,12 @@
     "question": "听到的词是什么意思?",
     "answer": "1000000 / 百万",
     "options": [
-      "2人",
       "1000000 / 百万",
-      "3人",
-      "每月"
+      "今晚",
+      "9点(钟)",
+      "1"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "百万 = 1000000 / 百万 (ひゃくまん)"
   },
   {
@@ -733,12 +733,12 @@
     "question": "听到的词是什么意思?",
     "answer": "10000000 / 千万",
     "options": [
-      "3分钟",
-      "周三(简)",
       "10000000 / 千万",
-      "第一 / 最"
+      "3号 / 3天",
+      "周六(简)",
+      "1点(钟)"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "千万 = 10000000 / 千万 (せんまん)"
   },
   {
@@ -747,12 +747,12 @@
     "question": "听到的词是什么意思?",
     "answer": "100000000 / 1亿",
     "options": [
+      "晚上",
       "100000000 / 1亿",
-      "30",
-      "1号 / 1天",
-      "周二(简)"
+      "周日(简)",
+      "1米"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "一億 = 100000000 / 1亿 (いちおく)"
   },
   {
@@ -761,12 +761,12 @@
     "question": "听到的词是什么意思?",
     "answer": "1月",
     "options": [
-      "4",
       "1月",
-      "0",
-      "每月"
+      "50000 / 5万",
+      "未满",
+      "6年"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "一月 = 1月 (いちがつ)"
   },
   {
@@ -775,12 +775,12 @@
     "question": "听到的词是什么意思?",
     "answer": "2月",
     "options": [
-      "1只(鸟)",
-      "10月",
-      "9",
-      "2月"
+      "2月",
+      "10点(钟)",
+      "14",
+      "25号"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "二月 = 2月 (にがつ)"
   },
   {
@@ -789,12 +789,12 @@
     "question": "听到的词是什么意思?",
     "answer": "3月",
     "options": [
-      "200",
-      "19",
       "3月",
-      "50000 / 5万"
+      "1张(薄物)",
+      "1根(细长物)",
+      "10000日元(1万日元)"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "三月 = 3月 (さんがつ)"
   },
   {
@@ -803,10 +803,10 @@
     "question": "听到的词是什么意思?",
     "answer": "4月",
     "options": [
-      "1分钟",
-      "30度",
+      "10点(钟)",
+      "300",
       "4月",
-      "第一 / 最"
+      "2人"
     ],
     "answerIndex": 2,
     "explanation": "四月 = 4月 (しがつ)"
@@ -817,12 +817,12 @@
     "question": "听到的词是什么意思?",
     "answer": "5月",
     "options": [
-      "1秒",
+      "7月",
+      "10年",
       "5月",
-      "3分钟",
-      "10号 / 10天"
+      "14年"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "五月 = 5月 (ごがつ)"
   },
   {
@@ -831,12 +831,12 @@
     "question": "听到的词是什么意思?",
     "answer": "6月",
     "options": [
-      "0",
+      "1000日元",
+      "3张(薄物)",
       "6月",
-      "第一 / 最",
-      "星期四 / Thursday"
+      "前年"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "六月 = 6月 (ろくがつ)"
   },
   {
@@ -845,12 +845,12 @@
     "question": "听到的词是什么意思?",
     "answer": "7月",
     "options": [
-      "0",
-      "3",
-      "6人",
-      "7月"
+      "20",
+      "20号",
+      "7月",
+      "9年"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "七月 = 7月 (しちがつ)"
   },
   {
@@ -859,12 +859,12 @@
     "question": "听到的词是什么意思?",
     "answer": "8月",
     "options": [
-      "未满",
+      "每年",
+      "后年",
       "8月",
-      "6点(钟)",
-      "1000"
+      "27号"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "八月 = 8月 (はちがつ)"
   },
   {
@@ -873,12 +873,12 @@
     "question": "听到的词是什么意思?",
     "answer": "9月",
     "options": [
-      "19",
-      "1只(鸟)",
+      "每天",
       "9月",
-      "14"
+      "15号",
+      "30度"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "九月 = 9月 (くがつ)"
   },
   {
@@ -887,12 +887,12 @@
     "question": "听到的词是什么意思?",
     "answer": "10月",
     "options": [
+      "20号",
       "10月",
-      "17",
-      "2次",
-      "3点(钟)"
+      "星期几?",
+      "6分钟"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "十月 = 10月 (じゅうがつ)"
   },
   {
@@ -901,12 +901,12 @@
     "question": "听到的词是什么意思?",
     "answer": "11月",
     "options": [
-      "11月",
-      "6人",
-      "4号 / 4天",
-      "1根(细长物)"
+      "1号 / 1天",
+      "900",
+      "7分钟",
+      "11月"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "十一月 = 11月 (じゅういちがつ)"
   },
   {
@@ -915,1174 +915,2322 @@
     "question": "听到的词是什么意思?",
     "answer": "12月",
     "options": [
-      "12月",
-      "周三(简)",
-      "20000 / 2万",
-      "90"
+      "1秒",
+      "1米",
+      "星期几?",
+      "12月"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "十二月 = 12月 (じゅうにがつ)"
   },
   {
     "id": "num-l067",
+    "audio": "何月",
+    "question": "听到的词是什么意思?",
+    "answer": "几月?",
+    "options": [
+      "10点(钟)",
+      "几月?",
+      "星期四 / Thursday",
+      "今天"
+    ],
+    "answerIndex": 1,
+    "explanation": "何月 = 几月? (なんがつ)"
+  },
+  {
+    "id": "num-l068",
     "audio": "月曜日",
     "question": "听到的词是什么意思?",
     "answer": "星期一 / Monday",
     "options": [
-      "1楼",
-      "2月",
-      "60",
-      "星期一 / Monday"
+      "22号",
+      "星期一 / Monday",
+      "明天",
+      "8000"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "月曜日 = 星期一 / Monday (げつようび)"
   },
   {
-    "id": "num-l068",
+    "id": "num-l069",
     "audio": "火曜日",
     "question": "听到的词是什么意思?",
     "answer": "星期二 / Tuesday",
     "options": [
-      "星期五 / Friday",
+      "后天",
+      "后年",
       "星期二 / Tuesday",
-      "未满",
-      "20000 / 2万"
+      "4"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "火曜日 = 星期二 / Tuesday (かようび)"
   },
   {
-    "id": "num-l069",
+    "id": "num-l070",
     "audio": "水曜日",
     "question": "听到的词是什么意思?",
     "answer": "星期三 / Wednesday",
     "options": [
-      "6000",
       "星期三 / Wednesday",
-      "8",
-      "1秒"
+      "未满",
+      "6分钟",
+      "1个人(独自)"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "水曜日 = 星期三 / Wednesday (すいようび)"
   },
   {
-    "id": "num-l070",
+    "id": "num-l071",
     "audio": "木曜日",
     "question": "听到的词是什么意思?",
     "answer": "星期四 / Thursday",
     "options": [
+      "50",
+      "18",
       "星期四 / Thursday",
-      "5号 / 5天",
-      "3楼",
-      "1秒"
+      "周日(简)"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "木曜日 = 星期四 / Thursday (もくようび)"
   },
   {
-    "id": "num-l071",
+    "id": "num-l072",
     "audio": "金曜日",
     "question": "听到的词是什么意思?",
     "answer": "星期五 / Friday",
     "options": [
+      "5年",
       "星期五 / Friday",
-      "700",
-      "800",
-      "5000"
+      "周三(简)",
+      "三个月"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "金曜日 = 星期五 / Friday (きんようび)"
   },
   {
-    "id": "num-l072",
+    "id": "num-l073",
     "audio": "土曜日",
     "question": "听到的词是什么意思?",
     "answer": "星期六 / Saturday",
     "options": [
-      "以上",
       "星期六 / Saturday",
-      "11月",
-      "4"
+      "10分钟",
+      "21号",
+      "2007年(示例)"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "土曜日 = 星期六 / Saturday (どようび)"
   },
   {
-    "id": "num-l073",
+    "id": "num-l074",
     "audio": "日曜日",
     "question": "听到的词是什么意思?",
     "answer": "星期日 / Sunday",
     "options": [
+      "22号",
+      "7年",
       "星期日 / Sunday",
-      "11月",
-      "4号 / 4天",
-      "周三(简)"
+      "下午(PM)"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "日曜日 = 星期日 / Sunday (にちようび)"
   },
   {
-    "id": "num-l074",
+    "id": "num-l075",
     "audio": "月曜",
     "question": "听到的词是什么意思?",
     "answer": "周一(简)",
     "options": [
-      "2倍",
-      "80",
-      "5号 / 5天",
-      "周一(简)"
+      "星期二 / Tuesday",
+      "3分钟",
+      "周一(简)",
+      "6"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "月曜 = 周一(简) (げつよう)"
   },
   {
-    "id": "num-l075",
+    "id": "num-l076",
     "audio": "火曜",
     "question": "听到的词是什么意思?",
     "answer": "周二(简)",
     "options": [
-      "400",
-      "24号",
+      "1年",
+      "100日元",
       "周二(简)",
-      "70"
+      "晚上"
     ],
     "answerIndex": 2,
     "explanation": "火曜 = 周二(简) (かよう)"
   },
   {
-    "id": "num-l076",
+    "id": "num-l077",
     "audio": "水曜",
     "question": "听到的词是什么意思?",
     "answer": "周三(简)",
     "options": [
-      "10号 / 10天",
+      "每周",
       "周三(简)",
-      "1台(机器/车)",
-      "500"
+      "1",
+      "周四(简)"
     ],
     "answerIndex": 1,
     "explanation": "水曜 = 周三(简) (すいよう)"
   },
   {
-    "id": "num-l077",
+    "id": "num-l078",
     "audio": "木曜",
     "question": "听到的词是什么意思?",
     "answer": "周四(简)",
     "options": [
-      "800",
-      "4号 / 4天",
       "周四(简)",
-      "70"
+      "今晚",
+      "50000 / 5万",
+      "11月"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "木曜 = 周四(简) (もくよう)"
   },
   {
-    "id": "num-l078",
+    "id": "num-l079",
     "audio": "金曜",
     "question": "听到的词是什么意思?",
     "answer": "周五(简)",
     "options": [
-      "1米",
+      "12号 / 12天",
+      "3",
       "周五(简)",
-      "1000日元",
-      "周二(简)"
+      "以下"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "金曜 = 周五(简) (きんよう)"
   },
   {
-    "id": "num-l079",
+    "id": "num-l080",
     "audio": "土曜",
     "question": "听到的词是什么意思?",
     "answer": "周六(简)",
     "options": [
-      "10000 / 1万",
-      "100000000 / 1亿",
+      "1张(薄物)",
+      "1楼",
       "周六(简)",
-      "0"
+      "16"
     ],
     "answerIndex": 2,
     "explanation": "土曜 = 周六(简) (どよう)"
   },
   {
-    "id": "num-l080",
+    "id": "num-l081",
     "audio": "日曜",
     "question": "听到的词是什么意思?",
     "answer": "周日(简)",
     "options": [
-      "8",
-      "一次 / 一回",
+      "2",
       "周日(简)",
-      "星期三 / Wednesday"
+      "8000",
+      "9分钟"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "日曜 = 周日(简) (にちよう)"
   },
   {
-    "id": "num-l081",
+    "id": "num-l082",
+    "audio": "何曜日",
+    "question": "听到的词是什么意思?",
+    "answer": "星期几?",
+    "options": [
+      "1只(鸟)",
+      "星期几?",
+      "周日(简)",
+      "70"
+    ],
+    "answerIndex": 1,
+    "explanation": "何曜日 = 星期几? (なんようび)"
+  },
+  {
+    "id": "num-l083",
     "audio": "一日",
     "question": "听到的词是什么意思?",
     "answer": "1号 / 1天",
     "options": [
-      "700",
       "1号 / 1天",
-      "40",
-      "30"
+      "明天",
+      "19",
+      "8月"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "一日 = 1号 / 1天 (ついたち/いちにち)"
   },
   {
-    "id": "num-l082",
+    "id": "num-l084",
     "audio": "二日",
     "question": "听到的词是什么意思?",
     "answer": "2号 / 2天",
     "options": [
-      "2号 / 2天",
-      "7号 / 7天",
-      "6人",
-      "3000"
+      "21号",
+      "一星期 / 一周",
+      "上周",
+      "2号 / 2天"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "二日 = 2号 / 2天 (ふつか)"
   },
   {
-    "id": "num-l083",
+    "id": "num-l085",
     "audio": "三日",
     "question": "听到的词是什么意思?",
     "answer": "3号 / 3天",
     "options": [
+      "今晚",
       "3号 / 3天",
-      "10号 / 10天",
-      "18",
-      "大约"
+      "今早",
+      "8分钟"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "三日 = 3号 / 3天 (みっか)"
   },
   {
-    "id": "num-l084",
+    "id": "num-l086",
     "audio": "四日",
     "question": "听到的词是什么意思?",
     "answer": "4号 / 4天",
     "options": [
-      "2月",
+      "1只(中小动物)",
       "4号 / 4天",
-      "周二(简)",
-      "6号 / 6天"
+      "16",
+      "1月"
     ],
     "answerIndex": 1,
     "explanation": "四日 = 4号 / 4天 (よっか)"
   },
   {
-    "id": "num-l085",
+    "id": "num-l087",
     "audio": "五日",
     "question": "听到的词是什么意思?",
     "answer": "5号 / 5天",
     "options": [
-      "500",
-      "100000 / 10万",
-      "12月",
+      "8点(钟)",
+      "晚上",
+      "邮编",
       "5号 / 5天"
     ],
     "answerIndex": 3,
     "explanation": "五日 = 5号 / 5天 (いつか)"
   },
   {
-    "id": "num-l086",
+    "id": "num-l088",
     "audio": "六日",
     "question": "听到的词是什么意思?",
     "answer": "6号 / 6天",
     "options": [
-      "900",
-      "3张(薄物)",
+      "几点?",
       "5月",
-      "6号 / 6天"
+      "6号 / 6天",
+      "1人"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "六日 = 6号 / 6天 (むいか)"
   },
   {
-    "id": "num-l087",
+    "id": "num-l089",
     "audio": "七日",
     "question": "听到的词是什么意思?",
     "answer": "7号 / 7天",
     "options": [
-      "18",
       "7号 / 7天",
-      "大约",
-      "星期四 / Thursday"
+      "11",
+      "前年",
+      "9点(钟)"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "七日 = 7号 / 7天 (なのか/しちにち)"
   },
   {
-    "id": "num-l088",
+    "id": "num-l090",
     "audio": "八日",
     "question": "听到的词是什么意思?",
     "answer": "8号 / 8天",
     "options": [
-      "周一(简)",
+      "8分钟",
       "8号 / 8天",
-      "100克",
-      "2倍"
+      "10000日元(1万日元)",
+      "6000"
     ],
     "answerIndex": 1,
     "explanation": "八日 = 8号 / 8天 (ようか)"
   },
   {
-    "id": "num-l089",
+    "id": "num-l091",
     "audio": "九日",
     "question": "听到的词是什么意思?",
     "answer": "9号 / 9天",
     "options": [
-      "以上",
-      "90",
-      "3人",
-      "9号 / 9天"
+      "1年",
+      "9号 / 9天",
+      "28号",
+      "周五(简)"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "九日 = 9号 / 9天 (ここのか)"
   },
   {
-    "id": "num-l090",
+    "id": "num-l092",
     "audio": "十日",
     "question": "听到的词是什么意思?",
     "answer": "10号 / 10天",
     "options": [
-      "1台(机器/车)",
-      "1个人(独自)",
+      "1秒",
+      "24号",
       "10号 / 10天",
-      "2人"
+      "下午(PM)"
     ],
     "answerIndex": 2,
     "explanation": "十日 = 10号 / 10天 (とおか)"
   },
   {
-    "id": "num-l091",
+    "id": "num-l093",
+    "audio": "十一日",
+    "question": "听到的词是什么意思?",
+    "answer": "11号 / 11天",
+    "options": [
+      "11号 / 11天",
+      "1只(中小动物)",
+      "7000",
+      "8点(钟)"
+    ],
+    "answerIndex": 0,
+    "explanation": "十一日 = 11号 / 11天 (じゅういちにち)"
+  },
+  {
+    "id": "num-l094",
+    "audio": "十二日",
+    "question": "听到的词是什么意思?",
+    "answer": "12号 / 12天",
+    "options": [
+      "前天",
+      "5人",
+      "12号 / 12天",
+      "1岁"
+    ],
+    "answerIndex": 2,
+    "explanation": "十二日 = 12号 / 12天 (じゅうににち)"
+  },
+  {
+    "id": "num-l095",
+    "audio": "十三日",
+    "question": "听到的词是什么意思?",
+    "answer": "13号 / 13天",
+    "options": [
+      "5年",
+      "早上",
+      "1分钟",
+      "13号 / 13天"
+    ],
+    "answerIndex": 3,
+    "explanation": "十三日 = 13号 / 13天 (じゅうさんにち)"
+  },
+  {
+    "id": "num-l096",
     "audio": "十四日",
     "question": "听到的词是什么意思?",
     "answer": "14号",
     "options": [
-      "以下",
+      "16",
       "14号",
-      "周一(简)",
-      "200"
+      "一整年",
+      "3000"
     ],
     "answerIndex": 1,
     "explanation": "十四日 = 14号 (じゅうよっか)"
   },
   {
-    "id": "num-l092",
+    "id": "num-l097",
+    "audio": "十五日",
+    "question": "听到的词是什么意思?",
+    "answer": "15号",
+    "options": [
+      "15号",
+      "10分钟",
+      "5岁",
+      "5人"
+    ],
+    "answerIndex": 0,
+    "explanation": "十五日 = 15号 (じゅうごにち)"
+  },
+  {
+    "id": "num-l098",
+    "audio": "十六日",
+    "question": "听到的词是什么意思?",
+    "answer": "16号",
+    "options": [
+      "3月",
+      "以下",
+      "16号",
+      "一整年"
+    ],
+    "answerIndex": 2,
+    "explanation": "十六日 = 16号 (じゅうろくにち)"
+  },
+  {
+    "id": "num-l099",
+    "audio": "十七日",
+    "question": "听到的词是什么意思?",
+    "answer": "17号",
+    "options": [
+      "100克",
+      "17号",
+      "早上",
+      "900"
+    ],
+    "answerIndex": 1,
+    "explanation": "十七日 = 17号 (じゅうななにち)"
+  },
+  {
+    "id": "num-l100",
+    "audio": "十八日",
+    "question": "听到的词是什么意思?",
+    "answer": "18号",
+    "options": [
+      "周二(简)",
+      "1岁",
+      "18号",
+      "0"
+    ],
+    "answerIndex": 2,
+    "explanation": "十八日 = 18号 (じゅうはちにち)"
+  },
+  {
+    "id": "num-l101",
+    "audio": "十九日",
+    "question": "听到的词是什么意思?",
+    "answer": "19号",
+    "options": [
+      "19号",
+      "7号 / 7天",
+      "300",
+      "9月"
+    ],
+    "answerIndex": 0,
+    "explanation": "十九日 = 19号 (じゅうきゅうにち)"
+  },
+  {
+    "id": "num-l102",
     "audio": "二十日",
     "question": "听到的词是什么意思?",
     "answer": "20号",
     "options": [
-      "1点(钟)",
+      "100000 / 10万",
+      "1号 / 1天",
       "20号",
-      "星期三 / Wednesday",
-      "900"
+      "周五(简)"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "二十日 = 20号 (はつか)"
   },
   {
-    "id": "num-l093",
+    "id": "num-l103",
+    "audio": "二十一日",
+    "question": "听到的词是什么意思?",
+    "answer": "21号",
+    "options": [
+      "21号",
+      "哪一年?",
+      "3号",
+      "2年"
+    ],
+    "answerIndex": 0,
+    "explanation": "二十一日 = 21号 (にじゅういちにち)"
+  },
+  {
+    "id": "num-l104",
+    "audio": "二十二日",
+    "question": "听到的词是什么意思?",
+    "answer": "22号",
+    "options": [
+      "每天",
+      "3张(薄物)",
+      "22号",
+      "周六(简)"
+    ],
+    "answerIndex": 2,
+    "explanation": "二十二日 = 22号 (にじゅうににち)"
+  },
+  {
+    "id": "num-l105",
+    "audio": "二十三日",
+    "question": "听到的词是什么意思?",
+    "answer": "23号",
+    "options": [
+      "去年",
+      "2号 / 2天",
+      "23号",
+      "6年"
+    ],
+    "answerIndex": 2,
+    "explanation": "二十三日 = 23号 (にじゅうさんにち)"
+  },
+  {
+    "id": "num-l106",
     "audio": "二十四日",
     "question": "听到的词是什么意思?",
     "answer": "24号",
     "options": [
-      "周六(简)",
-      "1000",
-      "6号 / 6天",
+      "11点(钟)",
+      "周四(简)",
+      "3月",
       "24号"
     ],
     "answerIndex": 3,
     "explanation": "二十四日 = 24号 (にじゅうよっか)"
   },
   {
-    "id": "num-l094",
+    "id": "num-l107",
+    "audio": "二十五日",
+    "question": "听到的词是什么意思?",
+    "answer": "25号",
+    "options": [
+      "1日元",
+      "12",
+      "25号",
+      "9分钟"
+    ],
+    "answerIndex": 2,
+    "explanation": "二十五日 = 25号 (にじゅうごにち)"
+  },
+  {
+    "id": "num-l108",
+    "audio": "二十六日",
+    "question": "听到的词是什么意思?",
+    "answer": "26号",
+    "options": [
+      "26号",
+      "200",
+      "7000",
+      "20号"
+    ],
+    "answerIndex": 0,
+    "explanation": "二十六日 = 26号 (にじゅうろくにち)"
+  },
+  {
+    "id": "num-l109",
+    "audio": "二十七日",
+    "question": "听到的词是什么意思?",
+    "answer": "27号",
+    "options": [
+      "10000 / 1万",
+      "周日(简)",
+      "3",
+      "27号"
+    ],
+    "answerIndex": 3,
+    "explanation": "二十七日 = 27号 (にじゅうななにち)"
+  },
+  {
+    "id": "num-l110",
+    "audio": "二十八日",
+    "question": "听到的词是什么意思?",
+    "answer": "28号",
+    "options": [
+      "1米",
+      "晚上",
+      "3000",
+      "28号"
+    ],
+    "answerIndex": 3,
+    "explanation": "二十八日 = 28号 (にじゅうはちにち)"
+  },
+  {
+    "id": "num-l111",
+    "audio": "二十九日",
+    "question": "听到的词是什么意思?",
+    "answer": "29号",
+    "options": [
+      "今早",
+      "9分钟",
+      "100日元",
+      "29号"
+    ],
+    "answerIndex": 3,
+    "explanation": "二十九日 = 29号 (にじゅうきゅうにち)"
+  },
+  {
+    "id": "num-l112",
+    "audio": "三十一日",
+    "question": "听到的词是什么意思?",
+    "answer": "31号",
+    "options": [
+      "今晚",
+      "8分钟",
+      "31号",
+      "100日元"
+    ],
+    "answerIndex": 2,
+    "explanation": "三十一日 = 31号 (さんじゅういちにち)"
+  },
+  {
+    "id": "num-l113",
+    "audio": "何日",
+    "question": "听到的词是什么意思?",
+    "answer": "几号?",
+    "options": [
+      "16号",
+      "大约",
+      "几号?",
+      "2根(细长物)"
+    ],
+    "answerIndex": 2,
+    "explanation": "何日 = 几号? (なんにち)"
+  },
+  {
+    "id": "num-l114",
     "audio": "一時",
     "question": "听到的词是什么意思?",
     "answer": "1点(钟)",
     "options": [
-      "500",
-      "0",
+      "10月",
       "1点(钟)",
-      "1000日元"
+      "26号",
+      "8000"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "一時 = 1点(钟) (いちじ)"
   },
   {
-    "id": "num-l095",
+    "id": "num-l115",
+    "audio": "二時",
+    "question": "听到的词是什么意思?",
+    "answer": "2点(钟)",
+    "options": [
+      "90",
+      "每周",
+      "2次",
+      "2点(钟)"
+    ],
+    "answerIndex": 3,
+    "explanation": "二時 = 2点(钟) (にじ)"
+  },
+  {
+    "id": "num-l116",
     "audio": "三時",
     "question": "听到的词是什么意思?",
     "answer": "3点(钟)",
     "options": [
+      "10000日元(1万日元)",
       "3点(钟)",
-      "2000",
-      "第一 / 最",
-      "1000日元"
+      "一整天",
+      "这周"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "三時 = 3点(钟) (さんじ)"
   },
   {
-    "id": "num-l096",
+    "id": "num-l117",
+    "audio": "四時",
+    "question": "听到的词是什么意思?",
+    "answer": "4点(钟)",
+    "options": [
+      "4号 / 4天",
+      "4点(钟)",
+      "4",
+      "周三(简)"
+    ],
+    "answerIndex": 1,
+    "explanation": "四時 = 4点(钟) (よじ)"
+  },
+  {
+    "id": "num-l118",
+    "audio": "五時",
+    "question": "听到的词是什么意思?",
+    "answer": "5点(钟)",
+    "options": [
+      "星期二 / Tuesday",
+      "200",
+      "周五(简)",
+      "5点(钟)"
+    ],
+    "answerIndex": 3,
+    "explanation": "五時 = 5点(钟) (ごじ)"
+  },
+  {
+    "id": "num-l119",
     "audio": "六時",
     "question": "听到的词是什么意思?",
     "answer": "6点(钟)",
     "options": [
-      "6点(钟)",
-      "1分钟",
-      "4人",
-      "3号 / 3天"
+      "3张(薄物)",
+      "13",
+      "一整天",
+      "6点(钟)"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "六時 = 6点(钟) (ろくじ)"
   },
   {
-    "id": "num-l097",
+    "id": "num-l120",
+    "audio": "七時",
+    "question": "听到的词是什么意思?",
+    "answer": "7点(钟)",
+    "options": [
+      "几秒?",
+      "7000",
+      "7点(钟)",
+      "几月?"
+    ],
+    "answerIndex": 2,
+    "explanation": "七時 = 7点(钟) (しちじ)"
+  },
+  {
+    "id": "num-l121",
+    "audio": "八時",
+    "question": "听到的词是什么意思?",
+    "answer": "8点(钟)",
+    "options": [
+      "8点(钟)",
+      "30度",
+      "昨天",
+      "16号"
+    ],
+    "answerIndex": 0,
+    "explanation": "八時 = 8点(钟) (はちじ)"
+  },
+  {
+    "id": "num-l122",
+    "audio": "九時",
+    "question": "听到的词是什么意思?",
+    "answer": "9点(钟)",
+    "options": [
+      "23号",
+      "2分钟",
+      "9点(钟)",
+      "29号"
+    ],
+    "answerIndex": 2,
+    "explanation": "九時 = 9点(钟) (くじ)"
+  },
+  {
+    "id": "num-l123",
+    "audio": "十時",
+    "question": "听到的词是什么意思?",
+    "answer": "10点(钟)",
+    "options": [
+      "7分钟",
+      "9点(钟)",
+      "600",
+      "10点(钟)"
+    ],
+    "answerIndex": 3,
+    "explanation": "十時 = 10点(钟) (じゅうじ)"
+  },
+  {
+    "id": "num-l124",
+    "audio": "十一時",
+    "question": "听到的词是什么意思?",
+    "answer": "11点(钟)",
+    "options": [
+      "1米",
+      "11点(钟)",
+      "3人",
+      "5月"
+    ],
+    "answerIndex": 1,
+    "explanation": "十一時 = 11点(钟) (じゅういちじ)"
+  },
+  {
+    "id": "num-l125",
     "audio": "十二時",
     "question": "听到的词是什么意思?",
     "answer": "12点(钟)",
     "options": [
-      "8月",
-      "4月",
       "12点(钟)",
-      "周五(简)"
+      "周三(简)",
+      "0",
+      "7点(钟)"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "十二時 = 12点(钟) (じゅうにじ)"
   },
   {
-    "id": "num-l098",
+    "id": "num-l126",
+    "audio": "何時",
+    "question": "听到的词是什么意思?",
+    "answer": "几点?",
+    "options": [
+      "20号",
+      "几点?",
+      "1号 / 1天",
+      "星期三 / Wednesday"
+    ],
+    "answerIndex": 1,
+    "explanation": "何時 = 几点? (なんじ)"
+  },
+  {
+    "id": "num-l127",
     "audio": "半",
     "question": "听到的词是什么意思?",
     "answer": "半 / 一半",
     "options": [
-      "2",
-      "20",
-      "1000日元",
+      "24号",
+      "21号",
+      "今夜",
       "半 / 一半"
     ],
     "answerIndex": 3,
     "explanation": "半 = 半 / 一半 (はん)"
   },
   {
-    "id": "num-l099",
+    "id": "num-l128",
+    "audio": "三十分",
+    "question": "听到的词是什么意思?",
+    "answer": "30分",
+    "options": [
+      "1公斤/1公里",
+      "31号",
+      "今天",
+      "30分"
+    ],
+    "answerIndex": 3,
+    "explanation": "三十分 = 30分 (さんじっぷん)"
+  },
+  {
+    "id": "num-l129",
     "audio": "一分",
     "question": "听到的词是什么意思?",
     "answer": "1分钟",
     "options": [
-      "周二(简)",
-      "2月",
+      "31号",
       "1分钟",
-      "3点(钟)"
+      "16",
+      "18"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "一分 = 1分钟 (いっぷん)"
   },
   {
-    "id": "num-l100",
+    "id": "num-l130",
+    "audio": "二分",
+    "question": "听到的词是什么意思?",
+    "answer": "2分钟",
+    "options": [
+      "2分钟",
+      "13号 / 13天",
+      "11号 / 11天",
+      "19号"
+    ],
+    "answerIndex": 0,
+    "explanation": "二分 = 2分钟 (にふん)"
+  },
+  {
+    "id": "num-l131",
     "audio": "三分",
     "question": "听到的词是什么意思?",
     "answer": "3分钟",
     "options": [
-      "200",
-      "3分钟",
-      "星期四 / Thursday",
-      "600"
+      "1秒",
+      "晚上",
+      "50",
+      "3分钟"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "三分 = 3分钟 (さんぷん)"
   },
   {
-    "id": "num-l101",
+    "id": "num-l132",
+    "audio": "四分",
+    "question": "听到的词是什么意思?",
+    "answer": "4分钟",
+    "options": [
+      "中午 / 白天",
+      "4分钟",
+      "1年",
+      "周四(简)"
+    ],
+    "answerIndex": 1,
+    "explanation": "四分 = 4分钟 (よんふん)"
+  },
+  {
+    "id": "num-l133",
+    "audio": "五分",
+    "question": "听到的词是什么意思?",
+    "answer": "5分钟",
+    "options": [
+      "2点(钟)",
+      "1只(鸟)",
+      "1000000 / 百万",
+      "5分钟"
+    ],
+    "answerIndex": 3,
+    "explanation": "五分 = 5分钟 (ごふん)"
+  },
+  {
+    "id": "num-l134",
+    "audio": "六分",
+    "question": "听到的词是什么意思?",
+    "answer": "6分钟",
+    "options": [
+      "6分钟",
+      "10万日元",
+      "10秒",
+      "5分钟"
+    ],
+    "answerIndex": 0,
+    "explanation": "六分 = 6分钟 (ろっぷん)"
+  },
+  {
+    "id": "num-l135",
+    "audio": "七分",
+    "question": "听到的词是什么意思?",
+    "answer": "7分钟",
+    "options": [
+      "7分钟",
+      "8号 / 8天",
+      "3楼",
+      "15"
+    ],
+    "answerIndex": 0,
+    "explanation": "七分 = 7分钟 (ななふん)"
+  },
+  {
+    "id": "num-l136",
+    "audio": "八分",
+    "question": "听到的词是什么意思?",
+    "answer": "8分钟",
+    "options": [
+      "8分钟",
+      "前天",
+      "0",
+      "7"
+    ],
+    "answerIndex": 0,
+    "explanation": "八分 = 8分钟 (はっぷん)"
+  },
+  {
+    "id": "num-l137",
+    "audio": "九分",
+    "question": "听到的词是什么意思?",
+    "answer": "9分钟",
+    "options": [
+      "9分钟",
+      "1丁目",
+      "16",
+      "7点(钟)"
+    ],
+    "answerIndex": 0,
+    "explanation": "九分 = 9分钟 (きゅうふん)"
+  },
+  {
+    "id": "num-l138",
     "audio": "十分",
     "question": "听到的词是什么意思?",
     "answer": "10分钟",
     "options": [
+      "1只(中小动物)",
       "10分钟",
-      "星期六 / Saturday",
-      "6号 / 6天",
-      "1号 / 1天"
+      "8点(钟)",
+      "10万日元"
     ],
-    "answerIndex": 0,
-    "explanation": "十分 = 10分钟 (じっぷん/じゅっぷん)"
+    "answerIndex": 1,
+    "explanation": "十分 = 10分钟 (じゅっぷん/じっぷん)"
   },
   {
-    "id": "num-l102",
+    "id": "num-l139",
     "audio": "一秒",
     "question": "听到的词是什么意思?",
     "answer": "1秒",
     "options": [
-      "400",
+      "6000",
+      "1人",
       "1秒",
-      "大约",
-      "60"
+      "20000 / 2万"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "一秒 = 1秒 (いちびょう)"
   },
   {
-    "id": "num-l103",
+    "id": "num-l140",
+    "audio": "十秒",
+    "question": "听到的词是什么意思?",
+    "answer": "10秒",
+    "options": [
+      "4年",
+      "一整天",
+      "10号 / 10天",
+      "10秒"
+    ],
+    "answerIndex": 3,
+    "explanation": "十秒 = 10秒 (じゅっびょう)"
+  },
+  {
+    "id": "num-l141",
+    "audio": "何秒",
+    "question": "听到的词是什么意思?",
+    "answer": "几秒?",
+    "options": [
+      "10",
+      "几秒?",
+      "2月",
+      "1日元"
+    ],
+    "answerIndex": 1,
+    "explanation": "何秒 = 几秒? (なんびょう)"
+  },
+  {
+    "id": "num-l142",
+    "audio": "午前",
+    "question": "听到的词是什么意思?",
+    "answer": "上午(AM)",
+    "options": [
+      "哪一年?",
+      "1公斤/1公里",
+      "全部",
+      "上午(AM)"
+    ],
+    "answerIndex": 3,
+    "explanation": "午前 = 上午(AM) (ごぜん)"
+  },
+  {
+    "id": "num-l143",
+    "audio": "午後",
+    "question": "听到的词是什么意思?",
+    "answer": "下午(PM)",
+    "options": [
+      "10000 / 1万",
+      "7号 / 7天",
+      "下午(PM)",
+      "1楼"
+    ],
+    "answerIndex": 2,
+    "explanation": "午後 = 下午(PM) (ごご)"
+  },
+  {
+    "id": "num-l144",
+    "audio": "朝",
+    "question": "听到的词是什么意思?",
+    "answer": "早上",
+    "options": [
+      "几月?",
+      "19",
+      "早上",
+      "1楼"
+    ],
+    "answerIndex": 2,
+    "explanation": "朝 = 早上 (あさ)"
+  },
+  {
+    "id": "num-l145",
+    "audio": "今朝",
+    "question": "听到的词是什么意思?",
+    "answer": "今早",
+    "options": [
+      "8点(钟)",
+      "三个月",
+      "今早",
+      "19号"
+    ],
+    "answerIndex": 2,
+    "explanation": "今朝 = 今早 (けさ)"
+  },
+  {
+    "id": "num-l146",
+    "audio": "昼",
+    "question": "听到的词是什么意思?",
+    "answer": "中午 / 白天",
+    "options": [
+      "三个月",
+      "中午 / 白天",
+      "几号?",
+      "30分"
+    ],
+    "answerIndex": 1,
+    "explanation": "昼 = 中午 / 白天 (ひる)"
+  },
+  {
+    "id": "num-l147",
+    "audio": "夜",
+    "question": "听到的词是什么意思?",
+    "answer": "晚上",
+    "options": [
+      "晚上",
+      "周五(简)",
+      "7分钟",
+      "21号"
+    ],
+    "answerIndex": 0,
+    "explanation": "夜 = 晚上 (よる)"
+  },
+  {
+    "id": "num-l148",
+    "audio": "今夜",
+    "question": "听到的词是什么意思?",
+    "answer": "今夜",
+    "options": [
+      "500",
+      "今夜",
+      "一次 / 一回",
+      "10号 / 10天"
+    ],
+    "answerIndex": 1,
+    "explanation": "今夜 = 今夜 (こんや)"
+  },
+  {
+    "id": "num-l149",
+    "audio": "今晩",
+    "question": "听到的词是什么意思?",
+    "answer": "今晚",
+    "options": [
+      "1次",
+      "10分钟",
+      "今晚",
+      "29号"
+    ],
+    "answerIndex": 2,
+    "explanation": "今晩 = 今晚 (こんばん)"
+  },
+  {
+    "id": "num-l150",
     "audio": "一日中",
     "question": "听到的词是什么意思?",
     "answer": "一整天",
     "options": [
       "一整天",
-      "15",
-      "星期日 / Sunday",
-      "1次"
+      "4人",
+      "每周",
+      "100000 / 10万"
     ],
     "answerIndex": 0,
     "explanation": "一日中 = 一整天 (いちにちじゅう)"
   },
   {
-    "id": "num-l104",
+    "id": "num-l151",
+    "audio": "毎日",
+    "question": "听到的词是什么意思?",
+    "answer": "每天",
+    "options": [
+      "5月",
+      "每天",
+      "今晚",
+      "3年"
+    ],
+    "answerIndex": 1,
+    "explanation": "毎日 = 每天 (まいにち)"
+  },
+  {
+    "id": "num-l152",
+    "audio": "一週間",
+    "question": "听到的词是什么意思?",
+    "answer": "一星期 / 一周",
+    "options": [
+      "今晚",
+      "每月",
+      "一星期 / 一周",
+      "50"
+    ],
+    "answerIndex": 2,
+    "explanation": "一週間 = 一星期 / 一周 (いっしゅうかん)"
+  },
+  {
+    "id": "num-l153",
+    "audio": "二週間",
+    "question": "听到的词是什么意思?",
+    "answer": "两星期 / 两周",
+    "options": [
+      "两星期 / 两周",
+      "去年",
+      "1人",
+      "2分钟"
+    ],
+    "answerIndex": 0,
+    "explanation": "二週間 = 两星期 / 两周 (にしゅうかん)"
+  },
+  {
+    "id": "num-l154",
+    "audio": "一ヶ月",
+    "question": "听到的词是什么意思?",
+    "answer": "一个月",
+    "options": [
+      "1只(鸟)",
+      "未满",
+      "21号",
+      "一个月"
+    ],
+    "answerIndex": 3,
+    "explanation": "一ヶ月 = 一个月 (いっかげつ)"
+  },
+  {
+    "id": "num-l155",
+    "audio": "三ヶ月",
+    "question": "听到的词是什么意思?",
+    "answer": "三个月",
+    "options": [
+      "三个月",
+      "10万日元",
+      "星期二 / Tuesday",
+      "2月"
+    ],
+    "answerIndex": 0,
+    "explanation": "三ヶ月 = 三个月 (さんかげつ)"
+  },
+  {
+    "id": "num-l156",
+    "audio": "一年中",
+    "question": "听到的词是什么意思?",
+    "answer": "一整年",
+    "options": [
+      "以上",
+      "一整年",
+      "10分钟",
+      "3张(薄物)"
+    ],
+    "answerIndex": 1,
+    "explanation": "一年中 = 一整年 (いちねんじゅう)"
+  },
+  {
+    "id": "num-l157",
+    "audio": "今日",
+    "question": "听到的词是什么意思?",
+    "answer": "今天",
+    "options": [
+      "8年",
+      "2倍",
+      "今天",
+      "全部"
+    ],
+    "answerIndex": 2,
+    "explanation": "今日 = 今天 (きょう)"
+  },
+  {
+    "id": "num-l158",
+    "audio": "明日",
+    "question": "听到的词是什么意思?",
+    "answer": "明天",
+    "options": [
+      "9",
+      "明天",
+      "19号",
+      "周六(简)"
+    ],
+    "answerIndex": 1,
+    "explanation": "明日 = 明天 (あした/あす)"
+  },
+  {
+    "id": "num-l159",
+    "audio": "明後日",
+    "question": "听到的词是什么意思?",
+    "answer": "后天",
+    "options": [
+      "9月",
+      "1秒",
+      "后天",
+      "10月"
+    ],
+    "answerIndex": 2,
+    "explanation": "明後日 = 后天 (あさって)"
+  },
+  {
+    "id": "num-l160",
+    "audio": "昨日",
+    "question": "听到的词是什么意思?",
+    "answer": "昨天",
+    "options": [
+      "昨天",
+      "2根(细长物)",
+      "10年",
+      "7"
+    ],
+    "answerIndex": 0,
+    "explanation": "昨日 = 昨天 (きのう)"
+  },
+  {
+    "id": "num-l161",
+    "audio": "一昨日",
+    "question": "听到的词是什么意思?",
+    "answer": "前天",
+    "options": [
+      "前天",
+      "1分钟",
+      "12月",
+      "5"
+    ],
+    "answerIndex": 0,
+    "explanation": "一昨日 = 前天 (おととい)"
+  },
+  {
+    "id": "num-l162",
+    "audio": "今週",
+    "question": "听到的词是什么意思?",
+    "answer": "这周",
+    "options": [
+      "后天",
+      "1丁目",
+      "这周",
+      "24号"
+    ],
+    "answerIndex": 2,
+    "explanation": "今週 = 这周 (こんしゅう)"
+  },
+  {
+    "id": "num-l163",
+    "audio": "先週",
+    "question": "听到的词是什么意思?",
+    "answer": "上周",
+    "options": [
+      "星期四 / Thursday",
+      "23号",
+      "每周",
+      "上周"
+    ],
+    "answerIndex": 3,
+    "explanation": "先週 = 上周 (せんしゅう)"
+  },
+  {
+    "id": "num-l164",
+    "audio": "来週",
+    "question": "听到的词是什么意思?",
+    "answer": "下周",
+    "options": [
+      "7月",
+      "下周",
+      "0",
+      "27号"
+    ],
+    "answerIndex": 1,
+    "explanation": "来週 = 下周 (らいしゅう)"
+  },
+  {
+    "id": "num-l165",
+    "audio": "平日",
+    "question": "听到的词是什么意思?",
+    "answer": "平日 / 工作日",
+    "options": [
+      "8",
+      "平日 / 工作日",
+      "以下",
+      "3年"
+    ],
+    "answerIndex": 1,
+    "explanation": "平日 = 平日 / 工作日 (へいじつ)"
+  },
+  {
+    "id": "num-l166",
+    "audio": "週末",
+    "question": "听到的词是什么意思?",
+    "answer": "周末",
+    "options": [
+      "30",
+      "周末",
+      "下周",
+      "去年"
+    ],
+    "answerIndex": 1,
+    "explanation": "週末 = 周末 (しゅうまつ)"
+  },
+  {
+    "id": "num-l167",
+    "audio": "一年",
+    "question": "听到的词是什么意思?",
+    "answer": "1年",
+    "options": [
+      "5号 / 5天",
+      "10秒",
+      "1分钟",
+      "1年"
+    ],
+    "answerIndex": 3,
+    "explanation": "一年 = 1年 (いちねん)"
+  },
+  {
+    "id": "num-l168",
+    "audio": "二年",
+    "question": "听到的词是什么意思?",
+    "answer": "2年",
+    "options": [
+      "2007年(示例)",
+      "2年",
+      "1岁",
+      "6分钟"
+    ],
+    "answerIndex": 1,
+    "explanation": "二年 = 2年 (にねん)"
+  },
+  {
+    "id": "num-l169",
+    "audio": "三年",
+    "question": "听到的词是什么意思?",
+    "answer": "3年",
+    "options": [
+      "9分钟",
+      "8年",
+      "2分钟",
+      "3年"
+    ],
+    "answerIndex": 3,
+    "explanation": "三年 = 3年 (さんねん)"
+  },
+  {
+    "id": "num-l170",
+    "audio": "四年",
+    "question": "听到的词是什么意思?",
+    "answer": "4年",
+    "options": [
+      "30",
+      "700",
+      "4年",
+      "2根(细长物)"
+    ],
+    "answerIndex": 2,
+    "explanation": "四年 = 4年 (よねん)"
+  },
+  {
+    "id": "num-l171",
+    "audio": "五年",
+    "question": "听到的词是什么意思?",
+    "answer": "5年",
+    "options": [
+      "17",
+      "5年",
+      "这周",
+      "几月?"
+    ],
+    "answerIndex": 1,
+    "explanation": "五年 = 5年 (ごねん)"
+  },
+  {
+    "id": "num-l172",
+    "audio": "六年",
+    "question": "听到的词是什么意思?",
+    "answer": "6年",
+    "options": [
+      "1米",
+      "6年",
+      "18号",
+      "后天"
+    ],
+    "answerIndex": 1,
+    "explanation": "六年 = 6年 (ろくねん)"
+  },
+  {
+    "id": "num-l173",
+    "audio": "七年",
+    "question": "听到的词是什么意思?",
+    "answer": "7年",
+    "options": [
+      "全部",
+      "9月",
+      "第一 / 最",
+      "7年"
+    ],
+    "answerIndex": 3,
+    "explanation": "七年 = 7年 (しちねん/ななねん)"
+  },
+  {
+    "id": "num-l174",
+    "audio": "八年",
+    "question": "听到的词是什么意思?",
+    "answer": "8年",
+    "options": [
+      "21号",
+      "8年",
+      "5人",
+      "10点(钟)"
+    ],
+    "answerIndex": 1,
+    "explanation": "八年 = 8年 (はちねん)"
+  },
+  {
+    "id": "num-l175",
+    "audio": "九年",
+    "question": "听到的词是什么意思?",
+    "answer": "9年",
+    "options": [
+      "10秒",
+      "9年",
+      "半 / 一半",
+      "1个人(独自)"
+    ],
+    "answerIndex": 1,
+    "explanation": "九年 = 9年 (きゅうねん)"
+  },
+  {
+    "id": "num-l176",
+    "audio": "十年",
+    "question": "听到的词是什么意思?",
+    "answer": "10年",
+    "options": [
+      "11月",
+      "10年",
+      "900",
+      "60"
+    ],
+    "answerIndex": 1,
+    "explanation": "十年 = 10年 (じゅうねん)"
+  },
+  {
+    "id": "num-l177",
+    "audio": "十四年",
+    "question": "听到的词是什么意思?",
+    "answer": "14年",
+    "options": [
+      "下周",
+      "20年",
+      "10月",
+      "14年"
+    ],
+    "answerIndex": 3,
+    "explanation": "十四年 = 14年 (じゅうよねん)"
+  },
+  {
+    "id": "num-l178",
+    "audio": "二十年",
+    "question": "听到的词是什么意思?",
+    "answer": "20年",
+    "options": [
+      "1岁",
+      "20年",
+      "15号",
+      "5人"
+    ],
+    "answerIndex": 1,
+    "explanation": "二十年 = 20年 (にじゅうねん)"
+  },
+  {
+    "id": "num-l179",
+    "audio": "何年",
+    "question": "听到的词是什么意思?",
+    "answer": "哪一年?",
+    "options": [
+      "哪一年?",
+      "未满",
+      "9年",
+      "1岁"
+    ],
+    "answerIndex": 0,
+    "explanation": "何年 = 哪一年? (なんねん)"
+  },
+  {
+    "id": "num-l180",
+    "audio": "今年",
+    "question": "听到的词是什么意思?",
+    "answer": "今年",
+    "options": [
+      "100克",
+      "今年",
+      "300",
+      "星期几?"
+    ],
+    "answerIndex": 1,
+    "explanation": "今年 = 今年 (ことし)"
+  },
+  {
+    "id": "num-l181",
+    "audio": "去年",
+    "question": "听到的词是什么意思?",
+    "answer": "去年",
+    "options": [
+      "今天",
+      "星期五 / Friday",
+      "30度",
+      "去年"
+    ],
+    "answerIndex": 3,
+    "explanation": "去年 = 去年 (きょねん)"
+  },
+  {
+    "id": "num-l182",
+    "audio": "来年",
+    "question": "听到的词是什么意思?",
+    "answer": "明年",
+    "options": [
+      "明年",
+      "前年",
+      "8年",
+      "一整年"
+    ],
+    "answerIndex": 0,
+    "explanation": "来年 = 明年 (らいねん)"
+  },
+  {
+    "id": "num-l183",
+    "audio": "一昨年",
+    "question": "听到的词是什么意思?",
+    "answer": "前年",
+    "options": [
+      "前年",
+      "1公斤/1公里",
+      "12月",
+      "今晚"
+    ],
+    "answerIndex": 0,
+    "explanation": "一昨年 = 前年 (おととし)"
+  },
+  {
+    "id": "num-l184",
+    "audio": "再来年",
+    "question": "听到的词是什么意思?",
+    "answer": "后年",
+    "options": [
+      "200",
+      "未满",
+      "后年",
+      "11月"
+    ],
+    "answerIndex": 2,
+    "explanation": "再来年 = 后年 (さらいねん)"
+  },
+  {
+    "id": "num-l185",
+    "audio": "二千七年",
+    "question": "听到的词是什么意思?",
+    "answer": "2007年(示例)",
+    "options": [
+      "2007年(示例)",
+      "300",
+      "20000 / 2万",
+      "后年"
+    ],
+    "answerIndex": 0,
+    "explanation": "二千七年 = 2007年(示例) (にせんしちねん)"
+  },
+  {
+    "id": "num-l186",
     "audio": "一人",
     "question": "听到的词是什么意思?",
     "answer": "1人",
     "options": [
-      "10万日元",
       "1人",
-      "5号 / 5天",
-      "6000"
+      "23号",
+      "100",
+      "星期一 / Monday"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "一人 = 1人 (ひとり)"
   },
   {
-    "id": "num-l105",
+    "id": "num-l187",
     "audio": "二人",
     "question": "听到的词是什么意思?",
     "answer": "2人",
     "options": [
-      "周一(简)",
-      "星期二 / Tuesday",
-      "每月",
-      "2人"
+      "3000",
+      "2人",
+      "10万日元",
+      "每年"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "二人 = 2人 (ふたり)"
   },
   {
-    "id": "num-l106",
+    "id": "num-l188",
     "audio": "三人",
     "question": "听到的词是什么意思?",
     "answer": "3人",
     "options": [
-      "周五(简)",
       "3人",
-      "一次 / 一回",
-      "8号 / 8天"
+      "2",
+      "2月",
+      "5年"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "三人 = 3人 (さんにん)"
   },
   {
-    "id": "num-l107",
+    "id": "num-l189",
     "audio": "四人",
     "question": "听到的词是什么意思?",
     "answer": "4人",
     "options": [
-      "2号 / 2天",
-      "8000",
       "4人",
-      "1个人(独自)"
+      "每周",
+      "8年",
+      "上周"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "四人 = 4人 (よにん)"
   },
   {
-    "id": "num-l108",
+    "id": "num-l190",
     "audio": "五人",
     "question": "听到的词是什么意思?",
     "answer": "5人",
     "options": [
-      "星期六 / Saturday",
-      "2番地",
-      "1000",
-      "5人"
+      "1岁",
+      "20",
+      "5人",
+      "半 / 一半"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "五人 = 5人 (ごにん)"
   },
   {
-    "id": "num-l109",
+    "id": "num-l191",
     "audio": "六人",
     "question": "听到的词是什么意思?",
     "answer": "6人",
     "options": [
-      "100",
-      "1楼",
-      "3000",
-      "6人"
+      "12点(钟)",
+      "几点?",
+      "6人",
+      "25号"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "六人 = 6人 (ろくにん)"
   },
   {
-    "id": "num-l110",
+    "id": "num-l192",
     "audio": "十人",
     "question": "听到的词是什么意思?",
     "answer": "10人",
     "options": [
-      "未满",
-      "14",
-      "50000 / 5万",
-      "10人"
+      "10人",
+      "一星期 / 一周",
+      "26号",
+      "星期日 / Sunday"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "十人 = 10人 (じゅうにん)"
   },
   {
-    "id": "num-l111",
+    "id": "num-l193",
     "audio": "一人",
     "question": "听到的词是什么意思?",
     "answer": "1个人(独自)",
     "options": [
-      "星期四 / Thursday",
-      "周六(简)",
       "1个人(独自)",
-      "周三(简)"
+      "10000日元(1万日元)",
+      "16号",
+      "每周"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "一人 = 1个人(独自) (ひとり)"
   },
   {
-    "id": "num-l112",
+    "id": "num-l194",
     "audio": "一台",
     "question": "听到的词是什么意思?",
     "answer": "1台(机器/车)",
     "options": [
-      "2根(细长物)",
-      "20",
-      "6000",
-      "1台(机器/车)"
+      "11号 / 11天",
+      "1台(机器/车)",
+      "8号 / 8天",
+      "2分钟"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "一台 = 1台(机器/车) (いちだい)"
   },
   {
-    "id": "num-l113",
+    "id": "num-l195",
     "audio": "二本",
     "question": "听到的词是什么意思?",
     "answer": "2根(细长物)",
     "options": [
-      "2根(细长物)",
-      "1人",
-      "24号",
-      "一整天"
+      "30",
+      "3号",
+      "周一(简)",
+      "2根(细长物)"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "二本 = 2根(细长物) (にほん)"
   },
   {
-    "id": "num-l114",
+    "id": "num-l196",
     "audio": "一本",
     "question": "听到的词是什么意思?",
     "answer": "1根(细长物)",
     "options": [
-      "4人",
-      "3号",
-      "7",
-      "1根(细长物)"
+      "4年",
+      "今夜",
+      "1根(细长物)",
+      "1台(机器/车)"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "一本 = 1根(细长物) (いっぽん)"
   },
   {
-    "id": "num-l115",
+    "id": "num-l197",
     "audio": "三枚",
     "question": "听到的词是什么意思?",
     "answer": "3张(薄物)",
     "options": [
-      "3张(薄物)",
-      "40",
-      "12",
-      "7000"
+      "13号 / 13天",
+      "2年",
+      "1个人(独自)",
+      "3张(薄物)"
     ],
-    "answerIndex": 0,
+    "answerIndex": 3,
     "explanation": "三枚 = 3张(薄物) (さんまい)"
   },
   {
-    "id": "num-l116",
+    "id": "num-l198",
     "audio": "一枚",
     "question": "听到的词是什么意思?",
     "answer": "1张(薄物)",
     "options": [
-      "1次",
-      "12月",
       "1张(薄物)",
-      "16"
+      "10万日元",
+      "几号?",
+      "1只(中小动物)"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "一枚 = 1张(薄物) (いちまい)"
   },
   {
-    "id": "num-l117",
+    "id": "num-l199",
     "audio": "一匹",
     "question": "听到的词是什么意思?",
     "answer": "1只(中小动物)",
     "options": [
-      "60",
-      "2",
-      "1只(中小动物)",
-      "5000"
+      "0",
+      "8",
+      "13号 / 13天",
+      "1只(中小动物)"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "一匹 = 1只(中小动物) (いっぴき)"
   },
   {
-    "id": "num-l118",
+    "id": "num-l200",
     "audio": "一羽",
     "question": "听到的词是什么意思?",
     "answer": "1只(鸟)",
     "options": [
       "1只(鸟)",
-      "10人",
-      "0",
-      "周四(简)"
+      "40",
+      "周一(简)",
+      "邮编"
     ],
     "answerIndex": 0,
     "explanation": "一羽 = 1只(鸟) (いちわ)"
   },
   {
-    "id": "num-l119",
+    "id": "num-l201",
     "audio": "一回",
     "question": "听到的词是什么意思?",
     "answer": "1次",
     "options": [
-      "1000日元",
-      "80",
-      "30",
+      "上午(AM)",
+      "4月",
+      "星期二 / Tuesday",
       "1次"
     ],
     "answerIndex": 3,
     "explanation": "一回 = 1次 (いっかい)"
   },
   {
-    "id": "num-l120",
+    "id": "num-l202",
     "audio": "二回",
     "question": "听到的词是什么意思?",
     "answer": "2次",
     "options": [
-      "周四(简)",
-      "8号 / 8天",
+      "3楼",
       "2次",
-      "周一(简)"
+      "前天",
+      "3号 / 3天"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "二回 = 2次 (にかい)"
   },
   {
-    "id": "num-l121",
+    "id": "num-l203",
     "audio": "一階",
     "question": "听到的词是什么意思?",
     "answer": "1楼",
     "options": [
-      "3分钟",
-      "1丁目",
+      "1",
       "1楼",
-      "第一 / 最"
+      "900",
+      "2年"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "一階 = 1楼 (いっかい)"
   },
   {
-    "id": "num-l122",
+    "id": "num-l204",
     "audio": "三階",
     "question": "听到的词是什么意思?",
     "answer": "3楼",
     "options": [
-      "未满",
+      "两星期 / 两周",
+      "27号",
       "3楼",
-      "2月",
-      "周四(简)"
+      "1丁目"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "三階 = 3楼 (さんがい)"
   },
   {
-    "id": "num-l123",
+    "id": "num-l205",
     "audio": "一歳",
     "question": "听到的词是什么意思?",
     "answer": "1岁",
     "options": [
-      "一次 / 一回",
-      "50",
-      "16",
-      "1岁"
+      "2分钟",
+      "3楼",
+      "1岁",
+      "1人"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "一歳 = 1岁 (いっさい)"
   },
   {
-    "id": "num-l124",
+    "id": "num-l206",
     "audio": "五歳",
     "question": "听到的词是什么意思?",
     "answer": "5岁",
     "options": [
-      "周日(简)",
-      "5岁",
-      "14号",
-      "10000000 / 千万"
+      "10000 / 1万",
+      "周末",
+      "一星期 / 一周",
+      "5岁"
     ],
-    "answerIndex": 1,
+    "answerIndex": 3,
     "explanation": "五歳 = 5岁 (ごさい)"
   },
   {
-    "id": "num-l125",
+    "id": "num-l207",
     "audio": "一円",
     "question": "听到的词是什么意思?",
     "answer": "1日元",
     "options": [
-      "40",
-      "星期三 / Wednesday",
-      "9月",
+      "去年",
+      "26号",
+      "14年",
       "1日元"
     ],
     "answerIndex": 3,
     "explanation": "一円 = 1日元 (いちえん)"
   },
   {
-    "id": "num-l126",
+    "id": "num-l208",
     "audio": "百円",
     "question": "听到的词是什么意思?",
     "answer": "100日元",
     "options": [
       "100日元",
-      "2番地",
-      "900",
-      "1台(机器/车)"
+      "8点(钟)",
+      "11号 / 11天",
+      "明天"
     ],
     "answerIndex": 0,
     "explanation": "百円 = 100日元 (ひゃくえん)"
   },
   {
-    "id": "num-l127",
+    "id": "num-l209",
     "audio": "千円",
     "question": "听到的词是什么意思?",
     "answer": "1000日元",
     "options": [
-      "5000",
-      "1只(鸟)",
+      "1号 / 1天",
       "1000日元",
-      "3号"
+      "1次",
+      "3年"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "千円 = 1000日元 (せんえん)"
   },
   {
-    "id": "num-l128",
+    "id": "num-l210",
     "audio": "一万円",
     "question": "听到的词是什么意思?",
     "answer": "10000日元(1万日元)",
     "options": [
+      "邮编",
+      "这周",
       "10000日元(1万日元)",
-      "第一 / 最",
-      "电话号码",
-      "周四(简)"
+      "4年"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "一万円 = 10000日元(1万日元) (いちまんえん)"
   },
   {
-    "id": "num-l129",
+    "id": "num-l211",
     "audio": "十万円",
     "question": "听到的词是什么意思?",
     "answer": "10万日元",
     "options": [
-      "4月",
-      "600",
-      "12",
-      "10万日元"
+      "10万日元",
+      "未满",
+      "14号",
+      "60"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "十万円 = 10万日元 (じゅうまんえん)"
   },
   {
-    "id": "num-l130",
+    "id": "num-l212",
     "audio": "電話番号",
     "question": "听到的词是什么意思?",
     "answer": "电话号码",
     "options": [
-      "6月",
-      "70",
-      "8000",
-      "电话号码"
+      "电话号码",
+      "3000",
+      "10分钟",
+      "前天"
     ],
-    "answerIndex": 3,
+    "answerIndex": 0,
     "explanation": "電話番号 = 电话号码 (でんわばんごう)"
   },
   {
-    "id": "num-l131",
+    "id": "num-l213",
     "audio": "郵便番号",
     "question": "听到的词是什么意思?",
     "answer": "邮编",
     "options": [
-      "20号",
-      "1000日元",
-      "大约",
+      "0",
+      "2次",
+      "几点?",
       "邮编"
     ],
     "answerIndex": 3,
     "explanation": "郵便番号 = 邮编 (ゆうびんばんごう)"
   },
   {
-    "id": "num-l132",
+    "id": "num-l214",
     "audio": "一丁目",
     "question": "听到的词是什么意思?",
     "answer": "1丁目",
     "options": [
-      "900",
-      "2号 / 2天",
-      "15",
-      "1丁目"
+      "12号 / 12天",
+      "1丁目",
+      "1月",
+      "未满"
     ],
-    "answerIndex": 3,
+    "answerIndex": 1,
     "explanation": "一丁目 = 1丁目 (いっちょうめ)"
   },
   {
-    "id": "num-l133",
+    "id": "num-l215",
     "audio": "二番地",
     "question": "听到的词是什么意思?",
     "answer": "2番地",
     "options": [
-      "3点(钟)",
       "2番地",
-      "10000000 / 千万",
-      "1次"
+      "5号 / 5天",
+      "10号 / 10天",
+      "700"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "二番地 = 2番地 (にばんち)"
   },
   {
-    "id": "num-l134",
+    "id": "num-l216",
     "audio": "三号",
     "question": "听到的词是什么意思?",
     "answer": "3号",
     "options": [
-      "3点(钟)",
       "3号",
-      "1日元",
-      "星期日 / Sunday"
+      "7年",
+      "90",
+      "20000 / 2万"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "三号 = 3号 (さんごう)"
   },
   {
-    "id": "num-l135",
+    "id": "num-l217",
     "audio": "一番",
     "question": "听到的词是什么意思?",
     "answer": "第一 / 最",
     "options": [
+      "1月",
+      "星期二 / Tuesday",
       "第一 / 最",
-      "12",
-      "11",
-      "2番地"
+      "10000 / 1万"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "一番 = 第一 / 最 (いちばん)"
   },
   {
-    "id": "num-l136",
+    "id": "num-l218",
     "audio": "一度",
     "question": "听到的词是什么意思?",
     "answer": "一次 / 一回",
     "options": [
       "700",
-      "1个人(独自)",
-      "8号 / 8天",
-      "一次 / 一回"
+      "100克",
+      "一次 / 一回",
+      "19号"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "一度 = 一次 / 一回 (いちど)"
   },
   {
-    "id": "num-l137",
+    "id": "num-l219",
     "audio": "二倍",
     "question": "听到的词是什么意思?",
     "answer": "2倍",
     "options": [
+      "11",
+      "2年",
       "2倍",
-      "10",
-      "100000000 / 1亿",
-      "1公斤/1公里"
+      "今早"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "二倍 = 2倍 (にばい)"
   },
   {
-    "id": "num-l138",
+    "id": "num-l220",
     "audio": "全部",
     "question": "听到的词是什么意思?",
     "answer": "全部",
     "options": [
-      "3号",
-      "0",
+      "100000 / 10万",
+      "下周",
       "全部",
-      "1丁目"
+      "三个月"
     ],
     "answerIndex": 2,
     "explanation": "全部 = 全部 (ぜんぶ)"
   },
   {
-    "id": "num-l139",
+    "id": "num-l221",
     "audio": "約",
     "question": "听到的词是什么意思?",
     "answer": "大约",
     "options": [
+      "明天",
+      "1次",
       "大约",
-      "周一(简)",
-      "2次",
-      "50000 / 5万"
+      "1000"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "約 = 大约 (やく)"
   },
   {
-    "id": "num-l140",
+    "id": "num-l222",
     "audio": "以上",
     "question": "听到的词是什么意思?",
     "answer": "以上",
     "options": [
-      "10月",
       "以上",
-      "1楼",
-      "以下"
+      "周一(简)",
+      "400",
+      "1张(薄物)"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "以上 = 以上 (いじょう)"
   },
   {
-    "id": "num-l141",
+    "id": "num-l223",
     "audio": "以下",
     "question": "听到的词是什么意思?",
     "answer": "以下",
     "options": [
-      "3点(钟)",
-      "1月",
-      "半 / 一半",
+      "星期六 / Saturday",
+      "18",
+      "5年",
       "以下"
     ],
     "answerIndex": 3,
     "explanation": "以下 = 以下 (いか)"
   },
   {
-    "id": "num-l142",
+    "id": "num-l224",
     "audio": "未満",
     "question": "听到的词是什么意思?",
     "answer": "未满",
     "options": [
-      "7000",
-      "8",
       "未满",
-      "1月"
+      "3分钟",
+      "3",
+      "4人"
     ],
-    "answerIndex": 2,
+    "answerIndex": 0,
     "explanation": "未満 = 未满 (みまん)"
   },
   {
-    "id": "num-l143",
+    "id": "num-l225",
     "audio": "毎週",
     "question": "听到的词是什么意思?",
     "answer": "每周",
     "options": [
-      "8月",
+      "100000000 / 1亿",
       "每周",
-      "2根(细长物)",
-      "3楼"
+      "10月",
+      "28号"
     ],
     "answerIndex": 1,
     "explanation": "毎週 = 每周 (まいしゅう)"
   },
   {
-    "id": "num-l144",
+    "id": "num-l226",
     "audio": "毎月",
     "question": "听到的词是什么意思?",
     "answer": "每月",
     "options": [
+      "这周",
+      "今天",
       "每月",
-      "700",
-      "100000000 / 1亿",
-      "1秒"
+      "8月"
     ],
-    "answerIndex": 0,
+    "answerIndex": 2,
     "explanation": "毎月 = 每月 (まいつき)"
   },
   {
-    "id": "num-l145",
+    "id": "num-l227",
     "audio": "毎年",
     "question": "听到的词是什么意思?",
     "answer": "每年",
     "options": [
+      "3年",
       "每年",
-      "1个人(独自)",
-      "第一 / 最",
-      "3月"
+      "5000",
+      "10点(钟)"
     ],
-    "answerIndex": 0,
+    "answerIndex": 1,
     "explanation": "毎年 = 每年 (まいとし/まいねん)"
   },
   {
-    "id": "num-l146",
+    "id": "num-l228",
     "audio": "一キロ",
     "question": "听到的词是什么意思?",
     "answer": "1公斤/1公里",
     "options": [
-      "3000",
-      "1台(机器/车)",
+      "40",
       "1公斤/1公里",
-      "2月"
+      "1根(细长物)",
+      "周日(简)"
     ],
-    "answerIndex": 2,
+    "answerIndex": 1,
     "explanation": "一キロ = 1公斤/1公里 (いちキロ)"
   },
   {
-    "id": "num-l147",
+    "id": "num-l229",
     "audio": "一メートル",
     "question": "听到的词是什么意思?",
     "answer": "1米",
     "options": [
-      "1台(机器/车)",
+      "6号 / 6天",
+      "6人",
       "1米",
-      "600",
-      "以下"
+      "14号"
     ],
-    "answerIndex": 1,
+    "answerIndex": 2,
     "explanation": "一メートル = 1米 (いちメートル)"
   },
   {
-    "id": "num-l148",
+    "id": "num-l230",
     "audio": "百グラム",
     "question": "听到的词是什么意思?",
     "answer": "100克",
     "options": [
-      "周三(简)",
-      "10号 / 10天",
-      "100克",
-      "10分钟"
+      "中午 / 白天",
+      "6号 / 6天",
+      "100000000 / 1亿",
+      "100克"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "百グラム = 100克 (ひゃくグラム)"
   },
   {
-    "id": "num-l149",
+    "id": "num-l231",
     "audio": "三十度",
     "question": "听到的词是什么意思?",
     "answer": "30度",
     "options": [
-      "20号",
-      "8月",
-      "周六(简)",
-      "30度"
+      "昨天",
+      "6点(钟)",
+      "30度",
+      "14号"
     ],
-    "answerIndex": 3,
+    "answerIndex": 2,
     "explanation": "三十度 = 30度 (さんじゅうど)"
   }
 ]

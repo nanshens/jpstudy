@@ -674,6 +674,16 @@
   },
   {
     "id": "num-067",
+    "jp": "何月",
+    "reading": "なんがつ",
+    "romaji": "nangatsu",
+    "meaning": "几月?",
+    "tag": [
+      "月份"
+    ]
+  },
+  {
+    "id": "num-068",
     "jp": "月曜日",
     "reading": "げつようび",
     "romaji": "getsuyoubi",
@@ -683,7 +693,7 @@
     ]
   },
   {
-    "id": "num-068",
+    "id": "num-069",
     "jp": "火曜日",
     "reading": "かようび",
     "romaji": "kayoubi",
@@ -693,7 +703,7 @@
     ]
   },
   {
-    "id": "num-069",
+    "id": "num-070",
     "jp": "水曜日",
     "reading": "すいようび",
     "romaji": "suiyoubi",
@@ -703,7 +713,7 @@
     ]
   },
   {
-    "id": "num-070",
+    "id": "num-071",
     "jp": "木曜日",
     "reading": "もくようび",
     "romaji": "mokuyoubi",
@@ -713,7 +723,7 @@
     ]
   },
   {
-    "id": "num-071",
+    "id": "num-072",
     "jp": "金曜日",
     "reading": "きんようび",
     "romaji": "kinyoubi",
@@ -723,7 +733,7 @@
     ]
   },
   {
-    "id": "num-072",
+    "id": "num-073",
     "jp": "土曜日",
     "reading": "どようび",
     "romaji": "doyoubi",
@@ -733,7 +743,7 @@
     ]
   },
   {
-    "id": "num-073",
+    "id": "num-074",
     "jp": "日曜日",
     "reading": "にちようび",
     "romaji": "nichiyoubi",
@@ -743,7 +753,7 @@
     ]
   },
   {
-    "id": "num-074",
+    "id": "num-075",
     "jp": "月曜",
     "reading": "げつよう",
     "romaji": "getsuyou",
@@ -753,7 +763,7 @@
     ]
   },
   {
-    "id": "num-075",
+    "id": "num-076",
     "jp": "火曜",
     "reading": "かよう",
     "romaji": "kayou",
@@ -763,7 +773,7 @@
     ]
   },
   {
-    "id": "num-076",
+    "id": "num-077",
     "jp": "水曜",
     "reading": "すいよう",
     "romaji": "suiyou",
@@ -773,7 +783,7 @@
     ]
   },
   {
-    "id": "num-077",
+    "id": "num-078",
     "jp": "木曜",
     "reading": "もくよう",
     "romaji": "mokuyou",
@@ -783,7 +793,7 @@
     ]
   },
   {
-    "id": "num-078",
+    "id": "num-079",
     "jp": "金曜",
     "reading": "きんよう",
     "romaji": "kinyou",
@@ -793,7 +803,7 @@
     ]
   },
   {
-    "id": "num-079",
+    "id": "num-080",
     "jp": "土曜",
     "reading": "どよう",
     "romaji": "doyou",
@@ -803,7 +813,7 @@
     ]
   },
   {
-    "id": "num-080",
+    "id": "num-081",
     "jp": "日曜",
     "reading": "にちよう",
     "romaji": "nichiyou",
@@ -813,7 +823,17 @@
     ]
   },
   {
-    "id": "num-081",
+    "id": "num-082",
+    "jp": "何曜日",
+    "reading": "なんようび",
+    "romaji": "nanyoubi",
+    "meaning": "星期几?",
+    "tag": [
+      "星期"
+    ]
+  },
+  {
+    "id": "num-083",
     "jp": "一日",
     "reading": "ついたち/いちにち",
     "romaji": "tsuitachi",
@@ -824,7 +844,7 @@
     "note": "日期=ついたち;天数=いちにち"
   },
   {
-    "id": "num-082",
+    "id": "num-084",
     "jp": "二日",
     "reading": "ふつか",
     "romaji": "futsuka",
@@ -834,7 +854,7 @@
     ]
   },
   {
-    "id": "num-083",
+    "id": "num-085",
     "jp": "三日",
     "reading": "みっか",
     "romaji": "mika",
@@ -844,7 +864,7 @@
     ]
   },
   {
-    "id": "num-084",
+    "id": "num-086",
     "jp": "四日",
     "reading": "よっか",
     "romaji": "yoka",
@@ -854,7 +874,7 @@
     ]
   },
   {
-    "id": "num-085",
+    "id": "num-087",
     "jp": "五日",
     "reading": "いつか",
     "romaji": "itsuka",
@@ -864,7 +884,7 @@
     ]
   },
   {
-    "id": "num-086",
+    "id": "num-088",
     "jp": "六日",
     "reading": "むいか",
     "romaji": "muika",
@@ -874,7 +894,7 @@
     ]
   },
   {
-    "id": "num-087",
+    "id": "num-089",
     "jp": "七日",
     "reading": "なのか/しちにち",
     "romaji": "nanoka",
@@ -884,7 +904,7 @@
     ]
   },
   {
-    "id": "num-088",
+    "id": "num-090",
     "jp": "八日",
     "reading": "ようか",
     "romaji": "youka",
@@ -894,7 +914,7 @@
     ]
   },
   {
-    "id": "num-089",
+    "id": "num-091",
     "jp": "九日",
     "reading": "ここのか",
     "romaji": "kokonoka",
@@ -904,7 +924,7 @@
     ]
   },
   {
-    "id": "num-090",
+    "id": "num-092",
     "jp": "十日",
     "reading": "とおか",
     "romaji": "tooka",
@@ -914,7 +934,37 @@
     ]
   },
   {
-    "id": "num-091",
+    "id": "num-093",
+    "jp": "十一日",
+    "reading": "じゅういちにち",
+    "romaji": "juuichinichi",
+    "meaning": "11号 / 11天",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-094",
+    "jp": "十二日",
+    "reading": "じゅうににち",
+    "romaji": "juuninichi",
+    "meaning": "12号 / 12天",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-095",
+    "jp": "十三日",
+    "reading": "じゅうさんにち",
+    "romaji": "juusannichi",
+    "meaning": "13号 / 13天",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-096",
     "jp": "十四日",
     "reading": "じゅうよっか",
     "romaji": "juuyoka",
@@ -924,7 +974,57 @@
     ]
   },
   {
-    "id": "num-092",
+    "id": "num-097",
+    "jp": "十五日",
+    "reading": "じゅうごにち",
+    "romaji": "juugonichi",
+    "meaning": "15号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-098",
+    "jp": "十六日",
+    "reading": "じゅうろくにち",
+    "romaji": "juurokunichi",
+    "meaning": "16号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-099",
+    "jp": "十七日",
+    "reading": "じゅうななにち",
+    "romaji": "juunananichi",
+    "meaning": "17号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-100",
+    "jp": "十八日",
+    "reading": "じゅうはちにち",
+    "romaji": "juuhachinichi",
+    "meaning": "18号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-101",
+    "jp": "十九日",
+    "reading": "じゅうきゅうにち",
+    "romaji": "juukyuunichi",
+    "meaning": "19号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-102",
     "jp": "二十日",
     "reading": "はつか",
     "romaji": "hatsuka",
@@ -934,7 +1034,37 @@
     ]
   },
   {
-    "id": "num-093",
+    "id": "num-103",
+    "jp": "二十一日",
+    "reading": "にじゅういちにち",
+    "romaji": "nijuuichinichi",
+    "meaning": "21号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-104",
+    "jp": "二十二日",
+    "reading": "にじゅうににち",
+    "romaji": "nijuuninichi",
+    "meaning": "22号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-105",
+    "jp": "二十三日",
+    "reading": "にじゅうさんにち",
+    "romaji": "nijuusannichi",
+    "meaning": "23号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-106",
     "jp": "二十四日",
     "reading": "にじゅうよっか",
     "romaji": "nijuuyoka",
@@ -944,7 +1074,77 @@
     ]
   },
   {
-    "id": "num-094",
+    "id": "num-107",
+    "jp": "二十五日",
+    "reading": "にじゅうごにち",
+    "romaji": "nijuugonichi",
+    "meaning": "25号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-108",
+    "jp": "二十六日",
+    "reading": "にじゅうろくにち",
+    "romaji": "nijuurokunichi",
+    "meaning": "26号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-109",
+    "jp": "二十七日",
+    "reading": "にじゅうななにち",
+    "romaji": "nijuunananichi",
+    "meaning": "27号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-110",
+    "jp": "二十八日",
+    "reading": "にじゅうはちにち",
+    "romaji": "nijuuhachinichi",
+    "meaning": "28号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-111",
+    "jp": "二十九日",
+    "reading": "にじゅうきゅうにち",
+    "romaji": "nijuukyuunichi",
+    "meaning": "29号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-112",
+    "jp": "三十一日",
+    "reading": "さんじゅういちにち",
+    "romaji": "sanjuuichinichi",
+    "meaning": "31号",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-113",
+    "jp": "何日",
+    "reading": "なんにち",
+    "romaji": "nannichi",
+    "meaning": "几号?",
+    "tag": [
+      "日期"
+    ]
+  },
+  {
+    "id": "num-114",
     "jp": "一時",
     "reading": "いちじ",
     "romaji": "ichiji",
@@ -954,7 +1154,17 @@
     ]
   },
   {
-    "id": "num-095",
+    "id": "num-115",
+    "jp": "二時",
+    "reading": "にじ",
+    "romaji": "niji",
+    "meaning": "2点(钟)",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-116",
     "jp": "三時",
     "reading": "さんじ",
     "romaji": "sanji",
@@ -964,7 +1174,28 @@
     ]
   },
   {
-    "id": "num-096",
+    "id": "num-117",
+    "jp": "四時",
+    "reading": "よじ",
+    "romaji": "yoji",
+    "meaning": "4点(钟)",
+    "tag": [
+      "时间"
+    ],
+    "note": "标准读音:よじ(非よんじ)"
+  },
+  {
+    "id": "num-118",
+    "jp": "五時",
+    "reading": "ごじ",
+    "romaji": "goji",
+    "meaning": "5点(钟)",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-119",
     "jp": "六時",
     "reading": "ろくじ",
     "romaji": "rokuji",
@@ -974,7 +1205,58 @@
     ]
   },
   {
-    "id": "num-097",
+    "id": "num-120",
+    "jp": "七時",
+    "reading": "しちじ",
+    "romaji": "shichiji",
+    "meaning": "7点(钟)",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-121",
+    "jp": "八時",
+    "reading": "はちじ",
+    "romaji": "hachiji",
+    "meaning": "8点(钟)",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-122",
+    "jp": "九時",
+    "reading": "くじ",
+    "romaji": "kuji",
+    "meaning": "9点(钟)",
+    "tag": [
+      "时间"
+    ],
+    "note": "特殊:くじ(非きゅうじ)"
+  },
+  {
+    "id": "num-123",
+    "jp": "十時",
+    "reading": "じゅうじ",
+    "romaji": "juuji",
+    "meaning": "10点(钟)",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-124",
+    "jp": "十一時",
+    "reading": "じゅういちじ",
+    "romaji": "juuichiji",
+    "meaning": "11点(钟)",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-125",
     "jp": "十二時",
     "reading": "じゅうにじ",
     "romaji": "juuniji",
@@ -984,7 +1266,17 @@
     ]
   },
   {
-    "id": "num-098",
+    "id": "num-126",
+    "jp": "何時",
+    "reading": "なんじ",
+    "romaji": "nanji",
+    "meaning": "几点?",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-127",
     "jp": "半",
     "reading": "はん",
     "romaji": "han",
@@ -994,7 +1286,17 @@
     ]
   },
   {
-    "id": "num-099",
+    "id": "num-128",
+    "jp": "三十分",
+    "reading": "さんじっぷん",
+    "romaji": "sanjipun",
+    "meaning": "30分",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-129",
     "jp": "一分",
     "reading": "いっぷん",
     "romaji": "ipun",
@@ -1004,7 +1306,17 @@
     ]
   },
   {
-    "id": "num-100",
+    "id": "num-130",
+    "jp": "二分",
+    "reading": "にふん",
+    "romaji": "nifun",
+    "meaning": "2分钟",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-131",
     "jp": "三分",
     "reading": "さんぷん",
     "romaji": "sanpun",
@@ -1014,17 +1326,80 @@
     ]
   },
   {
-    "id": "num-101",
-    "jp": "十分",
-    "reading": "じっぷん/じゅっぷん",
-    "romaji": "jipun",
-    "meaning": "10分钟",
+    "id": "num-132",
+    "jp": "四分",
+    "reading": "よんふん",
+    "romaji": "yonfun",
+    "meaning": "4分钟",
     "tag": [
       "时间"
     ]
   },
   {
-    "id": "num-102",
+    "id": "num-133",
+    "jp": "五分",
+    "reading": "ごふん",
+    "romaji": "gofun",
+    "meaning": "5分钟",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-134",
+    "jp": "六分",
+    "reading": "ろっぷん",
+    "romaji": "ropun",
+    "meaning": "6分钟",
+    "tag": [
+      "时间"
+    ],
+    "note": "促音变:ろっぷん"
+  },
+  {
+    "id": "num-135",
+    "jp": "七分",
+    "reading": "ななふん",
+    "romaji": "nanafun",
+    "meaning": "7分钟",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-136",
+    "jp": "八分",
+    "reading": "はっぷん",
+    "romaji": "hapun",
+    "meaning": "8分钟",
+    "tag": [
+      "时间"
+    ],
+    "note": "促音变:はっぷん"
+  },
+  {
+    "id": "num-137",
+    "jp": "九分",
+    "reading": "きゅうふん",
+    "romaji": "kyuufun",
+    "meaning": "9分钟",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-138",
+    "jp": "十分",
+    "reading": "じゅっぷん/じっぷん",
+    "romaji": "jupun",
+    "meaning": "10分钟",
+    "tag": [
+      "时间"
+    ],
+    "note": "促音变:じゅっぷん"
+  },
+  {
+    "id": "num-139",
     "jp": "一秒",
     "reading": "いちびょう",
     "romaji": "ichibyou",
@@ -1034,7 +1409,107 @@
     ]
   },
   {
-    "id": "num-103",
+    "id": "num-140",
+    "jp": "十秒",
+    "reading": "じゅっびょう",
+    "romaji": "jubyou",
+    "meaning": "10秒",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-141",
+    "jp": "何秒",
+    "reading": "なんびょう",
+    "romaji": "nanbyou",
+    "meaning": "几秒?",
+    "tag": [
+      "时间"
+    ]
+  },
+  {
+    "id": "num-142",
+    "jp": "午前",
+    "reading": "ごぜん",
+    "romaji": "gozen",
+    "meaning": "上午(AM)",
+    "tag": [
+      "时间段"
+    ]
+  },
+  {
+    "id": "num-143",
+    "jp": "午後",
+    "reading": "ごご",
+    "romaji": "gogo",
+    "meaning": "下午(PM)",
+    "tag": [
+      "时间段"
+    ]
+  },
+  {
+    "id": "num-144",
+    "jp": "朝",
+    "reading": "あさ",
+    "romaji": "asa",
+    "meaning": "早上",
+    "tag": [
+      "时间段"
+    ]
+  },
+  {
+    "id": "num-145",
+    "jp": "今朝",
+    "reading": "けさ",
+    "romaji": "kesa",
+    "meaning": "今早",
+    "tag": [
+      "时间段"
+    ]
+  },
+  {
+    "id": "num-146",
+    "jp": "昼",
+    "reading": "ひる",
+    "romaji": "hiru",
+    "meaning": "中午 / 白天",
+    "tag": [
+      "时间段"
+    ]
+  },
+  {
+    "id": "num-147",
+    "jp": "夜",
+    "reading": "よる",
+    "romaji": "yoru",
+    "meaning": "晚上",
+    "tag": [
+      "时间段"
+    ]
+  },
+  {
+    "id": "num-148",
+    "jp": "今夜",
+    "reading": "こんや",
+    "romaji": "konya",
+    "meaning": "今夜",
+    "tag": [
+      "时间段"
+    ]
+  },
+  {
+    "id": "num-149",
+    "jp": "今晩",
+    "reading": "こんばん",
+    "romaji": "konban",
+    "meaning": "今晚",
+    "tag": [
+      "时间段"
+    ]
+  },
+  {
+    "id": "num-150",
     "jp": "一日中",
     "reading": "いちにちじゅう",
     "romaji": "ichinichijuu",
@@ -1044,7 +1519,359 @@
     ]
   },
   {
-    "id": "num-104",
+    "id": "num-151",
+    "jp": "毎日",
+    "reading": "まいにち",
+    "romaji": "mainichi",
+    "meaning": "每天",
+    "tag": [
+      "周期"
+    ]
+  },
+  {
+    "id": "num-152",
+    "jp": "一週間",
+    "reading": "いっしゅうかん",
+    "romaji": "ishuukan",
+    "meaning": "一星期 / 一周",
+    "tag": [
+      "周期"
+    ],
+    "note": "促音变:いっしゅうかん"
+  },
+  {
+    "id": "num-153",
+    "jp": "二週間",
+    "reading": "にしゅうかん",
+    "romaji": "nishuukan",
+    "meaning": "两星期 / 两周",
+    "tag": [
+      "周期"
+    ]
+  },
+  {
+    "id": "num-154",
+    "jp": "一ヶ月",
+    "reading": "いっかげつ",
+    "romaji": "ikagetsu",
+    "meaning": "一个月",
+    "tag": [
+      "周期"
+    ],
+    "note": "促音变:いっかげつ"
+  },
+  {
+    "id": "num-155",
+    "jp": "三ヶ月",
+    "reading": "さんかげつ",
+    "romaji": "sankagetsu",
+    "meaning": "三个月",
+    "tag": [
+      "周期"
+    ]
+  },
+  {
+    "id": "num-156",
+    "jp": "一年中",
+    "reading": "いちねんじゅう",
+    "romaji": "ichinenjuu",
+    "meaning": "一整年",
+    "tag": [
+      "周期"
+    ]
+  },
+  {
+    "id": "num-157",
+    "jp": "今日",
+    "reading": "きょう",
+    "romaji": "kyou",
+    "meaning": "今天",
+    "tag": [
+      "日历"
+    ]
+  },
+  {
+    "id": "num-158",
+    "jp": "明日",
+    "reading": "あした/あす",
+    "romaji": "ashita",
+    "meaning": "明天",
+    "tag": [
+      "日历"
+    ]
+  },
+  {
+    "id": "num-159",
+    "jp": "明後日",
+    "reading": "あさって",
+    "romaji": "asate",
+    "meaning": "后天",
+    "tag": [
+      "日历"
+    ]
+  },
+  {
+    "id": "num-160",
+    "jp": "昨日",
+    "reading": "きのう",
+    "romaji": "kinou",
+    "meaning": "昨天",
+    "tag": [
+      "日历"
+    ]
+  },
+  {
+    "id": "num-161",
+    "jp": "一昨日",
+    "reading": "おととい",
+    "romaji": "ototoi",
+    "meaning": "前天",
+    "tag": [
+      "日历"
+    ]
+  },
+  {
+    "id": "num-162",
+    "jp": "今週",
+    "reading": "こんしゅう",
+    "romaji": "konshuu",
+    "meaning": "这周",
+    "tag": [
+      "日历"
+    ]
+  },
+  {
+    "id": "num-163",
+    "jp": "先週",
+    "reading": "せんしゅう",
+    "romaji": "senshuu",
+    "meaning": "上周",
+    "tag": [
+      "日历"
+    ]
+  },
+  {
+    "id": "num-164",
+    "jp": "来週",
+    "reading": "らいしゅう",
+    "romaji": "raishuu",
+    "meaning": "下周",
+    "tag": [
+      "日历"
+    ]
+  },
+  {
+    "id": "num-165",
+    "jp": "平日",
+    "reading": "へいじつ",
+    "romaji": "heijitsu",
+    "meaning": "平日 / 工作日",
+    "tag": [
+      "日历"
+    ]
+  },
+  {
+    "id": "num-166",
+    "jp": "週末",
+    "reading": "しゅうまつ",
+    "romaji": "shuumatsu",
+    "meaning": "周末",
+    "tag": [
+      "日历"
+    ]
+  },
+  {
+    "id": "num-167",
+    "jp": "一年",
+    "reading": "いちねん",
+    "romaji": "ichinen",
+    "meaning": "1年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-168",
+    "jp": "二年",
+    "reading": "にねん",
+    "romaji": "ninen",
+    "meaning": "2年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-169",
+    "jp": "三年",
+    "reading": "さんねん",
+    "romaji": "sannen",
+    "meaning": "3年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-170",
+    "jp": "四年",
+    "reading": "よねん",
+    "romaji": "yonen",
+    "meaning": "4年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-171",
+    "jp": "五年",
+    "reading": "ごねん",
+    "romaji": "gonen",
+    "meaning": "5年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-172",
+    "jp": "六年",
+    "reading": "ろくねん",
+    "romaji": "rokunen",
+    "meaning": "6年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-173",
+    "jp": "七年",
+    "reading": "しちねん/ななねん",
+    "romaji": "shichinen",
+    "meaning": "7年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-174",
+    "jp": "八年",
+    "reading": "はちねん",
+    "romaji": "hachinen",
+    "meaning": "8年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-175",
+    "jp": "九年",
+    "reading": "きゅうねん",
+    "romaji": "kyuunen",
+    "meaning": "9年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-176",
+    "jp": "十年",
+    "reading": "じゅうねん",
+    "romaji": "juunen",
+    "meaning": "10年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-177",
+    "jp": "十四年",
+    "reading": "じゅうよねん",
+    "romaji": "juuyonen",
+    "meaning": "14年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-178",
+    "jp": "二十年",
+    "reading": "にじゅうねん",
+    "romaji": "nijuunen",
+    "meaning": "20年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-179",
+    "jp": "何年",
+    "reading": "なんねん",
+    "romaji": "nannen",
+    "meaning": "哪一年?",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-180",
+    "jp": "今年",
+    "reading": "ことし",
+    "romaji": "kotoshi",
+    "meaning": "今年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-181",
+    "jp": "去年",
+    "reading": "きょねん",
+    "romaji": "kyonen",
+    "meaning": "去年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-182",
+    "jp": "来年",
+    "reading": "らいねん",
+    "romaji": "rainen",
+    "meaning": "明年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-183",
+    "jp": "一昨年",
+    "reading": "おととし",
+    "romaji": "ototoshi",
+    "meaning": "前年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-184",
+    "jp": "再来年",
+    "reading": "さらいねん",
+    "romaji": "sarainen",
+    "meaning": "后年",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-185",
+    "jp": "二千七年",
+    "reading": "にせんしちねん",
+    "romaji": "nisenshichinen",
+    "meaning": "2007年(示例)",
+    "tag": [
+      "年份"
+    ]
+  },
+  {
+    "id": "num-186",
     "jp": "一人",
     "reading": "ひとり",
     "romaji": "hitori",
@@ -1054,7 +1881,7 @@
     ]
   },
   {
-    "id": "num-105",
+    "id": "num-187",
     "jp": "二人",
     "reading": "ふたり",
     "romaji": "futari",
@@ -1065,7 +1892,7 @@
     "note": "特殊:ふたり非ににん"
   },
   {
-    "id": "num-106",
+    "id": "num-188",
     "jp": "三人",
     "reading": "さんにん",
     "romaji": "sannin",
@@ -1075,7 +1902,7 @@
     ]
   },
   {
-    "id": "num-107",
+    "id": "num-189",
     "jp": "四人",
     "reading": "よにん",
     "romaji": "yonin",
@@ -1086,7 +1913,7 @@
     "note": "特殊:よにん非よんにん"
   },
   {
-    "id": "num-108",
+    "id": "num-190",
     "jp": "五人",
     "reading": "ごにん",
     "romaji": "gonin",
@@ -1096,7 +1923,7 @@
     ]
   },
   {
-    "id": "num-109",
+    "id": "num-191",
     "jp": "六人",
     "reading": "ろくにん",
     "romaji": "rokunin",
@@ -1106,7 +1933,7 @@
     ]
   },
   {
-    "id": "num-110",
+    "id": "num-192",
     "jp": "十人",
     "reading": "じゅうにん",
     "romaji": "juunin",
@@ -1116,7 +1943,7 @@
     ]
   },
   {
-    "id": "num-111",
+    "id": "num-193",
     "jp": "一人",
     "reading": "ひとり",
     "romaji": "hitori",
@@ -1126,7 +1953,7 @@
     ]
   },
   {
-    "id": "num-112",
+    "id": "num-194",
     "jp": "一台",
     "reading": "いちだい",
     "romaji": "ichidai",
@@ -1136,7 +1963,7 @@
     ]
   },
   {
-    "id": "num-113",
+    "id": "num-195",
     "jp": "二本",
     "reading": "にほん",
     "romaji": "nihon",
@@ -1147,7 +1974,7 @@
     "note": "特殊:にほん非にぼん"
   },
   {
-    "id": "num-114",
+    "id": "num-196",
     "jp": "一本",
     "reading": "いっぽん",
     "romaji": "ipon",
@@ -1158,7 +1985,7 @@
     "note": "促音变:いっぽん"
   },
   {
-    "id": "num-115",
+    "id": "num-197",
     "jp": "三枚",
     "reading": "さんまい",
     "romaji": "sanmai",
@@ -1169,7 +1996,7 @@
     "note": "特殊:さんまい非さんまい"
   },
   {
-    "id": "num-116",
+    "id": "num-198",
     "jp": "一枚",
     "reading": "いちまい",
     "romaji": "ichimai",
@@ -1179,7 +2006,7 @@
     ]
   },
   {
-    "id": "num-117",
+    "id": "num-199",
     "jp": "一匹",
     "reading": "いっぴき",
     "romaji": "ipiki",
@@ -1190,7 +2017,7 @@
     "note": "促音变:いっぴき"
   },
   {
-    "id": "num-118",
+    "id": "num-200",
     "jp": "一羽",
     "reading": "いちわ",
     "romaji": "ichiwa",
@@ -1201,7 +2028,7 @@
     "note": "特殊:いちわ非いちう"
   },
   {
-    "id": "num-119",
+    "id": "num-201",
     "jp": "一回",
     "reading": "いっかい",
     "romaji": "ikai",
@@ -1212,7 +2039,7 @@
     "note": "促音变:いっかい"
   },
   {
-    "id": "num-120",
+    "id": "num-202",
     "jp": "二回",
     "reading": "にかい",
     "romaji": "nikai",
@@ -1222,7 +2049,7 @@
     ]
   },
   {
-    "id": "num-121",
+    "id": "num-203",
     "jp": "一階",
     "reading": "いっかい",
     "romaji": "ikai",
@@ -1233,7 +2060,7 @@
     "note": "促音变:いっかい(同音)"
   },
   {
-    "id": "num-122",
+    "id": "num-204",
     "jp": "三階",
     "reading": "さんがい",
     "romaji": "sangai",
@@ -1243,7 +2070,7 @@
     ]
   },
   {
-    "id": "num-123",
+    "id": "num-205",
     "jp": "一歳",
     "reading": "いっさい",
     "romaji": "isai",
@@ -1254,7 +2081,7 @@
     "note": "促音变:いっさい"
   },
   {
-    "id": "num-124",
+    "id": "num-206",
     "jp": "五歳",
     "reading": "ごさい",
     "romaji": "gosai",
@@ -1264,7 +2091,7 @@
     ]
   },
   {
-    "id": "num-125",
+    "id": "num-207",
     "jp": "一円",
     "reading": "いちえん",
     "romaji": "ichien",
@@ -1274,7 +2101,7 @@
     ]
   },
   {
-    "id": "num-126",
+    "id": "num-208",
     "jp": "百円",
     "reading": "ひゃくえん",
     "romaji": "hyakuen",
@@ -1284,7 +2111,7 @@
     ]
   },
   {
-    "id": "num-127",
+    "id": "num-209",
     "jp": "千円",
     "reading": "せんえん",
     "romaji": "senen",
@@ -1294,7 +2121,7 @@
     ]
   },
   {
-    "id": "num-128",
+    "id": "num-210",
     "jp": "一万円",
     "reading": "いちまんえん",
     "romaji": "ichimanen",
@@ -1304,7 +2131,7 @@
     ]
   },
   {
-    "id": "num-129",
+    "id": "num-211",
     "jp": "十万円",
     "reading": "じゅうまんえん",
     "romaji": "juumanen",
@@ -1314,7 +2141,7 @@
     ]
   },
   {
-    "id": "num-130",
+    "id": "num-212",
     "jp": "電話番号",
     "reading": "でんわばんごう",
     "romaji": "denwabangou",
@@ -1324,7 +2151,7 @@
     ]
   },
   {
-    "id": "num-131",
+    "id": "num-213",
     "jp": "郵便番号",
     "reading": "ゆうびんばんごう",
     "romaji": "yuubinbangou",
@@ -1334,7 +2161,7 @@
     ]
   },
   {
-    "id": "num-132",
+    "id": "num-214",
     "jp": "一丁目",
     "reading": "いっちょうめ",
     "romaji": "ichoume",
@@ -1344,7 +2171,7 @@
     ]
   },
   {
-    "id": "num-133",
+    "id": "num-215",
     "jp": "二番地",
     "reading": "にばんち",
     "romaji": "nibanchi",
@@ -1354,7 +2181,7 @@
     ]
   },
   {
-    "id": "num-134",
+    "id": "num-216",
     "jp": "三号",
     "reading": "さんごう",
     "romaji": "sangou",
@@ -1364,7 +2191,7 @@
     ]
   },
   {
-    "id": "num-135",
+    "id": "num-217",
     "jp": "一番",
     "reading": "いちばん",
     "romaji": "ichiban",
@@ -1374,7 +2201,7 @@
     ]
   },
   {
-    "id": "num-136",
+    "id": "num-218",
     "jp": "一度",
     "reading": "いちど",
     "romaji": "ichido",
@@ -1384,7 +2211,7 @@
     ]
   },
   {
-    "id": "num-137",
+    "id": "num-219",
     "jp": "二倍",
     "reading": "にばい",
     "romaji": "nibai",
@@ -1394,7 +2221,7 @@
     ]
   },
   {
-    "id": "num-138",
+    "id": "num-220",
     "jp": "全部",
     "reading": "ぜんぶ",
     "romaji": "zenbu",
@@ -1404,7 +2231,7 @@
     ]
   },
   {
-    "id": "num-139",
+    "id": "num-221",
     "jp": "約",
     "reading": "やく",
     "romaji": "yaku",
@@ -1414,7 +2241,7 @@
     ]
   },
   {
-    "id": "num-140",
+    "id": "num-222",
     "jp": "以上",
     "reading": "いじょう",
     "romaji": "ijou",
@@ -1424,7 +2251,7 @@
     ]
   },
   {
-    "id": "num-141",
+    "id": "num-223",
     "jp": "以下",
     "reading": "いか",
     "romaji": "ika",
@@ -1434,7 +2261,7 @@
     ]
   },
   {
-    "id": "num-142",
+    "id": "num-224",
     "jp": "未満",
     "reading": "みまん",
     "romaji": "miman",
@@ -1444,7 +2271,7 @@
     ]
   },
   {
-    "id": "num-143",
+    "id": "num-225",
     "jp": "毎週",
     "reading": "まいしゅう",
     "romaji": "maishuu",
@@ -1454,7 +2281,7 @@
     ]
   },
   {
-    "id": "num-144",
+    "id": "num-226",
     "jp": "毎月",
     "reading": "まいつき",
     "romaji": "maitsuki",
@@ -1464,7 +2291,7 @@
     ]
   },
   {
-    "id": "num-145",
+    "id": "num-227",
     "jp": "毎年",
     "reading": "まいとし/まいねん",
     "romaji": "maitoshi",
@@ -1474,7 +2301,7 @@
     ]
   },
   {
-    "id": "num-146",
+    "id": "num-228",
     "jp": "一キロ",
     "reading": "いちキロ",
     "romaji": "ichikiro",
@@ -1484,7 +2311,7 @@
     ]
   },
   {
-    "id": "num-147",
+    "id": "num-229",
     "jp": "一メートル",
     "reading": "いちメートル",
     "romaji": "ichimetoru",
@@ -1494,7 +2321,7 @@
     ]
   },
   {
-    "id": "num-148",
+    "id": "num-230",
     "jp": "百グラム",
     "reading": "ひゃくグラム",
     "romaji": "hyakuguramu",
@@ -1504,7 +2331,7 @@
     ]
   },
   {
-    "id": "num-149",
+    "id": "num-231",
     "jp": "三十度",
     "reading": "さんじゅうど",
     "romaji": "sanjuudo",
