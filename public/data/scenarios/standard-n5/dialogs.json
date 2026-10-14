@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "sn5-d1",
+    "title": "李さんは 中国人です",
+    "scene": "出迎え（迎接）",
+    "lines": [
+      {
+        "speaker": "甲",
+        "jp": "わたしは 李です。小野さんですか。",
+        "reading": "watashiha 李desu。小野sandesuka。",
+        "meaning": "我姓李。你是小野女士吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "ＪＣ企画の 小野さんですか。",
+        "reading": "ｊｃ企画no 小野sandesuka。",
+        "meaning": "您是JC策划公司的小野女士吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "はい、小野です。李秀麗さんですか。",
+        "reading": "hai、小野desu。李秀麗sandesuka。",
+        "meaning": "是的，我是小野。您是李秀丽女士吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "はい、李秀麗です。はじめまして。どうぞ よろしく お願いします。",
+        "reading": "hai、李秀麗desu。hajimemashite。douzo yoroshiku o願ishimasu。",
+        "meaning": "是的，我是李秀丽。初次见面，请多关照。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "はじめまして、小野緑です。",
+        "reading": "hajimemashite、小野緑desu。",
+        "meaning": "初次见面，我是小野绿。"
+      },
+      {
+        "speaker": "森",
+        "jp": "李さん、こんにちは。",
+        "reading": "李san、konnichiha。",
+        "meaning": "小李，你好。"
+      },
+      {
+        "speaker": "李",
+        "jp": "吉田さんですか。",
+        "reading": "吉田sandesuka。",
+        "meaning": "您是吉田先生吗？"
+      },
+      {
+        "speaker": "森",
+        "jp": "いいえ、わたしは 吉田じゃ ありません。森です。",
+        "reading": "iie、watashiha 吉田jiゃ arimasen。森desu。",
+        "meaning": "不，我不是吉田。我是森。"
+      },
+      {
+        "speaker": "李",
+        "jp": "あっ、森さんですか。どうも すみません。",
+        "reading": "a、森sandesuka。doumo sumimasen。",
+        "meaning": "哎呀，是森先生呀。实在对不起。"
+      },
+      {
+        "speaker": "森",
+        "jp": "いいえ。どうぞ よろしく。",
+        "reading": "iie。douzo yoroshiku。",
+        "meaning": "没关系。请多关照。"
+      },
+      {
+        "speaker": "李",
+        "jp": "李秀麗です。こちらこそ、よろしく お願いします。",
+        "reading": "李秀麗desu。kochirakoso、yoroshiku o願ishimasu。",
+        "meaning": "我是李秀丽。我才要请您多多关照。"
+      }
+    ]
+  },
+  {
+    "id": "sn5-d2",
+    "title": "これは 本です",
+    "scene": "家族の写真（家人的照片）",
+    "lines": [
+      {
+        "speaker": "甲",
+        "jp": "これは テレビですか。",
+        "reading": "koreha terebidesuka。",
+        "meaning": "这是电视机吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "李さん、それは 何ですか。",
+        "reading": "李san、soreha 何desuka。",
+        "meaning": "小李，那是什么？"
+      },
+      {
+        "speaker": "李",
+        "jp": "これですか。家族の 写真です。",
+        "reading": "koredesuka。家族no 写真desu。",
+        "meaning": "这个吗？是家人的照片。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "（指着其中一个人）この 方は どなたですか。",
+        "reading": "（指着其中一个人）kono 方ha donatadesuka。",
+        "meaning": "这位是谁呢？"
+      },
+      {
+        "speaker": "李",
+        "jp": "わたしの 母です。",
+        "reading": "watashino 母desu。",
+        "meaning": "是我母亲。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "お母さんは おいくつですか。",
+        "reading": "o母sanha oikutsudesuka。",
+        "meaning": "您母亲多大年纪了？"
+      },
+      {
+        "speaker": "李",
+        "jp": "52歳です。",
+        "reading": "52歳desu。",
+        "meaning": "52岁。"
+      },
+      {
+        "speaker": "李",
+        "jp": "小野さん、これ、どうぞ。",
+        "reading": "小野san、kore、douzo。",
+        "meaning": "小野，这个送给你。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "えっ、何ですか。",
+        "reading": "e、何desuka。",
+        "meaning": "咦，是什么呀？"
+      },
+      {
+        "speaker": "李",
+        "jp": "お土産です。",
+        "reading": "o土産desu。",
+        "meaning": "是礼物。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "わあ、シルクの ハンカチですか。",
+        "reading": "waa、shirukuno hankachidesuka。",
+        "meaning": "哇，是真丝手绢啊。"
+      },
+      {
+        "speaker": "李",
+        "jp": "ええ。スワトウの ハンカチです。中国の 名産品です。",
+        "reading": "ee。suwatouno hankachidesu。中国no 名産品desu。",
+        "meaning": "嗯。是汕头的手绢。是中国的名产。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "どうも ありがとう ございます。",
+        "reading": "doumo arigatou gozaimasu。",
+        "meaning": "太谢谢了。"
+      }
+    ]
+  },
+  {
+    "id": "sn5-d13",
+    "title": "机の 上に 本が 3冊 あります",
+    "scene": "居酒屋（酒馆）",
+    "lines": [
+      {
+        "speaker": "甲",
+        "jp": "すみません, はがきを 5枚 ください。",
+        "reading": "sumimasen, hagakiwo 5枚 kudasai。",
+        "meaning": "对不起，请给我5张明信片。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "これから 森さんと 近くの お店へ 飲みに 行きます。李さんも いっしょに どうですか。",
+        "reading": "korekara 森santo 近kuno o店he 飲mini 行kimasu。李sanmo ishiょni doudesuka。",
+        "meaning": "现在我和森先生去附近的酒馆喝酒。小李也一起去怎么样？"
+      },
+      {
+        "speaker": "李",
+        "jp": "えっ, いいですか。お願いします。",
+        "reading": "e, iidesuka。o願ishimasu。",
+        "meaning": "啊，行吗？那我去。"
+      },
+      {
+        "speaker": "李",
+        "jp": "森さんたちは この お店へ よく 来ますか。",
+        "reading": "森santachiha kono o店he yoku 来masuka。",
+        "meaning": "森先生你们常来这家店吗？"
+      },
+      {
+        "speaker": "森",
+        "jp": "ええ, ぼくは 週に 2回ぐらい 来ます。",
+        "reading": "ee, bokuha 週ni 2回gurai 来masu。",
+        "meaning": "是的，我一周来两次左右。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "わたしも よく 来ます。",
+        "reading": "watashimo yoku 来masu。",
+        "meaning": "我也常来。"
+      },
+      {
+        "speaker": "森",
+        "jp": "あのう, すみません。とりあえず 生ビールを 3つ お願いします。",
+        "reading": "anou, sumimasen。toriaezu 生biruwo 3tsu o願ishimasu。",
+        "meaning": "嗯，不好意思。先来3杯生啤。"
+      },
+      {
+        "speaker": "李",
+        "jp": "生ビールが 1杯 300円ですか。",
+        "reading": "生biruga 1杯 300円desuka。",
+        "meaning": "生啤1杯300日元吗？"
+      },
+      {
+        "speaker": "森",
+        "jp": "ここは お酒も 食べ物も 安いです。焼き鳥は 5本で 400円ですからね。",
+        "reading": "kokoha o酒mo 食be物mo 安idesu。焼ki鳥ha 5本de 400円desukarane。",
+        "meaning": "这里的酒和饭菜都便宜。烤鸡肉串5串400日元呢。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "唐揚げや 肉じゃがは 1皿 350円です。",
+        "reading": "唐揚geya 肉jiゃgaha 1皿 350円desu。",
+        "meaning": "炸鸡和土豆炖肉1盘350日元。"
+      },
+      {
+        "speaker": "李",
+        "jp": "ほかの お店は いくらぐらいですか。",
+        "reading": "hokano o店ha ikuraguraidesuka。",
+        "meaning": "别的店要多少钱？"
+      },
+      {
+        "speaker": "森",
+        "jp": "生ビールは だいたい 1杯 400円か 450円ですね。",
+        "reading": "生biruha daitai 1杯 400円ka 450円desune。",
+        "meaning": "生啤大概1杯400或450日元吧。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "焼き鳥は 1本 150円ぐらいですよ。",
+        "reading": "焼ki鳥ha 1本 150円guraidesuyo。",
+        "meaning": "烤鸡肉串1串150日元左右。"
+      },
+      {
+        "speaker": "李",
+        "jp": "じゃあ, ここは 安いですね。",
+        "reading": "jiゃa, kokoha 安idesune。",
+        "meaning": "那么，这里真便宜啊。"
+      }
+    ]
+  },
+  {
+    "id": "sn5-d14",
+    "title": "昨日 デパートへ 行って, 買い物しました",
+    "scene": "原稿（稿子）",
+    "lines": [
+      {
+        "speaker": "甲",
+        "jp": "今日の 午後は 何を しますか。",
+        "reading": "今日no 午後ha 何wo shimasuka。",
+        "meaning": "今天下午做什么？"
+      },
+      {
+        "speaker": "李",
+        "jp": "吉田課長, 原稿が できました。",
+        "reading": "吉田課長, 原稿ga dekimashita。",
+        "meaning": "吉田科长，稿子写好了。"
+      },
+      {
+        "speaker": "吉田",
+        "jp": "箱根の 記事ですね。ちょっと 見せて ください。",
+        "reading": "箱根no 記事desune。chiょto 見sete kudasai。",
+        "meaning": "是箱根的报道吧。请给我看看。"
+      },
+      {
+        "speaker": "吉田",
+        "jp": "なかなか いいですね。いつ 書きましたか。",
+        "reading": "nakanaka iidesune。itsu 書kimashitaka。",
+        "meaning": "相当不错嘛。什么时候写的？"
+      },
+      {
+        "speaker": "李",
+        "jp": "昨日 会社で メモを 整理して, 小野さんに 見せました。そして, アパートへ 帰ってから 書きました。",
+        "reading": "昨日 会社de memowo 整理shite, 小野sanni 見semashita。soshite, apatohe 帰tekara 書kimashita。",
+        "meaning": "昨天在公司整理了记录，给小野看了。然后，回到公寓以后写的。"
+      },
+      {
+        "speaker": "吉田",
+        "jp": "そうですか。大変でしたね。写真も できましたか。",
+        "reading": "soudesuka。大変deshitane。写真mo dekimashitaka。",
+        "meaning": "是吗。够受的吧。照片也准备好了吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "はい。これから 長島さんの 事務所へ 行って, 写真を 選びます。",
+        "reading": "hai。korekara 長島sanno 事務所he 行te, 写真wo 選bimasu。",
+        "meaning": "是的。现在起去长岛先生的事务所选照片。"
+      },
+      {
+        "speaker": "吉田",
+        "jp": "そうですか。",
+        "reading": "soudesuka。",
+        "meaning": "是吗。"
+      },
+      {
+        "speaker": "李",
+        "jp": "後で 写真も 見て くださいませんか。",
+        "reading": "後de 写真mo 見te kudasaimasenka。",
+        "meaning": "一会儿，照片也得请您过目。"
+      },
+      {
+        "speaker": "吉田",
+        "jp": "李さん, もう 会社を 出ますか。",
+        "reading": "李san, mou 会社wo 出masuka。",
+        "meaning": "小李，这就走吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "はい。銀行で お金を 下ろしてから 行きます。",
+        "reading": "hai。銀行de o金wo 下roshitekara 行kimasu。",
+        "meaning": "是的。去银行取了钱以后去。"
+      },
+      {
+        "speaker": "吉田",
+        "jp": "じゃあ, 郵便局の 近くを 通りますね。すみませんが, この 手紙を 出して ください。",
+        "reading": "jiゃa, 郵便局no 近kuwo 通rimasune。sumimasenga, kono 手紙wo 出shite kudasai。",
+        "meaning": "那你路过邮局附近吧。劳驾，请替我寄了这封信。"
+      },
+      {
+        "speaker": "李",
+        "jp": "はい。速達で 出しますか。",
+        "reading": "hai。速達de 出shimasuka。",
+        "meaning": "好的。寄快件吗？"
+      },
+      {
+        "speaker": "吉田",
+        "jp": "ええ, そうして ください。",
+        "reading": "ee, soushite kudasai。",
+        "meaning": "嗯，就那么办吧。"
+      }
+    ]
+  },
+  {
+    "id": "sn5-d15",
+    "title": "小野さんは 今 新聞を 読んで います",
+    "scene": "風邪（感冒）",
+    "lines": [
+      {
+        "speaker": "甲",
+        "jp": "もしもし, 森さん？ 今 どこですか。",
+        "reading": "moshimoshi, 森san？ 今 dokodesuka。",
+        "meaning": "喂，是森先生吗？现在在哪里？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "もしもし, 小野です。どうしました？",
+        "reading": "moshimoshi, 小野desu。doushimashita？",
+        "meaning": "喂，我是小野。怎么了？"
+      },
+      {
+        "speaker": "李",
+        "jp": "ちょっと 熱が あります。今日 会社を 休んでも いいですか。",
+        "reading": "chiょto 熱ga arimasu。今日 会社wo 休ndemo iidesuka。",
+        "meaning": "有点发烧。今天可以请假吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "ええ, もちろんです。あまり 無理を しては いけませんよ。",
+        "reading": "ee, mochirondesu。amari 無理wo shiteha ikemasenyo。",
+        "meaning": "嗯，当然可以。不要太勉强了啊。"
+      },
+      {
+        "speaker": "李",
+        "jp": "はい, 分かりました。あのう, 吉田課長は？",
+        "reading": "hai, 分karimashita。anou, 吉田課長ha？",
+        "meaning": "好的，明白了。嗯，吉田科长在吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "今 会議室で 打ち合わせを して います。後で 伝えます。",
+        "reading": "今 会議室de 打chi合wasewo shite imasu。後de 伝emasu。",
+        "meaning": "现在正在会议室商量事情呢。回头我转告他。"
+      },
+      {
+        "speaker": "李",
+        "jp": "お願いします。",
+        "reading": "o願ishimasu。",
+        "meaning": "拜托了。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "もう 病院に 行きましたか。",
+        "reading": "mou 病院ni 行kimashitaka。",
+        "meaning": "已经去医院了吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "いいえ, まだです。",
+        "reading": "iie, madadesu。",
+        "meaning": "不，还没有。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "じゃあ, 病院に 行ってから, ゆっくり 休んで ください。",
+        "reading": "jiゃa, 病院ni 行tekara, yukuri 休nde kudasai。",
+        "meaning": "那么，先去医院，然后好好休息一下。"
+      },
+      {
+        "speaker": "李",
+        "jp": "はい, ありがとう ございます。",
+        "reading": "hai, arigatou gozaimasu。",
+        "meaning": "好的，谢谢。"
+      },
+      {
+        "speaker": "医者",
+        "jp": "風邪ですね。温かい 物を 食べて, 十分 睡眠を とって ください。それから 今晩 お風呂に 入っては いけませんよ。",
+        "reading": "風邪desune。温kai 物wo 食bete, 十分 睡眠wo tote kudasai。sorekara 今晩 o風呂ni 入teha ikemasenyo。",
+        "meaning": "是感冒。吃热的东西，好好睡觉。还有，今晚不能洗澡啊。"
+      },
+      {
+        "speaker": "李",
+        "jp": "分かりました。",
+        "reading": "分karimashita。",
+        "meaning": "明白了。"
+      },
+      {
+        "speaker": "医者",
+        "jp": "では, 薬を 出します。薬局に 行って, もらって ください。",
+        "reading": "deha, 薬wo 出shimasu。薬局ni 行te, morate kudasai。",
+        "meaning": "那么，我给你开药。请到药店去拿药。"
+      },
+      {
+        "speaker": "李",
+        "jp": "ありがとう ございました。",
+        "reading": "arigatou gozaimashita。",
+        "meaning": "谢谢。"
+      },
+      {
+        "speaker": "医者",
+        "jp": "お大事に。",
+        "reading": "o大事ni。",
+        "meaning": "请多保重。"
+      }
+    ]
+  },
+  {
+    "id": "sn5-d16",
+    "title": "ホテルの 部屋は 広くて 明るいです",
+    "scene": "展示場（展示会场）",
+    "lines": [
+      {
+        "speaker": "甲",
+        "jp": "森さんは どんな 人ですか。",
+        "reading": "森sanha donna 人desuka。",
+        "meaning": "森先生是个什么样的人？"
+      },
+      {
+        "speaker": "李",
+        "jp": "大きくて きれいな 建物ですね。",
+        "reading": "大kikute kireina 建物desune。",
+        "meaning": "又大又漂亮的建筑物啊。"
+      },
+      {
+        "speaker": "森",
+        "jp": "ええ。日本の 有名な 建築家の 設計で, 最新の 展示場です。",
+        "reading": "ee。日本no 有名na 建築家no 設計de, 最新no 展示場desu。",
+        "meaning": "是啊。是日本著名建筑师设计的，是最新式的展览馆。"
+      },
+      {
+        "speaker": "李",
+        "jp": "デザインが ユニークで, 形が おもしろいですね。",
+        "reading": "dezainga yunikude, 形ga omoshiroidesune。",
+        "meaning": "设计很独特，形状真有意思。"
+      },
+      {
+        "speaker": "李",
+        "jp": "警備の 人が いろいろな 所に いますね。",
+        "reading": "警備no 人ga iroirona 所ni imasune。",
+        "meaning": "有好多保安人员啊。"
+      },
+      {
+        "speaker": "森",
+        "jp": "ここは 駅から 近くて, 入場料も 安いです。たくさんの 人が 来ますから, 警備が 厳重です。",
+        "reading": "kokoha 駅kara 近kute, 入場料mo 安idesu。takusanno 人ga 来masukara, 警備ga 厳重desu。",
+        "meaning": "这里离车站近，门票也便宜。因为来的人很多，所以警备森严。"
+      },
+      {
+        "speaker": "森",
+        "jp": "あっ, 李さん, ＩＤカードは ありますか。",
+        "reading": "a, 李san, ｉｄkadoha arimasuka。",
+        "meaning": "哎呀，小李，你带证件了吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "安心して ください。ちゃんと 持って います。〔拿出身份证件〕ほら。",
+        "reading": "安心shite kudasai。chiゃnto 持te imasu。〔拿出身份证件〕hora。",
+        "meaning": "请放心。我带着呢。（拿出身份证件）你看！"
+      },
+      {
+        "speaker": "李",
+        "jp": "入り口は 狭いですが, 中は とても 広いですね。",
+        "reading": "入ri口ha 狭idesuga, 中ha totemo 広idesune。",
+        "meaning": "入口很窄，里面却很宽敞。"
+      },
+      {
+        "speaker": "森",
+        "jp": "ええ。天井が 高くて, 窓が 多くて, とても 明るいです。",
+        "reading": "ee。天井ga 高kute, 窓ga 多kute, totemo 明ruidesu。",
+        "meaning": "是啊。顶棚高，窗户多，非常明亮。"
+      },
+      {
+        "speaker": "李",
+        "jp": "クリスマスツリーの 横に 赤くて 大きい 看板が ありますね。あれは 何ですか。",
+        "reading": "kurisumasutsurino 横ni 赤kute 大kii 看板ga arimasune。areha 何desuka。",
+        "meaning": "圣诞树旁边有一块红色的大牌子。那是什么？"
+      },
+      {
+        "speaker": "森",
+        "jp": "ああ, あれは 航空会社の 広告ですよ。ずいぶん 派手ですね。",
+        "reading": "aa, areha 航空会社no 広告desuyo。zuibun 派手desune。",
+        "meaning": "哦，那是航空公司的广告牌。真够显眼的。"
+      },
+      {
+        "speaker": "李",
+        "jp": "派手ですが, わたしは 嫌いじゃ ありませんよ。",
+        "reading": "派手desuga, watashiha 嫌ijiゃ arimasenyo。",
+        "meaning": "虽然显眼，但我并不讨厌。"
+      }
+    ]
+  },
+  {
+    "id": "sn5-d17",
+    "title": "わたしは 新しい 洋服が 欲しいです",
+    "scene": "初詣（新年后首次参拜）",
+    "lines": [
+      {
+        "speaker": "甲",
+        "jp": "今 何が いちばん 欲しいですか。",
+        "reading": "今 何ga ichiban 欲shiidesuka。",
+        "meaning": "现在最想要什么？"
+      },
+      {
+        "speaker": "李",
+        "jp": "小野さんは 何を お願いしましたか。",
+        "reading": "小野sanha 何wo o願ishimashitaka。",
+        "meaning": "小野，你许了什么愿？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "健康と 恋愛です。",
+        "reading": "健康to 恋愛desu。",
+        "meaning": "健康和恋爱。"
+      },
+      {
+        "speaker": "李",
+        "jp": "恋愛ですか。",
+        "reading": "恋愛desuka。",
+        "meaning": "恋爱吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "ええ。今年中に 結婚したいです。",
+        "reading": "ee。今年中ni 結婚shitaidesu。",
+        "meaning": "嗯。我想今年结婚。"
+      },
+      {
+        "speaker": "李",
+        "jp": "相手は いますか。",
+        "reading": "相手ha imasuka。",
+        "meaning": "有对象吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "いいえ。まず 恋人が 欲しいですね。",
+        "reading": "iie。mazu 恋人ga 欲shiidesune。",
+        "meaning": "没有。我想先找一个男朋友。"
+      },
+      {
+        "speaker": "李",
+        "jp": "どんな 男性が いいですか。",
+        "reading": "donna 男性ga iidesuka。",
+        "meaning": "你喜欢什么样的男性？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "まじめで 優しい 人が いいですね。",
+        "reading": "majimede 優shii 人ga iidesune。",
+        "meaning": "办事认真、温柔体贴的人呗。"
+      },
+      {
+        "speaker": "李",
+        "jp": "じゃあ, 森さんは どうですか。",
+        "reading": "jiゃa, 森sanha doudesuka。",
+        "meaning": "那么，森先生怎么样？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "（脸红）ええ？",
+        "reading": "（脸红）ee？",
+        "meaning": "啊？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "ちょっと 寒いですね。温かい 物を 食べませんか。",
+        "reading": "chiょto 寒idesune。温kai 物wo 食bemasenka。",
+        "meaning": "有点冷啊。吃点热的东西好吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "そうですね。",
+        "reading": "soudesune。",
+        "meaning": "是啊。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "何が いいですか。",
+        "reading": "何ga iidesuka。",
+        "meaning": "吃什么好呢？"
+      },
+      {
+        "speaker": "李",
+        "jp": "何でも いいですよ。",
+        "reading": "何demo iidesuyo。",
+        "meaning": "什么都行。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "じゃあ, お汁粉は どうですか。いい お店を 知って います。そこに 行きましょう。",
+        "reading": "jiゃa, o汁粉ha doudesuka。ii o店wo 知te imasu。sokoni 行kimashiょu。",
+        "meaning": "那么，吃年糕小豆汤怎么样？我知道一家不错的店。去那儿吧。"
+      },
+      {
+        "speaker": "李",
+        "jp": "お汁粉？ ぜひ 食べたいです。",
+        "reading": "o汁粉？ zehi 食betaidesu。",
+        "meaning": "年糕小豆汤？ 真想尝一尝。"
+      }
+    ]
+  },
+  {
+    "id": "sn5-d18",
+    "title": "携帯電話は とても 小さく なりました",
+    "scene": "新春セール（新年大甩卖）",
+    "lines": [
+      {
+        "speaker": "甲",
+        "jp": "風邪は どうですか。",
+        "reading": "風邪ha doudesuka。",
+        "meaning": "感冒怎么样了？"
+      },
+      {
+        "speaker": "李",
+        "jp": "小野さん, 今日は たくさん 買いますか。",
+        "reading": "小野san, 今日ha takusan 買imasuka。",
+        "meaning": "小野，今天买很多东西吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "ええ。お正月は 洋服が 安く なりますから, まとめて 買います。",
+        "reading": "ee。o正月ha 洋服ga 安ku narimasukara, matomete 買imasu。",
+        "meaning": "嗯。过年西式服装降价，所以我要一下子多买些。"
+      },
+      {
+        "speaker": "李",
+        "jp": "どのぐらい 安く なりますか。",
+        "reading": "donogurai 安ku narimasuka。",
+        "meaning": "能便宜多少？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "だいたい 定価の 3割引か 半額に なります。",
+        "reading": "daitai 定価no 3割引ka 半額ni narimasu。",
+        "meaning": "一般是定价打七折或半价。"
+      },
+      {
+        "speaker": "李",
+        "jp": "半額ですか? わたしも 新しい 洋服が 欲しく なりました。",
+        "reading": "半額desuka? watashimo 新shii 洋服ga 欲shiku narimashita。",
+        "meaning": "半价？我也想要新西服了。"
+      },
+      {
+        "speaker": "李",
+        "jp": "赤と 青と, どちらが いいですか。",
+        "reading": "赤to 青to, dochiraga iidesuka。",
+        "meaning": "红的和蓝的，哪个好？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "赤い ほうが いいですね。よく 似合いますよ。",
+        "reading": "赤i houga iidesune。yoku 似合imasuyo。",
+        "meaning": "红的好吧。很适合你。"
+      },
+      {
+        "speaker": "李",
+        "jp": "そうですか。（拿起一件红毛衣）じゃあ, これに します。",
+        "reading": "soudesuka。（拿起一件红毛衣）jiゃa, koreni shimasu。",
+        "meaning": "是吗。（拿起一件红毛衣）那么，我就要这件了。"
+      },
+      {
+        "speaker": "店員",
+        "jp": "間もなく タイムサービスの 時間です。さらに お安く しますよ。",
+        "reading": "間monaku taimusabisuno 時間desu。sarani o安ku shimasuyo。",
+        "meaning": "时段廉价销售时间马上就要到了。价钱会更便宜。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "もう すぐ 6時に なりますから, タイムサービスが 始まります。",
+        "reading": "mou sugu 6時ni narimasukara, taimusabisuga 始marimasu。",
+        "meaning": "马上就到6点了，时段廉价销售就要开始了。"
+      },
+      {
+        "speaker": "李",
+        "jp": "タイムサービス？",
+        "reading": "taimusabisu？",
+        "meaning": "时段廉价销售？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "ええ, 今から 7時まで もっと 安く なります。さあ, 行きましょう。",
+        "reading": "ee, 今kara 7時made moto 安ku narimasu。saa, 行kimashiょu。",
+        "meaning": "嗯，从现在起到7点，商品会更加便宜。快，走吧。"
+      }
+    ]
+  },
+  {
+    "id": "sn5-d19",
+    "title": "部屋の かぎを 忘れないで ください",
+    "scene": "スキー（滑雪）",
+    "lines": [
+      {
+        "speaker": "甲",
+        "jp": "その 品物に 触らないで ください。",
+        "reading": "sono 品物ni 触ranaide kudasai。",
+        "meaning": "请不要碰那个商品。"
+      },
+      {
+        "speaker": "李",
+        "jp": "小野さん, 初めてですから, ちょっと 怖いです。",
+        "reading": "小野san, 初metedesukara, chiょto 怖idesu。",
+        "meaning": "小野，因为是第一次，我有点害怕。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "心配しなくても いいですよ。ここは 初心者コースですから。",
+        "reading": "心配shinakutemo iidesuyo。kokoha 初心者kosudesukara。",
+        "meaning": "不用担心。这里是初学者滑道。"
+      },
+      {
+        "speaker": "李",
+        "jp": "森さん, 小野さん, 待って ください。先に 行かないで ください。",
+        "reading": "森san, 小野san, 待te kudasai。先ni 行kanaide kudasai。",
+        "meaning": "森，小野，等等我。请先别走。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "急がなくても いいですよ。わたしたちも ゆっくり 滑りますから。",
+        "reading": "急ganakutemo iidesuyo。watashitachimo yukuri 滑rimasukara。",
+        "meaning": "不用着急。我们也慢慢滑。"
+      },
+      {
+        "speaker": "森",
+        "jp": "李さん, スキーは どうですか。",
+        "reading": "李san, sukiha doudesuka。",
+        "meaning": "小李，滑雪怎么样？"
+      },
+      {
+        "speaker": "李",
+        "jp": "何度も 転びましたが, とても おもしろいです。",
+        "reading": "何度mo 転bimashitaga, totemo omoshiroidesu。",
+        "meaning": "摔了好几次，不过很有意思。"
+      },
+      {
+        "speaker": "森",
+        "jp": "そうですか。だいぶ 上手に なりましたよ。",
+        "reading": "soudesuka。daibu 上手ni narimashitayo。",
+        "meaning": "是吗。滑得好多了呀。"
+      },
+      {
+        "speaker": "李",
+        "jp": "本当ですか。でも, もっと 上手に なりたいです。",
+        "reading": "本当desuka。demo, moto 上手ni naritaidesu。",
+        "meaning": "真的吗？不过，我想滑得更好。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "じゃあ, もっと 練習しなければ なりませんね。もう 一度 滑りますか。",
+        "reading": "jiゃa, moto 練習shinakereba narimasenne。mou 一度 滑rimasuka。",
+        "meaning": "那么，就必须多练习啦。再滑一次吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "はい。今度は 先に 滑っても いいですか。",
+        "reading": "hai。今度ha 先ni 滑temo iidesuka。",
+        "meaning": "好的。这次我可以先滑吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "いいですよ。でも, 上級者の コースには 入らないで ください。",
+        "reading": "iidesuyo。demo, 上級者no kosuniha 入ranaide kudasai。",
+        "meaning": "可以。不过，请不要滑进熟练者的滑道里去。"
+      },
+      {
+        "speaker": "李",
+        "jp": "大丈夫です。心配しないで ください。",
+        "reading": "大丈夫desu。心配shinaide kudasai。",
+        "meaning": "我保证不进去。请别担心。"
+      }
+    ]
+  },
+  {
+    "id": "sn5-d20",
+    "title": "スミスさんは ピアノを 弾く ことが できます",
+    "scene": "",
+    "lines": [
+      {
+        "speaker": "小野",
+        "jp": "李さん, 春節は 中国へ 帰りますか。",
+        "reading": "李san, 春節ha 中国he 帰rimasuka。",
+        "meaning": "小李，春节你回中国吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "いいえ, 今 日本の 仕事が 忙しいですから, 帰りません。",
+        "reading": "iie, 今 日本no 仕事ga 忙shiidesukara, 帰rimasen。",
+        "meaning": "不，因为现在在日本的工作很忙，所以不回去。"
+      },
+      {
+        "speaker": "森",
+        "jp": "じゃあ, いっしょに どこかへ 行きませんか。",
+        "reading": "jiゃa, ishiょni dokokahe 行kimasenka。",
+        "meaning": "那么，咱们一起去个什么地方吧。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "横浜の 中華街へ 行きましょうよ。中国の 獅子舞を 見ることが できますよ。",
+        "reading": "横浜no 中華街he 行kimashiょuyo。中国no 獅子舞wo 見rukotoga dekimasuyo。",
+        "meaning": "去横滨的中华街吧。能看到中国的狮子舞呢。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "料理は どうでしたか。",
+        "reading": "料理ha doudeshitaka。",
+        "meaning": "饭菜怎么样？"
+      },
+      {
+        "speaker": "李",
+        "jp": "とても おいしかったですよ。特に 餃子は。",
+        "reading": "totemo oishikatadesuyo。特ni 餃子ha。",
+        "meaning": "非常好吃啊。特别是饺子。"
+      },
+      {
+        "speaker": "森",
+        "jp": "李さんは 餃子を 作る ことが できますか。",
+        "reading": "李sanha 餃子wo 作ru kotoga dekimasuka。",
+        "meaning": "小李，你会包饺子吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "ええ。北京では 春節の 前に, 家族 みんなで 餃子を 作ります。",
+        "reading": "ee。北京deha 春節no 前ni, 家族 minnade 餃子wo 作rimasu。",
+        "meaning": "嗯。在北京，春节前全家一起包饺子。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "手作りの 餃子は 皮が おいしいですよね。",
+        "reading": "手作rino 餃子ha 皮ga oishiidesuyone。",
+        "meaning": "手工做的饺子，皮儿可好吃了。"
+      },
+      {
+        "speaker": "李",
+        "jp": "小野さんも 作る ことが できますか。",
+        "reading": "小野sanmo 作ru kotoga dekimasuka。",
+        "meaning": "小野你也会包吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "ええ, もちろん。わたしの 趣味は おいしい 物を 作る ことですから。",
+        "reading": "ee, mochiron。watashino 趣味ha oishii 物wo 作ru kotodesukara。",
+        "meaning": "嗯，当然会了。因为我的爱好就是做好吃的东西。"
+      },
+      {
+        "speaker": "森",
+        "jp": "本当ですか？ じゃあ, いつか ごちそうして ください。",
+        "reading": "本当desuka？ jiゃa, itsuka gochisoushite kudasai。",
+        "meaning": "是吗？那什么时候请我们吃一顿吧。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "いいですよ。李さんが 帰国する 前に, ぜひ いっしょに うちに 来て ください。",
+        "reading": "iidesuyo。李sanga 帰国suru 前ni, zehi ishiょni uchini 来te kudasai。",
+        "meaning": "行啊。小李回国之前，请务必一起来我家。"
+      }
+    ]
+  },
+  {
+    "id": "sn5-d22",
+    "title": "森さんは 毎晩 テレビを 見る",
+    "scene": "",
+    "lines": [
+      {
+        "speaker": "小野",
+        "jp": "もしもし, 小野です。",
+        "reading": "moshimoshi, 小野desu。",
+        "meaning": "喂，我是小野。"
+      },
+      {
+        "speaker": "清水",
+        "jp": "小野さん？ 清水だけど。",
+        "reading": "小野san？ 清水dakedo。",
+        "meaning": "是小野吗？我是清水。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "ああ, 清水君, どうしたの？",
+        "reading": "aa, 清水君, doushitano？",
+        "meaning": "啊，清水，有什么事吗？"
+      },
+      {
+        "speaker": "清水",
+        "jp": "最近 太田から 連絡 あった？",
+        "reading": "最近 太田kara 連絡 ata？",
+        "meaning": "最近太田和你联系过吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "太田君から？ ううん, ないわよ。どうして？",
+        "reading": "太田君kara？ uun, naiwayo。doushite？",
+        "meaning": "太田吗？不，没有啊。怎么了？"
+      },
+      {
+        "speaker": "清水",
+        "jp": "太田, 今度 中国へ 転勤だって。",
+        "reading": "太田, 今度 中国he 転勤date。",
+        "meaning": "听说太田要调到中国去工作。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "本当に？ いつ 行くの？",
+        "reading": "本当ni？ itsu 行kuno？",
+        "meaning": "真的吗？什么时候去？"
+      },
+      {
+        "speaker": "清水",
+        "jp": "たしか 来月だよ。",
+        "reading": "tashika 来月dayo。",
+        "meaning": "我记得是下个月。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "急ね。中国の どこ？ 期間は どのぐらい？",
+        "reading": "急ne。中国no doko？ 期間ha donogurai？",
+        "meaning": "真急啊。中国的什么地方？多长时间？"
+      },
+      {
+        "speaker": "清水",
+        "jp": "北京だって。期間は 4年か 5年かな。",
+        "reading": "北京date。期間ha 4年ka 5年kana。",
+        "meaning": "据说是北京。时间好像是4年或者5年。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "ずいぶん 長いわね。太田君 1人で 行くの？",
+        "reading": "zuibun 長iwane。太田君 1人de 行kuno？",
+        "meaning": "时间够长的呀。太田一个人去吗？"
+      },
+      {
+        "speaker": "清水",
+        "jp": "いや, 奥さんも いっしょだよ。",
+        "reading": "iya, 奥sanmo ishiょdayo。",
+        "meaning": "不，他夫人也一起去。"
+      },
+      {
+        "speaker": "清水",
+        "jp": "来週 送別会を するけど, 都合は どうかな？",
+        "reading": "来週 送別会wo surukedo, 都合ha doukana？",
+        "meaning": "下星期要开一个欢送会，你时间方便吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "ええと, 火曜日は 予定が あるけど, それ以外は 大丈夫よ。",
+        "reading": "eeto, 火曜日ha 予定ga arukedo, sore以外ha 大丈夫yo。",
+        "meaning": "嗯，星期二已经有安排了，除此以外都没问题。"
+      },
+      {
+        "speaker": "清水",
+        "jp": "分かった。じゃあ, また 連絡するよ。",
+        "reading": "分kata。jiゃa, mata 連絡suruyo。",
+        "meaning": "知道了。那我再和你联系。"
+      },
+      {
+        "speaker": "李",
+        "jp": "お友達からですか, 小野さん？",
+        "reading": "o友達karadesuka, 小野san？",
+        "meaning": "小野，是朋友打来的吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "あっ, 分かりました？",
+        "reading": "a, 分karimashita？",
+        "meaning": "啊，你听出来了？"
+      },
+      {
+        "speaker": "李",
+        "jp": "ええ。いつもの 話し方じゃ ありませんでしたから。",
+        "reading": "ee。itsumono 話shi方jiゃ arimasendeshitakara。",
+        "meaning": "嗯。因为你说话不像平常的样子。"
+      }
+    ]
+  },
+  {
+    "id": "sn5-d23",
+    "title": "休みの 日, 散歩したり 買い物に 行ったり します",
+    "scene": "",
+    "lines": [
+      {
+        "speaker": "森",
+        "jp": "小野さん, 何を 買うか 決まりましたか。",
+        "reading": "小野san, 何wo 買uka 決marimashitaka。",
+        "meaning": "小野，买什么定了吗？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "浴衣は どうですか。",
+        "reading": "浴衣ha doudesuka。",
+        "meaning": "送浴衣怎么样？"
+      },
+      {
+        "speaker": "森",
+        "jp": "いいですね。でも, 高く ないですか。",
+        "reading": "iidesune。demo, 高ku naidesuka。",
+        "meaning": "好啊。不过，不便宜吧？"
+      },
+      {
+        "speaker": "小野",
+        "jp": "高かったり 安かったり, いろいろ あります。",
+        "reading": "高katari 安katari, iroiro arimasu。",
+        "meaning": "有贵的，有便宜的，种类很多。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "あっ, そうだ。生地を 買って, わたしが 作りますよ。",
+        "reading": "a, souda。生地wo 買te, watashiga 作rimasuyo。",
+        "meaning": "啊，对了。买块儿布料我自己做。"
+      },
+      {
+        "speaker": "吉田",
+        "jp": "日本の 生活は どうでしたか。",
+        "reading": "日本no 生活ha doudeshitaka。",
+        "meaning": "在日本的生活怎么样？"
+      },
+      {
+        "speaker": "李",
+        "jp": "温泉に 入ったり 歌舞伎を 見たり して, とても 楽しかったです。",
+        "reading": "温泉ni 入tari 歌舞伎wo 見tari shite, totemo 楽shikatadesu。",
+        "meaning": "泡泡温泉，看看歌舞伎，非常开心。"
+      },
+      {
+        "speaker": "吉田",
+        "jp": "ご両親に いつ 帰るか 知らせましたか。",
+        "reading": "go両親ni itsu 帰ruka 知rasemashitaka。",
+        "meaning": "告诉父母什么时候回去了吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "はい, 昨日 母に メールで 知らせました。",
+        "reading": "hai, 昨日 母ni merude 知rasemashita。",
+        "meaning": "嗯，昨天用电子邮件告诉母亲了。"
+      },
+      {
+        "speaker": "森",
+        "jp": "ご両親は メールが できますか。",
+        "reading": "go両親ha meruga dekimasuka。",
+        "meaning": "你父母会用电子邮件吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "母は できますが, 父は 電話か 手紙ですね。",
+        "reading": "母ha dekimasuga, 父ha 電話ka 手紙desune。",
+        "meaning": "母亲会，父亲嘛，得打电话或者写信。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "北京へ 帰った 後, どうしますか。",
+        "reading": "北京he 帰ta 後, doushimasuka。",
+        "meaning": "回到北京以后，你打算怎么办？"
+      },
+      {
+        "speaker": "李",
+        "jp": "1週間ぐらい 休みたいですね。春節に 休みが なかったですから。",
+        "reading": "1週間gurai 休mitaidesune。春節ni 休miga nakatadesukara。",
+        "meaning": "想休息一个星期左右。因为春节没有休息。"
+      },
+      {
+        "speaker": "小野",
+        "jp": "休みに 何を しますか。旅行に 行きますか。",
+        "reading": "休mini 何wo shimasuka。旅行ni 行kimasuka。",
+        "meaning": "休假时做什么？去旅行吗？"
+      },
+      {
+        "speaker": "李",
+        "jp": "旅行に 行くか どうか, 分かりません。たぶん 友達に 会ったり, 食事に 行ったり します。",
+        "reading": "旅行ni 行kuka douka, 分karimasen。tabun 友達ni 会tari, 食事ni 行tari shimasu。",
+        "meaning": "去不去旅行还不知道。大概会会朋友，吃吃饭吧。"
+      }
+    ]
+  }
+]

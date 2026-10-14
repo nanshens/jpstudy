@@ -225,5 +225,21 @@
       "能听懂新闻报道/采访/演讲",
       "能写 500 字以上的日语文章"
     ]
+  },
+  {
+    "id": "standard-n5",
+    "title": "标准日本语初级上",
+    "titleZh": "标准日本语初级上册",
+    "color": "from-teal-500 via-cyan-500 to-blue-600",
+    "category": "exam",
+    "description": "N5标准日语初级上册（标日精讲精练，23课）"
+  },
+  {
+    "id": "standard-n4",
+    "title": "标准日本语初级下",
+    "titleZh": "标准日本语初级下册",
+    "color": "from-teal-500 via-cyan-500 to-blue-600",
+    "category": "exam",
+    "description": "N4标准日语初级下册（标日精讲精练，23课）"
   }
 ]
