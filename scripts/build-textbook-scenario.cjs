@@ -133,6 +133,41 @@ function extractTableRows(lines) {
 // ================================================================
 // 1. 单词 vocab
 // ================================================================
+// 判断字符串是否为 accent 标记（含 / 的双重声调也算）
+// 匹配: ①②③ / ○0 / ◎ / ○0/② / ③④ 等
+// ○=U+25CB(white circle), 0-9=ASCII, \u2460-\u2473=circled digits ①-⑳
+function isAccent(v) {
+  if (!v) return false;
+  const ac = '○0-9\u2460-\u2473'; // accent 字符集
+  if (new RegExp(`^[◎${ac}]+$`).test(v)) return true; // 单一accent
+  if (new RegExp(`^[${ac}]+(\/[${ac}]+)+$`).test(v)) return true; // 双重accent 含/
+  return false;
+}
+
+// 判断 accent 是否为多重声调(无分隔符的多个声调，如③④、○○0④)
+function isMultiAccent(v) {
+  if (!v) return false;
+  // 含 / 的多重accent已在isAccent覆盖
+  if (/\//.test(v)) return false;
+  // 纯accent字符串但长度>1（如③④、○○0④）
+  const ac = '○\u25cb0-9\u2460-\u2473';
+  return new RegExp(`^[${ac}]+$`).test(v) && v.length > 1;
+}
+
+// 将 accent 字符串拆分为声调数组（按 / 分隔或逐字符）
+function splitAccent(v) {
+  if (!v) return [];
+  if (/\//.test(v)) return v.split('/').map(s => s.trim()).filter(Boolean);
+  // 无分隔符：逐字符拆分，但连续数字/○ 算一个
+  // 例: "③④" → ["③","④"], "○0④" → ["○0","④"]
+  const parts = [];
+  const ac = '○\u25cb0-9\u2460-\u2473';
+  const re = new RegExp(`[${ac}]+`, 'g');
+  let m;
+  while ((m = re.exec(v)) !== null) parts.push(m[0]);
+  return parts;
+}
+
 function parseVocab(md) {
   const lessons = splitLessons(md);
   const all = [];
@@ -144,8 +179,73 @@ function parseVocab(md) {
     // 不同表可能不同列数: 基础语音课是 4 列, 主课是 5 列
     for (const row of dataRows) {
       if (row.length < 3) continue;
-      // 列识别: 5 列 = [单词, 读音, 声调, 词性, 中文]
-      // 4 列 = [假名, 声调, 日文汉字, 中文]
+
+      // ================================================================
+      // 双重声调 5 列处理: [读音, 读音(同), ○0/②, 词性, 汉字/汉字意思]
+      // 例如: | はな | はな | ○0/② | 名 | 花/鼻/花/鼻子 |
+      // row[2] 含 / 的双重accent，row[4] 含 / 的 jp/meaning
+      // ================================================================
+      if (row.length >= 5 && isAccent(row[2]) && /\//.test(row[2])) {
+        const reading = row[0] || '';
+        const accentParts = splitAccent(row[2]);
+        const pos = row[3] || '';
+        const meaningCell = row[4] || '';
+        // row[4] 格式: "花/鼻/花/鼻子" → 按 "/" 分割交替配对
+        // 第1项=汉字1，第2项=汉字意思1，第3项=汉字2，第4项=汉字意思2 ...
+        const parts = meaningCell.split('/');
+        for (let i = 0; i < accentParts.length; i++) {
+          const gj = parts[i * 2] || '';       // 汉字
+          const gm = parts[i * 2 + 1] || '';  // 中文意思
+          const ga = accentParts[i].trim();
+          if (gj && ga) {
+            all.push({ jp: gj, reading: reading || gj, accent: ga, pos, meaning: gm, lesson: lesson.num, lessonTitle: lesson.title });
+          }
+        }
+        continue;
+      }
+
+      // ================================================================
+      // 多重声调 5 列处理（无 / 分隔）: [汉字, 读音, ③④, 词性, 中文]
+      // 例如: | 博物館 | はくぶつかん | ③④ | 名 | 博物馆 |
+      // 两个 accent 对应同一个词，只存一条，accent 字段保留原始值
+      // ================================================================
+      if (row.length >= 5 && isMultiAccent(row[2])) {
+        const jp = row[0] || '';
+        const reading = row[1] || '';
+        const accent = row[2] || '';
+        const pos = row[3] || '';
+        const meaning = row[4] || '';
+        if (jp && meaning) {
+          all.push({ jp, reading: reading || jp, accent, pos, meaning, lesson: lesson.num, lessonTitle: lesson.title });
+        }
+        continue;
+      }
+
+      // ================================================================
+      // 双重声调 4 列处理: [读音, ○0/②, 花/鼻, 花/鼻子]
+      // 例如: | はな | ○0/② | 花/鼻 | 花/鼻子 |
+      // row[1] 含 / 的双重accent，row[2]/row[3] 含 / 的 jp/meaning
+      // ================================================================
+      if (row.length === 4 && isAccent(row[1]) && /\//.test(row[1])) {
+        const reading = row[0] || '';
+        const accentParts = row[1].split('/');
+        const jpCell = row[2] || '';
+        const meaningCell = row[3] || '';
+        const jpParts = jpCell.split('/');
+        const meaningParts = meaningCell.split('/');
+        for (let i = 0; i < accentParts.length; i++) {
+          const gj = jpParts[i] || jpParts[0] || '';
+          const gm = meaningParts[i] || meaningParts[0] || '';
+          const ga = accentParts[i].trim();
+          if (gj) {
+            all.push({ jp: gj, reading: reading || gj, accent: ga, pos: '', meaning: gm, lesson: lesson.num, lessonTitle: lesson.title });
+          }
+        }
+        continue;
+      }
+
+      // 标准 5 列: [单词, 读音, 声调, 词性, 中文]
+      // 标准 4 列: [假名, 声调, 日文汉字, 中文]
       let jp, reading, accent, meaning, pos;
       if (row.length >= 5) {
         jp = row[0]; reading = row[1]; accent = row[2]; pos = row[3]; meaning = row[4];

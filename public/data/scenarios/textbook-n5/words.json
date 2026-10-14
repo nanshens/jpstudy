@@ -1,11 +1,11 @@
 [
   {
     "id": "n5-w0001",
-    "jp": "いえ",
-    "reading": "いえ",
-    "romaji": "ie",
-    "meaning": "②",
-    "accent": "",
+    "jp": "うえ",
+    "reading": "上",
+    "romaji": "上",
+    "meaning": "上面",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -15,11 +15,11 @@
   },
   {
     "id": "n5-w0002",
-    "jp": "家",
-    "reading": "家",
-    "romaji": "家",
-    "meaning": "房子",
-    "accent": "",
+    "jp": "おい",
+    "reading": "甥",
+    "romaji": "甥",
+    "meaning": "侄子",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -29,11 +29,11 @@
   },
   {
     "id": "n5-w0003",
-    "jp": "うえ",
-    "reading": "うえ",
-    "romaji": "ue",
-    "meaning": "②",
-    "accent": "",
+    "jp": "かき",
+    "reading": "柿",
+    "romaji": "柿",
+    "meaning": "柿子",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -43,11 +43,11 @@
   },
   {
     "id": "n5-w0004",
-    "jp": "上",
-    "reading": "上",
-    "romaji": "上",
-    "meaning": "上面",
-    "accent": "",
+    "jp": "あか",
+    "reading": "赤",
+    "romaji": "赤",
+    "meaning": "红色",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -57,11 +57,11 @@
   },
   {
     "id": "n5-w0005",
-    "jp": "おい",
-    "reading": "おい",
-    "romaji": "oi",
-    "meaning": "○0",
-    "accent": "",
+    "jp": "あき",
+    "reading": "秋",
+    "romaji": "秋",
+    "meaning": "秋天",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -71,11 +71,11 @@
   },
   {
     "id": "n5-w0006",
-    "jp": "甥",
-    "reading": "甥",
-    "romaji": "甥",
-    "meaning": "侄子",
-    "accent": "",
+    "jp": "きく",
+    "reading": "菊",
+    "romaji": "菊",
+    "meaning": "菊花",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -85,11 +85,11 @@
   },
   {
     "id": "n5-w0007",
-    "jp": "假名",
-    "reading": "假名",
-    "romaji": "假名",
-    "meaning": "声调",
-    "accent": "",
+    "jp": "いけ",
+    "reading": "池",
+    "romaji": "池",
+    "meaning": "水池",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -99,11 +99,11 @@
   },
   {
     "id": "n5-w0008",
-    "jp": "日文汉字",
-    "reading": "日文汉字",
-    "romaji": "日文汉字",
-    "meaning": "中文意思",
-    "accent": "",
+    "jp": "こい",
+    "reading": "恋",
+    "romaji": "恋",
+    "meaning": "恋爱",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -113,11 +113,11 @@
   },
   {
     "id": "n5-w0009",
-    "jp": "かき",
-    "reading": "かき",
-    "romaji": "kaki",
-    "meaning": "○0",
-    "accent": "",
+    "jp": "さけ",
+    "reading": "酒",
+    "romaji": "酒",
+    "meaning": "酒",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -127,11 +127,11 @@
   },
   {
     "id": "n5-w0010",
-    "jp": "柿",
-    "reading": "柿",
-    "romaji": "柿",
-    "meaning": "柿子",
-    "accent": "",
+    "jp": "しき",
+    "reading": "四季",
+    "romaji": "四季",
+    "meaning": "四季",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -141,11 +141,11 @@
   },
   {
     "id": "n5-w0011",
-    "jp": "あか",
-    "reading": "あか",
-    "romaji": "aka",
-    "meaning": "①",
-    "accent": "",
+    "jp": "すし",
+    "reading": "寿司",
+    "romaji": "寿司",
+    "meaning": "日本寿司",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -155,11 +155,11 @@
   },
   {
     "id": "n5-w0012",
-    "jp": "赤",
-    "reading": "赤",
-    "romaji": "赤",
-    "meaning": "红色",
-    "accent": "",
+    "jp": "あせ",
+    "reading": "汗",
+    "romaji": "汗",
+    "meaning": "汗",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -169,11 +169,11 @@
   },
   {
     "id": "n5-w0013",
-    "jp": "あき",
-    "reading": "あき",
-    "romaji": "aki",
-    "meaning": "①",
-    "accent": "",
+    "jp": "うそ",
+    "reading": "嘘",
+    "romaji": "嘘",
+    "meaning": "谎言",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -183,11 +183,11 @@
   },
   {
     "id": "n5-w0014",
-    "jp": "秋",
-    "reading": "秋",
-    "romaji": "秋",
-    "meaning": "秋天",
-    "accent": "",
+    "jp": "うた",
+    "reading": "歌",
+    "romaji": "歌",
+    "meaning": "歌",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -197,11 +197,11 @@
   },
   {
     "id": "n5-w0015",
-    "jp": "きく",
-    "reading": "きく",
-    "romaji": "kiku",
-    "meaning": "○0",
-    "accent": "",
+    "jp": "した",
+    "reading": "下",
+    "romaji": "下",
+    "meaning": "下面",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -211,11 +211,11 @@
   },
   {
     "id": "n5-w0016",
-    "jp": "菊",
-    "reading": "菊",
-    "romaji": "菊",
-    "meaning": "菊花",
-    "accent": "",
+    "jp": "ちち",
+    "reading": "父",
+    "romaji": "父",
+    "meaning": "父亲",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -225,11 +225,11 @@
   },
   {
     "id": "n5-w0017",
-    "jp": "いけ",
-    "reading": "いけ",
-    "romaji": "ike",
-    "meaning": "②",
-    "accent": "",
+    "jp": "ちかてつ",
+    "reading": "地下鉄",
+    "romaji": "地下鉄",
+    "meaning": "地铁",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -239,11 +239,11 @@
   },
   {
     "id": "n5-w0018",
-    "jp": "池",
-    "reading": "池",
-    "romaji": "池",
-    "meaning": "水池",
-    "accent": "",
+    "jp": "つき",
+    "reading": "月",
+    "romaji": "月",
+    "meaning": "月亮",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -253,314 +253,6 @@
   },
   {
     "id": "n5-w0019",
-    "jp": "こい",
-    "reading": "こい",
-    "romaji": "koi",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0020",
-    "jp": "恋",
-    "reading": "恋",
-    "romaji": "恋",
-    "meaning": "恋爱",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0021",
-    "jp": "さけ",
-    "reading": "さけ",
-    "romaji": "sake",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0022",
-    "jp": "酒",
-    "reading": "酒",
-    "romaji": "酒",
-    "meaning": "酒",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0023",
-    "jp": "しき",
-    "reading": "しき",
-    "romaji": "shiki",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0024",
-    "jp": "四季",
-    "reading": "四季",
-    "romaji": "四季",
-    "meaning": "四季",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0025",
-    "jp": "すし",
-    "reading": "すし",
-    "romaji": "sushi",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0026",
-    "jp": "寿司",
-    "reading": "寿司",
-    "romaji": "寿司",
-    "meaning": "日本寿司",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0027",
-    "jp": "あせ",
-    "reading": "あせ",
-    "romaji": "ase",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0028",
-    "jp": "汗",
-    "reading": "汗",
-    "romaji": "汗",
-    "meaning": "汗",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0029",
-    "jp": "うそ",
-    "reading": "うそ",
-    "romaji": "uso",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0030",
-    "jp": "嘘",
-    "reading": "嘘",
-    "romaji": "嘘",
-    "meaning": "谎言",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0031",
-    "jp": "うた",
-    "reading": "うた",
-    "romaji": "uta",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0032",
-    "jp": "歌",
-    "reading": "歌",
-    "romaji": "歌",
-    "meaning": "歌",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0033",
-    "jp": "した",
-    "reading": "した",
-    "romaji": "shita",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0034",
-    "jp": "下",
-    "reading": "下",
-    "romaji": "下",
-    "meaning": "下面",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0035",
-    "jp": "ちち",
-    "reading": "ちち",
-    "romaji": "chichi",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0036",
-    "jp": "父",
-    "reading": "父",
-    "romaji": "父",
-    "meaning": "父亲",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0037",
-    "jp": "ちかてつ",
-    "reading": "ちかてつ",
-    "romaji": "chikatetsu",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0038",
-    "jp": "地下鉄",
-    "reading": "地下鉄",
-    "romaji": "地下鉄",
-    "meaning": "地铁",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0039",
-    "jp": "つき",
-    "reading": "つき",
-    "romaji": "tsuki",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0040",
-    "jp": "月",
-    "reading": "月",
-    "romaji": "月",
-    "meaning": "月亮",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0041",
     "jp": "テスト",
     "reading": "test",
     "romaji": "test",
@@ -574,26 +266,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0042",
+    "id": "n5-w0020",
     "jp": "そと",
-    "reading": "そと",
-    "romaji": "soto",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0043",
-    "jp": "外",
     "reading": "外",
     "romaji": "外",
     "meaning": "外面",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -602,26 +280,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0044",
+    "id": "n5-w0021",
     "jp": "なつ",
-    "reading": "なつ",
-    "romaji": "natsu",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0045",
-    "jp": "夏",
     "reading": "夏",
     "romaji": "夏",
     "meaning": "夏天",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -630,26 +294,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0046",
+    "id": "n5-w0022",
     "jp": "にし",
-    "reading": "にし",
-    "romaji": "nishi",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0047",
-    "jp": "西",
     "reading": "西",
     "romaji": "西",
     "meaning": "西",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -658,26 +308,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0048",
+    "id": "n5-w0023",
     "jp": "いぬ",
-    "reading": "いぬ",
-    "romaji": "inu",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0049",
-    "jp": "犬",
     "reading": "犬",
     "romaji": "犬",
     "meaning": "狗",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -686,26 +322,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0050",
+    "id": "n5-w0024",
     "jp": "ねこ",
-    "reading": "ねこ",
-    "romaji": "neko",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0051",
-    "jp": "猫",
     "reading": "猫",
     "romaji": "猫",
     "meaning": "猫",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -714,26 +336,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0052",
+    "id": "n5-w0025",
     "jp": "あに",
-    "reading": "あに",
-    "romaji": "ani",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0053",
-    "jp": "兄",
     "reading": "兄",
     "romaji": "兄",
     "meaning": "哥哥",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -742,26 +350,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0054",
+    "id": "n5-w0026",
     "jp": "あね",
-    "reading": "あね",
-    "romaji": "ane",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0055",
-    "jp": "姉",
     "reading": "姉",
     "romaji": "姉",
     "meaning": "姐姐",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -770,26 +364,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0056",
+    "id": "n5-w0027",
     "jp": "つの",
-    "reading": "つの",
-    "romaji": "tsuno",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0057",
-    "jp": "角",
     "reading": "角",
     "romaji": "角",
     "meaning": "角",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -798,26 +378,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0058",
+    "id": "n5-w0028",
     "jp": "はは",
-    "reading": "はは",
-    "romaji": "haha",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0059",
-    "jp": "母",
     "reading": "母",
     "romaji": "母",
     "meaning": "母亲",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -826,12 +392,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0060",
-    "jp": "はな",
+    "id": "n5-w0029",
+    "jp": "花",
     "reading": "はな",
     "romaji": "hana",
-    "meaning": "○0/②",
-    "accent": "",
+    "meaning": "花",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -840,12 +406,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0061",
-    "jp": "花/鼻",
-    "reading": "花/鼻",
-    "romaji": "花/鼻",
-    "meaning": "花/鼻子",
-    "accent": "",
+    "id": "n5-w0030",
+    "jp": "鼻",
+    "reading": "はな",
+    "romaji": "hana",
+    "meaning": "鼻子",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -854,12 +420,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0062",
-    "jp": "はし",
+    "id": "n5-w0031",
+    "jp": "箸",
     "reading": "はし",
     "romaji": "hashi",
-    "meaning": "①/②",
-    "accent": "",
+    "meaning": "筷子",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -868,12 +434,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0063",
-    "jp": "箸/橋",
-    "reading": "箸/橋",
-    "romaji": "箸/橋",
-    "meaning": "筷子/桥",
-    "accent": "",
+    "id": "n5-w0032",
+    "jp": "橋",
+    "reading": "はし",
+    "romaji": "hashi",
+    "meaning": "桥",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -882,26 +448,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0064",
+    "id": "n5-w0033",
     "jp": "ひと",
-    "reading": "ひと",
-    "romaji": "hito",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0065",
-    "jp": "人",
     "reading": "人",
     "romaji": "人",
     "meaning": "人",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -910,26 +462,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0066",
+    "id": "n5-w0034",
     "jp": "ふく",
-    "reading": "ふく",
-    "romaji": "fuku",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0067",
-    "jp": "服",
     "reading": "服",
     "romaji": "服",
     "meaning": "衣服",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -938,26 +476,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0068",
+    "id": "n5-w0035",
     "jp": "へた",
-    "reading": "へた",
-    "romaji": "heta",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0069",
-    "jp": "下手",
     "reading": "下手",
     "romaji": "下手",
     "meaning": "不好、不擅长",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -966,26 +490,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0070",
+    "id": "n5-w0036",
     "jp": "ほほ",
-    "reading": "ほほ",
-    "romaji": "hoho",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0071",
-    "jp": "頬",
     "reading": "頬",
     "romaji": "頬",
     "meaning": "颊",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -994,26 +504,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0072",
+    "id": "n5-w0037",
     "jp": "いま",
-    "reading": "いま",
-    "romaji": "ima",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0073",
-    "jp": "今/居間",
     "reading": "今/居間",
     "romaji": "今/居間",
     "meaning": "现在",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -1022,26 +518,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0074",
+    "id": "n5-w0038",
     "jp": "うま",
-    "reading": "うま",
-    "romaji": "uma",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0075",
-    "jp": "馬",
     "reading": "馬",
     "romaji": "馬",
     "meaning": "马",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -1050,26 +532,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0076",
+    "id": "n5-w0039",
     "jp": "みみ",
-    "reading": "みみ",
-    "romaji": "mimi",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0077",
-    "jp": "耳",
     "reading": "耳",
     "romaji": "耳",
     "meaning": "耳朵",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -1078,26 +546,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0078",
+    "id": "n5-w0040",
     "jp": "うみ",
-    "reading": "うみ",
-    "romaji": "umi",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0079",
-    "jp": "海",
     "reading": "海",
     "romaji": "海",
     "meaning": "海",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -1106,7 +560,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0080",
+    "id": "n5-w0041",
     "jp": "ハム",
     "reading": "ham",
     "romaji": "ham",
@@ -1120,12 +574,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0081",
-    "jp": "あめ",
+    "id": "n5-w0042",
+    "jp": "飴",
     "reading": "あめ",
     "romaji": "ame",
-    "meaning": "○0/①",
-    "accent": "",
+    "meaning": "糖",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -1134,12 +588,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0082",
-    "jp": "飴/雨",
-    "reading": "飴/雨",
-    "romaji": "飴/雨",
-    "meaning": "糖/雨",
-    "accent": "",
+    "id": "n5-w0043",
+    "jp": "雨",
+    "reading": "あめ",
+    "romaji": "ame",
+    "meaning": "雨",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -1148,26 +602,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0083",
+    "id": "n5-w0044",
     "jp": "もの",
-    "reading": "もの",
-    "romaji": "mono",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0084",
-    "jp": "物",
     "reading": "物",
     "romaji": "物",
     "meaning": "东西",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -1176,26 +616,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0085",
+    "id": "n5-w0045",
     "jp": "やま",
-    "reading": "やま",
-    "romaji": "yama",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0086",
-    "jp": "山",
     "reading": "山",
     "romaji": "山",
     "meaning": "山",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -1204,26 +630,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0087",
+    "id": "n5-w0046",
     "jp": "やくそく",
-    "reading": "やくそく",
-    "romaji": "yakusoku",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0088",
-    "jp": "約束",
     "reading": "約束",
     "romaji": "約束",
     "meaning": "约定",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -1232,26 +644,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0089",
+    "id": "n5-w0047",
     "jp": "やすみ",
-    "reading": "やすみ",
-    "romaji": "yasumi",
-    "meaning": "③",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0090",
-    "jp": "休み",
     "reading": "休み",
     "romaji": "休mi",
     "meaning": "休假",
-    "accent": "",
+    "accent": "③",
     "tag": [
       "N5",
       "第1課"
@@ -1260,26 +658,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0091",
+    "id": "n5-w0048",
     "jp": "ゆめ",
-    "reading": "ゆめ",
-    "romaji": "yume",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0092",
-    "jp": "夢",
     "reading": "夢",
     "romaji": "夢",
     "meaning": "梦",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -1288,26 +672,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0093",
+    "id": "n5-w0049",
     "jp": "ふゆ",
-    "reading": "ふゆ",
-    "romaji": "fuyu",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0094",
-    "jp": "冬",
     "reading": "冬",
     "romaji": "冬",
     "meaning": "冬天",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -1316,26 +686,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0095",
+    "id": "n5-w0050",
     "jp": "よやく",
-    "reading": "よやく",
-    "romaji": "yoyaku",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0096",
-    "jp": "予約",
     "reading": "予約",
     "romaji": "予約",
     "meaning": "预约",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -1344,26 +700,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0097",
+    "id": "n5-w0051",
     "jp": "さくら",
-    "reading": "さくら",
-    "romaji": "sakura",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0098",
-    "jp": "桜",
     "reading": "桜",
     "romaji": "桜",
     "meaning": "樱花",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -1372,26 +714,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0099",
+    "id": "n5-w0052",
     "jp": "くもり",
-    "reading": "くもり",
-    "romaji": "kumori",
-    "meaning": "③",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0100",
-    "jp": "曇り",
     "reading": "曇り",
     "romaji": "曇ri",
     "meaning": "多云",
-    "accent": "",
+    "accent": "③",
     "tag": [
       "N5",
       "第1課"
@@ -1400,26 +728,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0101",
+    "id": "n5-w0053",
     "jp": "とり",
-    "reading": "とり",
-    "romaji": "tori",
-    "meaning": "③",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0102",
-    "jp": "鳥",
     "reading": "鳥",
     "romaji": "鳥",
     "meaning": "鸟",
-    "accent": "",
+    "accent": "③",
     "tag": [
       "N5",
       "第1課"
@@ -1428,26 +742,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0103",
+    "id": "n5-w0054",
     "jp": "はる",
-    "reading": "はる",
-    "romaji": "haru",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0104",
-    "jp": "春",
     "reading": "春",
     "romaji": "春",
     "meaning": "春天",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -1456,26 +756,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0105",
+    "id": "n5-w0055",
     "jp": "よる",
-    "reading": "よる",
-    "romaji": "yoru",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0106",
-    "jp": "夜",
     "reading": "夜",
     "romaji": "夜",
     "meaning": "晚上",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -1484,26 +770,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0107",
+    "id": "n5-w0056",
     "jp": "はれ",
-    "reading": "はれ",
-    "romaji": "hare",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0108",
-    "jp": "晴れ",
     "reading": "晴れ",
     "romaji": "晴re",
     "meaning": "晴天",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -1512,26 +784,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0109",
-    "jp": "ふろ",
+    "id": "n5-w0057",
+    "jp": "風呂",
     "reading": "ふろ",
     "romaji": "furo",
-    "meaning": "①/②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0110",
-    "jp": "風呂",
-    "reading": "風呂",
-    "romaji": "風呂",
     "meaning": "澡盆、浴池",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -1540,26 +798,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0111",
+    "id": "n5-w0058",
     "jp": "わたし",
-    "reading": "わたし",
-    "romaji": "watashi",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0112",
-    "jp": "私",
     "reading": "私",
     "romaji": "私",
     "meaning": "我",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第1課"
@@ -1568,26 +812,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0113",
+    "id": "n5-w0059",
     "jp": "かわ",
-    "reading": "かわ",
-    "romaji": "kawa",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0114",
-    "jp": "川",
     "reading": "川",
     "romaji": "川",
     "meaning": "河",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -1596,26 +826,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0115",
+    "id": "n5-w0060",
     "jp": "にほん",
-    "reading": "にほん",
-    "romaji": "nihon",
-    "meaning": "②",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0116",
-    "jp": "日本",
     "reading": "日本",
     "romaji": "日本",
     "meaning": "日本",
-    "accent": "",
+    "accent": "②",
     "tag": [
       "N5",
       "第1課"
@@ -1624,26 +840,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0117",
+    "id": "n5-w0061",
     "jp": "ほん",
-    "reading": "ほん",
-    "romaji": "hon",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0118",
-    "jp": "本",
     "reading": "本",
     "romaji": "本",
     "meaning": "书",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -1652,26 +854,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0119",
+    "id": "n5-w0062",
     "jp": "てんき",
-    "reading": "てんき",
-    "romaji": "tenki",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第1課"
-    ],
-    "lesson": 1,
-    "note": ""
-  },
-  {
-    "id": "n5-w0120",
-    "jp": "天気",
     "reading": "天気",
     "romaji": "天気",
     "meaning": "天气",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第1課"
@@ -1680,21 +868,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0121",
-    "jp": "きんぎん",
-    "reading": "③",
-    "romaji": "③",
-    "meaning": "金银",
-    "accent": "金銀",
-    "tag": [
-      "N5",
-      "第2課"
-    ],
-    "lesson": 2,
-    "note": ""
-  },
-  {
-    "id": "n5-w0122",
+    "id": "n5-w0063",
     "jp": "ぎし",
     "reading": "①",
     "romaji": "①",
@@ -1708,7 +882,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0123",
+    "id": "n5-w0064",
     "jp": "かぐ",
     "reading": "①",
     "romaji": "①",
@@ -1722,7 +896,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0124",
+    "id": "n5-w0065",
     "jp": "げんき",
     "reading": "①",
     "romaji": "①",
@@ -1736,7 +910,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0125",
+    "id": "n5-w0066",
     "jp": "ごはん",
     "reading": "①",
     "romaji": "①",
@@ -1750,7 +924,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0126",
+    "id": "n5-w0067",
     "jp": "りんご",
     "reading": "○0",
     "romaji": "○0",
@@ -1764,7 +938,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0127",
+    "id": "n5-w0068",
     "jp": "ざせき",
     "reading": "○0",
     "romaji": "○0",
@@ -1778,7 +952,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0128",
+    "id": "n5-w0069",
     "jp": "ふじさん",
     "reading": "①",
     "romaji": "①",
@@ -1792,7 +966,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0129",
+    "id": "n5-w0070",
     "jp": "ちず",
     "reading": "①",
     "romaji": "①",
@@ -1806,7 +980,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0130",
+    "id": "n5-w0071",
     "jp": "ぜんご",
     "reading": "①",
     "romaji": "①",
@@ -1820,7 +994,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0131",
+    "id": "n5-w0072",
     "jp": "ぞくご",
     "reading": "○0",
     "romaji": "○0",
@@ -1834,7 +1008,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0132",
+    "id": "n5-w0073",
     "jp": "だいがく",
     "reading": "○0",
     "romaji": "○0",
@@ -1848,7 +1022,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0133",
+    "id": "n5-w0074",
     "jp": "でんわ",
     "reading": "○0",
     "romaji": "○0",
@@ -1862,7 +1036,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0134",
+    "id": "n5-w0075",
     "jp": "まど",
     "reading": "①",
     "romaji": "①",
@@ -1876,7 +1050,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0135",
+    "id": "n5-w0076",
     "jp": "ドア",
     "reading": "①",
     "romaji": "①",
@@ -1890,7 +1064,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0136",
+    "id": "n5-w0077",
     "jp": "いちば",
     "reading": "③",
     "romaji": "③",
@@ -1904,7 +1078,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0137",
+    "id": "n5-w0078",
     "jp": "バス",
     "reading": "①",
     "romaji": "①",
@@ -1918,7 +1092,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0138",
+    "id": "n5-w0079",
     "jp": "わさび",
     "reading": "①",
     "romaji": "①",
@@ -1932,7 +1106,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0139",
+    "id": "n5-w0080",
     "jp": "ビザ",
     "reading": "①",
     "romaji": "①",
@@ -1946,7 +1120,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0140",
+    "id": "n5-w0081",
     "jp": "ぶた",
     "reading": "○0",
     "romaji": "○0",
@@ -1960,7 +1134,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0141",
+    "id": "n5-w0082",
     "jp": "べんり",
     "reading": "①",
     "romaji": "①",
@@ -1974,7 +1148,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0142",
+    "id": "n5-w0083",
     "jp": "まんがぼん",
     "reading": "○0",
     "romaji": "○0",
@@ -1988,35 +1162,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0143",
-    "jp": "假名",
-    "reading": "假名",
-    "romaji": "假名",
-    "meaning": "词源",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第2課"
-    ],
-    "lesson": 2,
-    "note": ""
-  },
-  {
-    "id": "n5-w0144",
-    "jp": "声调",
-    "reading": "声调",
-    "romaji": "声调",
-    "meaning": "中文意思",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第2課"
-    ],
-    "lesson": 2,
-    "note": ""
-  },
-  {
-    "id": "n5-w0145",
+    "id": "n5-w0084",
     "jp": "パン",
     "reading": "①",
     "romaji": "①",
@@ -2030,7 +1176,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0146",
+    "id": "n5-w0085",
     "jp": "パンダ",
     "reading": "①",
     "romaji": "①",
@@ -2044,7 +1190,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0147",
+    "id": "n5-w0086",
     "jp": "ピザ",
     "reading": "①",
     "romaji": "①",
@@ -2058,7 +1204,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0148",
+    "id": "n5-w0087",
     "jp": "ピンポン",
     "reading": "①",
     "romaji": "①",
@@ -2072,7 +1218,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0149",
+    "id": "n5-w0088",
     "jp": "プロ",
     "reading": "○0",
     "romaji": "○0",
@@ -2086,7 +1232,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0150",
+    "id": "n5-w0089",
     "jp": "ペン",
     "reading": "①",
     "romaji": "①",
@@ -2100,7 +1246,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0151",
+    "id": "n5-w0090",
     "jp": "ポスト",
     "reading": "①",
     "romaji": "①",
@@ -2114,21 +1260,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0152",
-    "jp": "キャベツ",
-    "reading": "①",
-    "romaji": "①",
-    "meaning": "卷心菜",
-    "accent": "cabbage",
-    "tag": [
-      "N5",
-      "第3課"
-    ],
-    "lesson": 3,
-    "note": ""
-  },
-  {
-    "id": "n5-w0153",
+    "id": "n5-w0091",
     "jp": "キャンセル",
     "reading": "①",
     "romaji": "①",
@@ -2142,7 +1274,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0154",
+    "id": "n5-w0092",
     "jp": "しゃしん",
     "reading": "○0",
     "romaji": "○0",
@@ -2156,7 +1288,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0155",
+    "id": "n5-w0093",
     "jp": "じゅけん",
     "reading": "○0",
     "romaji": "○0",
@@ -2170,7 +1302,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0156",
+    "id": "n5-w0094",
     "jp": "シャンハイ",
     "reading": "①",
     "romaji": "①",
@@ -2184,7 +1316,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0157",
+    "id": "n5-w0095",
     "jp": "しゅじゅつ",
     "reading": "①",
     "romaji": "①",
@@ -2198,7 +1330,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0158",
+    "id": "n5-w0096",
     "jp": "じしょ",
     "reading": "①",
     "romaji": "①",
@@ -2212,7 +1344,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0159",
+    "id": "n5-w0097",
     "jp": "おちゃ",
     "reading": "○0",
     "romaji": "○0",
@@ -2226,7 +1358,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0160",
+    "id": "n5-w0098",
     "jp": "ちょきん",
     "reading": "○0",
     "romaji": "○0",
@@ -2240,7 +1372,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0161",
+    "id": "n5-w0099",
     "jp": "ひゃく",
     "reading": "②",
     "romaji": "②",
@@ -2254,7 +1386,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0162",
+    "id": "n5-w0100",
     "jp": "りょくちゃ",
     "reading": "①",
     "romaji": "①",
@@ -2268,26 +1400,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0163",
+    "id": "n5-w0101",
     "jp": "がっさく",
-    "reading": "がっさく",
-    "romaji": "gasaku",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第4課"
-    ],
-    "lesson": 4,
-    "note": ""
-  },
-  {
-    "id": "n5-w0164",
-    "jp": "合作",
     "reading": "合作",
     "romaji": "合作",
     "meaning": "合作",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第4課"
@@ -2296,26 +1414,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0165",
+    "id": "n5-w0102",
     "jp": "きって",
-    "reading": "きって",
-    "romaji": "kite",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第4課"
-    ],
-    "lesson": 4,
-    "note": ""
-  },
-  {
-    "id": "n5-w0166",
-    "jp": "切手",
     "reading": "切手",
     "romaji": "切手",
     "meaning": "邮票",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第4課"
@@ -2324,26 +1428,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0167",
+    "id": "n5-w0103",
     "jp": "チャット",
-    "reading": "チャット",
-    "romaji": "chato",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第4課"
-    ],
-    "lesson": 4,
-    "note": ""
-  },
-  {
-    "id": "n5-w0168",
-    "jp": "（外来语）",
     "reading": "（外来语）",
     "romaji": "（外来语）",
     "meaning": "网络聊天（chat）",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第4課"
@@ -2352,26 +1442,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0169",
+    "id": "n5-w0104",
     "jp": "きっさてん",
-    "reading": "きっさてん",
-    "romaji": "kisaten",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第4課"
-    ],
-    "lesson": 4,
-    "note": ""
-  },
-  {
-    "id": "n5-w0170",
-    "jp": "喫茶店",
     "reading": "喫茶店",
     "romaji": "喫茶店",
     "meaning": "咖啡厅",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第4課"
@@ -2380,26 +1456,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0171",
+    "id": "n5-w0105",
     "jp": "しゅっちょう",
-    "reading": "しゅっちょう",
-    "romaji": "shuchou",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第4課"
-    ],
-    "lesson": 4,
-    "note": ""
-  },
-  {
-    "id": "n5-w0172",
-    "jp": "出張",
     "reading": "出張",
     "romaji": "出張",
     "meaning": "出差",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第4課"
@@ -2408,26 +1470,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0173",
+    "id": "n5-w0106",
     "jp": "にっき",
-    "reading": "にっき",
-    "romaji": "niki",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第4課"
-    ],
-    "lesson": 4,
-    "note": ""
-  },
-  {
-    "id": "n5-w0174",
-    "jp": "日記",
     "reading": "日記",
     "romaji": "日記",
     "meaning": "日记",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第4課"
@@ -2436,26 +1484,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0175",
+    "id": "n5-w0107",
     "jp": "がっこう",
-    "reading": "がっこう",
-    "romaji": "gakou",
-    "meaning": "○0",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第4課"
-    ],
-    "lesson": 4,
-    "note": ""
-  },
-  {
-    "id": "n5-w0176",
-    "jp": "学校",
     "reading": "学校",
     "romaji": "学校",
     "meaning": "学校",
-    "accent": "",
+    "accent": "○0",
     "tag": [
       "N5",
       "第4課"
@@ -2464,26 +1498,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0177",
+    "id": "n5-w0108",
     "jp": "サッカー",
-    "reading": "サッカー",
-    "romaji": "saka",
-    "meaning": "①",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第4課"
-    ],
-    "lesson": 4,
-    "note": ""
-  },
-  {
-    "id": "n5-w0178",
-    "jp": "（外来语）",
     "reading": "（外来语）",
     "romaji": "（外来语）",
     "meaning": "足球（Soccer）",
-    "accent": "",
+    "accent": "①",
     "tag": [
       "N5",
       "第4課"
@@ -2492,26 +1512,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0179",
+    "id": "n5-w0109",
     "jp": "はっぱ",
-    "reading": "はっぱ",
-    "romaji": "hapa",
-    "meaning": "○",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第4課"
-    ],
-    "lesson": 4,
-    "note": ""
-  },
-  {
-    "id": "n5-w0180",
-    "jp": "葉っぱ",
     "reading": "葉っぱ",
     "romaji": "葉pa",
     "meaning": "叶子",
-    "accent": "",
+    "accent": "○",
     "tag": [
       "N5",
       "第4課"
@@ -2520,26 +1526,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0181",
+    "id": "n5-w0110",
     "jp": "きっぷ",
-    "reading": "きっぷ",
-    "romaji": "kipu",
-    "meaning": "○",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第4課"
-    ],
-    "lesson": 4,
-    "note": ""
-  },
-  {
-    "id": "n5-w0182",
-    "jp": "切符",
     "reading": "切符",
     "romaji": "切符",
     "meaning": "门票、车票",
-    "accent": "",
+    "accent": "○",
     "tag": [
       "N5",
       "第4課"
@@ -2548,26 +1540,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0183",
+    "id": "n5-w0111",
     "jp": "げっぺい",
-    "reading": "げっぺい",
-    "romaji": "gepei",
-    "meaning": "○",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第4課"
-    ],
-    "lesson": 4,
-    "note": ""
-  },
-  {
-    "id": "n5-w0184",
-    "jp": "月餅",
     "reading": "月餅",
     "romaji": "月餅",
     "meaning": "月饼",
-    "accent": "",
+    "accent": "○",
     "tag": [
       "N5",
       "第4課"
@@ -2576,22 +1554,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0185",
-    "jp": "中国人",
-    "reading": "ちゅうごくじん",
-    "romaji": "chuugokujin",
-    "meaning": "中国人",
-    "accent": "④",
-    "tag": [
-      "N5",
-      "第5課",
-      "名"
-    ],
-    "lesson": 5,
-    "note": "[名]"
-  },
-  {
-    "id": "n5-w0186",
+    "id": "n5-w0112",
     "jp": "ダニエル",
     "reading": "—",
     "romaji": "—",
@@ -2606,7 +1569,7 @@
     "note": "[人名]"
   },
   {
-    "id": "n5-w0187",
+    "id": "n5-w0113",
     "jp": "イギリス人",
     "reading": "いぎりすじん",
     "romaji": "igirisujin",
@@ -2621,7 +1584,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0188",
+    "id": "n5-w0114",
     "jp": "東京",
     "reading": "とうきょう",
     "romaji": "toukyou",
@@ -2636,7 +1599,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0189",
+    "id": "n5-w0115",
     "jp": "日本語",
     "reading": "にほんご",
     "romaji": "nihongo",
@@ -2651,7 +1614,22 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0190",
+    "id": "n5-w0116",
+    "jp": "学校",
+    "reading": "がっこう",
+    "romaji": "gakou",
+    "meaning": "学校",
+    "accent": "○0",
+    "tag": [
+      "N5",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "n5-w0117",
     "jp": "留学生",
     "reading": "りゅうがくせい",
     "romaji": "ryuugakusei",
@@ -2666,7 +1644,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0191",
+    "id": "n5-w0118",
     "jp": "新入生",
     "reading": "しんにゅうせい",
     "romaji": "shinnyuusei",
@@ -2681,7 +1659,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0192",
+    "id": "n5-w0119",
     "jp": "二年生",
     "reading": "にねんせい",
     "romaji": "ninensei",
@@ -2696,7 +1674,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0193",
+    "id": "n5-w0120",
     "jp": "はじめまして",
     "reading": "—",
     "romaji": "—",
@@ -2711,7 +1689,7 @@
     "note": "[寒暄]"
   },
   {
-    "id": "n5-w0194",
+    "id": "n5-w0121",
     "jp": "名前",
     "reading": "なまえ",
     "romaji": "namae",
@@ -2726,7 +1704,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0195",
+    "id": "n5-w0122",
     "jp": "はい",
     "reading": "—",
     "romaji": "—",
@@ -2741,7 +1719,7 @@
     "note": "[感]"
   },
   {
-    "id": "n5-w0196",
+    "id": "n5-w0123",
     "jp": "いいえ",
     "reading": "—",
     "romaji": "—",
@@ -2756,7 +1734,7 @@
     "note": "[感]"
   },
   {
-    "id": "n5-w0197",
+    "id": "n5-w0124",
     "jp": "よろしくお願いします",
     "reading": "—",
     "romaji": "—",
@@ -2771,7 +1749,7 @@
     "note": "[寒暄]"
   },
   {
-    "id": "n5-w0198",
+    "id": "n5-w0125",
     "jp": "どうぞ",
     "reading": "—",
     "romaji": "—",
@@ -2786,7 +1764,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0199",
+    "id": "n5-w0126",
     "jp": "こちらこそ",
     "reading": "—",
     "romaji": "—",
@@ -2801,54 +1779,12 @@
     "note": "[寒暄]"
   },
   {
-    "id": "n5-w0200",
-    "jp": "国名",
-    "reading": "国名",
-    "romaji": "国名",
-    "meaning": "人",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第5課"
-    ],
-    "lesson": 5,
-    "note": ""
-  },
-  {
-    "id": "n5-w0201",
-    "jp": "語",
-    "reading": "語",
-    "romaji": "語",
-    "meaning": "货币",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第5課"
-    ],
-    "lesson": 5,
-    "note": ""
-  },
-  {
-    "id": "n5-w0202",
+    "id": "n5-w0127",
     "jp": "中国（ちゅうごく）",
-    "reading": "中国（ちゅうごく）",
-    "romaji": "中国（chuugoku）",
-    "meaning": "中国人",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第5課"
-    ],
-    "lesson": 5,
-    "note": ""
-  },
-  {
-    "id": "n5-w0203",
-    "jp": "中国語",
     "reading": "中国語",
     "romaji": "中国語",
     "meaning": "人民元（じんみんげん）",
-    "accent": "",
+    "accent": "中国人",
     "tag": [
       "N5",
       "第5課"
@@ -2857,26 +1793,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0204",
+    "id": "n5-w0128",
     "jp": "日本（にほん）",
-    "reading": "日本（にほん）",
-    "romaji": "日本（nihon）",
-    "meaning": "日本人",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第5課"
-    ],
-    "lesson": 5,
-    "note": ""
-  },
-  {
-    "id": "n5-w0205",
-    "jp": "日本語",
     "reading": "日本語",
     "romaji": "日本語",
     "meaning": "日本円（にほんえん）",
-    "accent": "",
+    "accent": "日本人",
     "tag": [
       "N5",
       "第5課"
@@ -2885,26 +1807,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0206",
+    "id": "n5-w0129",
     "jp": "韓国（かんこく）",
-    "reading": "韓国（かんこく）",
-    "romaji": "韓国（kankoku）",
-    "meaning": "韓国人",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第5課"
-    ],
-    "lesson": 5,
-    "note": ""
-  },
-  {
-    "id": "n5-w0207",
-    "jp": "韓国語",
     "reading": "韓国語",
     "romaji": "韓国語",
     "meaning": "—",
-    "accent": "",
+    "accent": "韓国人",
     "tag": [
       "N5",
       "第5課"
@@ -2913,26 +1821,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0208",
+    "id": "n5-w0130",
     "jp": "アメリカ（米国）",
-    "reading": "アメリカ（米国）",
-    "romaji": "amerika（米国）",
-    "meaning": "アメリカ人",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第5課"
-    ],
-    "lesson": 5,
-    "note": ""
-  },
-  {
-    "id": "n5-w0209",
-    "jp": "英語",
     "reading": "英語",
     "romaji": "英語",
     "meaning": "ドル",
-    "accent": "",
+    "accent": "アメリカ人",
     "tag": [
       "N5",
       "第5課"
@@ -2941,26 +1835,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0210",
+    "id": "n5-w0131",
     "jp": "イギリス",
-    "reading": "イギリス",
-    "romaji": "igirisu",
-    "meaning": "イギリス人",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第5課"
-    ],
-    "lesson": 5,
-    "note": ""
-  },
-  {
-    "id": "n5-w0211",
-    "jp": "英語",
     "reading": "英語",
     "romaji": "英語",
     "meaning": "ヨーロッパドル",
-    "accent": "",
+    "accent": "イギリス人",
     "tag": [
       "N5",
       "第5課"
@@ -2969,26 +1849,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0212",
+    "id": "n5-w0132",
     "jp": "ドイツ",
-    "reading": "ドイツ",
-    "romaji": "doitsu",
-    "meaning": "ドイツ人",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第5課"
-    ],
-    "lesson": 5,
-    "note": ""
-  },
-  {
-    "id": "n5-w0213",
-    "jp": "ドイツ語",
     "reading": "ドイツ語",
     "romaji": "doitsu語",
     "meaning": "ヨーロッパドル",
-    "accent": "",
+    "accent": "ドイツ人",
     "tag": [
       "N5",
       "第5課"
@@ -2997,26 +1863,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0214",
+    "id": "n5-w0133",
     "jp": "フランス",
-    "reading": "フランス",
-    "romaji": "furansu",
-    "meaning": "フランス人",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第5課"
-    ],
-    "lesson": 5,
-    "note": ""
-  },
-  {
-    "id": "n5-w0215",
-    "jp": "フランス語",
     "reading": "フランス語",
     "romaji": "furansu語",
     "meaning": "ヨーロッパドル",
-    "accent": "",
+    "accent": "フランス人",
     "tag": [
       "N5",
       "第5課"
@@ -3025,26 +1877,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0216",
+    "id": "n5-w0134",
     "jp": "香港",
-    "reading": "香港",
-    "romaji": "香港",
-    "meaning": "香港人",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第5課"
-    ],
-    "lesson": 5,
-    "note": ""
-  },
-  {
-    "id": "n5-w0217",
-    "jp": "英語",
     "reading": "英語",
     "romaji": "英語",
     "meaning": "香港ドル",
-    "accent": "",
+    "accent": "香港人",
     "tag": [
       "N5",
       "第5課"
@@ -3053,22 +1891,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0218",
-    "jp": "それ",
-    "reading": "—",
-    "romaji": "—",
-    "meaning": "那、那个",
-    "accent": "○0",
-    "tag": [
-      "N5",
-      "第6課",
-      "代"
-    ],
-    "lesson": 6,
-    "note": "[代]"
-  },
-  {
-    "id": "n5-w0219",
+    "id": "n5-w0135",
     "jp": "あれ",
     "reading": "—",
     "romaji": "—",
@@ -3083,7 +1906,7 @@
     "note": "[代]"
   },
   {
-    "id": "n5-w0220",
+    "id": "n5-w0136",
     "jp": "どれ",
     "reading": "—",
     "romaji": "—",
@@ -3098,7 +1921,7 @@
     "note": "[代]"
   },
   {
-    "id": "n5-w0221",
+    "id": "n5-w0137",
     "jp": "本",
     "reading": "ほん",
     "romaji": "hon",
@@ -3113,7 +1936,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0222",
+    "id": "n5-w0138",
     "jp": "雑誌",
     "reading": "ざっし",
     "romaji": "zashi",
@@ -3128,7 +1951,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0223",
+    "id": "n5-w0139",
     "jp": "辞書",
     "reading": "じしょ",
     "romaji": "jisho",
@@ -3143,7 +1966,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0224",
+    "id": "n5-w0140",
     "jp": "この",
     "reading": "—",
     "romaji": "—",
@@ -3158,7 +1981,7 @@
     "note": "[连体]"
   },
   {
-    "id": "n5-w0225",
+    "id": "n5-w0141",
     "jp": "その",
     "reading": "—",
     "romaji": "—",
@@ -3173,7 +1996,7 @@
     "note": "[连体]"
   },
   {
-    "id": "n5-w0226",
+    "id": "n5-w0142",
     "jp": "あの",
     "reading": "—",
     "romaji": "—",
@@ -3188,7 +2011,7 @@
     "note": "[连体]"
   },
   {
-    "id": "n5-w0227",
+    "id": "n5-w0143",
     "jp": "どの",
     "reading": "—",
     "romaji": "—",
@@ -3203,7 +2026,7 @@
     "note": "[连体]"
   },
   {
-    "id": "n5-w0228",
+    "id": "n5-w0144",
     "jp": "教科書",
     "reading": "きょうかしょ",
     "romaji": "kyoukasho",
@@ -3218,7 +2041,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0229",
+    "id": "n5-w0145",
     "jp": "先生",
     "reading": "せんせい",
     "romaji": "sensei",
@@ -3233,7 +2056,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0230",
+    "id": "n5-w0146",
     "jp": "こんにちは",
     "reading": "—",
     "romaji": "—",
@@ -3248,7 +2071,7 @@
     "note": "[寒暄]"
   },
   {
-    "id": "n5-w0231",
+    "id": "n5-w0147",
     "jp": "何",
     "reading": "なに",
     "romaji": "nani",
@@ -3263,7 +2086,7 @@
     "note": "[代]"
   },
   {
-    "id": "n5-w0232",
+    "id": "n5-w0148",
     "jp": "彼",
     "reading": "かれ",
     "romaji": "kare",
@@ -3278,7 +2101,7 @@
     "note": "[代]"
   },
   {
-    "id": "n5-w0233",
+    "id": "n5-w0149",
     "jp": "誰",
     "reading": "だれ",
     "romaji": "dare",
@@ -3293,7 +2116,7 @@
     "note": "[代]"
   },
   {
-    "id": "n5-w0234",
+    "id": "n5-w0150",
     "jp": "先輩",
     "reading": "せんぱい",
     "romaji": "senpai",
@@ -3308,7 +2131,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0235",
+    "id": "n5-w0151",
     "jp": "女性",
     "reading": "じょせい",
     "romaji": "josei",
@@ -3323,22 +2146,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0236",
-    "jp": "そこ",
-    "reading": "—",
-    "romaji": "—",
-    "meaning": "那里",
-    "accent": "○0",
-    "tag": [
-      "N5",
-      "第7課",
-      "代"
-    ],
-    "lesson": 7,
-    "note": "[代]"
-  },
-  {
-    "id": "n5-w0237",
+    "id": "n5-w0152",
     "jp": "あそこ",
     "reading": "—",
     "romaji": "—",
@@ -3353,7 +2161,7 @@
     "note": "[代]"
   },
   {
-    "id": "n5-w0238",
+    "id": "n5-w0153",
     "jp": "どこ",
     "reading": "—",
     "romaji": "—",
@@ -3368,7 +2176,7 @@
     "note": "[代]"
   },
   {
-    "id": "n5-w0239",
+    "id": "n5-w0154",
     "jp": "教室",
     "reading": "きょうしつ",
     "romaji": "kyoushitsu",
@@ -3383,7 +2191,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0240",
+    "id": "n5-w0155",
     "jp": "図書館",
     "reading": "としょかん",
     "romaji": "toshokan",
@@ -3398,7 +2206,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0241",
+    "id": "n5-w0156",
     "jp": "食堂",
     "reading": "しょくどう",
     "romaji": "shokudou",
@@ -3413,7 +2221,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0242",
+    "id": "n5-w0157",
     "jp": "トイレ",
     "reading": "—",
     "romaji": "—",
@@ -3428,7 +2236,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0243",
+    "id": "n5-w0158",
     "jp": "浴室",
     "reading": "よくしつ",
     "romaji": "yokushitsu",
@@ -3443,7 +2251,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0244",
+    "id": "n5-w0159",
     "jp": "郵便局",
     "reading": "ゆうびんきょく",
     "romaji": "yuubinkyoku",
@@ -3458,7 +2266,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0245",
+    "id": "n5-w0160",
     "jp": "近く",
     "reading": "ちかく",
     "romaji": "chikaku",
@@ -3473,7 +2281,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0246",
+    "id": "n5-w0161",
     "jp": "宿舎",
     "reading": "しゅくしゃ",
     "romaji": "shukusha",
@@ -3488,7 +2296,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0247",
+    "id": "n5-w0162",
     "jp": "よかった",
     "reading": "—",
     "romaji": "—",
@@ -3503,7 +2311,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0248",
+    "id": "n5-w0163",
     "jp": "どうしました",
     "reading": "—",
     "romaji": "—",
@@ -3518,7 +2326,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0249",
+    "id": "n5-w0164",
     "jp": "建物",
     "reading": "たてもの",
     "romaji": "tatemono",
@@ -3533,7 +2341,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0250",
+    "id": "n5-w0165",
     "jp": "あっ",
     "reading": "—",
     "romaji": "—",
@@ -3548,7 +2356,7 @@
     "note": "[叹]"
   },
   {
-    "id": "n5-w0251",
+    "id": "n5-w0166",
     "jp": "初めて",
     "reading": "はじめて",
     "romaji": "hajimete",
@@ -3563,7 +2371,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0252",
+    "id": "n5-w0167",
     "jp": "利用代金",
     "reading": "りようだいきん",
     "romaji": "riyoudaikin",
@@ -3578,7 +2386,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0253",
+    "id": "n5-w0168",
     "jp": "学生",
     "reading": "がくせい",
     "romaji": "gakusei",
@@ -3593,7 +2401,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0254",
+    "id": "n5-w0169",
     "jp": "無料",
     "reading": "むりょう",
     "romaji": "muryou",
@@ -3608,7 +2416,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0255",
+    "id": "n5-w0170",
     "jp": "よろしければ",
     "reading": "—",
     "romaji": "—",
@@ -3623,7 +2431,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0256",
+    "id": "n5-w0171",
     "jp": "一緒に",
     "reading": "いっしょに",
     "romaji": "ishoni",
@@ -3638,7 +2446,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0257",
+    "id": "n5-w0172",
     "jp": "行きましょう",
     "reading": "—",
     "romaji": "—",
@@ -3653,7 +2461,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0258",
+    "id": "n5-w0173",
     "jp": "助かります",
     "reading": "たすかります",
     "romaji": "tasukarimasu",
@@ -3668,22 +2476,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0259",
-    "jp": "今日",
-    "reading": "きょう",
-    "romaji": "kyou",
-    "meaning": "今天",
-    "accent": "①",
-    "tag": [
-      "N5",
-      "第8課",
-      "名"
-    ],
-    "lesson": 8,
-    "note": "[名]"
-  },
-  {
-    "id": "n5-w0260",
+    "id": "n5-w0174",
     "jp": "明日",
     "reading": "あした",
     "romaji": "ashita",
@@ -3698,7 +2491,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0261",
+    "id": "n5-w0175",
     "jp": "午前",
     "reading": "ごぜん",
     "romaji": "gozen",
@@ -3713,7 +2506,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0262",
+    "id": "n5-w0176",
     "jp": "正午",
     "reading": "しょうご",
     "romaji": "shougo",
@@ -3728,7 +2521,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0263",
+    "id": "n5-w0177",
     "jp": "午後",
     "reading": "ごご",
     "romaji": "gogo",
@@ -3743,7 +2536,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0264",
+    "id": "n5-w0178",
     "jp": "授業",
     "reading": "じゅぎょう",
     "romaji": "jugyou",
@@ -3758,7 +2551,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0265",
+    "id": "n5-w0179",
     "jp": "現在",
     "reading": "げんざい",
     "romaji": "genzai",
@@ -3773,7 +2566,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0266",
+    "id": "n5-w0180",
     "jp": "過去",
     "reading": "かこ",
     "romaji": "kako",
@@ -3788,7 +2581,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0267",
+    "id": "n5-w0181",
     "jp": "未来",
     "reading": "みらい",
     "romaji": "mirai",
@@ -3803,7 +2596,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0268",
+    "id": "n5-w0182",
     "jp": "月",
     "reading": "つき",
     "romaji": "tsuki",
@@ -3818,7 +2611,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0269",
+    "id": "n5-w0183",
     "jp": "発音",
     "reading": "はつおん",
     "romaji": "hatsuon",
@@ -3833,7 +2626,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0270",
+    "id": "n5-w0184",
     "jp": "日",
     "reading": "ひ",
     "romaji": "hi",
@@ -3848,7 +2641,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0271",
+    "id": "n5-w0185",
     "jp": "先日",
     "reading": "せんじつ",
     "romaji": "senjitsu",
@@ -3863,7 +2656,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0272",
+    "id": "n5-w0186",
     "jp": "どうも",
     "reading": "—",
     "romaji": "—",
@@ -3878,7 +2671,7 @@
     "note": "[寒暄]"
   },
   {
-    "id": "n5-w0273",
+    "id": "n5-w0187",
     "jp": "始業式",
     "reading": "しぎょうしき",
     "romaji": "shigyoushiki",
@@ -3893,7 +2686,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0274",
+    "id": "n5-w0188",
     "jp": "何時",
     "reading": "なんじ",
     "romaji": "nanji",
@@ -3908,7 +2701,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0275",
+    "id": "n5-w0189",
     "jp": "アルバイト",
     "reading": "—",
     "romaji": "—",
@@ -3923,7 +2716,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0276",
+    "id": "n5-w0190",
     "jp": "塾",
     "reading": "じゅく",
     "romaji": "juku",
@@ -3938,7 +2731,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0277",
+    "id": "n5-w0191",
     "jp": "講師",
     "reading": "こうし",
     "romaji": "koushi",
@@ -3953,7 +2746,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0278",
+    "id": "n5-w0192",
     "jp": "毎日",
     "reading": "まいにち",
     "romaji": "mainichi",
@@ -3968,7 +2761,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0279",
+    "id": "n5-w0193",
     "jp": "休み",
     "reading": "やすみ",
     "romaji": "yasumi",
@@ -3983,40 +2776,12 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0280",
-    "jp": "日文",
-    "reading": "日文",
-    "romaji": "日文",
-    "meaning": "中文意思",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第8課"
-    ],
-    "lesson": 8,
-    "note": ""
-  },
-  {
-    "id": "n5-w0281",
+    "id": "n5-w0194",
     "jp": "授業時間割",
-    "reading": "授業時間割",
-    "romaji": "授業時間割",
-    "meaning": "课程表",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第8課"
-    ],
-    "lesson": 8,
-    "note": ""
-  },
-  {
-    "id": "n5-w0282",
-    "jp": "授業料",
     "reading": "授業料",
     "romaji": "授業料",
     "meaning": "学费",
-    "accent": "",
+    "accent": "课程表",
     "tag": [
       "N5",
       "第8課"
@@ -4025,26 +2790,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0283",
+    "id": "n5-w0195",
     "jp": "現在＝今",
-    "reading": "現在＝今",
-    "romaji": "現在＝今",
-    "meaning": "现在",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第8課"
-    ],
-    "lesson": 8,
-    "note": ""
-  },
-  {
-    "id": "n5-w0284",
-    "jp": "未来＝将来",
     "reading": "未来＝将来",
     "romaji": "未来＝将来",
     "meaning": "将来",
-    "accent": "",
+    "accent": "现在",
     "tag": [
       "N5",
       "第8課"
@@ -4053,26 +2804,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0285",
+    "id": "n5-w0196",
     "jp": "毎年＝年毎",
-    "reading": "毎年＝年毎",
-    "romaji": "毎年＝年毎",
-    "meaning": "每年",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第8課"
-    ],
-    "lesson": 8,
-    "note": ""
-  },
-  {
-    "id": "n5-w0286",
-    "jp": "始業式〒卒業式",
     "reading": "始業式〒卒業式",
     "romaji": "始業式〒卒業式",
     "meaning": "开学典礼〒毕业典礼",
-    "accent": "",
+    "accent": "每年",
     "tag": [
       "N5",
       "第8課"
@@ -4081,26 +2818,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0287",
+    "id": "n5-w0197",
     "jp": "「～（で）働く」＝「～（に）勤める」",
-    "reading": "「～（で）働く」＝「～（に）勤める」",
-    "romaji": "「～（de）働ku」＝「～（ni）勤meru」",
-    "meaning": "工作",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第8課"
-    ],
-    "lesson": 8,
-    "note": ""
-  },
-  {
-    "id": "n5-w0288",
-    "jp": "始まる〒終わる",
     "reading": "始まる〒終わる",
     "romaji": "始maru〒終waru",
     "meaning": "开始〒结束",
-    "accent": "",
+    "accent": "工作",
     "tag": [
       "N5",
       "第8課"
@@ -4109,22 +2832,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0289",
-    "jp": "終止形",
-    "reading": "連用形",
-    "romaji": "連用形",
-    "meaning": "中文意思",
-    "accent": "词性",
-    "tag": [
-      "N5",
-      "第8課",
-      "声调"
-    ],
-    "lesson": 8,
-    "note": "[声调]"
-  },
-  {
-    "id": "n5-w0290",
+    "id": "n5-w0198",
     "jp": "勉強する",
     "reading": "勉強します",
     "romaji": "勉強shimasu",
@@ -4139,7 +2847,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0291",
+    "id": "n5-w0199",
     "jp": "始まる",
     "reading": "始まります",
     "romaji": "始marimasu",
@@ -4154,7 +2862,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0292",
+    "id": "n5-w0200",
     "jp": "終わる",
     "reading": "終わります",
     "romaji": "終warimasu",
@@ -4169,7 +2877,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0293",
+    "id": "n5-w0201",
     "jp": "帰る",
     "reading": "帰ります",
     "romaji": "帰rimasu",
@@ -4184,7 +2892,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0294",
+    "id": "n5-w0202",
     "jp": "起きる",
     "reading": "起きます",
     "romaji": "起kimasu",
@@ -4199,7 +2907,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0295",
+    "id": "n5-w0203",
     "jp": "働く",
     "reading": "働きます",
     "romaji": "働kimasu",
@@ -4214,7 +2922,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0296",
+    "id": "n5-w0204",
     "jp": "出掛ける",
     "reading": "出掛けます",
     "romaji": "出掛kemasu",
@@ -4229,7 +2937,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0297",
+    "id": "n5-w0205",
     "jp": "来る",
     "reading": "来ます",
     "romaji": "来masu",
@@ -4244,22 +2952,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0298",
-    "jp": "家",
-    "reading": "いえ",
-    "romaji": "ie",
-    "meaning": "房子、家",
-    "accent": "②",
-    "tag": [
-      "N5",
-      "第9課",
-      "名"
-    ],
-    "lesson": 9,
-    "note": "[名]"
-  },
-  {
-    "id": "n5-w0299",
+    "id": "n5-w0206",
     "jp": "花見",
     "reading": "はなみ",
     "romaji": "hanami",
@@ -4274,7 +2967,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0300",
+    "id": "n5-w0207",
     "jp": "買い物",
     "reading": "かいもの",
     "romaji": "kaimono",
@@ -4289,7 +2982,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0301",
+    "id": "n5-w0208",
     "jp": "友達",
     "reading": "ともだち",
     "romaji": "tomodachi",
@@ -4304,7 +2997,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0302",
+    "id": "n5-w0209",
     "jp": "今週",
     "reading": "こんしゅう",
     "romaji": "konshuu",
@@ -4319,7 +3012,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0303",
+    "id": "n5-w0210",
     "jp": "週末",
     "reading": "しゅうまつ",
     "romaji": "shuumatsu",
@@ -4334,7 +3027,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0304",
+    "id": "n5-w0211",
     "jp": "有名だ",
     "reading": "ゆうめい",
     "romaji": "yuumei",
@@ -4349,7 +3042,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0305",
+    "id": "n5-w0212",
     "jp": "映画",
     "reading": "えいが",
     "romaji": "eiga",
@@ -4364,7 +3057,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0306",
+    "id": "n5-w0213",
     "jp": "ぜひ",
     "reading": "—",
     "romaji": "—",
@@ -4379,7 +3072,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0307",
+    "id": "n5-w0214",
     "jp": "とても",
     "reading": "—",
     "romaji": "—",
@@ -4394,7 +3087,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0308",
+    "id": "n5-w0215",
     "jp": "楽しみ",
     "reading": "たのしみ",
     "romaji": "tanoshimi",
@@ -4409,7 +3102,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0309",
+    "id": "n5-w0216",
     "jp": "正門",
     "reading": "せいもん",
     "romaji": "seimon",
@@ -4424,7 +3117,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0310",
+    "id": "n5-w0217",
     "jp": "行く",
     "reading": "行きます",
     "romaji": "行kimasu",
@@ -4439,7 +3132,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0311",
+    "id": "n5-w0218",
     "jp": "掛かる",
     "reading": "掛かります",
     "romaji": "掛karimasu",
@@ -4454,7 +3147,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0312",
+    "id": "n5-w0219",
     "jp": "分かる",
     "reading": "分かります",
     "romaji": "分karimasu",
@@ -4469,7 +3162,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0313",
+    "id": "n5-w0220",
     "jp": "集まる",
     "reading": "集まります",
     "romaji": "集marimasu",
@@ -4484,7 +3177,7 @@
     "note": "[③]"
   },
   {
-    "id": "n5-w0314",
+    "id": "n5-w0221",
     "jp": "見る",
     "reading": "見ます",
     "romaji": "見masu",
@@ -4499,7 +3192,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0315",
+    "id": "n5-w0222",
     "jp": "教える",
     "reading": "教えます",
     "romaji": "教emasu",
@@ -4514,7 +3207,7 @@
     "note": "[④○0]"
   },
   {
-    "id": "n5-w0316",
+    "id": "n5-w0223",
     "jp": "出発する",
     "reading": "出発します",
     "romaji": "出発shimasu",
@@ -4529,37 +3222,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0317",
-    "jp": "桜",
-    "reading": "さくら",
-    "romaji": "sakura",
-    "meaning": "樱花（sakura）",
-    "accent": "○0",
-    "tag": [
-      "N5",
-      "第10課",
-      "名"
-    ],
-    "lesson": 10,
-    "note": "[名]"
-  },
-  {
-    "id": "n5-w0318",
-    "jp": "花",
-    "reading": "はな",
-    "romaji": "hana",
-    "meaning": "花",
-    "accent": "②",
-    "tag": [
-      "N5",
-      "第10課",
-      "名"
-    ],
-    "lesson": 10,
-    "note": "[名]"
-  },
-  {
-    "id": "n5-w0319",
+    "id": "n5-w0224",
     "jp": "奥さん",
     "reading": "おくさん",
     "romaji": "okusan",
@@ -4574,7 +3237,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0320",
+    "id": "n5-w0225",
     "jp": "お弁当",
     "reading": "おべんとう",
     "romaji": "obentou",
@@ -4589,7 +3252,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0321",
+    "id": "n5-w0226",
     "jp": "人達",
     "reading": "ひとたち",
     "romaji": "hitotachi",
@@ -4604,7 +3267,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0322",
+    "id": "n5-w0227",
     "jp": "宴会",
     "reading": "えんかい",
     "romaji": "enkai",
@@ -4619,7 +3282,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0323",
+    "id": "n5-w0228",
     "jp": "サッカー",
     "reading": "—",
     "romaji": "—",
@@ -4634,7 +3297,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0324",
+    "id": "n5-w0229",
     "jp": "新聞",
     "reading": "しんぶん",
     "romaji": "shinbun",
@@ -4649,7 +3312,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0325",
+    "id": "n5-w0230",
     "jp": "歌",
     "reading": "うた",
     "romaji": "uta",
@@ -4664,7 +3327,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0326",
+    "id": "n5-w0231",
     "jp": "携帯電話",
     "reading": "けいたいでんわ",
     "romaji": "keitaidenwa",
@@ -4679,7 +3342,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0327",
+    "id": "n5-w0232",
     "jp": "心配",
     "reading": "しんぱい",
     "romaji": "shinpai",
@@ -4694,7 +3357,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0328",
+    "id": "n5-w0233",
     "jp": "約束",
     "reading": "やくそく",
     "romaji": "yakusoku",
@@ -4709,7 +3372,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0329",
+    "id": "n5-w0234",
     "jp": "大丈夫だ",
     "reading": "だいじょうぶ",
     "romaji": "daijoubu",
@@ -4724,7 +3387,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0330",
+    "id": "n5-w0235",
     "jp": "実は",
     "reading": "じつは",
     "romaji": "jitsuha",
@@ -4739,7 +3402,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0331",
+    "id": "n5-w0236",
     "jp": "さっき",
     "reading": "—",
     "romaji": "—",
@@ -4754,22 +3417,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0332",
-    "jp": "基本形",
-    "reading": "連用形",
-    "romaji": "連用形",
-    "meaning": "中文意思",
-    "accent": "词性",
-    "tag": [
-      "N5",
-      "第10課",
-      "声调"
-    ],
-    "lesson": 10,
-    "note": "[声调]"
-  },
-  {
-    "id": "n5-w0333",
+    "id": "n5-w0237",
     "jp": "作る",
     "reading": "作ります",
     "romaji": "作rimasu",
@@ -4784,7 +3432,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0334",
+    "id": "n5-w0238",
     "jp": "する",
     "reading": "します",
     "romaji": "shimasu",
@@ -4799,7 +3447,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0335",
+    "id": "n5-w0239",
     "jp": "読む",
     "reading": "読みます",
     "romaji": "読mimasu",
@@ -4814,7 +3462,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0336",
+    "id": "n5-w0240",
     "jp": "歌う",
     "reading": "歌います",
     "romaji": "歌imasu",
@@ -4829,7 +3477,7 @@
     "note": "[○0③]"
   },
   {
-    "id": "n5-w0337",
+    "id": "n5-w0241",
     "jp": "話す",
     "reading": "話します",
     "romaji": "話shimasu",
@@ -4844,7 +3492,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0338",
+    "id": "n5-w0242",
     "jp": "遅れる",
     "reading": "遅れます",
     "romaji": "遅remasu",
@@ -4859,7 +3507,7 @@
     "note": "[④○0]"
   },
   {
-    "id": "n5-w0339",
+    "id": "n5-w0243",
     "jp": "取る",
     "reading": "取ります",
     "romaji": "取rimasu",
@@ -4874,7 +3522,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0340",
+    "id": "n5-w0244",
     "jp": "着く",
     "reading": "着きます",
     "romaji": "着kimasu",
@@ -4889,7 +3537,7 @@
     "note": "[①②]"
   },
   {
-    "id": "n5-w0341",
+    "id": "n5-w0245",
     "jp": "買う",
     "reading": "買います",
     "romaji": "買imasu",
@@ -4904,22 +3552,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0342",
-    "jp": "素晴らしい",
-    "reading": "すばらしい",
-    "romaji": "subarashii",
-    "meaning": "厉害、气派、漂亮、精彩",
-    "accent": "④",
-    "tag": [
-      "N5",
-      "第11課",
-      "形"
-    ],
-    "lesson": 11,
-    "note": "[形]"
-  },
-  {
-    "id": "n5-w0343",
+    "id": "n5-w0246",
     "jp": "高い",
     "reading": "たかい",
     "romaji": "takai",
@@ -4934,7 +3567,22 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0344",
+    "id": "n5-w0247",
+    "jp": "春",
+    "reading": "はる",
+    "romaji": "haru",
+    "meaning": "春天",
+    "accent": "①",
+    "tag": [
+      "N5",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "n5-w0248",
     "jp": "涼しい",
     "reading": "すずしい",
     "romaji": "suzushii",
@@ -4949,7 +3597,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0345",
+    "id": "n5-w0249",
     "jp": "上手い",
     "reading": "うまい",
     "romaji": "umai",
@@ -4964,7 +3612,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0346",
+    "id": "n5-w0250",
     "jp": "にぎやかだ",
     "reading": "—",
     "romaji": "—",
@@ -4979,7 +3627,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0347",
+    "id": "n5-w0251",
     "jp": "上手だ",
     "reading": "じょうず",
     "romaji": "jouzu",
@@ -4994,7 +3642,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0348",
+    "id": "n5-w0252",
     "jp": "暑い",
     "reading": "あつい",
     "romaji": "atsui",
@@ -5009,7 +3657,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0349",
+    "id": "n5-w0253",
     "jp": "下手だ",
     "reading": "へた",
     "romaji": "heta",
@@ -5024,7 +3672,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0350",
+    "id": "n5-w0254",
     "jp": "朝",
     "reading": "あさ",
     "romaji": "asa",
@@ -5039,7 +3687,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0351",
+    "id": "n5-w0255",
     "jp": "博物館",
     "reading": "はくぶつかん",
     "romaji": "hakubutsukan",
@@ -5054,7 +3702,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0352",
+    "id": "n5-w0256",
     "jp": "コンビニ",
     "reading": "convenience store",
     "romaji": "convenience store",
@@ -5069,7 +3717,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0353",
+    "id": "n5-w0257",
     "jp": "どう",
     "reading": "—",
     "romaji": "—",
@@ -5084,7 +3732,7 @@
     "note": "[疑]"
   },
   {
-    "id": "n5-w0354",
+    "id": "n5-w0258",
     "jp": "すごい",
     "reading": "—",
     "romaji": "—",
@@ -5099,7 +3747,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0355",
+    "id": "n5-w0259",
     "jp": "僕",
     "reading": "ぼく",
     "romaji": "boku",
@@ -5114,7 +3762,7 @@
     "note": "[代]"
   },
   {
-    "id": "n5-w0356",
+    "id": "n5-w0260",
     "jp": "去年",
     "reading": "きょねん",
     "romaji": "kyonen",
@@ -5129,7 +3777,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0357",
+    "id": "n5-w0261",
     "jp": "感動",
     "reading": "かんどう",
     "romaji": "kandou",
@@ -5144,7 +3792,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0358",
+    "id": "n5-w0262",
     "jp": "たくさん",
     "reading": "—",
     "romaji": "—",
@@ -5159,7 +3807,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0359",
+    "id": "n5-w0263",
     "jp": "普通",
     "reading": "ふつう",
     "romaji": "futsuu",
@@ -5174,7 +3822,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0360",
+    "id": "n5-w0264",
     "jp": "このように",
     "reading": "—",
     "romaji": "—",
@@ -5189,7 +3837,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0361",
+    "id": "n5-w0265",
     "jp": "木の下",
     "reading": "きのした",
     "romaji": "kinoshita",
@@ -5204,7 +3852,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0362",
+    "id": "n5-w0266",
     "jp": "面白い",
     "reading": "おもしろい",
     "romaji": "omoshiroi",
@@ -5219,7 +3867,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0363",
+    "id": "n5-w0267",
     "jp": "場所",
     "reading": "ばしょ",
     "romaji": "basho",
@@ -5234,7 +3882,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0364",
+    "id": "n5-w0268",
     "jp": "わざわざ",
     "reading": "—",
     "romaji": "—",
@@ -5249,7 +3897,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0365",
+    "id": "n5-w0269",
     "jp": "近い",
     "reading": "ちかい",
     "romaji": "chikai",
@@ -5264,7 +3912,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0366",
+    "id": "n5-w0270",
     "jp": "でも",
     "reading": "—",
     "romaji": "—",
@@ -5279,7 +3927,7 @@
     "note": "[接]"
   },
   {
-    "id": "n5-w0367",
+    "id": "n5-w0271",
     "jp": "飲み物",
     "reading": "のみもの",
     "romaji": "nomimono",
@@ -5294,7 +3942,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0368",
+    "id": "n5-w0272",
     "jp": "綺麗だ",
     "reading": "きれい",
     "romaji": "kirei",
@@ -5309,7 +3957,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0369",
+    "id": "n5-w0273",
     "jp": "色々だ",
     "reading": "いろいろ",
     "romaji": "iroiro",
@@ -5324,7 +3972,22 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0370",
+    "id": "n5-w0274",
+    "jp": "物",
+    "reading": "もの",
+    "romaji": "mono",
+    "meaning": "东西",
+    "accent": "②",
+    "tag": [
+      "N5",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "n5-w0275",
     "jp": "便利だ",
     "reading": "べんり",
     "romaji": "benri",
@@ -5339,7 +4002,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0371",
+    "id": "n5-w0276",
     "jp": "男性",
     "reading": "だんせい",
     "romaji": "dansei",
@@ -5354,7 +4017,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0372",
+    "id": "n5-w0277",
     "jp": "必ず",
     "reading": "かなら",
     "romaji": "kanara",
@@ -5369,7 +4032,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0373",
+    "id": "n5-w0278",
     "jp": "動物",
     "reading": "どうぶつ",
     "romaji": "doubutsu",
@@ -5384,7 +4047,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0374",
+    "id": "n5-w0279",
     "jp": "驚く",
     "reading": "驚きます",
     "romaji": "驚kimasu",
@@ -5399,7 +4062,7 @@
     "note": "[③]"
   },
   {
-    "id": "n5-w0375",
+    "id": "n5-w0280",
     "jp": "取る",
     "reading": "取ります",
     "romaji": "取rimasu",
@@ -5414,7 +4077,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0376",
+    "id": "n5-w0281",
     "jp": "買う",
     "reading": "買います",
     "romaji": "買imasu",
@@ -5429,7 +4092,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0377",
+    "id": "n5-w0282",
     "jp": "飲む",
     "reading": "飲みます",
     "romaji": "飲mimasu",
@@ -5444,26 +4107,11 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0378",
-    "jp": "日文",
-    "reading": "读音",
-    "romaji": "读音",
-    "meaning": "读音 中文",
-    "accent": "中文",
-    "tag": [
-      "N5",
-      "第11課",
-      "日文"
-    ],
-    "lesson": 11,
-    "note": "[日文]"
-  },
-  {
-    "id": "n5-w0379",
+    "id": "n5-w0283",
     "jp": "鼠",
     "reading": "ねずみ",
     "romaji": "nezumi",
-    "meaning": "くま 熊",
+    "meaning": "くま",
     "accent": "鼠",
     "tag": [
       "N5",
@@ -5474,11 +4122,11 @@
     "note": "[熊]"
   },
   {
-    "id": "n5-w0380",
+    "id": "n5-w0284",
     "jp": "海豚",
     "reading": "いるか",
     "romaji": "iruka",
-    "meaning": "うし 牛",
+    "meaning": "うし",
     "accent": "海豚",
     "tag": [
       "N5",
@@ -5489,11 +4137,11 @@
     "note": "[牛]"
   },
   {
-    "id": "n5-w0381",
+    "id": "n5-w0285",
     "jp": "鹿",
     "reading": "しか",
     "romaji": "shika",
-    "meaning": "とり 鸟",
+    "meaning": "とり",
     "accent": "鹿",
     "tag": [
       "N5",
@@ -5504,11 +4152,11 @@
     "note": "[鳥]"
   },
   {
-    "id": "n5-w0382",
+    "id": "n5-w0286",
     "jp": "虎",
     "reading": "とら",
     "romaji": "tora",
-    "meaning": "らくだ 骆驼",
+    "meaning": "らくだ",
     "accent": "虎",
     "tag": [
       "N5",
@@ -5519,11 +4167,11 @@
     "note": "[駱駝]"
   },
   {
-    "id": "n5-w0383",
+    "id": "n5-w0287",
     "jp": "鶏",
     "reading": "にわとり",
     "romaji": "niwatori",
-    "meaning": "うさぎ 兔",
+    "meaning": "うさぎ",
     "accent": "鸡",
     "tag": [
       "N5",
@@ -5534,11 +4182,11 @@
     "note": "[兔]"
   },
   {
-    "id": "n5-w0384",
+    "id": "n5-w0288",
     "jp": "パンダ",
     "reading": "panda",
     "romaji": "panda",
-    "meaning": "はと 鸽子",
+    "meaning": "はと",
     "accent": "熊猫",
     "tag": [
       "N5",
@@ -5549,11 +4197,11 @@
     "note": "[鳩]"
   },
   {
-    "id": "n5-w0385",
+    "id": "n5-w0289",
     "jp": "竜",
     "reading": "りゅう",
     "romaji": "ryuu",
-    "meaning": "koala 考拉",
+    "meaning": "koala",
     "accent": "龙",
     "tag": [
       "N5",
@@ -5564,11 +4212,11 @@
     "note": "[コアラ]"
   },
   {
-    "id": "n5-w0386",
+    "id": "n5-w0290",
     "jp": "雀",
     "reading": "すずめ",
     "romaji": "suzume",
-    "meaning": "へび 蛇",
+    "meaning": "へび",
     "accent": "麻雀",
     "tag": [
       "N5",
@@ -5579,11 +4227,11 @@
     "note": "[蛇]"
   },
   {
-    "id": "n5-w0387",
+    "id": "n5-w0291",
     "jp": "象",
     "reading": "ぞう",
     "romaji": "zou",
-    "meaning": "くじゃく 孔雀",
+    "meaning": "くじゃく",
     "accent": "大象",
     "tag": [
       "N5",
@@ -5594,11 +4242,11 @@
     "note": "[孔雀]"
   },
   {
-    "id": "n5-w0388",
+    "id": "n5-w0292",
     "jp": "馬",
     "reading": "うま",
     "romaji": "uma",
-    "meaning": "きつね 狐狸",
+    "meaning": "きつね",
     "accent": "马",
     "tag": [
       "N5",
@@ -5609,11 +4257,11 @@
     "note": "[狐]"
   },
   {
-    "id": "n5-w0389",
+    "id": "n5-w0293",
     "jp": "鶯",
     "reading": "うぐいす",
     "romaji": "uguisu",
-    "meaning": "ひつじ 羊",
+    "meaning": "ひつじ",
     "accent": "黄莺",
     "tag": [
       "N5",
@@ -5624,11 +4272,11 @@
     "note": "[羊]"
   },
   {
-    "id": "n5-w0390",
+    "id": "n5-w0294",
     "jp": "鯨",
     "reading": "くじら",
     "romaji": "kujira",
-    "meaning": "あひる 家鸭",
+    "meaning": "あひる",
     "accent": "鲸鱼",
     "tag": [
       "N5",
@@ -5639,11 +4287,11 @@
     "note": "[家鴨]"
   },
   {
-    "id": "n5-w0391",
+    "id": "n5-w0295",
     "jp": "猿",
     "reading": "さる",
     "romaji": "saru",
-    "meaning": "かめ 龟",
+    "meaning": "かめ",
     "accent": "猴",
     "tag": [
       "N5",
@@ -5654,11 +4302,11 @@
     "note": "[亀]"
   },
   {
-    "id": "n5-w0392",
+    "id": "n5-w0296",
     "jp": "鴨",
     "reading": "かも",
     "romaji": "kamo",
-    "meaning": "しし 狮子",
+    "meaning": "しし",
     "accent": "野鸭",
     "tag": [
       "N5",
@@ -5669,11 +4317,11 @@
     "note": "[獅子]"
   },
   {
-    "id": "n5-w0393",
+    "id": "n5-w0297",
     "jp": "鯉",
     "reading": "こい",
     "romaji": "koi",
-    "meaning": "いぬ 狗",
+    "meaning": "いぬ",
     "accent": "鲤鱼",
     "tag": [
       "N5",
@@ -5684,11 +4332,11 @@
     "note": "[犬]"
   },
   {
-    "id": "n5-w0394",
+    "id": "n5-w0298",
     "jp": "鴉",
     "reading": "からす",
     "romaji": "karasu",
-    "meaning": "きんぎょ 金鱼",
+    "meaning": "きんぎょ",
     "accent": "乌鸦",
     "tag": [
       "N5",
@@ -5699,11 +4347,11 @@
     "note": "[金魚]"
   },
   {
-    "id": "n5-w0395",
+    "id": "n5-w0299",
     "jp": "豚",
     "reading": "ぶた",
     "romaji": "buta",
-    "meaning": "ねったいぎょ 热带鱼",
+    "meaning": "ねったいぎょ",
     "accent": "猪",
     "tag": [
       "N5",
@@ -5714,11 +4362,11 @@
     "note": "[熱帯魚]"
   },
   {
-    "id": "n5-w0396",
+    "id": "n5-w0300",
     "jp": "蚊",
     "reading": "か",
     "romaji": "ka",
-    "meaning": "はち 蜜蜂",
+    "meaning": "はち",
     "accent": "蚊子",
     "tag": [
       "N5",
@@ -5729,11 +4377,11 @@
     "note": "[蜂]"
   },
   {
-    "id": "n5-w0397",
+    "id": "n5-w0301",
     "jp": "蜻蛉",
     "reading": "とんぼ",
     "romaji": "tonbo",
-    "meaning": "せみ 知了、蝉",
+    "meaning": "せみ",
     "accent": "蜻蜓",
     "tag": [
       "N5",
@@ -5744,11 +4392,11 @@
     "note": "[蝉]"
   },
   {
-    "id": "n5-w0398",
+    "id": "n5-w0302",
     "jp": "蝶々",
     "reading": "ちょうちょう",
     "romaji": "chouchou",
-    "meaning": "くも 蜘蛛",
+    "meaning": "くも",
     "accent": "蝴蝶",
     "tag": [
       "N5",
@@ -5759,11 +4407,11 @@
     "note": "[蜘蛛]"
   },
   {
-    "id": "n5-w0399",
+    "id": "n5-w0303",
     "jp": "蟻",
     "reading": "あり",
     "romaji": "ari",
-    "meaning": "ばった 蝗虫",
+    "meaning": "ばった",
     "accent": "蚂蚁",
     "tag": [
       "N5",
@@ -5774,7 +4422,7 @@
     "note": "[飛蝗]"
   },
   {
-    "id": "n5-w0400",
+    "id": "n5-w0304",
     "jp": "お酒",
     "reading": "ジュース",
     "romaji": "jusu",
@@ -5788,7 +4436,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0401",
+    "id": "n5-w0305",
     "jp": "日本酒",
     "reading": "コカ・コーラ",
     "romaji": "kokakora",
@@ -5802,7 +4450,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0402",
+    "id": "n5-w0306",
     "jp": "ビール",
     "reading": "ココア",
     "romaji": "kokoa",
@@ -5816,26 +4464,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0403",
+    "id": "n5-w0307",
     "jp": "ワイン",
-    "reading": "ワイン",
-    "romaji": "wain",
-    "meaning": "葡萄酒（wine）",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第11課"
-    ],
-    "lesson": 11,
-    "note": ""
-  },
-  {
-    "id": "n5-w0404",
-    "jp": "牛乳",
     "reading": "牛乳",
     "romaji": "牛乳",
     "meaning": "牛奶（milk）",
-    "accent": "",
+    "accent": "葡萄酒（wine）",
     "tag": [
       "N5",
       "第11課"
@@ -5844,7 +4478,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0405",
+    "id": "n5-w0308",
     "jp": "ウイスキー",
     "reading": "ヨーグルト",
     "romaji": "yoguruto",
@@ -5858,7 +4492,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0406",
+    "id": "n5-w0309",
     "jp": "ラオチュー",
     "reading": "コーヒー",
     "romaji": "kohi",
@@ -5872,26 +4506,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0407",
+    "id": "n5-w0310",
     "jp": "焼酎",
-    "reading": "焼酎",
-    "romaji": "焼酎",
-    "meaning": "烧酒、白酒",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第11課"
-    ],
-    "lesson": 11,
-    "note": ""
-  },
-  {
-    "id": "n5-w0408",
-    "jp": "お茶",
     "reading": "お茶",
     "romaji": "o茶",
     "meaning": "茶",
-    "accent": "",
+    "accent": "烧酒、白酒",
     "tag": [
       "N5",
       "第11課"
@@ -5900,26 +4520,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0409",
+    "id": "n5-w0311",
     "jp": "水",
-    "reading": "水",
-    "romaji": "水",
-    "meaning": "水、凉水",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第11課"
-    ],
-    "lesson": 11,
-    "note": ""
-  },
-  {
-    "id": "n5-w0410",
-    "jp": "紅茶",
     "reading": "紅茶",
     "romaji": "紅茶",
     "meaning": "红茶（black tea）",
-    "accent": "",
+    "accent": "水、凉水",
     "tag": [
       "N5",
       "第11課"
@@ -5928,26 +4534,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0411",
+    "id": "n5-w0312",
     "jp": "ミネラルウォーター",
-    "reading": "ミネラルウォーター",
-    "romaji": "mineraruuぉta",
-    "meaning": "矿泉水",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第11課"
-    ],
-    "lesson": 11,
-    "note": ""
-  },
-  {
-    "id": "n5-w0412",
-    "jp": "緑茶",
     "reading": "緑茶",
     "romaji": "緑茶",
     "meaning": "绿茶（green tea）",
-    "accent": "",
+    "accent": "矿泉水",
     "tag": [
       "N5",
       "第11課"
@@ -5956,26 +4548,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0413",
+    "id": "n5-w0313",
     "jp": "サイダー",
-    "reading": "サイダー",
-    "romaji": "saida",
-    "meaning": "汽水（soda-water）",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第11課"
-    ],
-    "lesson": 11,
-    "note": ""
-  },
-  {
-    "id": "n5-w0414",
-    "jp": "ウーロン茶",
     "reading": "ウーロン茶",
     "romaji": "uron茶",
     "meaning": "乌龙茶",
-    "accent": "",
+    "accent": "汽水（soda-water）",
     "tag": [
       "N5",
       "第11課"
@@ -5984,22 +4562,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0415",
-    "jp": "大好きだ",
-    "reading": "だいすき",
-    "romaji": "daisuki",
-    "meaning": "非常喜欢",
-    "accent": "①",
-    "tag": [
-      "N5",
-      "第12課",
-      "形动"
-    ],
-    "lesson": 12,
-    "note": "[形动]"
-  },
-  {
-    "id": "n5-w0416",
+    "id": "n5-w0314",
     "jp": "野球",
     "reading": "やきゅう",
     "romaji": "yakyuu",
@@ -6014,7 +4577,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0417",
+    "id": "n5-w0315",
     "jp": "ピンポン",
     "reading": "—",
     "romaji": "—",
@@ -6029,7 +4592,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0418",
+    "id": "n5-w0316",
     "jp": "相撲",
     "reading": "すもう",
     "romaji": "sumou",
@@ -6044,7 +4607,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0419",
+    "id": "n5-w0317",
     "jp": "ルール",
     "reading": "—",
     "romaji": "—",
@@ -6059,7 +4622,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0420",
+    "id": "n5-w0318",
     "jp": "塔",
     "reading": "とう",
     "romaji": "tou",
@@ -6074,7 +4637,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0421",
+    "id": "n5-w0319",
     "jp": "他",
     "reading": "ほか",
     "romaji": "hoka",
@@ -6089,7 +4652,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0422",
+    "id": "n5-w0320",
     "jp": "どんな",
     "reading": "—",
     "romaji": "—",
@@ -6104,7 +4667,7 @@
     "note": "[疑]"
   },
   {
-    "id": "n5-w0423",
+    "id": "n5-w0321",
     "jp": "スポーツ",
     "reading": "—",
     "romaji": "—",
@@ -6119,7 +4682,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0424",
+    "id": "n5-w0322",
     "jp": "あまり",
     "reading": "—",
     "romaji": "—",
@@ -6134,7 +4697,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0425",
+    "id": "n5-w0323",
     "jp": "歌謡曲",
     "reading": "かようきょく",
     "romaji": "kayoukyoku",
@@ -6149,7 +4712,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0426",
+    "id": "n5-w0324",
     "jp": "よく",
     "reading": "—",
     "romaji": "—",
@@ -6164,7 +4727,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0427",
+    "id": "n5-w0325",
     "jp": "プロ並み",
     "reading": "プロなみ",
     "romaji": "puronami",
@@ -6179,7 +4742,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0428",
+    "id": "n5-w0326",
     "jp": "プロ",
     "reading": "—",
     "romaji": "—",
@@ -6194,7 +4757,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0429",
+    "id": "n5-w0327",
     "jp": "そう言えば",
     "reading": "—",
     "romaji": "—",
@@ -6209,7 +4772,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0430",
+    "id": "n5-w0328",
     "jp": "まだ",
     "reading": "—",
     "romaji": "—",
@@ -6224,7 +4787,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0431",
+    "id": "n5-w0329",
     "jp": "もうすぐ",
     "reading": "—",
     "romaji": "—",
@@ -6239,7 +4802,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0432",
+    "id": "n5-w0330",
     "jp": "ご免なさい",
     "reading": "—",
     "romaji": "—",
@@ -6254,7 +4817,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0433",
+    "id": "n5-w0331",
     "jp": "噂",
     "reading": "うわさ",
     "romaji": "uwasa",
@@ -6269,7 +4832,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0434",
+    "id": "n5-w0332",
     "jp": "影",
     "reading": "かげ",
     "romaji": "kage",
@@ -6284,7 +4847,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0435",
+    "id": "n5-w0333",
     "jp": "新しい",
     "reading": "あたらしい",
     "romaji": "atarashii",
@@ -6299,7 +4862,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0436",
+    "id": "n5-w0334",
     "jp": "古い",
     "reading": "ふるい",
     "romaji": "furui",
@@ -6314,7 +4877,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0437",
+    "id": "n5-w0335",
     "jp": "良い・よい",
     "reading": "よい",
     "romaji": "yoi",
@@ -6329,7 +4892,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0438",
+    "id": "n5-w0336",
     "jp": "親切だ",
     "reading": "しんせつ",
     "romaji": "shinsetsu",
@@ -6344,7 +4907,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0439",
+    "id": "n5-w0337",
     "jp": "町",
     "reading": "まち",
     "romaji": "machi",
@@ -6359,7 +4922,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0440",
+    "id": "n5-w0338",
     "jp": "道",
     "reading": "みち",
     "romaji": "michi",
@@ -6374,7 +4937,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0441",
+    "id": "n5-w0339",
     "jp": "美術館",
     "reading": "びじゅつかん",
     "romaji": "bijutsukan",
@@ -6389,7 +4952,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0442",
+    "id": "n5-w0340",
     "jp": "動物園",
     "reading": "どうぶつえん",
     "romaji": "doubutsuen",
@@ -6404,7 +4967,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0443",
+    "id": "n5-w0341",
     "jp": "これから",
     "reading": "—",
     "romaji": "—",
@@ -6419,7 +4982,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0444",
+    "id": "n5-w0342",
     "jp": "展示物",
     "reading": "てんじもの",
     "romaji": "tenjimono",
@@ -6434,7 +4997,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0445",
+    "id": "n5-w0343",
     "jp": "古代",
     "reading": "こだい",
     "romaji": "kodai",
@@ -6449,7 +5012,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0446",
+    "id": "n5-w0344",
     "jp": "日中友好",
     "reading": "—",
     "romaji": "—",
@@ -6464,7 +5027,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0447",
+    "id": "n5-w0345",
     "jp": "歴史",
     "reading": "れきし",
     "romaji": "rekishi",
@@ -6479,7 +5042,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0448",
+    "id": "n5-w0346",
     "jp": "分かる",
     "reading": "分かります",
     "romaji": "分karimasu",
@@ -6494,7 +5057,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0449",
+    "id": "n5-w0347",
     "jp": "スポーツ",
     "reading": "オリンピック",
     "romaji": "orinpiku",
@@ -6508,26 +5071,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0450",
+    "id": "n5-w0348",
     "jp": "卓球・ピンポン",
-    "reading": "卓球・ピンポン",
-    "romaji": "卓球pinpon",
-    "meaning": "乒乓（Ping-pong）",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第12課"
-    ],
-    "lesson": 12,
-    "note": ""
-  },
-  {
-    "id": "n5-w0451",
-    "jp": "相撲",
     "reading": "相撲",
     "romaji": "相撲",
     "meaning": "相扑（sumo）",
-    "accent": "",
+    "accent": "乒乓（Ping-pong）",
     "tag": [
       "N5",
       "第12課"
@@ -6536,26 +5085,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0452",
+    "id": "n5-w0349",
     "jp": "野球",
-    "reading": "野球",
-    "romaji": "野球",
-    "meaning": "棒球（baseball）",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第12課"
-    ],
-    "lesson": 12,
-    "note": ""
-  },
-  {
-    "id": "n5-w0453",
-    "jp": "柔道",
     "reading": "柔道",
     "romaji": "柔道",
     "meaning": "柔道（judo）",
-    "accent": "",
+    "accent": "棒球（baseball）",
     "tag": [
       "N5",
       "第12課"
@@ -6564,26 +5099,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0454",
+    "id": "n5-w0350",
     "jp": "バドミントン",
-    "reading": "バドミントン",
-    "romaji": "badominton",
-    "meaning": "羽毛球（badminton）",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第12課"
-    ],
-    "lesson": 12,
-    "note": ""
-  },
-  {
-    "id": "n5-w0455",
-    "jp": "剣道",
     "reading": "剣道",
     "romaji": "剣道",
     "meaning": "剑道（kendo）",
-    "accent": "",
+    "accent": "羽毛球（badminton）",
     "tag": [
       "N5",
       "第12課"
@@ -6592,7 +5113,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0456",
+    "id": "n5-w0351",
     "jp": "ソフトボール",
     "reading": "テニス",
     "romaji": "tenisu",
@@ -6606,7 +5127,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0457",
+    "id": "n5-w0352",
     "jp": "麻雀",
     "reading": "ゴルフ",
     "romaji": "gorufu",
@@ -6620,7 +5141,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0458",
+    "id": "n5-w0353",
     "jp": "囲碁",
     "reading": "バレーボール",
     "romaji": "bareboru",
@@ -6634,7 +5155,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0459",
+    "id": "n5-w0354",
     "jp": "パチンコ",
     "reading": "バスケットボール",
     "romaji": "basuketoboru",
@@ -6648,12 +5169,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0460",
-    "jp": "射撃",
+    "id": "n5-w0355",
+    "jp": "サッカー",
     "reading": "射撃",
     "romaji": "射撃",
     "meaning": "射击（shooting）",
-    "accent": "",
+    "accent": "足球（soccer）",
     "tag": [
       "N5",
       "第12課"
@@ -6662,26 +5183,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0461",
+    "id": "n5-w0356",
     "jp": "ボーリング",
-    "reading": "ボーリング",
-    "romaji": "boringu",
-    "meaning": "保龄球（bowling）",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第12課"
-    ],
-    "lesson": 12,
-    "note": ""
-  },
-  {
-    "id": "n5-w0462",
-    "jp": "釣り",
     "reading": "釣り",
     "romaji": "釣ri",
     "meaning": "钓鱼（fishing）",
-    "accent": "",
+    "accent": "保龄球（bowling）",
     "tag": [
       "N5",
       "第12課"
@@ -6690,7 +5197,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0463",
+    "id": "n5-w0357",
     "jp": "ビリヤード",
     "reading": "ヨット",
     "romaji": "yoto",
@@ -6704,7 +5211,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0464",
+    "id": "n5-w0358",
     "jp": "馬術",
     "reading": "スキー",
     "romaji": "suki",
@@ -6718,7 +5225,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0465",
+    "id": "n5-w0359",
     "jp": "マラソン",
     "reading": "スケート",
     "romaji": "suketo",
@@ -6732,7 +5239,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0466",
+    "id": "n5-w0360",
     "jp": "陸上競技",
     "reading": "ローラースケート",
     "romaji": "rorasuketo",
@@ -6746,26 +5253,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0467",
+    "id": "n5-w0361",
     "jp": "登山",
-    "reading": "登山",
-    "romaji": "登山",
-    "meaning": "登山",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第12課"
-    ],
-    "lesson": 12,
-    "note": ""
-  },
-  {
-    "id": "n5-w0468",
-    "jp": "水泳",
     "reading": "水泳",
     "romaji": "水泳",
     "meaning": "游泳（swim）",
-    "accent": "",
+    "accent": "登山",
     "tag": [
       "N5",
       "第12課"
@@ -6774,22 +5267,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0469",
-    "jp": "年上",
-    "reading": "としうえ",
-    "romaji": "toshiue",
-    "meaning": "年长",
-    "accent": "○0④",
-    "tag": [
-      "N5",
-      "第13課",
-      "名"
-    ],
-    "lesson": 13,
-    "note": "[名]"
-  },
-  {
-    "id": "n5-w0470",
+    "id": "n5-w0362",
     "jp": "北京",
     "reading": "ぺきん",
     "romaji": "pekin",
@@ -6804,7 +5282,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0471",
+    "id": "n5-w0363",
     "jp": "同じ",
     "reading": "おなじ",
     "romaji": "onaji",
@@ -6819,7 +5297,7 @@
     "note": "[形动・连体]"
   },
   {
-    "id": "n5-w0472",
+    "id": "n5-w0364",
     "jp": "大体",
     "reading": "だいたい",
     "romaji": "daitai",
@@ -6834,7 +5312,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0473",
+    "id": "n5-w0365",
     "jp": "どちら",
     "reading": "—",
     "romaji": "—",
@@ -6849,7 +5327,7 @@
     "note": "[疑]"
   },
   {
-    "id": "n5-w0474",
+    "id": "n5-w0366",
     "jp": "季節",
     "reading": "きせつ",
     "romaji": "kisetsu",
@@ -6864,7 +5342,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0475",
+    "id": "n5-w0367",
     "jp": "ファーストフードレストラン",
     "reading": "fast food restaurant",
     "romaji": "fast food restaurant",
@@ -6879,7 +5357,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0476",
+    "id": "n5-w0368",
     "jp": "もう",
     "reading": "—",
     "romaji": "—",
@@ -6894,7 +5372,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0477",
+    "id": "n5-w0369",
     "jp": "お蔭様",
     "reading": "おかげさま",
     "romaji": "okagesama",
@@ -6909,7 +5387,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0478",
+    "id": "n5-w0370",
     "jp": "印象",
     "reading": "いんしょう",
     "romaji": "inshou",
@@ -6924,7 +5402,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0479",
+    "id": "n5-w0371",
     "jp": "活気",
     "reading": "かっき",
     "romaji": "kaki",
@@ -6939,7 +5417,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0480",
+    "id": "n5-w0372",
     "jp": "確かだ",
     "reading": "たしか",
     "romaji": "tashika",
@@ -6954,7 +5432,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0481",
+    "id": "n5-w0373",
     "jp": "テレビ塔",
     "reading": "—",
     "romaji": "—",
@@ -6969,7 +5447,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0482",
+    "id": "n5-w0374",
     "jp": "世界",
     "reading": "せかい",
     "romaji": "sekai",
@@ -6984,7 +5462,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0483",
+    "id": "n5-w0375",
     "jp": "速い",
     "reading": "はやい",
     "romaji": "hayai",
@@ -6999,7 +5477,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0484",
+    "id": "n5-w0376",
     "jp": "列車",
     "reading": "れっしゃ",
     "romaji": "resha",
@@ -7014,7 +5492,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0485",
+    "id": "n5-w0377",
     "jp": "人口",
     "reading": "じんこう",
     "romaji": "jinkou",
@@ -7029,7 +5507,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0486",
+    "id": "n5-w0378",
     "jp": "密度",
     "reading": "みつど",
     "romaji": "mitsudo",
@@ -7044,7 +5522,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0487",
+    "id": "n5-w0379",
     "jp": "どうして",
     "reading": "—",
     "romaji": "—",
@@ -7059,7 +5537,7 @@
     "note": "[疑]"
   },
   {
-    "id": "n5-w0488",
+    "id": "n5-w0380",
     "jp": "とても",
     "reading": "—",
     "romaji": "—",
@@ -7074,7 +5552,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0489",
+    "id": "n5-w0381",
     "jp": "規律",
     "reading": "きりつ",
     "romaji": "kiritsu",
@@ -7089,7 +5567,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0490",
+    "id": "n5-w0382",
     "jp": "正しい",
     "reading": "ただしい",
     "romaji": "tadashii",
@@ -7104,7 +5582,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0491",
+    "id": "n5-w0383",
     "jp": "なるほど",
     "reading": "—",
     "romaji": "—",
@@ -7119,7 +5597,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0492",
+    "id": "n5-w0384",
     "jp": "例えば",
     "reading": "たとえば",
     "romaji": "tatoeba",
@@ -7134,7 +5612,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0493",
+    "id": "n5-w0385",
     "jp": "公共の場",
     "reading": "こうきょうのば",
     "romaji": "koukyounoba",
@@ -7149,7 +5627,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0494",
+    "id": "n5-w0386",
     "jp": "使用",
     "reading": "しよう",
     "romaji": "shiyou",
@@ -7164,7 +5642,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0495",
+    "id": "n5-w0387",
     "jp": "禁止",
     "reading": "きんし",
     "romaji": "kinshi",
@@ -7179,7 +5657,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0496",
+    "id": "n5-w0388",
     "jp": "それに",
     "reading": "—",
     "romaji": "—",
@@ -7194,7 +5672,7 @@
     "note": "[接]"
   },
   {
-    "id": "n5-w0497",
+    "id": "n5-w0389",
     "jp": "原因",
     "reading": "げんいん",
     "romaji": "genin",
@@ -7209,7 +5687,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0498",
+    "id": "n5-w0390",
     "jp": "厳しい",
     "reading": "きびしい",
     "romaji": "kibishii",
@@ -7224,7 +5702,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0499",
+    "id": "n5-w0391",
     "jp": "社会",
     "reading": "しゃかい",
     "romaji": "shakai",
@@ -7239,7 +5717,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0500",
+    "id": "n5-w0392",
     "jp": "大らかだ",
     "reading": "おおらか",
     "romaji": "ooraka",
@@ -7254,7 +5732,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0501",
+    "id": "n5-w0393",
     "jp": "生活",
     "reading": "せいかつ",
     "romaji": "seikatsu",
@@ -7269,7 +5747,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0502",
+    "id": "n5-w0394",
     "jp": "料理",
     "reading": "りょうり",
     "romaji": "ryouri",
@@ -7284,7 +5762,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0503",
+    "id": "n5-w0395",
     "jp": "部屋",
     "reading": "へや",
     "romaji": "heya",
@@ -7299,7 +5777,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0504",
+    "id": "n5-w0396",
     "jp": "広い",
     "reading": "ひろい",
     "romaji": "hiroi",
@@ -7314,7 +5792,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0505",
+    "id": "n5-w0397",
     "jp": "狭い",
     "reading": "せまい",
     "romaji": "semai",
@@ -7329,7 +5807,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0506",
+    "id": "n5-w0398",
     "jp": "ビル",
     "reading": "building",
     "romaji": "building",
@@ -7344,7 +5822,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0507",
+    "id": "n5-w0399",
     "jp": "京都",
     "reading": "きょうと",
     "romaji": "kyouto",
@@ -7359,7 +5837,7 @@
     "note": "[地名]"
   },
   {
-    "id": "n5-w0508",
+    "id": "n5-w0400",
     "jp": "長い",
     "reading": "ながい",
     "romaji": "nagai",
@@ -7374,7 +5852,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0509",
+    "id": "n5-w0401",
     "jp": "安い",
     "reading": "やすい",
     "romaji": "yasui",
@@ -7389,7 +5867,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0510",
+    "id": "n5-w0402",
     "jp": "美味しい",
     "reading": "おいしい",
     "romaji": "oishii",
@@ -7404,7 +5882,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0511",
+    "id": "n5-w0403",
     "jp": "若い",
     "reading": "わかい",
     "romaji": "wakai",
@@ -7419,7 +5897,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0512",
+    "id": "n5-w0404",
     "jp": "慣れる",
     "reading": "慣れます",
     "romaji": "慣remasu",
@@ -7434,7 +5912,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0513",
+    "id": "n5-w0405",
     "jp": "言う",
     "reading": "言います",
     "romaji": "言imasu",
@@ -7449,7 +5927,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0514",
+    "id": "n5-w0406",
     "jp": "守る",
     "reading": "守ります",
     "romaji": "守rimasu",
@@ -7464,12 +5942,12 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0515",
-    "jp": "時間",
-    "reading": "じかん",
-    "romaji": "jikan",
-    "meaning": "时间",
-    "accent": "○0",
+    "id": "n5-w0407",
+    "jp": "夜",
+    "reading": "よる",
+    "romaji": "yoru",
+    "meaning": "晚上",
+    "accent": "①",
     "tag": [
       "N5",
       "第14課",
@@ -7479,7 +5957,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0516",
+    "id": "n5-w0408",
     "jp": "仕事",
     "reading": "しごと",
     "romaji": "shigoto",
@@ -7494,7 +5972,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0517",
+    "id": "n5-w0409",
     "jp": "簡単だ",
     "reading": "かんたん",
     "romaji": "kantan",
@@ -7509,7 +5987,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0518",
+    "id": "n5-w0410",
     "jp": "頃",
     "reading": "ころ",
     "romaji": "koro",
@@ -7524,7 +6002,7 @@
     "note": "[接尾]"
   },
   {
-    "id": "n5-w0519",
+    "id": "n5-w0411",
     "jp": "ようやく",
     "reading": "—",
     "romaji": "—",
@@ -7539,7 +6017,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0520",
+    "id": "n5-w0412",
     "jp": "寒い",
     "reading": "さむい",
     "romaji": "samui",
@@ -7554,7 +6032,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0521",
+    "id": "n5-w0413",
     "jp": "暖かい",
     "reading": "あたたかい",
     "romaji": "atatakai",
@@ -7569,7 +6047,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0522",
+    "id": "n5-w0414",
     "jp": "風邪",
     "reading": "かぜ",
     "romaji": "kaze",
@@ -7584,7 +6062,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0523",
+    "id": "n5-w0415",
     "jp": "娘",
     "reading": "むすめ",
     "romaji": "musume",
@@ -7599,7 +6077,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0524",
+    "id": "n5-w0416",
     "jp": "息子",
     "reading": "むすこ",
     "romaji": "musuko",
@@ -7614,7 +6092,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0525",
+    "id": "n5-w0417",
     "jp": "看護婦",
     "reading": "かんごふ",
     "romaji": "kangofu",
@@ -7629,7 +6107,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0526",
+    "id": "n5-w0418",
     "jp": "医者",
     "reading": "いしゃ",
     "romaji": "isha",
@@ -7644,7 +6122,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0527",
+    "id": "n5-w0419",
     "jp": "商品",
     "reading": "しょうひん",
     "romaji": "shouhin",
@@ -7659,7 +6137,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0528",
+    "id": "n5-w0420",
     "jp": "豊富だ",
     "reading": "ほうふ",
     "romaji": "houfu",
@@ -7674,7 +6152,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0529",
+    "id": "n5-w0421",
     "jp": "予定",
     "reading": "よてい",
     "romaji": "yotei",
@@ -7689,7 +6167,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0530",
+    "id": "n5-w0422",
     "jp": "観光",
     "reading": "かんこう",
     "romaji": "kankou",
@@ -7704,7 +6182,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0531",
+    "id": "n5-w0423",
     "jp": "先週",
     "reading": "せんしゅう",
     "romaji": "senshuu",
@@ -7719,7 +6197,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0532",
+    "id": "n5-w0424",
     "jp": "ディズニーランド",
     "reading": "Disneyland",
     "romaji": "disneyland",
@@ -7734,7 +6212,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0533",
+    "id": "n5-w0425",
     "jp": "次",
     "reading": "つぎ",
     "romaji": "tsugi",
@@ -7749,7 +6227,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0534",
+    "id": "n5-w0426",
     "jp": "それぞれ",
     "reading": "—",
     "romaji": "—",
@@ -7764,7 +6242,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0535",
+    "id": "n5-w0427",
     "jp": "景色",
     "reading": "けしき",
     "romaji": "keshiki",
@@ -7779,7 +6257,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0536",
+    "id": "n5-w0428",
     "jp": "郊外",
     "reading": "こうがい",
     "romaji": "kougai",
@@ -7794,7 +6272,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0537",
+    "id": "n5-w0429",
     "jp": "富士山",
     "reading": "ふじさん",
     "romaji": "fujisan",
@@ -7809,7 +6287,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0538",
+    "id": "n5-w0430",
     "jp": "少し",
     "reading": "すこし",
     "romaji": "sukoshi",
@@ -7824,7 +6302,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0539",
+    "id": "n5-w0431",
     "jp": "遠い",
     "reading": "とおい",
     "romaji": "tooi",
@@ -7839,7 +6317,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0540",
+    "id": "n5-w0432",
     "jp": "特集",
     "reading": "とくしゅう",
     "romaji": "tokushuu",
@@ -7854,7 +6332,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0541",
+    "id": "n5-w0433",
     "jp": "声",
     "reading": "こえ",
     "romaji": "koe",
@@ -7869,7 +6347,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0542",
+    "id": "n5-w0434",
     "jp": "番組",
     "reading": "ばんぐみ",
     "romaji": "bangumi",
@@ -7884,7 +6362,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0543",
+    "id": "n5-w0435",
     "jp": "将来",
     "reading": "しょうらい",
     "romaji": "shourai",
@@ -7899,7 +6377,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0544",
+    "id": "n5-w0436",
     "jp": "決める",
     "reading": "決めます",
     "romaji": "決memasu",
@@ -7914,7 +6392,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0545",
+    "id": "n5-w0437",
     "jp": "決まる",
     "reading": "決まります",
     "romaji": "決marimasu",
@@ -7929,22 +6407,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0546",
-    "jp": "そうだ",
-    "reading": "—",
-    "romaji": "—",
-    "meaning": "听说",
-    "accent": "①",
-    "tag": [
-      "N5",
-      "第15課",
-      "助动"
-    ],
-    "lesson": 15,
-    "note": "[助动]"
-  },
-  {
-    "id": "n5-w0547",
+    "id": "n5-w0438",
     "jp": "ようだ",
     "reading": "—",
     "romaji": "—",
@@ -7959,7 +6422,7 @@
     "note": "[助动]"
   },
   {
-    "id": "n5-w0548",
+    "id": "n5-w0439",
     "jp": "マイク",
     "reading": "microphone",
     "romaji": "microphone",
@@ -7974,7 +6437,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0549",
+    "id": "n5-w0440",
     "jp": "鶴岡八幡宮",
     "reading": "つるがおかはちまんぐう",
     "romaji": "tsurugaokahachimanguu",
@@ -7989,7 +6452,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0550",
+    "id": "n5-w0441",
     "jp": "お金",
     "reading": "かね",
     "romaji": "kane",
@@ -8004,7 +6467,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0551",
+    "id": "n5-w0442",
     "jp": "近郊",
     "reading": "きんこう",
     "romaji": "kinkou",
@@ -8019,7 +6482,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0552",
+    "id": "n5-w0443",
     "jp": "情報",
     "reading": "じょうほう",
     "romaji": "jouhou",
@@ -8034,7 +6497,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0553",
+    "id": "n5-w0444",
     "jp": "時",
     "reading": "とき",
     "romaji": "toki",
@@ -8049,7 +6512,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0554",
+    "id": "n5-w0445",
     "jp": "関心",
     "reading": "かんしん",
     "romaji": "kanshin",
@@ -8064,7 +6527,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0555",
+    "id": "n5-w0446",
     "jp": "文化",
     "reading": "ぶんか",
     "romaji": "bunka",
@@ -8079,7 +6542,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0556",
+    "id": "n5-w0447",
     "jp": "興味",
     "reading": "きょうみ",
     "romaji": "kyoumi",
@@ -8094,7 +6557,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0557",
+    "id": "n5-w0448",
     "jp": "漫画",
     "reading": "まんが",
     "romaji": "manga",
@@ -8109,7 +6572,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0558",
+    "id": "n5-w0449",
     "jp": "合格",
     "reading": "ごうかく",
     "romaji": "goukaku",
@@ -8124,7 +6587,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0559",
+    "id": "n5-w0450",
     "jp": "子供",
     "reading": "こども",
     "romaji": "kodomo",
@@ -8139,7 +6602,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0560",
+    "id": "n5-w0451",
     "jp": "悲しい",
     "reading": "かなしい",
     "romaji": "kanashii",
@@ -8154,7 +6617,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0561",
+    "id": "n5-w0452",
     "jp": "趣味",
     "reading": "しゅみ",
     "romaji": "shumi",
@@ -8169,7 +6632,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0562",
+    "id": "n5-w0453",
     "jp": "経済",
     "reading": "けいざい",
     "romaji": "keizai",
@@ -8184,7 +6647,22 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0563",
+    "id": "n5-w0454",
+    "jp": "切手",
+    "reading": "きって",
+    "romaji": "kite",
+    "meaning": "邮票",
+    "accent": "○0",
+    "tag": [
+      "N5",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "n5-w0455",
     "jp": "収集",
     "reading": "しゅうしゅう",
     "romaji": "shuushuu",
@@ -8199,7 +6677,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0564",
+    "id": "n5-w0456",
     "jp": "実は",
     "reading": "じつは",
     "romaji": "jitsuha",
@@ -8214,7 +6692,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0565",
+    "id": "n5-w0457",
     "jp": "小さい",
     "reading": "ちいさい",
     "romaji": "chiisai",
@@ -8229,7 +6707,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0566",
+    "id": "n5-w0458",
     "jp": "頃",
     "reading": "ころ",
     "romaji": "koro",
@@ -8244,7 +6722,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0567",
+    "id": "n5-w0459",
     "jp": "武士",
     "reading": "ぶし",
     "romaji": "bushi",
@@ -8259,7 +6737,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0568",
+    "id": "n5-w0460",
     "jp": "主人公",
     "reading": "しゅじんこう",
     "romaji": "shujinkou",
@@ -8274,7 +6752,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0569",
+    "id": "n5-w0461",
     "jp": "都",
     "reading": "みやこ",
     "romaji": "miyako",
@@ -8289,7 +6767,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0570",
+    "id": "n5-w0462",
     "jp": "概況",
     "reading": "がいきょう",
     "romaji": "gaikyou",
@@ -8304,7 +6782,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0571",
+    "id": "n5-w0463",
     "jp": "御土産",
     "reading": "おみやげ",
     "romaji": "omiyage",
@@ -8319,7 +6797,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0572",
+    "id": "n5-w0464",
     "jp": "絵葉書",
     "reading": "えはがき",
     "romaji": "ehagaki",
@@ -8334,7 +6812,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0573",
+    "id": "n5-w0465",
     "jp": "復習",
     "reading": "ふくしゅう",
     "romaji": "fukushuu",
@@ -8349,7 +6827,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0574",
+    "id": "n5-w0466",
     "jp": "返す",
     "reading": "返します",
     "romaji": "返shimasu",
@@ -8364,7 +6842,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0575",
+    "id": "n5-w0467",
     "jp": "借りる",
     "reading": "借ります",
     "romaji": "借rimasu",
@@ -8379,7 +6857,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0576",
+    "id": "n5-w0468",
     "jp": "出る",
     "reading": "出ます",
     "romaji": "出masu",
@@ -8394,7 +6872,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0577",
+    "id": "n5-w0469",
     "jp": "遊ぶ",
     "reading": "遊びます",
     "romaji": "遊bimasu",
@@ -8409,7 +6887,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0578",
+    "id": "n5-w0470",
     "jp": "持つ",
     "reading": "持ちます",
     "romaji": "持chimasu",
@@ -8424,7 +6902,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0579",
+    "id": "n5-w0471",
     "jp": "知る",
     "reading": "知ります",
     "romaji": "知rimasu",
@@ -8439,7 +6917,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0580",
+    "id": "n5-w0472",
     "jp": "食べる",
     "reading": "食べます",
     "romaji": "食bemasu",
@@ -8454,7 +6932,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0581",
+    "id": "n5-w0473",
     "jp": "返す",
     "reading": "返します",
     "romaji": "返shimasu",
@@ -8469,7 +6947,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0582",
+    "id": "n5-w0474",
     "jp": "行く",
     "reading": "行きます",
     "romaji": "行kimasu",
@@ -8484,7 +6962,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0583",
+    "id": "n5-w0475",
     "jp": "働く",
     "reading": "働きます",
     "romaji": "働kimasu",
@@ -8499,7 +6977,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0584",
+    "id": "n5-w0476",
     "jp": "持つ",
     "reading": "持ちます",
     "romaji": "持chimasu",
@@ -8514,7 +6992,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0585",
+    "id": "n5-w0477",
     "jp": "飲む",
     "reading": "飲みます",
     "romaji": "飲mimasu",
@@ -8529,7 +7007,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0586",
+    "id": "n5-w0478",
     "jp": "読む",
     "reading": "読みます",
     "romaji": "読mimasu",
@@ -8544,7 +7022,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0587",
+    "id": "n5-w0479",
     "jp": "かかる",
     "reading": "かかります",
     "romaji": "kakarimasu",
@@ -8559,7 +7037,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0588",
+    "id": "n5-w0480",
     "jp": "帰る",
     "reading": "帰ります",
     "romaji": "帰rimasu",
@@ -8574,7 +7052,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0589",
+    "id": "n5-w0481",
     "jp": "作る",
     "reading": "作ります",
     "romaji": "作rimasu",
@@ -8589,7 +7067,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0590",
+    "id": "n5-w0482",
     "jp": "取る",
     "reading": "取ります",
     "romaji": "取rimasu",
@@ -8604,7 +7082,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0591",
+    "id": "n5-w0483",
     "jp": "分かる",
     "reading": "分かります",
     "romaji": "分karimasu",
@@ -8619,22 +7097,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0592",
-    "jp": "いらっしゃいませ",
-    "reading": "—",
-    "romaji": "—",
-    "meaning": "欢迎光临",
-    "accent": "⑥",
-    "tag": [
-      "N5",
-      "第16課",
-      "寒暄"
-    ],
-    "lesson": 16,
-    "note": "[寒暄]"
-  },
-  {
-    "id": "n5-w0593",
+    "id": "n5-w0484",
     "jp": "ご覧ください",
     "reading": "—",
     "romaji": "—",
@@ -8649,7 +7112,7 @@
     "note": "[敬]"
   },
   {
-    "id": "n5-w0594",
+    "id": "n5-w0485",
     "jp": "海",
     "reading": "うみ",
     "romaji": "umi",
@@ -8664,7 +7127,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0595",
+    "id": "n5-w0486",
     "jp": "写真",
     "reading": "しゃしん",
     "romaji": "shashin",
@@ -8679,7 +7142,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0596",
+    "id": "n5-w0487",
     "jp": "如何",
     "reading": "いかが",
     "romaji": "ikaga",
@@ -8694,7 +7157,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0597",
+    "id": "n5-w0488",
     "jp": "名物",
     "reading": "めいぶつ",
     "romaji": "meibutsu",
@@ -8709,7 +7172,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0598",
+    "id": "n5-w0489",
     "jp": "力強い",
     "reading": "ちからづよい",
     "romaji": "chikarazuyoi",
@@ -8724,7 +7187,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0599",
+    "id": "n5-w0490",
     "jp": "作品",
     "reading": "さくひん",
     "romaji": "sakuhin",
@@ -8739,7 +7202,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0600",
+    "id": "n5-w0491",
     "jp": "キーホルダー",
     "reading": "key ring",
     "romaji": "key ring",
@@ -8754,7 +7217,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0601",
+    "id": "n5-w0492",
     "jp": "手頃だ",
     "reading": "てごろ",
     "romaji": "tegoro",
@@ -8769,7 +7232,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0602",
+    "id": "n5-w0493",
     "jp": "お薦め",
     "reading": "おすすめ",
     "romaji": "osusume",
@@ -8784,7 +7247,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0603",
+    "id": "n5-w0494",
     "jp": "お菓子",
     "reading": "おかし",
     "romaji": "okashi",
@@ -8799,7 +7262,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0604",
+    "id": "n5-w0495",
     "jp": "コーナー",
     "reading": "corner",
     "romaji": "corner",
@@ -8814,7 +7277,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0605",
+    "id": "n5-w0496",
     "jp": "ございます",
     "reading": "—",
     "romaji": "—",
@@ -8829,7 +7292,7 @@
     "note": "[敬]"
   },
   {
-    "id": "n5-w0606",
+    "id": "n5-w0497",
     "jp": "饅頭",
     "reading": "まんじゅう",
     "romaji": "manjuu",
@@ -8844,7 +7307,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0607",
+    "id": "n5-w0498",
     "jp": "人気",
     "reading": "にんき",
     "romaji": "ninki",
@@ -8859,7 +7322,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0608",
+    "id": "n5-w0499",
     "jp": "全部",
     "reading": "ぜんぶ",
     "romaji": "zenbu",
@@ -8874,7 +7337,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0609",
+    "id": "n5-w0500",
     "jp": "円",
     "reading": "えん",
     "romaji": "en",
@@ -8889,7 +7352,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0610",
+    "id": "n5-w0501",
     "jp": "お釣り",
     "reading": "おつり",
     "romaji": "otsuri",
@@ -8904,7 +7367,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0611",
+    "id": "n5-w0502",
     "jp": "お預かり",
     "reading": "おあずかり",
     "romaji": "oazukari",
@@ -8919,7 +7382,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0612",
+    "id": "n5-w0503",
     "jp": "お返し",
     "reading": "おかえし",
     "romaji": "okaeshi",
@@ -8934,7 +7397,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0613",
+    "id": "n5-w0504",
     "jp": "客",
     "reading": "きゃく",
     "romaji": "kyaku",
@@ -8949,7 +7412,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0614",
+    "id": "n5-w0505",
     "jp": "お客様",
     "reading": "おきゃくさま",
     "romaji": "okyakusama",
@@ -8964,7 +7427,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0615",
+    "id": "n5-w0506",
     "jp": "外国",
     "reading": "がいこく",
     "romaji": "gaikoku",
@@ -8979,7 +7442,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0616",
+    "id": "n5-w0507",
     "jp": "方",
     "reading": "かた",
     "romaji": "kata",
@@ -8994,7 +7457,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0617",
+    "id": "n5-w0508",
     "jp": "次",
     "reading": "つぎ",
     "romaji": "tsugi",
@@ -9009,7 +7472,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0618",
+    "id": "n5-w0509",
     "jp": "船便",
     "reading": "ふなびん",
     "romaji": "funabin",
@@ -9024,7 +7487,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0619",
+    "id": "n5-w0510",
     "jp": "航空便",
     "reading": "こうくうびん",
     "romaji": "koukuubin",
@@ -9039,7 +7502,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0620",
+    "id": "n5-w0511",
     "jp": "中身",
     "reading": "なかみ",
     "romaji": "nakami",
@@ -9054,7 +7517,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0621",
+    "id": "n5-w0512",
     "jp": "名前",
     "reading": "なまえ",
     "romaji": "namae",
@@ -9069,7 +7532,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0622",
+    "id": "n5-w0513",
     "jp": "住所",
     "reading": "じゅうしょ",
     "romaji": "juusho",
@@ -9084,7 +7547,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0623",
+    "id": "n5-w0514",
     "jp": "送料",
     "reading": "そうりょう",
     "romaji": "souryou",
@@ -9099,7 +7562,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0624",
+    "id": "n5-w0515",
     "jp": "今",
     "reading": "いま",
     "romaji": "ima",
@@ -9114,7 +7577,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0625",
+    "id": "n5-w0516",
     "jp": "重さ",
     "reading": "おもさ",
     "romaji": "omosa",
@@ -9129,7 +7592,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0626",
+    "id": "n5-w0517",
     "jp": "少々",
     "reading": "しょうしょう",
     "romaji": "shoushou",
@@ -9144,7 +7607,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0627",
+    "id": "n5-w0518",
     "jp": "お待ちください",
     "reading": "—",
     "romaji": "—",
@@ -9159,7 +7622,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0628",
+    "id": "n5-w0519",
     "jp": "ダイヤ",
     "reading": "—",
     "romaji": "—",
@@ -9174,7 +7637,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0629",
+    "id": "n5-w0520",
     "jp": "指輪",
     "reading": "ゆびわ",
     "romaji": "yubiwa",
@@ -9189,7 +7652,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0630",
+    "id": "n5-w0521",
     "jp": "ハンバーガー",
     "reading": "hamburger",
     "romaji": "hamburger",
@@ -9204,7 +7667,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0631",
+    "id": "n5-w0522",
     "jp": "ポテト",
     "reading": "potato",
     "romaji": "potato",
@@ -9219,7 +7682,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0632",
+    "id": "n5-w0523",
     "jp": "小銭",
     "reading": "こぜに",
     "romaji": "kozeni",
@@ -9234,7 +7697,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0633",
+    "id": "n5-w0524",
     "jp": "写る",
     "reading": "写ります",
     "romaji": "写rimasu",
@@ -9249,7 +7712,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0634",
+    "id": "n5-w0525",
     "jp": "住む",
     "reading": "住みます",
     "romaji": "住mimasu",
@@ -9264,7 +7727,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0635",
+    "id": "n5-w0526",
     "jp": "楽しむ",
     "reading": "楽しみます",
     "romaji": "楽shimimasu",
@@ -9279,7 +7742,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0636",
+    "id": "n5-w0527",
     "jp": "送る",
     "reading": "送ります",
     "romaji": "送rimasu",
@@ -9294,7 +7757,7 @@
     "note": "[○0]"
   },
   {
-    "id": "n5-w0637",
+    "id": "n5-w0528",
     "jp": "書く",
     "reading": "書きます",
     "romaji": "書kimasu",
@@ -9309,7 +7772,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0638",
+    "id": "n5-w0529",
     "jp": "量る",
     "reading": "量ります",
     "romaji": "量rimasu",
@@ -9324,7 +7787,7 @@
     "note": "[②]"
   },
   {
-    "id": "n5-w0639",
+    "id": "n5-w0530",
     "jp": "待つ",
     "reading": "待ちます",
     "romaji": "待chimasu",
@@ -9339,22 +7802,7 @@
     "note": "[①]"
   },
   {
-    "id": "n5-w0640",
-    "jp": "電話",
-    "reading": "でんわ",
-    "romaji": "denwa",
-    "meaning": "电话",
-    "accent": "○0",
-    "tag": [
-      "N5",
-      "第17課",
-      "名"
-    ],
-    "lesson": 17,
-    "note": "[名]"
-  },
-  {
-    "id": "n5-w0641",
+    "id": "n5-w0531",
     "jp": "もしもし",
     "reading": "—",
     "romaji": "—",
@@ -9369,7 +7817,7 @@
     "note": "[感]"
   },
   {
-    "id": "n5-w0642",
+    "id": "n5-w0532",
     "jp": "朝早く",
     "reading": "あさはやく",
     "romaji": "asahayaku",
@@ -9384,7 +7832,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0643",
+    "id": "n5-w0533",
     "jp": "今朝",
     "reading": "けさ",
     "romaji": "kesa",
@@ -9399,7 +7847,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0644",
+    "id": "n5-w0534",
     "jp": "頭",
     "reading": "あたま",
     "romaji": "atama",
@@ -9414,7 +7862,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0645",
+    "id": "n5-w0535",
     "jp": "痛い",
     "reading": "いたい",
     "romaji": "itai",
@@ -9429,7 +7877,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0646",
+    "id": "n5-w0536",
     "jp": "いけません",
     "reading": "—",
     "romaji": "—",
@@ -9444,7 +7892,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0647",
+    "id": "n5-w0537",
     "jp": "熱",
     "reading": "ねつ",
     "romaji": "netsu",
@@ -9459,7 +7907,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0648",
+    "id": "n5-w0538",
     "jp": "微熱",
     "reading": "びねつ",
     "romaji": "binetsu",
@@ -9474,7 +7922,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0649",
+    "id": "n5-w0539",
     "jp": "ゆっくり",
     "reading": "—",
     "romaji": "—",
@@ -9489,7 +7937,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0650",
+    "id": "n5-w0540",
     "jp": "不便だ",
     "reading": "ふべん",
     "romaji": "fuben",
@@ -9504,7 +7952,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0651",
+    "id": "n5-w0541",
     "jp": "相談",
     "reading": "そうだん",
     "romaji": "soudan",
@@ -9519,7 +7967,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0652",
+    "id": "n5-w0542",
     "jp": "病気",
     "reading": "びょうき",
     "romaji": "byouki",
@@ -9534,7 +7982,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0653",
+    "id": "n5-w0543",
     "jp": "帰り",
     "reading": "かえり",
     "romaji": "kaeri",
@@ -9549,7 +7997,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0654",
+    "id": "n5-w0544",
     "jp": "病院",
     "reading": "びょういん",
     "romaji": "byouin",
@@ -9564,7 +8012,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0655",
+    "id": "n5-w0545",
     "jp": "大丈夫だ",
     "reading": "だいじょうぶ",
     "romaji": "daijoubu",
@@ -9579,7 +8027,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0656",
+    "id": "n5-w0546",
     "jp": "口",
     "reading": "くち",
     "romaji": "kuchi",
@@ -9594,7 +8042,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0657",
+    "id": "n5-w0547",
     "jp": "大分",
     "reading": "だいぶ",
     "romaji": "daibu",
@@ -9609,7 +8057,7 @@
     "note": "[—]"
   },
   {
-    "id": "n5-w0658",
+    "id": "n5-w0548",
     "jp": "喉",
     "reading": "のど",
     "romaji": "nodo",
@@ -9624,7 +8072,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0659",
+    "id": "n5-w0549",
     "jp": "薬",
     "reading": "くすり",
     "romaji": "kusuri",
@@ -9639,7 +8087,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0660",
+    "id": "n5-w0550",
     "jp": "食後",
     "reading": "しょくご",
     "romaji": "shokugo",
@@ -9654,7 +8102,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0661",
+    "id": "n5-w0551",
     "jp": "夜遅く",
     "reading": "よるおそく",
     "romaji": "yoruosoku",
@@ -9669,26 +8117,11 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0662",
-    "jp": "終止形",
-    "reading": "ます形",
-    "romaji": "masu形",
-    "meaning": "声调 中文意思",
-    "accent": "て形",
-    "tag": [
-      "N5",
-      "第17課",
-      "词性"
-    ],
-    "lesson": 17,
-    "note": "[词性]"
-  },
-  {
-    "id": "n5-w0663",
+    "id": "n5-w0552",
     "jp": "ひく",
     "reading": "ひきます",
     "romaji": "hikimasu",
-    "meaning": "○0 感冒",
+    "meaning": "○0",
     "accent": "ひいて",
     "tag": [
       "N5",
@@ -9699,11 +8132,11 @@
     "note": "[自他五]"
   },
   {
-    "id": "n5-w0664",
+    "id": "n5-w0553",
     "jp": "測る",
     "reading": "測ります",
     "romaji": "測rimasu",
-    "meaning": "② 测量、量体温",
+    "meaning": "②",
     "accent": "測って",
     "tag": [
       "N5",
@@ -9714,11 +8147,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0665",
+    "id": "n5-w0554",
     "jp": "腫れる",
     "reading": "腫れます",
     "romaji": "腫remasu",
-    "meaning": "○0 肿出来",
+    "meaning": "○0",
     "accent": "腫れて",
     "tag": [
       "N5",
@@ -9729,11 +8162,11 @@
     "note": "[自下一]"
   },
   {
-    "id": "n5-w0666",
+    "id": "n5-w0555",
     "jp": "飲む",
     "reading": "飲みます",
     "romaji": "飲mimasu",
-    "meaning": "① 喝",
+    "meaning": "①",
     "accent": "飲んで",
     "tag": [
       "N5",
@@ -9744,11 +8177,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0667",
+    "id": "n5-w0556",
     "jp": "失礼する",
     "reading": "失礼します",
     "romaji": "失礼shimasu",
-    "meaning": "② 失礼、再见了",
+    "meaning": "②",
     "accent": "失礼して",
     "tag": [
       "N5",
@@ -9759,11 +8192,11 @@
     "note": "[自サ]"
   },
   {
-    "id": "n5-w0668",
+    "id": "n5-w0557",
     "jp": "流行る",
     "reading": "流行ります",
     "romaji": "流行rimasu",
-    "meaning": "③ 流行",
+    "meaning": "③",
     "accent": "流行って",
     "tag": [
       "N5",
@@ -9774,11 +8207,11 @@
     "note": "[自五]"
   },
   {
-    "id": "n5-w0669",
+    "id": "n5-w0558",
     "jp": "慌てる",
     "reading": "慌てます",
     "romaji": "慌temasu",
-    "meaning": "○0 焦急",
+    "meaning": "○0",
     "accent": "慌てて",
     "tag": [
       "N5",
@@ -9789,40 +8222,12 @@
     "note": "[自下一]"
   },
   {
-    "id": "n5-w0670",
-    "jp": "日文",
-    "reading": "日文",
-    "romaji": "日文",
-    "meaning": "中文",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0671",
+    "id": "n5-w0559",
     "jp": "インフルエンザ（influenza）",
-    "reading": "インフルエンザ（influenza）",
-    "romaji": "infuruenza（influenza）",
-    "meaning": "感冒流行",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0672",
-    "jp": "風邪を引く",
     "reading": "風邪を引く",
     "romaji": "風邪wo引ku",
     "meaning": "感冒",
-    "accent": "",
+    "accent": "感冒流行",
     "tag": [
       "N5",
       "第17課"
@@ -9831,12 +8236,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0673",
-    "jp": "頭が痛い",
+    "id": "n5-w0560",
+    "jp": "頭",
     "reading": "頭が痛い",
     "romaji": "頭ga痛i",
     "meaning": "头疼",
-    "accent": "",
+    "accent": "头",
     "tag": [
       "N5",
       "第17課"
@@ -9845,26 +8250,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0674",
+    "id": "n5-w0561",
     "jp": "肺炎",
-    "reading": "肺炎",
-    "romaji": "肺炎",
-    "meaning": "肺炎",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0675",
-    "jp": "髪",
     "reading": "髪",
     "romaji": "髪",
     "meaning": "头发",
-    "accent": "",
+    "accent": "肺炎",
     "tag": [
       "N5",
       "第17課"
@@ -9873,26 +8264,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0676",
+    "id": "n5-w0562",
     "jp": "歯が痛い",
-    "reading": "歯が痛い",
-    "romaji": "歯ga痛i",
-    "meaning": "牙痛",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0677",
-    "jp": "眩暈",
     "reading": "眩暈",
     "romaji": "眩暈",
     "meaning": "头晕",
-    "accent": "",
+    "accent": "牙痛",
     "tag": [
       "N5",
       "第17課"
@@ -9901,26 +8278,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0678",
+    "id": "n5-w0563",
     "jp": "睫毛",
-    "reading": "睫毛",
-    "romaji": "睫毛",
-    "meaning": "睫毛",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0679",
-    "jp": "熱がある",
     "reading": "熱がある",
     "romaji": "熱gaaru",
     "meaning": "发烧",
-    "accent": "",
+    "accent": "睫毛",
     "tag": [
       "N5",
       "第17課"
@@ -9929,26 +8292,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0680",
+    "id": "n5-w0564",
     "jp": "捻挫",
-    "reading": "捻挫",
-    "romaji": "捻挫",
-    "meaning": "扭伤",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0681",
-    "jp": "顔",
     "reading": "顔",
     "romaji": "顔",
     "meaning": "脸",
-    "accent": "",
+    "accent": "扭伤",
     "tag": [
       "N5",
       "第17課"
@@ -9957,26 +8306,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0682",
+    "id": "n5-w0565",
     "jp": "せきが出る",
-    "reading": "せきが出る",
-    "romaji": "sekiga出ru",
-    "meaning": "咳嗽",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0683",
-    "jp": "骨折",
     "reading": "骨折",
     "romaji": "骨折",
     "meaning": "骨折",
-    "accent": "",
+    "accent": "咳嗽",
     "tag": [
       "N5",
       "第17課"
@@ -9985,26 +8320,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0684",
+    "id": "n5-w0566",
     "jp": "目",
-    "reading": "目",
-    "romaji": "目",
-    "meaning": "眼睛",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0685",
-    "jp": "鼻水が出る",
     "reading": "鼻水が出る",
     "romaji": "鼻水ga出ru",
     "meaning": "流鼻涕",
-    "accent": "",
+    "accent": "眼睛",
     "tag": [
       "N5",
       "第17課"
@@ -10013,26 +8334,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0686",
+    "id": "n5-w0567",
     "jp": "重傷",
-    "reading": "重傷",
-    "romaji": "重傷",
-    "meaning": "重伤",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0687",
-    "jp": "鼻",
     "reading": "鼻",
     "romaji": "鼻",
     "meaning": "鼻子",
-    "accent": "",
+    "accent": "重伤",
     "tag": [
       "N5",
       "第17課"
@@ -10041,26 +8348,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0688",
+    "id": "n5-w0568",
     "jp": "血が出る",
-    "reading": "血が出る",
-    "romaji": "血ga出ru",
-    "meaning": "流血",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0689",
-    "jp": "軽傷",
     "reading": "軽傷",
     "romaji": "軽傷",
     "meaning": "轻伤",
-    "accent": "",
+    "accent": "流血",
     "tag": [
       "N5",
       "第17課"
@@ -10069,12 +8362,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0690",
-    "jp": "吐き気がする",
+    "id": "n5-w0569",
+    "jp": "耳",
     "reading": "吐き気がする",
     "romaji": "吐ki気gasuru",
     "meaning": "恶心",
-    "accent": "",
+    "accent": "耳朵",
     "tag": [
       "N5",
       "第17課"
@@ -10083,26 +8376,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0691",
+    "id": "n5-w0570",
     "jp": "怪我",
-    "reading": "怪我",
-    "romaji": "怪我",
-    "meaning": "受伤",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0692",
-    "jp": "口",
     "reading": "口",
     "romaji": "口",
     "meaning": "嘴",
-    "accent": "",
+    "accent": "受伤",
     "tag": [
       "N5",
       "第17課"
@@ -10111,26 +8390,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0693",
+    "id": "n5-w0571",
     "jp": "寒気がする",
-    "reading": "寒気がする",
-    "romaji": "寒気gasuru",
-    "meaning": "发冷",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0694",
-    "jp": "眉毛",
     "reading": "眉毛",
     "romaji": "眉毛",
     "meaning": "眉毛",
-    "accent": "",
+    "accent": "发冷",
     "tag": [
       "N5",
       "第17課"
@@ -10139,26 +8404,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0695",
+    "id": "n5-w0572",
     "jp": "めまいがする",
-    "reading": "めまいがする",
-    "romaji": "memaigasuru",
-    "meaning": "头晕",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0696",
-    "jp": "頬",
     "reading": "頬",
     "romaji": "頬",
     "meaning": "脸颊",
-    "accent": "",
+    "accent": "头晕",
     "tag": [
       "N5",
       "第17課"
@@ -10167,26 +8418,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0697",
+    "id": "n5-w0573",
     "jp": "下痢をする",
-    "reading": "下痢をする",
-    "romaji": "下痢wosuru",
-    "meaning": "拉肚子",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0698",
-    "jp": "心臓",
     "reading": "心臓",
     "romaji": "心臓",
     "meaning": "心脏",
-    "accent": "",
+    "accent": "拉肚子",
     "tag": [
       "N5",
       "第17課"
@@ -10195,26 +8432,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0699",
+    "id": "n5-w0574",
     "jp": "顎",
-    "reading": "顎",
-    "romaji": "顎",
-    "meaning": "腭",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0700",
-    "jp": "便秘をする",
     "reading": "便秘をする",
     "romaji": "便秘wosuru",
     "meaning": "便秘",
-    "accent": "",
+    "accent": "腭",
     "tag": [
       "N5",
       "第17課"
@@ -10223,26 +8446,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0701",
+    "id": "n5-w0575",
     "jp": "肝臓",
-    "reading": "肝臓",
-    "romaji": "肝臓",
-    "meaning": "肝脏",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0702",
-    "jp": "首",
     "reading": "首",
     "romaji": "首",
     "meaning": "脖子",
-    "accent": "",
+    "accent": "肝脏",
     "tag": [
       "N5",
       "第17課"
@@ -10251,26 +8460,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0703",
+    "id": "n5-w0576",
     "jp": "怪我をする",
-    "reading": "怪我をする",
-    "romaji": "怪我wosuru",
-    "meaning": "受伤",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0704",
-    "jp": "肺",
     "reading": "肺",
     "romaji": "肺",
     "meaning": "肺",
-    "accent": "",
+    "accent": "受伤",
     "tag": [
       "N5",
       "第17課"
@@ -10279,26 +8474,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0705",
+    "id": "n5-w0577",
     "jp": "唇",
-    "reading": "唇",
-    "romaji": "唇",
-    "meaning": "嘴唇",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0706",
-    "jp": "火傷をする",
     "reading": "火傷をする",
     "romaji": "火傷wosuru",
     "meaning": "烧伤",
-    "accent": "",
+    "accent": "嘴唇",
     "tag": [
       "N5",
       "第17課"
@@ -10307,26 +8488,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0707",
+    "id": "n5-w0578",
     "jp": "胃",
-    "reading": "胃",
-    "romaji": "胃",
-    "meaning": "胃",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0708",
-    "jp": "肩",
     "reading": "肩",
     "romaji": "肩",
     "meaning": "肩",
-    "accent": "",
+    "accent": "胃",
     "tag": [
       "N5",
       "第17課"
@@ -10335,26 +8502,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0709",
+    "id": "n5-w0579",
     "jp": "食欲がない",
-    "reading": "食欲がない",
-    "romaji": "食欲ganai",
-    "meaning": "没有食欲",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0710",
-    "jp": "腸",
     "reading": "腸",
     "romaji": "腸",
     "meaning": "肠",
-    "accent": "",
+    "accent": "没有食欲",
     "tag": [
       "N5",
       "第17課"
@@ -10363,26 +8516,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0711",
+    "id": "n5-w0580",
     "jp": "背中",
-    "reading": "背中",
-    "romaji": "背中",
-    "meaning": "背",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0712",
-    "jp": "肩がこる",
     "reading": "肩がこる",
     "romaji": "肩gakoru",
     "meaning": "肩酸",
-    "accent": "",
+    "accent": "背",
     "tag": [
       "N5",
       "第17課"
@@ -10391,26 +8530,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0713",
+    "id": "n5-w0581",
     "jp": "腎臓",
-    "reading": "腎臓",
-    "romaji": "腎臓",
-    "meaning": "肾脏",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0714",
-    "jp": "腹／お腹",
     "reading": "腹／お腹",
     "romaji": "腹／o腹",
     "meaning": "肚子",
-    "accent": "",
+    "accent": "肾脏",
     "tag": [
       "N5",
       "第17課"
@@ -10419,26 +8544,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0715",
+    "id": "n5-w0582",
     "jp": "体がだるい",
-    "reading": "体がだるい",
-    "romaji": "体gadarui",
-    "meaning": "浑身无力",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第17課"
-    ],
-    "lesson": 17,
-    "note": ""
-  },
-  {
-    "id": "n5-w0716",
-    "jp": "腰",
     "reading": "腰",
     "romaji": "腰",
     "meaning": "腰",
-    "accent": "",
+    "accent": "浑身无力",
     "tag": [
       "N5",
       "第17課"
@@ -10447,7 +8558,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0717",
+    "id": "n5-w0583",
     "jp": "カツ丼",
     "reading": "かつどん",
     "romaji": "katsudon",
@@ -10462,7 +8573,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0718",
+    "id": "n5-w0584",
     "jp": "牛丼",
     "reading": "ぎゅうどん",
     "romaji": "gyuudon",
@@ -10477,7 +8588,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0719",
+    "id": "n5-w0585",
     "jp": "丼",
     "reading": "どんぶり",
     "romaji": "donburi",
@@ -10492,7 +8603,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0720",
+    "id": "n5-w0586",
     "jp": "～物",
     "reading": "～もの",
     "romaji": "～mono",
@@ -10507,7 +8618,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0721",
+    "id": "n5-w0587",
     "jp": "久しぶり",
     "reading": "ひさしぶり",
     "romaji": "hisashiburi",
@@ -10522,7 +8633,7 @@
     "note": "[寒暄]"
   },
   {
-    "id": "n5-w0722",
+    "id": "n5-w0588",
     "jp": "昼ご飯",
     "reading": "ひるごはん",
     "romaji": "hirugohan",
@@ -10537,7 +8648,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0723",
+    "id": "n5-w0589",
     "jp": "別に",
     "reading": "べつに",
     "romaji": "betsuni",
@@ -10552,7 +8663,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0724",
+    "id": "n5-w0590",
     "jp": "たま",
     "reading": "—",
     "romaji": "—",
@@ -10567,7 +8678,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0725",
+    "id": "n5-w0591",
     "jp": "別",
     "reading": "べつ",
     "romaji": "betsu",
@@ -10582,7 +8693,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0726",
+    "id": "n5-w0592",
     "jp": "所",
     "reading": "ところ",
     "romaji": "tokoro",
@@ -10597,7 +8708,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0727",
+    "id": "n5-w0593",
     "jp": "定食",
     "reading": "ていしょく",
     "romaji": "teishoku",
@@ -10612,7 +8723,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0728",
+    "id": "n5-w0594",
     "jp": "けど",
     "reading": "—",
     "romaji": "—",
@@ -10627,7 +8738,7 @@
     "note": "[接]"
   },
   {
-    "id": "n5-w0729",
+    "id": "n5-w0595",
     "jp": "西洋人",
     "reading": "せいようじん",
     "romaji": "seiyoujin",
@@ -10642,7 +8753,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0730",
+    "id": "n5-w0596",
     "jp": "東洋人",
     "reading": "とうようじん",
     "romaji": "touyoujin",
@@ -10657,7 +8768,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0731",
+    "id": "n5-w0597",
     "jp": "違い",
     "reading": "ちがい",
     "romaji": "chigai",
@@ -10672,7 +8783,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0732",
+    "id": "n5-w0598",
     "jp": "確かに",
     "reading": "たしかに",
     "romaji": "tashikani",
@@ -10687,7 +8798,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0733",
+    "id": "n5-w0599",
     "jp": "席",
     "reading": "せき",
     "romaji": "seki",
@@ -10702,7 +8813,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0734",
+    "id": "n5-w0600",
     "jp": "先に",
     "reading": "さきに",
     "romaji": "sakini",
@@ -10717,7 +8828,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0735",
+    "id": "n5-w0601",
     "jp": "売り場",
     "reading": "うりば",
     "romaji": "uriba",
@@ -10732,7 +8843,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0736",
+    "id": "n5-w0602",
     "jp": "ハンバーグ",
     "reading": "—",
     "romaji": "—",
@@ -10747,7 +8858,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0737",
+    "id": "n5-w0603",
     "jp": "日替わり",
     "reading": "ひがわり",
     "romaji": "higawari",
@@ -10762,7 +8873,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0738",
+    "id": "n5-w0604",
     "jp": "コロッケ",
     "reading": "—",
     "romaji": "—",
@@ -10777,7 +8888,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0739",
+    "id": "n5-w0605",
     "jp": "エビフライ",
     "reading": "—",
     "romaji": "—",
@@ -10792,7 +8903,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0740",
+    "id": "n5-w0606",
     "jp": "セット",
     "reading": "—",
     "romaji": "—",
@@ -10807,7 +8918,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0741",
+    "id": "n5-w0607",
     "jp": "それから",
     "reading": "—",
     "romaji": "—",
@@ -10822,7 +8933,7 @@
     "note": "[接]"
   },
   {
-    "id": "n5-w0742",
+    "id": "n5-w0608",
     "jp": "お腹",
     "reading": "おなか",
     "romaji": "onaka",
@@ -10837,11 +8948,11 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0743",
+    "id": "n5-w0609",
     "jp": "心配かける",
     "reading": "心配かけます",
     "romaji": "心配kakemasu",
-    "meaning": "② 令人担心",
+    "meaning": "②",
     "accent": "心配かけて",
     "tag": [
       "N5",
@@ -10852,11 +8963,11 @@
     "note": "[他下一]"
   },
   {
-    "id": "n5-w0744",
+    "id": "n5-w0610",
     "jp": "混む",
     "reading": "混みます",
     "romaji": "混mimasu",
-    "meaning": "① 人多、拥挤",
+    "meaning": "①",
     "accent": "混んで",
     "tag": [
       "N5",
@@ -10867,11 +8978,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0745",
+    "id": "n5-w0611",
     "jp": "選ぶ",
     "reading": "選びます",
     "romaji": "選bimasu",
-    "meaning": "② 选择",
+    "meaning": "②",
     "accent": "選んで",
     "tag": [
       "N5",
@@ -10882,11 +8993,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0746",
+    "id": "n5-w0612",
     "jp": "失敗する",
     "reading": "失敗します",
     "romaji": "失敗shimasu",
-    "meaning": "○0 失败",
+    "meaning": "○0",
     "accent": "失敗して",
     "tag": [
       "N5",
@@ -10897,11 +9008,11 @@
     "note": "[自サ]"
   },
   {
-    "id": "n5-w0747",
+    "id": "n5-w0613",
     "jp": "空く（あく）",
     "reading": "空きます",
     "romaji": "空kimasu",
-    "meaning": "○0 空（完全空下来）",
+    "meaning": "○0",
     "accent": "空いて",
     "tag": [
       "N5",
@@ -10912,11 +9023,11 @@
     "note": "[自五]"
   },
   {
-    "id": "n5-w0748",
+    "id": "n5-w0614",
     "jp": "並ぶ",
     "reading": "並びます",
     "romaji": "並bimasu",
-    "meaning": "○0 排队",
+    "meaning": "○0",
     "accent": "並んで",
     "tag": [
       "N5",
@@ -10927,11 +9038,11 @@
     "note": "[自五]"
   },
   {
-    "id": "n5-w0749",
+    "id": "n5-w0615",
     "jp": "注文する",
     "reading": "注文します",
     "romaji": "注文shimasu",
-    "meaning": "①○0 点菜、订货",
+    "meaning": "①○0",
     "accent": "注文して",
     "tag": [
       "N5",
@@ -10942,11 +9053,11 @@
     "note": "[自他サ]"
   },
   {
-    "id": "n5-w0750",
+    "id": "n5-w0616",
     "jp": "空く（すく）",
     "reading": "空きます",
     "romaji": "空kimasu",
-    "meaning": "○0 饿、空（部分空下来）",
+    "meaning": "○0",
     "accent": "空いて",
     "tag": [
       "N5",
@@ -10957,11 +9068,11 @@
     "note": "[自五]"
   },
   {
-    "id": "n5-w0751",
+    "id": "n5-w0617",
     "jp": "治す",
     "reading": "治します",
     "romaji": "治shimasu",
-    "meaning": "○0 治（病）",
+    "meaning": "○0",
     "accent": "治して",
     "tag": [
       "N5",
@@ -10972,26 +9083,12 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0752",
+    "id": "n5-w0618",
     "jp": "朝ご飯（＝朝食）",
-    "reading": "朝ご飯（＝朝食）",
-    "romaji": "朝go飯（＝朝食）",
-    "meaning": "早饭（breakfast）",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第18課"
-    ],
-    "lesson": 18,
-    "note": ""
-  },
-  {
-    "id": "n5-w0753",
-    "jp": "晩ご飯（＝夕食）",
     "reading": "晩ご飯（＝夕食）",
     "romaji": "晩go飯（＝夕食）",
     "meaning": "晚饭（supper）",
-    "accent": "",
+    "accent": "早饭（breakfast）",
     "tag": [
       "N5",
       "第18課"
@@ -11000,26 +9097,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0754",
+    "id": "n5-w0619",
     "jp": "買い物",
-    "reading": "買い物",
-    "romaji": "買i物",
-    "meaning": "购物",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第18課"
-    ],
-    "lesson": 18,
-    "note": ""
-  },
-  {
-    "id": "n5-w0755",
-    "jp": "売り物",
     "reading": "売り物",
     "romaji": "売ri物",
     "meaning": "出售品",
-    "accent": "",
+    "accent": "购物",
     "tag": [
       "N5",
       "第18課"
@@ -11028,12 +9111,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0756",
+    "id": "n5-w0620",
     "jp": "食べ物",
-    "reading": "食べ物",
-    "romaji": "食be物",
-    "meaning": "食物",
-    "accent": "",
+    "reading": "飲み物",
+    "romaji": "飲mi物",
+    "meaning": "饮料",
+    "accent": "食物",
     "tag": [
       "N5",
       "第18課"
@@ -11042,26 +9125,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0757",
+    "id": "n5-w0621",
     "jp": "果物",
-    "reading": "果物",
-    "romaji": "果物",
-    "meaning": "水果",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第18課"
-    ],
-    "lesson": 18,
-    "note": ""
-  },
-  {
-    "id": "n5-w0758",
-    "jp": "品物",
     "reading": "品物",
     "romaji": "品物",
     "meaning": "货物、东西",
-    "accent": "",
+    "accent": "水果",
     "tag": [
       "N5",
       "第18課"
@@ -11070,26 +9139,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0759",
+    "id": "n5-w0622",
     "jp": "建物",
-    "reading": "建物",
-    "romaji": "建物",
-    "meaning": "建筑物",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第18課"
-    ],
-    "lesson": 18,
-    "note": ""
-  },
-  {
-    "id": "n5-w0760",
-    "jp": "鍋物",
     "reading": "鍋物",
     "romaji": "鍋物",
     "meaning": "火锅",
-    "accent": "",
+    "accent": "建筑物",
     "tag": [
       "N5",
       "第18課"
@@ -11098,26 +9153,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0761",
+    "id": "n5-w0623",
     "jp": "刺身",
-    "reading": "刺身",
-    "romaji": "刺身",
-    "meaning": "生鱼片",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第18課"
-    ],
-    "lesson": 18,
-    "note": ""
-  },
-  {
-    "id": "n5-w0762",
-    "jp": "寿司",
     "reading": "寿司",
     "romaji": "寿司",
     "meaning": "寿司",
-    "accent": "",
+    "accent": "生鱼片",
     "tag": [
       "N5",
       "第18課"
@@ -11126,26 +9167,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0763",
+    "id": "n5-w0624",
     "jp": "焼き魚",
-    "reading": "焼き魚",
-    "romaji": "焼ki魚",
-    "meaning": "烤鱼",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第18課"
-    ],
-    "lesson": 18,
-    "note": ""
-  },
-  {
-    "id": "n5-w0764",
-    "jp": "焼き鳥",
     "reading": "焼き鳥",
     "romaji": "焼ki鳥",
     "meaning": "烤鸡肉串",
-    "accent": "",
+    "accent": "烤鱼",
     "tag": [
       "N5",
       "第18課"
@@ -11154,26 +9181,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0765",
+    "id": "n5-w0625",
     "jp": "味噌汁",
-    "reading": "味噌汁",
-    "romaji": "味噌汁",
-    "meaning": "味噌汤",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第18課"
-    ],
-    "lesson": 18,
-    "note": ""
-  },
-  {
-    "id": "n5-w0766",
-    "jp": "天婦羅",
     "reading": "天婦羅",
     "romaji": "天婦羅",
     "meaning": "炸蔬菜、炸海鲜",
-    "accent": "",
+    "accent": "味噌汤",
     "tag": [
       "N5",
       "第18課"
@@ -11182,26 +9195,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0767",
+    "id": "n5-w0626",
     "jp": "豚カツ",
-    "reading": "豚カツ",
-    "romaji": "豚katsu",
-    "meaning": "炸猪排",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第18課"
-    ],
-    "lesson": 18,
-    "note": ""
-  },
-  {
-    "id": "n5-w0768",
-    "jp": "鰻重",
     "reading": "鰻重",
     "romaji": "鰻重",
     "meaning": "鳗鱼盒饭",
-    "accent": "",
+    "accent": "炸猪排",
     "tag": [
       "N5",
       "第18課"
@@ -11210,7 +9209,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0769",
+    "id": "n5-w0627",
     "jp": "そば",
     "reading": "うどん",
     "romaji": "udon",
@@ -11224,7 +9223,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0770",
+    "id": "n5-w0628",
     "jp": "カレーライス",
     "reading": "スパゲティ",
     "romaji": "supageteぃ",
@@ -11238,7 +9237,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0771",
+    "id": "n5-w0629",
     "jp": "ビフテキ",
     "reading": "ハンバーガー",
     "romaji": "hanbaga",
@@ -11252,26 +9251,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0772",
+    "id": "n5-w0630",
     "jp": "ピザパイ",
-    "reading": "ピザパイ",
-    "romaji": "pizapai",
-    "meaning": "比萨饼",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第18課"
-    ],
-    "lesson": 18,
-    "note": ""
-  },
-  {
-    "id": "n5-w0773",
-    "jp": "すき焼き",
     "reading": "すき焼き",
     "romaji": "suki焼ki",
     "meaning": "牛肉火锅",
-    "accent": "",
+    "accent": "比萨饼",
     "tag": [
       "N5",
       "第18課"
@@ -11280,7 +9265,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0774",
+    "id": "n5-w0631",
     "jp": "水炊き",
     "reading": "しゃぶしゃぶ",
     "romaji": "shabushabu",
@@ -11294,26 +9279,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0775",
+    "id": "n5-w0632",
     "jp": "ちゃんこ鍋",
-    "reading": "ちゃんこ鍋",
-    "romaji": "chanko鍋",
-    "meaning": "相扑火锅",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第18課"
-    ],
-    "lesson": 18,
-    "note": ""
-  },
-  {
-    "id": "n5-w0776",
-    "jp": "親子丼",
     "reading": "親子丼",
     "romaji": "親子丼",
     "meaning": "鸡蛋鸡肉盖浇饭",
-    "accent": "",
+    "accent": "相扑火锅",
     "tag": [
       "N5",
       "第18課"
@@ -11322,26 +9293,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0777",
+    "id": "n5-w0633",
     "jp": "天丼",
-    "reading": "天丼",
-    "romaji": "天丼",
-    "meaning": "天妇罗盖浇饭",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第18課"
-    ],
-    "lesson": 18,
-    "note": ""
-  },
-  {
-    "id": "n5-w0778",
-    "jp": "鰻丼",
     "reading": "鰻丼",
     "romaji": "鰻丼",
     "meaning": "鳗鱼盖浇饭",
-    "accent": "",
+    "accent": "天妇罗盖浇饭",
     "tag": [
       "N5",
       "第18課"
@@ -11350,22 +9307,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0779",
-    "jp": "仕事",
-    "reading": "しごと",
-    "romaji": "shigoto",
-    "meaning": "工作（「仕事をする」）",
-    "accent": "○0",
-    "tag": [
-      "N5",
-      "第19課",
-      "名"
-    ],
-    "lesson": 19,
-    "note": "[名]"
-  },
-  {
-    "id": "n5-w0780",
+    "id": "n5-w0634",
     "jp": "友",
     "reading": "とも",
     "romaji": "tomo",
@@ -11380,7 +9322,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0781",
+    "id": "n5-w0635",
     "jp": "メニュー",
     "reading": "—",
     "romaji": "—",
@@ -11395,7 +9337,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0782",
+    "id": "n5-w0636",
     "jp": "酒",
     "reading": "さけ",
     "romaji": "sake",
@@ -11410,7 +9352,22 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0783",
+    "id": "n5-w0637",
+    "jp": "父",
+    "reading": "ちち",
+    "romaji": "chichi",
+    "meaning": "父亲",
+    "accent": "②①",
+    "tag": [
+      "N5",
+      "第19課",
+      "名"
+    ],
+    "lesson": 19,
+    "note": "[名]"
+  },
+  {
+    "id": "n5-w0638",
     "jp": "ごめんください",
     "reading": "—",
     "romaji": "—",
@@ -11425,7 +9382,7 @@
     "note": "[寒暄]"
   },
   {
-    "id": "n5-w0784",
+    "id": "n5-w0639",
     "jp": "いらっしゃい（ませ）",
     "reading": "—",
     "romaji": "—",
@@ -11440,7 +9397,7 @@
     "note": "[寒暄]"
   },
   {
-    "id": "n5-w0785",
+    "id": "n5-w0640",
     "jp": "招き",
     "reading": "まねき",
     "romaji": "maneki",
@@ -11455,7 +9412,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0786",
+    "id": "n5-w0641",
     "jp": "食卓",
     "reading": "しょくたく",
     "romaji": "shokutaku",
@@ -11470,7 +9427,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0787",
+    "id": "n5-w0642",
     "jp": "たいしたことない",
     "reading": "—",
     "romaji": "—",
@@ -11485,7 +9442,7 @@
     "note": "[句]"
   },
   {
-    "id": "n5-w0788",
+    "id": "n5-w0643",
     "jp": "すごい",
     "reading": "—",
     "romaji": "—",
@@ -11500,7 +9457,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0789",
+    "id": "n5-w0644",
     "jp": "男",
     "reading": "おとこ",
     "romaji": "otoko",
@@ -11515,7 +9472,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0790",
+    "id": "n5-w0645",
     "jp": "種類",
     "reading": "しゅるい",
     "romaji": "shurui",
@@ -11530,7 +9487,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0791",
+    "id": "n5-w0646",
     "jp": "苦手",
     "reading": "にがて",
     "romaji": "nigate",
@@ -11545,7 +9502,7 @@
     "note": "[名・形动]"
   },
   {
-    "id": "n5-w0792",
+    "id": "n5-w0647",
     "jp": "一杯",
     "reading": "いっぱい",
     "romaji": "ipai",
@@ -11560,7 +9517,7 @@
     "note": "[名・副]"
   },
   {
-    "id": "n5-w0793",
+    "id": "n5-w0648",
     "jp": "今度",
     "reading": "こんど",
     "romaji": "kondo",
@@ -11575,7 +9532,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0794",
+    "id": "n5-w0649",
     "jp": "作り方",
     "reading": "つくりかた",
     "romaji": "tsukurikata",
@@ -11590,7 +9547,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0795",
+    "id": "n5-w0650",
     "jp": "皆",
     "reading": "みな",
     "romaji": "mina",
@@ -11605,7 +9562,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0796",
+    "id": "n5-w0651",
     "jp": "簡単だ",
     "reading": "かんたん",
     "romaji": "kantan",
@@ -11620,7 +9577,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0797",
+    "id": "n5-w0652",
     "jp": "なんだか",
     "reading": "—",
     "romaji": "—",
@@ -11635,7 +9592,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0798",
+    "id": "n5-w0653",
     "jp": "楽しい",
     "reading": "たのしい",
     "romaji": "tanoshii",
@@ -11650,7 +9607,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0799",
+    "id": "n5-w0654",
     "jp": "仕方",
     "reading": "しかた",
     "romaji": "shikata",
@@ -11665,7 +9622,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0800",
+    "id": "n5-w0655",
     "jp": "ひどい",
     "reading": "—",
     "romaji": "—",
@@ -11680,7 +9637,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0801",
+    "id": "n5-w0656",
     "jp": "あまり",
     "reading": "—",
     "romaji": "—",
@@ -11695,11 +9652,11 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0802",
+    "id": "n5-w0657",
     "jp": "見習う",
     "reading": "見習います",
     "romaji": "見習imasu",
-    "meaning": "○0 向……学习",
+    "meaning": "○0",
     "accent": "見習って",
     "tag": [
       "N5",
@@ -11710,11 +9667,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0803",
+    "id": "n5-w0658",
     "jp": "やる",
     "reading": "やります",
     "romaji": "yarimasu",
-    "meaning": "○0 干、做",
+    "meaning": "○0",
     "accent": "やって",
     "tag": [
       "N5",
@@ -11725,11 +9682,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0804",
+    "id": "n5-w0659",
     "jp": "守る",
     "reading": "守ります",
     "romaji": "守rimasu",
-    "meaning": "② 保护",
+    "meaning": "②",
     "accent": "守って",
     "tag": [
       "N5",
@@ -11740,11 +9697,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0805",
+    "id": "n5-w0660",
     "jp": "尊敬する",
     "reading": "尊敬します",
     "romaji": "尊敬shimasu",
-    "meaning": "○0 尊敬",
+    "meaning": "○0",
     "accent": "尊敬して",
     "tag": [
       "N5",
@@ -11755,11 +9712,11 @@
     "note": "[他サ]"
   },
   {
-    "id": "n5-w0806",
+    "id": "n5-w0661",
     "jp": "教える",
     "reading": "教えます",
     "romaji": "教emasu",
-    "meaning": "○0 教",
+    "meaning": "○0",
     "accent": "教えて",
     "tag": [
       "N5",
@@ -11770,11 +9727,11 @@
     "note": "[他下一]"
   },
   {
-    "id": "n5-w0807",
+    "id": "n5-w0662",
     "jp": "笑う",
     "reading": "笑います",
     "romaji": "笑imasu",
-    "meaning": "○0 笑",
+    "meaning": "○0",
     "accent": "笑って",
     "tag": [
       "N5",
@@ -11785,11 +9742,11 @@
     "note": "[自他五]"
   },
   {
-    "id": "n5-w0808",
+    "id": "n5-w0663",
     "jp": "吸う",
     "reading": "吸います",
     "romaji": "吸imasu",
-    "meaning": "○0 吸",
+    "meaning": "○0",
     "accent": "吸って",
     "tag": [
       "N5",
@@ -11800,11 +9757,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0809",
+    "id": "n5-w0664",
     "jp": "苛める",
     "reading": "苛めます",
     "romaji": "苛memasu",
-    "meaning": "○0 欺负",
+    "meaning": "○0",
     "accent": "苛めて",
     "tag": [
       "N5",
@@ -11815,11 +9772,11 @@
     "note": "[他下一]"
   },
   {
-    "id": "n5-w0810",
+    "id": "n5-w0665",
     "jp": "怒る",
     "reading": "怒ります",
     "romaji": "怒rimasu",
-    "meaning": "② 生气",
+    "meaning": "②",
     "accent": "怒って",
     "tag": [
       "N5",
@@ -11830,26 +9787,12 @@
     "note": "[自五]"
   },
   {
-    "id": "n5-w0811",
+    "id": "n5-w0666",
     "jp": "ラーメン",
-    "reading": "ラーメン",
-    "romaji": "ramen",
-    "meaning": "日式拉面",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第19課"
-    ],
-    "lesson": 19,
-    "note": ""
-  },
-  {
-    "id": "n5-w0812",
-    "jp": "焼きギョーザ",
     "reading": "焼きギョーザ",
     "romaji": "焼kigyoza",
     "meaning": "日式锅贴",
-    "accent": "",
+    "accent": "日式拉面",
     "tag": [
       "N5",
       "第19課"
@@ -11858,7 +9801,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0813",
+    "id": "n5-w0667",
     "jp": "チャーシュー",
     "reading": "シューマイ",
     "romaji": "shumai",
@@ -11872,26 +9815,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0814",
+    "id": "n5-w0668",
     "jp": "ジャージャー麺",
-    "reading": "ジャージャー麺",
-    "romaji": "jaja麺",
-    "meaning": "炸酱面",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第19課"
-    ],
-    "lesson": 19,
-    "note": ""
-  },
-  {
-    "id": "n5-w0815",
-    "jp": "タンタン麺",
     "reading": "タンタン麺",
     "romaji": "tantan麺",
     "meaning": "担担面",
-    "accent": "",
+    "accent": "炸酱面",
     "tag": [
       "N5",
       "第19課"
@@ -11900,7 +9829,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0816",
+    "id": "n5-w0669",
     "jp": "チャーハン",
     "reading": "ショーロンポー",
     "romaji": "shoronpo",
@@ -11914,7 +9843,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0817",
+    "id": "n5-w0670",
     "jp": "マーボードーフ",
     "reading": "チンジャオロース",
     "romaji": "chinjaorosu",
@@ -11928,7 +9857,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0818",
+    "id": "n5-w0671",
     "jp": "ホイコーロー",
     "reading": "ピータン",
     "romaji": "pitan",
@@ -11942,26 +9871,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0819",
+    "id": "n5-w0672",
     "jp": "上海ガニ",
-    "reading": "上海ガニ",
-    "romaji": "上海gani",
-    "meaning": "大闸蟹",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第19課"
-    ],
-    "lesson": 19,
-    "note": ""
-  },
-  {
-    "id": "n5-w0820",
-    "jp": "北京ダック",
     "reading": "北京ダック",
     "romaji": "北京daku",
     "meaning": "北京烤鸭",
-    "accent": "",
+    "accent": "大闸蟹",
     "tag": [
       "N5",
       "第19課"
@@ -11970,22 +9885,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0821",
-    "jp": "得意だ",
-    "reading": "とくい",
-    "romaji": "tokui",
-    "meaning": "拿手",
-    "accent": "②○0",
-    "tag": [
-      "N5",
-      "第20課",
-      "形动"
-    ],
-    "lesson": 20,
-    "note": "[形动]"
-  },
-  {
-    "id": "n5-w0822",
+    "id": "n5-w0673",
     "jp": "大学生",
     "reading": "だいがくせい",
     "romaji": "daigakusei",
@@ -12000,7 +9900,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0823",
+    "id": "n5-w0674",
     "jp": "クラブ活動",
     "reading": "くらぶかつどう",
     "romaji": "kurabukatsudou",
@@ -12015,7 +9915,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0824",
+    "id": "n5-w0675",
     "jp": "財布",
     "reading": "さいふ",
     "romaji": "saifu",
@@ -12030,7 +9930,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0825",
+    "id": "n5-w0676",
     "jp": "野球",
     "reading": "やきゅう",
     "romaji": "yakyuu",
@@ -12045,7 +9945,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0826",
+    "id": "n5-w0677",
     "jp": "手",
     "reading": "て",
     "romaji": "te",
@@ -12060,7 +9960,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0827",
+    "id": "n5-w0678",
     "jp": "一生懸命だ",
     "reading": "いっしょうけんめい",
     "romaji": "ishoukenmei",
@@ -12075,7 +9975,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0828",
+    "id": "n5-w0679",
     "jp": "何しろ",
     "reading": "なにしろ",
     "romaji": "nanishiro",
@@ -12090,7 +9990,7 @@
     "note": "[接]"
   },
   {
-    "id": "n5-w0829",
+    "id": "n5-w0680",
     "jp": "テスト",
     "reading": "—",
     "romaji": "—",
@@ -12105,7 +10005,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0830",
+    "id": "n5-w0681",
     "jp": "普段",
     "reading": "ふだん",
     "romaji": "fudan",
@@ -12120,7 +10020,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0831",
+    "id": "n5-w0682",
     "jp": "真面目だ",
     "reading": "まじめ",
     "romaji": "majime",
@@ -12135,7 +10035,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0832",
+    "id": "n5-w0683",
     "jp": "ところで",
     "reading": "—",
     "romaji": "—",
@@ -12150,7 +10050,7 @@
     "note": "[接]"
   },
   {
-    "id": "n5-w0833",
+    "id": "n5-w0684",
     "jp": "家庭教師",
     "reading": "かていきょうし",
     "romaji": "kateikyoushi",
@@ -12165,7 +10065,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0834",
+    "id": "n5-w0685",
     "jp": "ロンドン",
     "reading": "—",
     "romaji": "—",
@@ -12180,7 +10080,7 @@
     "note": "[地名]"
   },
   {
-    "id": "n5-w0835",
+    "id": "n5-w0686",
     "jp": "駐在員",
     "reading": "ちゅうざいいん",
     "romaji": "chuuzaiin",
@@ -12195,7 +10095,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0836",
+    "id": "n5-w0687",
     "jp": "奥さん",
     "reading": "おくさん",
     "romaji": "okusan",
@@ -12210,7 +10110,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0837",
+    "id": "n5-w0688",
     "jp": "上品だ",
     "reading": "じょうひん",
     "romaji": "jouhin",
@@ -12225,7 +10125,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0838",
+    "id": "n5-w0689",
     "jp": "可笑しい",
     "reading": "おかしい",
     "romaji": "okashii",
@@ -12240,7 +10140,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0839",
+    "id": "n5-w0690",
     "jp": "本格的だ",
     "reading": "ほんかくてき",
     "romaji": "honkakuteki",
@@ -12255,7 +10155,7 @@
     "note": "[形动]"
   },
   {
-    "id": "n5-w0840",
+    "id": "n5-w0691",
     "jp": "大学",
     "reading": "だいがく",
     "romaji": "daigaku",
@@ -12270,7 +10170,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0841",
+    "id": "n5-w0692",
     "jp": "時代",
     "reading": "じだい",
     "romaji": "jidai",
@@ -12285,7 +10185,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0842",
+    "id": "n5-w0693",
     "jp": "環境",
     "reading": "かんきょう",
     "romaji": "kankyou",
@@ -12300,7 +10200,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0843",
+    "id": "n5-w0694",
     "jp": "一般的に",
     "reading": "いっぱんてきに",
     "romaji": "ipantekini",
@@ -12315,7 +10215,7 @@
     "note": "[副]"
   },
   {
-    "id": "n5-w0844",
+    "id": "n5-w0695",
     "jp": "合宿",
     "reading": "がっしゅく",
     "romaji": "gashuku",
@@ -12330,7 +10230,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0845",
+    "id": "n5-w0696",
     "jp": "練習",
     "reading": "れんしゅう",
     "romaji": "renshuu",
@@ -12345,7 +10245,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0846",
+    "id": "n5-w0697",
     "jp": "炊事",
     "reading": "すいじ",
     "romaji": "suiji",
@@ -12360,7 +10260,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0847",
+    "id": "n5-w0698",
     "jp": "～係",
     "reading": "～がかり",
     "romaji": "～gakari",
@@ -12375,7 +10275,7 @@
     "note": "[接尾]"
   },
   {
-    "id": "n5-w0848",
+    "id": "n5-w0699",
     "jp": "～部",
     "reading": "～ぶ",
     "romaji": "～bu",
@@ -12390,7 +10290,7 @@
     "note": "[接尾]"
   },
   {
-    "id": "n5-w0849",
+    "id": "n5-w0700",
     "jp": "同級生",
     "reading": "どうきゅうせい",
     "romaji": "doukyuusei",
@@ -12405,7 +10305,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0850",
+    "id": "n5-w0701",
     "jp": "プロ",
     "reading": "—",
     "romaji": "—",
@@ -12420,7 +10320,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0851",
+    "id": "n5-w0702",
     "jp": "選手",
     "reading": "せんしゅ",
     "romaji": "senshu",
@@ -12435,7 +10335,7 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0852",
+    "id": "n5-w0703",
     "jp": "珍しい",
     "reading": "めずらしい",
     "romaji": "mezurashii",
@@ -12450,7 +10350,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0853",
+    "id": "n5-w0704",
     "jp": "苦しい",
     "reading": "くるしい",
     "romaji": "kurushii",
@@ -12465,7 +10365,7 @@
     "note": "[形]"
   },
   {
-    "id": "n5-w0854",
+    "id": "n5-w0705",
     "jp": "渋滞",
     "reading": "じゅうたい",
     "romaji": "juutai",
@@ -12480,11 +10380,11 @@
     "note": "[名]"
   },
   {
-    "id": "n5-w0855",
+    "id": "n5-w0706",
     "jp": "通う",
     "reading": "通います",
     "romaji": "通imasu",
-    "meaning": "○0 上学、常常去",
+    "meaning": "○0",
     "accent": "通って",
     "tag": [
       "N5",
@@ -12495,11 +10395,11 @@
     "note": "[自五]"
   },
   {
-    "id": "n5-w0856",
+    "id": "n5-w0707",
     "jp": "参加する",
     "reading": "参加します",
     "romaji": "参加shimasu",
-    "meaning": "①○0 参加",
+    "meaning": "①○0",
     "accent": "参加して",
     "tag": [
       "N5",
@@ -12510,11 +10410,11 @@
     "note": "[自サ]"
   },
   {
-    "id": "n5-w0857",
+    "id": "n5-w0708",
     "jp": "忘れる",
     "reading": "忘れます",
     "romaji": "忘remasu",
-    "meaning": "○0 忘记",
+    "meaning": "○0",
     "accent": "忘れて",
     "tag": [
       "N5",
@@ -12525,11 +10425,11 @@
     "note": "[他下一]"
   },
   {
-    "id": "n5-w0858",
+    "id": "n5-w0709",
     "jp": "覚える",
     "reading": "覚えます",
     "romaji": "覚emasu",
-    "meaning": "③ 记",
+    "meaning": "③",
     "accent": "覚えて",
     "tag": [
       "N5",
@@ -12540,11 +10440,11 @@
     "note": "[他下一]"
   },
   {
-    "id": "n5-w0859",
+    "id": "n5-w0710",
     "jp": "遊ぶ",
     "reading": "遊びます",
     "romaji": "遊bimasu",
-    "meaning": "○0 玩",
+    "meaning": "○0",
     "accent": "遊んで",
     "tag": [
       "N5",
@@ -12555,11 +10455,11 @@
     "note": "[自五]"
   },
   {
-    "id": "n5-w0860",
+    "id": "n5-w0711",
     "jp": "洗う",
     "reading": "洗います",
     "romaji": "洗imasu",
-    "meaning": "○0 洗",
+    "meaning": "○0",
     "accent": "洗って",
     "tag": [
       "N5",
@@ -12570,11 +10470,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0861",
+    "id": "n5-w0712",
     "jp": "緊張する",
     "reading": "緊張します",
     "romaji": "緊張shimasu",
-    "meaning": "○0 紧张",
+    "meaning": "○0",
     "accent": "緊張して",
     "tag": [
       "N5",
@@ -12585,11 +10485,11 @@
     "note": "[自サ]"
   },
   {
-    "id": "n5-w0862",
+    "id": "n5-w0713",
     "jp": "教わる",
     "reading": "教わります",
     "romaji": "教warimasu",
-    "meaning": "○0 有人教我、向谁学习",
+    "meaning": "○0",
     "accent": "教わって",
     "tag": [
       "N5",
@@ -12600,11 +10500,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0863",
+    "id": "n5-w0714",
     "jp": "働く",
     "reading": "働きます",
     "romaji": "働kimasu",
-    "meaning": "○0 工作、劳动（「～で働く」）",
+    "meaning": "○0",
     "accent": "働いて",
     "tag": [
       "N5",
@@ -12615,11 +10515,11 @@
     "note": "[自五]"
   },
   {
-    "id": "n5-w0864",
+    "id": "n5-w0715",
     "jp": "頑張る",
     "reading": "頑張ります",
     "romaji": "頑張rimasu",
-    "meaning": "③ 加油",
+    "meaning": "③",
     "accent": "頑張って",
     "tag": [
       "N5",
@@ -12630,11 +10530,11 @@
     "note": "[自五]"
   },
   {
-    "id": "n5-w0865",
+    "id": "n5-w0716",
     "jp": "聞く",
     "reading": "聞きます",
     "romaji": "聞kimasu",
-    "meaning": "○0 听",
+    "meaning": "○0",
     "accent": "聞いて",
     "tag": [
       "N5",
@@ -12645,11 +10545,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0866",
+    "id": "n5-w0717",
     "jp": "言う",
     "reading": "言います",
     "romaji": "言imasu",
-    "meaning": "○0 说",
+    "meaning": "○0",
     "accent": "言って",
     "tag": [
       "N5",
@@ -12660,11 +10560,11 @@
     "note": "[他五]"
   },
   {
-    "id": "n5-w0867",
+    "id": "n5-w0718",
     "jp": "活躍する",
     "reading": "活躍します",
     "romaji": "活躍shimasu",
-    "meaning": "○0 大显身手地活动、活跃",
+    "meaning": "○0",
     "accent": "活躍して",
     "tag": [
       "N5",
@@ -12675,11 +10575,11 @@
     "note": "[他サ]"
   },
   {
-    "id": "n5-w0868",
+    "id": "n5-w0719",
     "jp": "恵まれる",
     "reading": "恵まれます",
     "romaji": "恵maremasu",
-    "meaning": "○0 受到……恩惠、富有",
+    "meaning": "○0",
     "accent": "恵まれて",
     "tag": [
       "N5",
@@ -12690,7 +10590,7 @@
     "note": "[自下一]"
   },
   {
-    "id": "n5-w0869",
+    "id": "n5-w0720",
     "jp": "ニューヨーク",
     "reading": "ワシントン",
     "romaji": "washinton",
@@ -12704,7 +10604,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0870",
+    "id": "n5-w0721",
     "jp": "シカゴ",
     "reading": "ロサンゼルス",
     "romaji": "rosanzerusu",
@@ -12718,7 +10618,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0871",
+    "id": "n5-w0722",
     "jp": "サンフランシスコ",
     "reading": "アトランタ",
     "romaji": "atoranta",
@@ -12732,7 +10632,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0872",
+    "id": "n5-w0723",
     "jp": "ソウル",
     "reading": "シドニー",
     "romaji": "shidoni",
@@ -12746,7 +10646,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0873",
+    "id": "n5-w0724",
     "jp": "モスクワ",
     "reading": "パリ",
     "romaji": "pari",
@@ -12760,7 +10660,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0874",
+    "id": "n5-w0725",
     "jp": "ベルリン",
     "reading": "ローマ",
     "romaji": "roma",
@@ -12774,7 +10674,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0875",
+    "id": "n5-w0726",
     "jp": "アテネ",
     "reading": "バルセロナ",
     "romaji": "baruserona",
@@ -12788,26 +10688,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0876",
+    "id": "n5-w0727",
     "jp": "ハルビン",
-    "reading": "ハルビン",
-    "romaji": "harubin",
-    "meaning": "哈尔滨",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第20課"
-    ],
-    "lesson": 20,
-    "note": ""
-  },
-  {
-    "id": "n5-w0877",
-    "jp": "長春",
     "reading": "長春",
     "romaji": "長春",
     "meaning": "长春",
-    "accent": "",
+    "accent": "哈尔滨",
     "tag": [
       "N5",
       "第20課"
@@ -12816,26 +10702,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0878",
+    "id": "n5-w0728",
     "jp": "瀋陽",
-    "reading": "瀋陽",
-    "romaji": "瀋陽",
-    "meaning": "沈阳",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第20課"
-    ],
-    "lesson": 20,
-    "note": ""
-  },
-  {
-    "id": "n5-w0879",
-    "jp": "大連",
     "reading": "大連",
     "romaji": "大連",
     "meaning": "大连",
-    "accent": "",
+    "accent": "沈阳",
     "tag": [
       "N5",
       "第20課"
@@ -12844,26 +10716,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0880",
+    "id": "n5-w0729",
     "jp": "天津",
-    "reading": "天津",
-    "romaji": "天津",
-    "meaning": "天津",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第20課"
-    ],
-    "lesson": 20,
-    "note": ""
-  },
-  {
-    "id": "n5-w0881",
-    "jp": "青島",
     "reading": "青島",
     "romaji": "青島",
     "meaning": "青岛",
-    "accent": "",
+    "accent": "天津",
     "tag": [
       "N5",
       "第20課"
@@ -12872,26 +10730,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0882",
+    "id": "n5-w0730",
     "jp": "洛陽",
-    "reading": "洛陽",
-    "romaji": "洛陽",
-    "meaning": "洛阳",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第20課"
-    ],
-    "lesson": 20,
-    "note": ""
-  },
-  {
-    "id": "n5-w0883",
-    "jp": "西安",
     "reading": "西安",
     "romaji": "西安",
     "meaning": "西安",
-    "accent": "",
+    "accent": "洛阳",
     "tag": [
       "N5",
       "第20課"
@@ -12900,26 +10744,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0884",
+    "id": "n5-w0731",
     "jp": "蘇州",
-    "reading": "蘇州",
-    "romaji": "蘇州",
-    "meaning": "苏州",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第20課"
-    ],
-    "lesson": 20,
-    "note": ""
-  },
-  {
-    "id": "n5-w0885",
-    "jp": "無錫",
     "reading": "無錫",
     "romaji": "無錫",
     "meaning": "无锡",
-    "accent": "",
+    "accent": "苏州",
     "tag": [
       "N5",
       "第20課"
@@ -12928,26 +10758,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0886",
+    "id": "n5-w0732",
     "jp": "南京",
-    "reading": "南京",
-    "romaji": "南京",
-    "meaning": "南京",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第20課"
-    ],
-    "lesson": 20,
-    "note": ""
-  },
-  {
-    "id": "n5-w0887",
-    "jp": "重慶",
     "reading": "重慶",
     "romaji": "重慶",
     "meaning": "重庆",
-    "accent": "",
+    "accent": "南京",
     "tag": [
       "N5",
       "第20課"
@@ -12956,26 +10772,12 @@
     "note": ""
   },
   {
-    "id": "n5-w0888",
+    "id": "n5-w0733",
     "jp": "杭州",
-    "reading": "杭州",
-    "romaji": "杭州",
-    "meaning": "杭州",
-    "accent": "",
-    "tag": [
-      "N5",
-      "第20課"
-    ],
-    "lesson": 20,
-    "note": ""
-  },
-  {
-    "id": "n5-w0889",
-    "jp": "広州",
     "reading": "広州",
     "romaji": "広州",
     "meaning": "广州",
-    "accent": "",
+    "accent": "杭州",
     "tag": [
       "N5",
       "第20課"
@@ -12984,7 +10786,7 @@
     "note": ""
   },
   {
-    "id": "n5-w0890",
+    "id": "n5-w0734",
     "jp": "香港",
     "reading": "マカオ",
     "romaji": "makao",
