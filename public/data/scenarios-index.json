@@ -229,17 +229,33 @@
   {
     "id": "standard-n5",
     "title": "标准日本语初级上",
-    "titleZh": "标准日本语初级上册",
+    "subtitle": "JLPT N5 / 标准日本语初级上",
+    "emoji": "📘",
     "color": "from-teal-500 via-cyan-500 to-blue-600",
     "category": "exam",
-    "description": "N5标准日语初级上册（标日精讲精练，23课）"
+    "description": "N5标准日语初级上册（标日精讲精练，23课）",
+    "goals": [
+      "掌握初级上册 23 课的核心词汇 1000+",
+      "理解 165 个语法点与句型用法",
+      "熟听 12 段课文对话,跟读模仿语调",
+      "用 TTS 听力强化假名听辨",
+      "通过 5000+ 道题的自测巩固记忆"
+    ]
   },
   {
     "id": "standard-n4",
     "title": "标准日本语初级下",
-    "titleZh": "标准日本语初级下册",
-    "color": "from-teal-500 via-cyan-500 to-blue-600",
+    "subtitle": "JLPT N4 / 标准日本语初级下",
+    "emoji": "📗",
+    "color": "from-violet-500 via-purple-500 to-fuchsia-500",
     "category": "exam",
-    "description": "N4标准日语初级下册（标日精讲精练，23课）"
+    "description": "N4标准日语初级下册（标日精讲精练，23课）",
+    "goals": [
+      "掌握初级下册 23 课的核心词汇 1000+",
+      "理解 232 个语法点与句型用法",
+      "熟听 21 段课文对话,跟读模仿语调",
+      "用 TTS 听力强化假名听辨",
+      "通过 5000+ 道题的自测巩固记忆"
+    ]
   }
 ]
