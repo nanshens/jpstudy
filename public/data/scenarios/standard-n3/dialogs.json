@@ -1,0 +1,1755 @@
+[
+  {
+    "id": "sn3-d1-01",
+    "title": "出会い",
+    "scene": "会话实用短句",
+    "lines": [
+      {
+        "speaker": "李",
+        "jp": "あのう，すみません！",
+        "reading": "anou，sumimasen！",
+        "meaning": "嗯，对不起！",
+        "note": "搭话"
+      },
+      {
+        "speaker": "李",
+        "jp": "これ，落ちましたよ。",
+        "reading": "kore，落chimashitayo。",
+        "meaning": "这个，（您）掉了哦。"
+      },
+      {
+        "speaker": "男性",
+        "jp": "あっ！すみません。ありがとうございます。",
+        "reading": "a！sumimasen。arigatougozaimasu。",
+        "meaning": "啊！不好意思，谢谢您。"
+      },
+      {
+        "speaker": "李",
+        "jp": "あのう，失礼ですが，先ほどの方じゃありませんか。",
+        "reading": "anou，失礼desuga，先hodono方jiゃarimasenka。",
+        "meaning": "请问，您不是刚才那位吗？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "さっきは，どうもありがとうございました。助かりました。",
+        "reading": "sakiha，doumoarigatougozaimashita。助karimashita。",
+        "meaning": "刚才真是非常感谢，帮了大忙了。"
+      },
+      {
+        "speaker": "李",
+        "jp": "いいえ，どういたしまして。",
+        "reading": "iie，douitashimashite。",
+        "meaning": "不客气。"
+      },
+      {
+        "speaker": "男性",
+        "jp": "中国の方ですか。日本語がお上手ですね。",
+        "reading": "中国no方desuka。日本語gao上手desune。",
+        "meaning": "您是中国人吗？日语真好啊。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "いいえ，まだまだです。",
+        "reading": "iie，madamadadesu。",
+        "meaning": "哪里哪里，还差得远呢。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "上海へは，お仕事でいらっしゃったんですか。",
+        "reading": "上海heha，o仕事deirashiゃtandesuka。",
+        "meaning": "您来上海是出差办事吗？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "こちらに転勤になったんです。",
+        "reading": "kochirani転勤ninatandesu。",
+        "meaning": "我调到这边（上海）工作了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "空港がすっかり変わりましたね。驚きました。",
+        "reading": "空港gasukari変warimashitane。驚kimashita。",
+        "meaning": "机场完全变样了啊，真让人吃惊。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "街もずいぶん変わっていますよ。",
+        "reading": "街mozuibun変wateimasuyo。",
+        "meaning": "街道也变了很多呢。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "変化が早くて，わたしたちもついていけないくらいです。",
+        "reading": "変化ga早kute，watashitachimotsuiteikenaikuraidesu。",
+        "meaning": "变化太快，我们都快跟不上了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "ほら，高層ビルが見えてきたでしょう？",
+        "reading": "hora，高層biruga見etekitadeshiょu？",
+        "meaning": "看，高楼渐渐能看到了吧？"
+      },
+      {
+        "speaker": "男性",
+        "jp": "すごい。まるでニューヨークみたいですね。",
+        "reading": "sugoi。marudeniゅyokumitaidesune。",
+        "meaning": "真厉害，简直像纽约一样。"
+      },
+      {
+        "speaker": "李",
+        "jp": "じゃあ，ここで。",
+        "reading": "jiゃa，kokode。",
+        "meaning": "那我就（送您）到这里。"
+      },
+      {
+        "speaker": "男性",
+        "jp": "ええ，どうもありがとうございました。さようなら。",
+        "reading": "ee，doumoarigatougozaimashita。sayounara。",
+        "meaning": "嗯，非常感谢，再见。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d2-01",
+    "title": "あいさつ",
+    "scene": "会话实用短句",
+    "lines": [
+      {
+        "speaker": "大山",
+        "jp": "すみません，お待たせしました。",
+        "reading": "sumimasen，o待taseshimashita。",
+        "meaning": "对不起，让您久等了。"
+      },
+      {
+        "speaker": "佐藤",
+        "jp": "どうもごぶさたしています。",
+        "reading": "doumogobusatashiteimasu。",
+        "meaning": "好久不见（久疏问候）。"
+      },
+      {
+        "speaker": "大山",
+        "jp": "本当にお久しぶりです。佐藤さんといっしょに仕事をするのは，4年ぶりですね。",
+        "reading": "本当nio久shiburidesu。佐藤santoishiょni仕事wosurunoha，4年buridesune。",
+        "meaning": "真是好久不见了。和您一起工作，这是4年来头一次呢。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "早いものですね。その節はお世話になりました。",
+        "reading": "早imonodesune。sono節hao世話ninarimashita。",
+        "meaning": "时间过得真快啊。那时承蒙您关照了。"
+      },
+      {
+        "speaker": "大山",
+        "jp": "いいえ，こちらこそ。",
+        "reading": "iie，kochirakoso。",
+        "meaning": "不，彼此彼此（我才要谢谢您）。"
+      },
+      {
+        "speaker": "佐藤",
+        "jp": "今回もよろしくお願いします。",
+        "reading": "今回moyoroshikuo願ishimasu。",
+        "meaning": "这次也请您多多关照。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お話中，失礼します。",
+        "reading": "o話中，失礼shimasu。",
+        "meaning": "您正在谈话，打扰了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "JC企画の李さんがいらっしゃいました。",
+        "reading": "jc企画no李sangairashiゃimashita。",
+        "meaning": "JC策划公司的李小姐来了。"
+      },
+      {
+        "speaker": "大山",
+        "jp": "あ，そうですか。じゃあ，こちらにお願いします。",
+        "reading": "a，soudesuka。jiゃa，kochiranio願ishimasu。",
+        "meaning": "哦，是吗。那就请她到这儿来吧。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "こんにちは，李さん。紹介します。",
+        "reading": "konnichiha，李san。紹介shimasu。",
+        "meaning": "您好，李小姐。我来介绍一下。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "こちらは，今度の金星プロジェクトの責任者で，佐藤です。",
+        "reading": "kochiraha，今度no金星purojiぇkutono責任者de，佐藤desu。",
+        "meaning": "这位是此次\"金星\"项目的负责人佐藤。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "はじめまして…。",
+        "reading": "hajimemashite…。",
+        "meaning": "初次见面……"
+      },
+      {
+        "speaker": "佐藤",
+        "jp": "あれっ，昨日の…！",
+        "reading": "are，昨日no…！",
+        "meaning": "哎呀，您是昨天的……！"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d2-02",
+    "title": "あいさつ",
+    "scene": "寒暄补充表达（基本练习中出现）",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "先日はいろいろごちそうさまでした。",
+        "reading": "先日hairoirogochisousamadeshita。",
+        "meaning": "谢谢您前几天的热情款待。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "先日はいろいろお世話になりました。",
+        "reading": "先日hairoiroo世話ninarimashita。",
+        "meaning": "前些天承蒙多方关照。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お元気でしたか。",
+        "reading": "o元気deshitaka。",
+        "meaning": "您一向好吗？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お変わりなくお元気そうですね。",
+        "reading": "o変warinakuo元気soudesune。",
+        "meaning": "您没什么变化，气色很好啊。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お仕事はどうですか。",
+        "reading": "o仕事hadoudesuka。",
+        "meaning": "工作怎么样？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お邪魔しまして…。",
+        "reading": "o邪魔shimashite…。",
+        "meaning": "打扰您了……"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d3-01",
+    "title": "顔合わせ",
+    "scene": "自我介绍实用短句",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "JC企画上海支社の李秀麗です。今回の金星プロジェクトは，私を含めて4名のスタッフが担当いたします。",
+        "reading": "jc企画上海支社no李秀麗desu。今回no金星purojiぇkutoha，私wo含mete4名nosutafuga担当itashimasu。",
+        "meaning": "我是JC策划公司上海分公司的李秀丽。此次\"金星\"项目由包括我在内的4名成员承担。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "はじめまして。野田理恵です。上海支社に来て，2年目です。",
+        "reading": "hajimemashite。野田理恵desu。上海支社ni来te，2年目desu。",
+        "meaning": "初次见面。我是野田理惠。来上海分公司已经第2年了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "主に営業を担当させていただきます。どうぞよろしくお願いします。",
+        "reading": "主ni営業wo担当saseteitadakimasu。douzoyoroshikuo願ishimasu。",
+        "meaning": "我主要负责营销工作。请多关照。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "はじめまして。王風と申します。",
+        "reading": "hajimemashite。王風to申shimasu。",
+        "meaning": "初次见面。我叫王风。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "王は王様の王，風は風と書きます。",
+        "reading": "王ha王様no王，風ha風to書kimasu。",
+        "meaning": "\"王\"是国王的王，\"风\"是风雨的风。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "広告やホームページのデザインを担当しております。どうぞよろしくお願いいたします。",
+        "reading": "広告yahomupejinodezainwo担当shiteorimasu。douzoyoroshikuo願iitashimasu。",
+        "meaning": "我负责广告和网页设计。请多关照。"
+      },
+      {
+        "speaker": "李",
+        "jp": "このほかに中井という男性社員が加わります。",
+        "reading": "konohokani中井toiu男性社員ga加warimasu。",
+        "meaning": "此外还有一位叫中井的男职员加入。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "李さんも日本語が上手ですけど，王さんも上手ですね。",
+        "reading": "李sanmo日本語ga上手desukedo，王sanmo上手desune。",
+        "meaning": "李小姐的日语很好，王先生也很棒呀！"
+      },
+      {
+        "speaker": "王",
+        "jp": "ありがとうございます。出身は浙江省の紹興ですが，大学時代，日本に留学していたんです。ですから，今回のプロジェクトにたいへん興味があります。",
+        "reading": "arigatougozaimasu。出身ha浙江省no紹興desuga，大学時代，日本ni留学shiteitandesu。desukara，今回nopurojiぇkutonitaihen興味gaarimasu。",
+        "meaning": "谢谢。我老家是浙江省绍兴市，大学时在日本留过学，所以对这次的项目非常感兴趣。"
+      },
+      {
+        "speaker": "佐藤",
+        "jp": "紹興ですか。10年前に，1度だけ行ったことがあります。",
+        "reading": "紹興desuka。10年前ni，1度dake行takotogaarimasu。",
+        "meaning": "绍兴啊。我10年前去过一次。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "わたしにとっては，初めての海外旅行でしたが，紹興で飲んだ紹興酒の味は今でも覚えていますよ。",
+        "reading": "watashinitoteha，初meteno海外旅行deshitaga，紹興de飲nda紹興酒no味ha今demo覚eteimasuyo。",
+        "meaning": "对我来说那是第一次出国旅行，在绍兴喝的绍兴酒的味道我至今仍然记得呢。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d4-01",
+    "title": "東京本社",
+    "scene": "会话实用短句（含传话·铺垫表达）",
+    "lines": [
+      {
+        "speaker": "社員",
+        "jp": "もしもし，山田さん，うちの青木主任が，ちょっとお話をしたいと言っていました。",
+        "reading": "moshimoshi，山田san，uchino青木主任ga，chiょtoo話woshitaito言teimashita。",
+        "meaning": "喂，山田先生吗？我们青木主任说想跟您谈一下。"
+      },
+      {
+        "speaker": "山田",
+        "jp": "わたしにですか。",
+        "reading": "watashinidesuka。",
+        "meaning": "找我（谈话）吗？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "青木主任は，午後なら何時でもかまわないそうです。山田さんのご都合はいかがですか。",
+        "reading": "青木主任ha，午後nara何時demokamawanaisoudesu。山田sannogo都合haikagadesuka。",
+        "meaning": "听说青木主任下午几点都行。山田先生您方便吗？"
+      },
+      {
+        "speaker": "山田",
+        "jp": "そうですね…。1時半はどうでしょう。",
+        "reading": "soudesune…。1時半hadoudeshiょu。",
+        "meaning": "我想想……1点半怎么样？"
+      },
+      {
+        "speaker": "社員",
+        "jp": "ありがとうございます。そのようにお伝えします。",
+        "reading": "arigatougozaimasu。sonoyounio伝eshimasu。",
+        "meaning": "谢谢。我会这样转达。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お忙しいところ，すみません。",
+        "reading": "o忙shiitokoro，sumimasen。",
+        "meaning": "百忙之中打扰您，不好意思。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "実は，上海支社で進めている金星プロジェクトが，思ったより大変な仕事になりそうなんです。",
+        "reading": "実ha，上海支社de進meteiru金星purojiぇkutoga，思tayori大変na仕事ninarisounandesu。",
+        "meaning": "是这样，上海分公司正在推进的\"金星\"项目，似乎比预想的要困难。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "それで，東京本社でも金星プロジェクトの担当者を決めることになりました。",
+        "reading": "sorede，東京本社demo金星purojiぇkutono担当者wo決merukotoninarimashita。",
+        "meaning": "所以，东京总部也要确定\"金星\"项目的负责人了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "突然ですが，山田さん，この仕事をしてもらえませんか。",
+        "reading": "突然desuga，山田san，kono仕事woshitemoraemasenka。",
+        "meaning": "事情可能有点突然，不知可不可以请你来做这项工作？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "わたしが金星プロジェクトの担当者に？",
+        "reading": "watashiga金星purojiぇkutono担当者ni？",
+        "meaning": "我来当\"金星\"项目的负责人？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "上海支社の李さんからの要望なんです。",
+        "reading": "上海支社no李sankarano要望nandesu。",
+        "meaning": "这是上海分公司李小姐（提出）的要求。"
+      },
+      {
+        "speaker": "山田",
+        "jp": "李さんが，わたしを推薦してくれたんですか。",
+        "reading": "李sanga，watashiwo推薦shitekuretandesuka。",
+        "meaning": "是李小姐推荐我的吗？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "山田さんは上海支社にいたこともあるし，中国の事情に詳しいからということでした。",
+        "reading": "山田sanha上海支社niitakotomoarushi，中国no事情ni詳shiikaratoiukotodeshita。",
+        "meaning": "听说是因为您在上海分公司工作过，对中国的情况也比较熟悉。"
+      },
+      {
+        "speaker": "山田",
+        "jp": "分かりました。中国と関係のある仕事なら，ぜひやってみたいと思います。",
+        "reading": "分karimashita。中国to関係noaru仕事nara，zehiyatemitaito思imasu。",
+        "meaning": "好的。如果是和中国有关的工作，我很想试一试。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "そうお伝えします。",
+        "reading": "souo伝eshimasu。",
+        "meaning": "我一定这样转达。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d5-01",
+    "title": "商品紹介",
+    "scene": "会话实用短句（含转换话题表达）",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "金星が日本で発売されたのは，10年前です。",
+        "reading": "金星ga日本de発売saretanoha，10年前desu。",
+        "meaning": "\"金星\"在日本上市是10年前。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "最初はなかなか売れなくて苦労しましたが，3年前，コンテストで最高賞を受賞したのをきっかけにして，売れるようになりました。",
+        "reading": "最初hanakanaka売renakute苦労shimashitaga，3年前，kontesutode最高賞wo受賞shitanowokikakenishite，売reruyouninarimashita。",
+        "meaning": "最初销路不怎么好，很是辛苦，但3年前以在评选会上获得最高奖为契机，开始畅销起来。"
+      },
+      {
+        "speaker": "大山",
+        "jp": "最近では，海外からの注文も増えてきています。",
+        "reading": "最近deha，海外karano注文mo増etekiteimasu。",
+        "meaning": "最近，海外的订单也多了起来。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "日本と中国とでは，意味の違う漢字があると聞きましたが。",
+        "reading": "日本to中国todeha，意味no違u漢字gaaruto聞kimashitaga。",
+        "meaning": "我听说，在日本和中国，有的汉字意思不同。"
+      },
+      {
+        "speaker": "王",
+        "jp": "この言葉は中国語でも同じ意味ですから，大丈夫ですよ。",
+        "reading": "kono言葉ha中国語demo同ji意味desukara，大丈夫desuyo。",
+        "meaning": "这个词在汉语里意思也一样，没问题。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "きんぼしときんせいは意味が違うんですか。",
+        "reading": "kinboshitokinseiha意味ga違undesuka。",
+        "meaning": "\"きんぼし\"和\"きんせい\"意思不一样吗？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "相撲で位の低い力士が横綱に勝った時に金星をあげるということからきた言葉です。",
+        "reading": "相撲de位no低i力士ga横綱ni勝ta時ni金星woagerutoiukotokarakita言葉desu。",
+        "meaning": "是来自于相扑中级别低的力士战胜横纲时说\"金星をあげる\"（得了大功）这种说法。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "このお酒も金星をあげられるようにしたいですね。",
+        "reading": "konoo酒mo金星woagerareruyounishitaidesune。",
+        "meaning": "希望这种酒也能成就非凡功绩啊。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "話は変わりますが，金星って，ボトルの形がすてきですね。",
+        "reading": "話ha変warimasuga，金星te，botoruno形gasutekidesune。",
+        "meaning": "换个话题，\"金星\"的瓶子形状真漂亮啊。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "まるでワインのボトルみたいです。",
+        "reading": "marudewainnobotorumitaidesu。",
+        "meaning": "简直就像葡萄酒的瓶子一样。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "特にこのデザインは若者に人気があるんですよ。",
+        "reading": "特nikonodezainha若者ni人気gaarundesuyo。",
+        "meaning": "尤其是这个设计，在年轻人中很受欢迎。"
+      },
+      {
+        "speaker": "王",
+        "jp": "このボトルなら，中国でも売れるのは間違いないですね。",
+        "reading": "konobotorunara，中国demo売rerunoha間違inaidesune。",
+        "meaning": "这种瓶子的话，在中国肯定也能畅销。"
+      },
+      {
+        "speaker": "大山",
+        "jp": "それを聞いて安心しました。",
+        "reading": "sorewo聞ite安心shimashita。",
+        "meaning": "听了这话我就放心了。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d6-01",
+    "title": "先輩",
+    "scene": "会话实用短句（传递信息）",
+    "lines": [
+      {
+        "speaker": "中井",
+        "jp": "竜虎酒造の佐藤さんなんだけど，なんとぼくの大学の先輩だったんだ。",
+        "reading": "竜虎酒造no佐藤sannandakedo，nantobokuno大学no先輩datanda。",
+        "meaning": "说起龙虎酒业公司的佐藤先生，他竟然是我大学的学长呢！"
+      },
+      {
+        "speaker": "中井",
+        "jp": "そう。バスケットボール部の2年先輩。4年生の時はキャプテンだったんだよ。",
+        "reading": "sou。basuketoboru部no2年先輩。4年生no時hakiゃputendatandayo。",
+        "meaning": "是啊，篮球部高我两级的学长，四年级时还是队长呢。"
+      },
+      {
+        "speaker": "中井",
+        "jp": "それはもう。まじめだし，みんなから信頼されていたしね。",
+        "reading": "sorehamou。majimedashi，minnakara信頼sareteitashine。",
+        "meaning": "那当然了。他做事认真，又深得大家信赖。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "打ち合わせが長引いちゃって。",
+        "reading": "打chi合wasega長引ichiゃte。",
+        "meaning": "开会拖长了（所以今天晚了）。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "あの人，ぼくの大学の先輩なんだよ。",
+        "reading": "ano人，bokuno大学no先輩nandayo。",
+        "meaning": "他呀，是我大学的学长呢。"
+      },
+      {
+        "speaker": "中井",
+        "jp": "そういえば，佐藤さんに李さんのことを聞かれたな。どんな人だって。",
+        "reading": "souieba，佐藤sanni李sannokotowo聞karetana。donna人date。",
+        "meaning": "对了，佐藤先生还向我打听李小姐呢，问她是个什么样的人。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "明るくて，仕事熱心な人だって言ったよ。",
+        "reading": "明rukute，仕事熱心na人date言tayo。",
+        "meaning": "我说她性格开朗、工作热心。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "部下の面倒をよく見るし，優しいし，まさに理想的な上司で，…。",
+        "reading": "部下no面倒woyoku見rushi，優shiishi，masani理想的na上司de，…。",
+        "meaning": "又经常关照下属，又温柔，简直是理想的上司……"
+      },
+      {
+        "speaker": "野田",
+        "jp": "そんなことを聞くということは，佐藤さん，李さんのことが気になるのかしら。",
+        "reading": "sonnakotowo聞kutoiukotoha，佐藤san，李sannokotoga気ninarunokashira。",
+        "meaning": "他打听这种事，是不是对李小姐有意思啊？"
+      },
+      {
+        "speaker": "王",
+        "jp": "うん，そうかもね。",
+        "reading": "un，soukamone。",
+        "meaning": "嗯，也没准儿。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d7-01",
+    "title": "打ち合わせ",
+    "scene": "会话实用短句（确认・反问）",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "燕醸造のCMを参考にすると書いてあるけど，これはどういう意味？",
+        "reading": "燕醸造nocmwo参考nisuruto書itearukedo，korehadouiu意味？",
+        "meaning": "上面写着\"参考燕牌酿酒的广告\"，这是什么意思？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "きっと参考になるだろうと思います。",
+        "reading": "kito参考ninarudarouto思imasu。",
+        "meaning": "我想一定会有参考价值的。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "ああ，あの評判のCMね。",
+        "reading": "aa，ano評判nocmne。",
+        "meaning": "哦，是那个广受好评的广告啊！"
+      },
+      {
+        "speaker": "对话",
+        "jp": "確かに中国人の感性がよく分かるわ。",
+        "reading": "確kani中国人no感性gayoku分karuwa。",
+        "meaning": "确实，很能理解中国人的感性。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "金星に合う創作中華料理を募集するんです。",
+        "reading": "金星ni合u創作中華料理wo募集surundesu。",
+        "meaning": "（这个方案）是征集适合\"金星\"酒的新创中国菜。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "コンテストはパーティー形式にして，有名な歌手や俳優に審査員として参加してもらいます。",
+        "reading": "kontesutohapateぃ形式nishite，有名na歌手ya俳優ni審査員toshite参加shitemoraimasu。",
+        "meaning": "大赛采取晚会形式，并请著名歌手、演员担任评委。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "どちらも最高級の場所よ。",
+        "reading": "dochiramo最高級no場所yo。",
+        "meaning": "（这两个地方）都是最高档的场所啊。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "高級ホテルとスター。きっと話題になるだろうと思います。",
+        "reading": "高級hoterutosuta。kito話題ninarudarouto思imasu。",
+        "meaning": "高级酒店加明星。我想一定会成为热门话题的。"
+      },
+      {
+        "speaker": "李",
+        "jp": "なるほど。それなら，テレビに取り上げてもらうこともできるわね。",
+        "reading": "naruhodo。sorenara，terebini取ri上getemoraukotomodekiruwane。",
+        "meaning": "是这样啊！如果那样的话，还可以请电视台来报道呢。"
+      },
+      {
+        "speaker": "李",
+        "jp": "では，企画会議までに，それぞれの案をできるだけ具体的にまとめてください。",
+        "reading": "deha，企画会議madeni，sorezoreno案wodekirudake具体的nimatometekudasai。",
+        "meaning": "那么，请在策划会议之前，把各自的方案尽量具体地整理出来。"
+      },
+      {
+        "speaker": "王",
+        "jp": "企画会議は来週の何曜日でしたっけ？",
+        "reading": "企画会議ha来週no何曜日deshitake？",
+        "meaning": "策划会是下周星期几来着？"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d9-01",
+    "title": "トラブル",
+    "scene": "会话实用短句（抗议・请求）",
+    "lines": [
+      {
+        "speaker": "王",
+        "jp": "あのう，荷物が出てこないんですけど…。",
+        "reading": "anou，荷物ga出tekonaindesukedo…。",
+        "meaning": "那个，我的行李一直不出来……。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "いくら待っても出てこないんですよ。",
+        "reading": "ikura待temo出tekonaindesuyo。",
+        "meaning": "等多久也出不来呀。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "失礼ですが，どのようなお荷物ですか。",
+        "reading": "失礼desuga，donoyounao荷物desuka。",
+        "meaning": "对不起，是什么样的行李？"
+      },
+      {
+        "speaker": "手荷物係",
+        "jp": "申し訳ございません。すぐにお調べします。少々お待ちください。",
+        "reading": "申shi訳gozaimasen。sugunio調beshimasu。少々o待chikudasai。",
+        "meaning": "非常抱歉。我马上去查，请稍等。"
+      },
+      {
+        "speaker": "山田",
+        "jp": "すみません。AJL205便で来る人を待っているんですが，まだ出てこないんです。",
+        "reading": "sumimasen。ajl205便de来ru人wo待teirundesuga，mada出tekonaindesu。",
+        "meaning": "对不起，我在等坐AJL205航班来的人，可一直还没出来。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "予定どおり17時30分に到着いたしましたが…。",
+        "reading": "予定doori17時30分ni到着itashimashitaga…。",
+        "meaning": "已经按计划17点30分到达了……。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "よろしければ，お呼び出しのアナウンスをいたしましょうか。",
+        "reading": "yoroshikereba，o呼bi出shinoanaunsuwoitashimashiょuka。",
+        "meaning": "如果可以的话，帮您广播找人好吗？"
+      },
+      {
+        "speaker": "王",
+        "jp": "ちょっと，いったい，いつまで待てばいいんですか。もう6時半ですよ。",
+        "reading": "chiょto，itai，itsumade待tebaiindesuka。mou6時半desuyo。",
+        "meaning": "我说，到底还要让我等到什么时候？都已经6点半了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "そんな，困りますよ。ロビーで同僚が待っているんです。",
+        "reading": "sonna，困rimasuyo。robide同僚ga待teirundesu。",
+        "meaning": "那怎么行呢，同事在大厅里等我呢。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "早くしてもらえませんか。",
+        "reading": "早kushitemoraemasenka。",
+        "meaning": "能不能快点帮我办？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "もう少しお待ちいただけませんか。",
+        "reading": "mou少shio待chiitadakemasenka。",
+        "meaning": "能不能请您再等一会儿？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "後ほど，お泊まりのホテルにお届けいたします。よろしいでしょうか。",
+        "reading": "後hodo，o泊marinohoterunio届keitashimasu。yoroshiideshiょuka。",
+        "meaning": "稍后我们送到您入住的酒店，可以吗？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "できるだけ早く届けてくださいよ。",
+        "reading": "dekirudake早ku届ketekudasaiyo。",
+        "meaning": "请尽量早点送来啊。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d10-01",
+    "title": "スケジュール",
+    "scene": "会话实用短句（预订・电话应对）",
+    "lines": [
+      {
+        "speaker": "山田",
+        "jp": "今日から1週間，よろしくお願いします。",
+        "reading": "今日kara1週間，yoroshikuo願ishimasu。",
+        "meaning": "从（现在起）这一周，请多关照。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "こちらこそ，お世話になります。",
+        "reading": "kochirakoso，o世話ninarimasu。",
+        "meaning": "我才是要请您多关照。"
+      },
+      {
+        "speaker": "山田",
+        "jp": "滞在期間中に，できるだけたくさんの取材ができるよう予定を立てました。ちょっとハード過ぎますか。",
+        "reading": "滞在期間中ni，dekirudaketakusanno取材gadekiruyou予定wo立temashita。chiょtohado過gimasuka。",
+        "meaning": "为了在逗留期间尽可能多采访，安排了这样的日程。是不是太紧张了点儿？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "いいえ，とんでもありません。",
+        "reading": "iie，tondemoarimasen。",
+        "meaning": "不不，没有的事。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "どれも関心のある所ばかりです。",
+        "reading": "doremo関心noaru所bakaridesu。",
+        "meaning": "全都是（我）感兴趣的地方。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "もしよかったら，その日，有馬温泉に寄ってみませんか。",
+        "reading": "moshiyokatara，sono日，有馬温泉ni寄temimasenka。",
+        "meaning": "如果可以的话，那天去有马温泉看看怎么样？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "1日くらいのんびりしたほうがいいと思って…。",
+        "reading": "1日kurainonbirishitahougaiito思te…。",
+        "meaning": "我觉得应该起码有一天时间放松放松……。"
+      },
+      {
+        "speaker": "山田",
+        "jp": "すみません，予約をお願いしたいんですが…。",
+        "reading": "sumimasen，予約woo願ishitaindesuga…。",
+        "meaning": "对不起，我想预订房间……。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "ご予定はいつになりますか。",
+        "reading": "go予定haitsuninarimasuka。",
+        "meaning": "请问您订哪天的？"
+      },
+      {
+        "speaker": "山田",
+        "jp": "あさって，2名で1泊なんですが，空いているでしょうか。",
+        "reading": "asate，2名de1泊nandesuga，空iteirudeshiょuka。",
+        "meaning": "后天，两位，住一晚，有空房吗？"
+      },
+      {
+        "speaker": "女将",
+        "jp": "はい，20日の水曜日，2名様で，ご1泊ですね。少々お待ちくださいませ。",
+        "reading": "hai，20日no水曜日，2名様de，go1泊desune。少々o待chikudasaimase。",
+        "meaning": "好，20日，星期三，两位，住一晚是吧？请稍等。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "1泊2食付きで，お1人様16,000円になりますが，よろしいですか。",
+        "reading": "1泊2食付kide，o1人様16,000円ninarimasuga，yoroshiidesuka。",
+        "meaning": "住一晚带两餐，算下来每位16,000日元，您看可以吗？"
+      },
+      {
+        "speaker": "山田",
+        "jp": "はい，結構です。",
+        "reading": "hai，結構desu。",
+        "meaning": "好的，可以。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "かしこまりました。それでは，お名前とお電話番号をお願いします。",
+        "reading": "kashikomarimashita。soredeha，o名前too電話番号woo願ishimasu。",
+        "meaning": "明白了！那么请留下您的姓名和电话号码。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "申し訳ございません。その日は満室となっております。",
+        "reading": "申shi訳gozaimasen。sono日ha満室tonateorimasu。",
+        "meaning": "非常抱歉，那天房间已经订满了。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d11-01",
+    "title": "若者の意識",
+    "scene": "会话实用短句（采访・电影话题）",
+    "lines": [
+      {
+        "speaker": "王",
+        "jp": "あのポスター，張一心ですね。",
+        "reading": "anoposuta，張一心desune。",
+        "meaning": "那张海报，是張一心啊。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "新作映画の朋友が今週公開されたばかりです。",
+        "reading": "新作映画no朋友ga今週公開saretabakaridesu。",
+        "meaning": "新电影《朋友》本周刚刚上映。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "興行成績は現在のところ第2位ですが，来週はトップになる見込みです。",
+        "reading": "興行成績ha現在notokoro第2位desuga，来週hatopuninaru見込midesu。",
+        "meaning": "票房成绩目前第2位，下周有望升第1位。"
+      },
+      {
+        "speaker": "王",
+        "jp": "中国映画の人気はどうなんですか。",
+        "reading": "中国映画no人気hadounandesuka。",
+        "meaning": "中国电影的反响如何？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "この1か月で3本の中国映画が公開されました。どれも高く評価されています。",
+        "reading": "kono1ka月de3本no中国映画ga公開saremashita。doremo高ku評価sareteimasu。",
+        "meaning": "这一个月上映了3部中国电影，评价都很高。"
+      },
+      {
+        "speaker": "王",
+        "jp": "中国以外ではどこの国の映画が人気があるんですか。",
+        "reading": "中国以外dehadokono国no映画ga人気gaarundesuka。",
+        "meaning": "中国以外，哪个国家的电影受欢迎？"
+      },
+      {
+        "speaker": "担当者",
+        "jp": "アメリカや韓国…そうそう，日本映画の人気も高まっていますよ。",
+        "reading": "amerikaya韓国…sousou，日本映画no人気mo高mateimasuyo。",
+        "meaning": "美国、韩国……对了，日本电影的人气也在上涨。"
+      },
+      {
+        "speaker": "王",
+        "jp": "そうすると，外国のものだから人気があるというわけではないんですね。",
+        "reading": "sousuruto，外国nomonodakara人気gaarutoiuwakedehanaindesune。",
+        "meaning": "这么说，并不是因为是外国的东西才受欢迎啊。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "若者は日本のものと外国のものを区別していないような気がします。",
+        "reading": "若者ha日本nomonoto外国nomonowo区別shiteinaiyouna気gashimasu。",
+        "meaning": "感觉年轻人不区分日本的东西和外国的东西。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "彼らは，映画にしても音楽にしても，いいものならすぐに受け入れます。",
+        "reading": "彼raha，映画nishitemo音楽nishitemo，iimononarasuguni受ke入remasu。",
+        "meaning": "他们对电影也好、音乐也好，只要是好东西马上接受。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "じゃあ，彼らの心をつかむには，どうすればいいんでしょうか。",
+        "reading": "jiゃa，彼rano心wotsukamuniha，dousurebaiindeshiょuka。",
+        "meaning": "那么，要抓住他们的心该怎么做呢？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "やはり本当にいいものを作ることではないでしょうか。",
+        "reading": "yahari本当niiimonowo作rukotodehanaideshiょuka。",
+        "meaning": "还是制作真正好的东西吧。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "今の若者は，テレビCMより，同世代の人の口コミを信じます。",
+        "reading": "今no若者ha，terebicmyori，同世代no人no口komiwo信jimasu。",
+        "meaning": "现在的年轻人比起电视广告，更相信同龄人的口碑。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "本当にいいものを提供すれば，口コミで広がっていくはずです。",
+        "reading": "本当niiimonowo提供sureba，口komide広gateikuhazudesu。",
+        "meaning": "只要提供真正好的东西，就应该会通过口碑传开。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d11-02",
+    "title": "若者の意識",
+    "scene": "判断表达方式功能短句（避免断定）",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "〜のではないでしょうか／〜ではないですか",
+        "reading": "〜nodehanaideshiょuka／〜dehanaidesuka",
+        "meaning": "委婉提出自己意见（句尾读升调，礼貌程度递减：〜のではありませんか／〜のではないですか／〜じゃありませんか／〜じゃないですか／〜じゃないか）"
+      },
+      {
+        "speaker": "对话",
+        "jp": "〜（ような）気がします",
+        "reading": "〜（youna）気gashimasu",
+        "meaning": "记忆模糊没把握，或对自己的意见信心不足的判断"
+      },
+      {
+        "speaker": "对话",
+        "jp": "〜と思う／〜と思える／〜と思われる",
+        "reading": "〜to思u／〜to思eru／〜to思wareru",
+        "meaning": "陈述自己的主观意见或判断"
+      },
+      {
+        "speaker": "对话",
+        "jp": "〜はずです",
+        "reading": "〜hazudesu",
+        "meaning": "基于依据的理所当然的判断"
+      },
+      {
+        "speaker": "对话",
+        "jp": "〜見込みです",
+        "reading": "〜見込midesu",
+        "meaning": "可能性很高的客观预想"
+      },
+      {
+        "speaker": "对话",
+        "jp": "〜ようだ／〜らしい",
+        "reading": "〜youda／〜rashii",
+        "meaning": "基于某种根据做出的判断，常用于避免明确断定"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d12-01",
+    "title": "最終日",
+    "scene": "会话实用短句（邀请・拒绝・祝贺）",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "いよいよ明日帰国ですね。",
+        "reading": "iyoiyo明日帰国desune。",
+        "meaning": "明天就要回国了啊。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "やっぱり，実際に来てみないと，分からないことがあるものですね。",
+        "reading": "yapari，実際ni来teminaito，分karanaikotogaarumonodesune。",
+        "meaning": "果然，不实际来一趟，有些事情就是不知道啊。"
+      },
+      {
+        "speaker": "山田",
+        "jp": "というと？",
+        "reading": "toiuto？",
+        "meaning": "您这话是什么意思？",
+        "note": "礼貌说法：とおっしゃいますと？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "もっと大阪の方言が聞けると思っていたんですが，あまり耳にしませんでした。",
+        "reading": "moto大阪no方言ga聞keruto思teitandesuga，amari耳nishimasendeshita。",
+        "meaning": "原以为能听到更多大阪方言，结果没怎么听到。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "そういえば，そうですね。",
+        "reading": "souieba，soudesune。",
+        "meaning": "听您这么一说，还真是的。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "今から，ミナミに飲みに行きませんか。大阪弁がたっぷり聞けますよ。",
+        "reading": "今kara，minamini飲mini行kimasenka。大阪弁gatapuri聞kemasuyo。",
+        "meaning": "现在去\"ミナミ\"喝酒怎么样？可以充分听到大阪话哦。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "せっかくですけれど，今日は遠慮しておきます。明日出発が早いので。",
+        "reading": "sekakudesukeredo，今日ha遠慮shiteokimasu。明日出発ga早inode。",
+        "meaning": "承蒙盛情，今天就算了吧。因为明天出发很早。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "その代わり，今度の東京取材の時，誘ってください。",
+        "reading": "sono代wari，今度no東京取材no時，誘tekudasai。",
+        "meaning": "那下次东京采访时再邀请我吧。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "実は，来月の取材には，わたしは同行できないんです。",
+        "reading": "実ha，来月no取材niha，watashiha同行dekinaindesu。",
+        "meaning": "其实，下月的采访我不能陪同了。"
+      },
+      {
+        "speaker": "山田",
+        "jp": "というのは，あのう…，わたし，来月結婚するんです。",
+        "reading": "toiunoha，anou…，watashi，来月結婚surundesu。",
+        "meaning": "这是因为……嗯……我下个月要结婚了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "それは，おめでとうございます。",
+        "reading": "soreha，omedetougozaimasu。",
+        "meaning": "那真是恭喜您了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "もしよかったら，披露宴に出てくれませんか。",
+        "reading": "moshiyokatara，披露宴ni出tekuremasenka。",
+        "meaning": "如果可以的话，能来参加我的婚宴吗？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "ぜひ出席してください。",
+        "reading": "zehi出席shitekudasai。",
+        "meaning": "请务必出席。"
+      },
+      {
+        "speaker": "王",
+        "jp": "いいんですか。では，喜んで出席させていただきます。",
+        "reading": "iindesuka。deha，喜nde出席saseteitadakimasu。",
+        "meaning": "可以吗？那我很乐意出席。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d13-01",
+    "title": "スピーチの依頼",
+    "scene": "会话实用短句（请求致辞・婚宴）",
+    "lines": [
+      {
+        "speaker": "山田",
+        "jp": "課長，お忙しいところ申し訳ありませんが，ちょっとよろしいですか。",
+        "reading": "課長，o忙shiitokoro申shi訳arimasenga，chiょtoyoroshiidesuka。",
+        "meaning": "科长，打扰您不好意思，能占用您一点时间吗？"
+      },
+      {
+        "speaker": "山田",
+        "jp": "実は，折り入ってお願いしたいことがあるんですが…。",
+        "reading": "実ha，折ri入teo願ishitaikotogaarundesuga…。",
+        "meaning": "其实，有件事想特别恳请您……"
+      },
+      {
+        "speaker": "对话",
+        "jp": "どうしたの？改まって。",
+        "reading": "doushitano？改mate。",
+        "meaning": "怎么了？这么郑重其事的。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "わたしの披露宴のことなんです。",
+        "reading": "watashino披露宴nokotonandesu。",
+        "meaning": "是关于我的婚宴的事。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "課長にスピーチをお願いしたいと思いまして…。",
+        "reading": "課長nisupichiwoo願ishitaito思imashite…。",
+        "meaning": "想请科长您来致辞……"
+      },
+      {
+        "speaker": "对话",
+        "jp": "ぜひお願いいたします。",
+        "reading": "zehio願iitashimasu。",
+        "meaning": "请务必答应。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "あまり自信がないけどなあ。",
+        "reading": "amari自信ganaikedonaa。",
+        "meaning": "不过没什么自信啊。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "しかし，君の頼みだ。引き受けるか。",
+        "reading": "shikashi，君no頼mida。引ki受keruka。",
+        "meaning": "不过，既然是你的请求，我就答应了吧。"
+      },
+      {
+        "speaker": "吉田",
+        "jp": "もしかして，上海の李さんも来るの？",
+        "reading": "moshikashite，上海no李sanmo来runo？",
+        "meaning": "该不会上海的李小姐也来吗？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "今回のプロジェクトが忙しくて，どうしても中国を離れられないそうです。",
+        "reading": "今回nopurojiぇkutoga忙shikute，doushitemo中国wo離rerarenaisoudesu。",
+        "meaning": "听说她因为这次的项目太忙，无论如何也离不开中国。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "残念だね。ぼくも，李さんには会いたかったんだけど。",
+        "reading": "残念dane。bokumo，李sanniha会itakatandakedo。",
+        "meaning": "真遗憾啊。我也很想见李小姐呢。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "王さんが出席してくれることになりました。",
+        "reading": "王sanga出席shitekurerukotoninarimashita。",
+        "meaning": "已确定王先生会出席。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "何といっても，上海は，君と町子さんが出会った思い出の場所だからね。",
+        "reading": "何toitemo，上海ha，君to町子sanga出会ta思i出no場所dakarane。",
+        "meaning": "毕竟上海是你和町子相识的充满回忆的地方啊。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d13-02",
+    "title": "スピーチの依頼",
+    "scene": "请求功能短句（按礼貌程度）",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "お忙しいところ，すみません。",
+        "reading": "o忙shiitokoro，sumimasen。",
+        "meaning": "在您百忙中打扰，不好意思。",
+        "note": "打招呼"
+      },
+      {
+        "speaker": "对话",
+        "jp": "実はお願いがあるのですが…。／来週の出張のことなんですが…。",
+        "reading": "実hao願igaarunodesuga…。／来週no出張nokotonandesuga…。",
+        "meaning": "陈述理由或铺垫"
+      },
+      {
+        "speaker": "对话",
+        "jp": "スピーチをお願いしてもよろしいでしょうか。",
+        "reading": "supichiwoo願ishitemoyoroshiideshiょuka。",
+        "meaning": "礼貌"
+      },
+      {
+        "speaker": "对话",
+        "jp": "スピーチをしていただけないでしょうか。",
+        "reading": "supichiwoshiteitadakenaideshiょuka。",
+        "meaning": "对方便于拒绝的否定疑问句"
+      },
+      {
+        "speaker": "对话",
+        "jp": "スピーチをしていただけますか。",
+        "reading": "supichiwoshiteitadakemasuka。",
+        "meaning": "客气但含应当应允的语气"
+      },
+      {
+        "speaker": "对话",
+        "jp": "スピーチをしていただければありがたいのですが…。",
+        "reading": "supichiwoshiteitadakerebaarigatainodesuga…。",
+        "meaning": "如果您能……就太感激了"
+      },
+      {
+        "speaker": "对话",
+        "jp": "よろしくお願いいたします。",
+        "reading": "yoroshikuo願iitashimasu。",
+        "meaning": "最后再说一次"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d13-03",
+    "title": "スピーチの依頼",
+    "scene": "关系密切的人之间的请求",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "悪いけど，〜てくれない？",
+        "reading": "悪ikedo，〜tekurenai？",
+        "meaning": "不好意思，能帮我……吗？",
+        "note": "悪いけど，ドアを閉めてくれない？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "〜を頼んでいい？",
+        "reading": "〜wo頼ndeii？",
+        "meaning": "能拜托你做……吗？",
+        "note": "ちょっと仕事を頼んでいい？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "（すまないけど，）〜てちょうだい。",
+        "reading": "（sumanaikedo，）〜techiょudai。",
+        "meaning": "（不好意思，）请……吧。太郎君，ちょっと手伝ってちょうだい。",
+        "note": "委婉命令，倾向表示对方本就应当这么做"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d14-01",
+    "title": "恩師",
+    "scene": "会话实用短句（拜访恩师）",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "お久しぶりです。",
+        "reading": "o久shiburidesu。",
+        "meaning": "好久不见。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "よく来てくれたね。",
+        "reading": "yoku来tekuretane。",
+        "meaning": "欢迎欢迎！",
+        "note": "你特意来了啊。"
+      },
+      {
+        "speaker": "王",
+        "jp": "せっかくのお休みの日に，申し訳ございません。",
+        "reading": "sekakunoo休mino日ni，申shi訳gozaimasen。",
+        "meaning": "在您难得的休息日来打搅您，真是过意不去。"
+      },
+      {
+        "speaker": "後藤",
+        "jp": "まあ，まあ，そんなあいさつは後にして，とにかく上がって。",
+        "reading": "maa，maa，sonnaaisatsuha後nishite，tonikaku上gate。",
+        "meaning": "行了行了，那些客套话待会儿再说，快先进屋吧。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "では，お邪魔します。",
+        "reading": "deha，o邪魔shimasu。",
+        "meaning": "那我就不客气了（打扰了）。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "これ，つまらないものですが…。",
+        "reading": "kore，tsumaranaimonodesuga…。",
+        "meaning": "一点小意思，不是什么值钱的东西。"
+      },
+      {
+        "speaker": "後藤",
+        "jp": "あれ，そんなに気を使わなくてよかったのに。",
+        "reading": "are，sonnani気wo使wanakuteyokatanoni。",
+        "meaning": "哎呀，您用不着这么费心的嘛。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "本当に気持ちだけですから。",
+        "reading": "本当ni気持chidakedesukara。",
+        "meaning": "真的只是一点心意。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "せっかくだから，遠慮なくいただくよ。",
+        "reading": "sekakudakara，遠慮nakuitadakuyo。",
+        "meaning": "既然你特意带来，那我就不客气收下了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "そうそう，大学の時の友達からは，今でも連絡があるかい。",
+        "reading": "sousou，大学no時no友達karaha，今demo連絡gaarukai。",
+        "meaning": "对了，大学时代的朋友们现在还有联系吗？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "そろそろ失礼します。",
+        "reading": "sorosoro失礼shimasu。",
+        "meaning": "我这就告辞了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "もう夜も遅いですから。",
+        "reading": "mou夜mo遅idesukara。",
+        "meaning": "因为已经很晚了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "無理も言えないな。",
+        "reading": "無理mo言enaina。",
+        "meaning": "那也就不好强留你了。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "金子君たちによろしく。",
+        "reading": "金子君tachiniyoroshiku。",
+        "meaning": "请代我向金子他们问好。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "今日は本当にありがとうございました。お邪魔しました。",
+        "reading": "今日ha本当niarigatougozaimashita。o邪魔shimashita。",
+        "meaning": "今天真是太感谢您了。打扰您了。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d14-02",
+    "title": "恩師",
+    "scene": "拜访人家流程短句",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "ごめんください。",
+        "reading": "gomenkudasai。",
+        "meaning": "有人在家吗？",
+        "note": "来访者的招呼"
+      },
+      {
+        "speaker": "对话",
+        "jp": "よくいらっしゃいました。／よく来てくれました。",
+        "reading": "yokuirashiゃimashita。／yoku来tekuremashita。",
+        "meaning": "欢迎光临！",
+        "note": "最开始的欢迎词"
+      },
+      {
+        "speaker": "对话",
+        "jp": "さあ，どうぞ，どうぞ。／こちらへどうぞ。",
+        "reading": "saa，douzo，douzo。／kochirahedouzo。",
+        "meaning": "请进！／这边请！",
+        "note": "招呼进屋"
+      },
+      {
+        "speaker": "对话",
+        "jp": "ごぶさたしています。",
+        "reading": "gobusatashiteimasu。",
+        "meaning": "久疏问候。",
+        "note": "来访者最开始的问候"
+      },
+      {
+        "speaker": "对话",
+        "jp": "それでは失礼します。／お邪魔します。",
+        "reading": "soredeha失礼shimasu。／o邪魔shimasu。",
+        "meaning": "被邀请进屋时说"
+      },
+      {
+        "speaker": "对话",
+        "jp": "ほんの気持ちですが。",
+        "reading": "honno気持chidesuga。",
+        "meaning": "一点点心意。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お口に合うかどうか分かりませんが…。",
+        "reading": "o口ni合ukadouka分karimasenga…。",
+        "meaning": "不知道合不合您的口味。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "気を使っていただかなくてもいいのに。",
+        "reading": "気wo使teitadakanakutemoiinoni。",
+        "meaning": "您不必如此费心。",
+        "note": "收受礼物时的反应"
+      },
+      {
+        "speaker": "对话",
+        "jp": "何のお構いもできませんで…。",
+        "reading": "何noo構imodekimasende…。",
+        "meaning": "也没为您特别做什么准备……",
+        "note": "送客谦逊语"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お忙しいところ，ありがとうございました。",
+        "reading": "o忙shiitokoro，arigatougozaimashita。",
+        "meaning": "您这么忙还接待了我，非常感谢！",
+        "note": "告辞时"
+      },
+      {
+        "speaker": "对话",
+        "jp": "遅くまですみませんでした。",
+        "reading": "遅kumadesumimasendeshita。",
+        "meaning": "打扰您到这么晚，不好意思。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "まだいいじゃありませんか。",
+        "reading": "madaiijiゃarimasenka。",
+        "meaning": "时间还早嘛！",
+        "note": "挽留客人"
+      },
+      {
+        "speaker": "对话",
+        "jp": "この前はありがとうございました。",
+        "reading": "kono前haarigatougozaimashita。",
+        "meaning": "上次太感谢您了。",
+        "note": "拜访之后再次致谢"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d15-01",
+    "title": "同級生",
+    "scene": "寒暄・招呼",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "やあ，久しぶり。",
+        "reading": "yaa，久shiburi。",
+        "meaning": "哎呀，好久不见！"
+      },
+      {
+        "speaker": "高橋",
+        "jp": "ねえ，話は後にして，早く料理を頼みましょうよ。",
+        "reading": "nee，話ha後nishite，早ku料理wo頼mimashiょuyo。",
+        "meaning": "喂，这些话留到待会儿再说，先点菜嘛。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "よし，じゃあ，水炊きを3人前。",
+        "reading": "yoshi，jiゃa，水炊kiwo3人前。",
+        "meaning": "好，那就来3个人的\"鸡肉时蔬火锅\"吧。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "よし，頑張ろう！",
+        "reading": "yoshi，頑張rou！",
+        "meaning": "好，加油！"
+      },
+      {
+        "speaker": "对话",
+        "jp": "そうだなあ，何にしようかなあ。",
+        "reading": "soudanaa，何nishiyoukanaa。",
+        "meaning": "是啊，来点儿什么好呢？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "それはどうも，ごちそうさまでした。",
+        "reading": "sorehadoumo，gochisousamadeshita。",
+        "meaning": "谢谢，非常好吃！"
+      },
+      {
+        "speaker": "对话",
+        "jp": "またお越しください。",
+        "reading": "matao越shikudasai。",
+        "meaning": "欢迎下次再来！"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d15-02",
+    "title": "同級生",
+    "scene": "在餐厅点菜",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "すみません，何かおすすめはありますか。",
+        "reading": "sumimasen，何kaosusumehaarimasuka。",
+        "meaning": "不好意思，有什么推荐的菜吗？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "この季節でしたら，水炊きなどいかがでしょう。",
+        "reading": "kono季節deshitara，水炊kinadoikagadeshiょu。",
+        "meaning": "这个季节的话，\"鸡肉时蔬火锅\"怎么样？"
+      },
+      {
+        "speaker": "对话",
+        "jp": "とり肉と野菜の鍋です。温まりますよ。",
+        "reading": "tori肉to野菜no鍋desu。温marimasuyo。",
+        "meaning": "就是将鸡肉和蔬菜一起煮的火锅，很暖身子的。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "焼きそばとチャーハンをください。",
+        "reading": "焼kisobatochiゃhanwokudasai。",
+        "meaning": "我们要炒面和炒饭。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "すき焼きを2人前お願いします。",
+        "reading": "suki焼kiwo2人前o願ishimasu。",
+        "meaning": "请给我们来两个人的日式火锅。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お刺し身の盛り合わせと，タコの唐揚げ，それに豆腐と大根のサラダもお願いします。",
+        "reading": "o刺shi身no盛ri合waseto，takono唐揚ge，soreni豆腐to大根nosaradamoo願ishimasu。",
+        "meaning": "再要一份刺身拼盘、章鱼的唐炸，还有豆腐和萝卜沙拉。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お会計をお願いします。",
+        "reading": "o会計woo願ishimasu。",
+        "meaning": "请结账。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "ありがとうございます。2,000円になります。",
+        "reading": "arigatougozaimasu。2,000円ninarimasu。",
+        "meaning": "谢谢！共2,000日元。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "すみません，お水をもらえますか？",
+        "reading": "sumimasen，o水womoraemasuka？",
+        "meaning": "不好意思，能给我来杯水吗？"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d16-01",
+    "title": "結婚披露宴",
+    "scene": "祝贺、致辞",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "ご結婚おめでとうございます。",
+        "reading": "go結婚omedetougozaimasu。",
+        "meaning": "祝贺你们结婚。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "どうぞお幸せに！",
+        "reading": "douzoo幸seni！",
+        "meaning": "祝你们幸福！"
+      },
+      {
+        "speaker": "对话",
+        "jp": "これからも頑張ってください。",
+        "reading": "korekaramo頑張tekudasai。",
+        "meaning": "你们往后也要努力啊！"
+      },
+      {
+        "speaker": "对话",
+        "jp": "本当にお世話になりました。ありがとうございました。",
+        "reading": "本当nio世話ninarimashita。arigatougozaimashita。",
+        "meaning": "承蒙您的关照，非常感谢。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "どうぞよろしくお願いいたします。",
+        "reading": "douzoyoroshikuo願iitashimasu。",
+        "meaning": "请多多关照。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "がんばってください。",
+        "reading": "ganbatekudasai。",
+        "meaning": "请加油。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d16-02",
+    "title": "結婚披露宴",
+    "scene": "承蒙关照的固定套话",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "ただ今，ご紹介いただきました，ＪＣ企画上海支社の王風と申します。",
+        "reading": "tada今，go紹介itadakimashita，ｊｃ企画上海支社no王風to申shimasu。",
+        "meaning": "我是刚才承蒙介绍的ＪＣ策划公司上海分公司的王风。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お招きいただき，ありがとうございます。",
+        "reading": "o招kiitadaki，arigatougozaimasu。",
+        "meaning": "承蒙邀请，非常感谢！"
+      },
+      {
+        "speaker": "对话",
+        "jp": "ひと言ごあいさつをさせていただきます。",
+        "reading": "hito言goaisatsuwosaseteitadakimasu。",
+        "meaning": "请允许我简单说两句。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "僭越ながら，.…（僭越ながら）",
+        "reading": "僭越nagara，.…（僭越nagara）",
+        "meaning": "冒昧（不自量力）地说一句。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d16-03",
+    "title": "結婚披露宴",
+    "scene": "婚礼宴会主持用语",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "ただ今から，司会をつとめさせていただきます。",
+        "reading": "tada今kara，司会wotsutomesaseteitadakimasu。",
+        "meaning": "（我）现在就开始担任司仪。"
+      },
+      {
+        "speaker": "对话",
+        "jp": "本日はお忙しいところ，お越しいただき，誠にありがとうございます。",
+        "reading": "本日hao忙shiitokoro，o越shiitadaki，誠niarigatougozaimasu。",
+        "meaning": "今天承蒙各位百忙之中移驾光临，我衷心表示感谢！"
+      },
+      {
+        "speaker": "对话",
+        "jp": "どうぞゆっくり，おくつろぎください。",
+        "reading": "douzoyukuri，okutsurogikudasai。",
+        "meaning": "请各位不要拘谨，尽情享用和娱乐吧！"
+      },
+      {
+        "speaker": "对话",
+        "jp": "皆様のご健康とますますのご発展を祈念して，乾杯いたします。",
+        "reading": "皆様nogo健康tomasumasunogo発展wo祈念shite，乾杯itashimasu。",
+        "meaning": "为祝愿各位身体健康、更加兴旺发达干杯。乾杯！"
+      },
+      {
+        "speaker": "对话",
+        "jp": "乾杯！",
+        "reading": "乾杯！",
+        "meaning": "干杯！"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d16-04",
+    "title": "結婚披露宴",
+    "scene": "宴会结束与致辞致谢",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "それでは，これをもちまして，交流会をお開きにしたいと思います。本日は遠くからお集まりいただき，ありがとうございました。",
+        "reading": "soredeha，korewomochimashite，交流会woo開kinishitaito思imasu。本日ha遠kukarao集mariitadaki，arigatougozaimashita。",
+        "meaning": "我宣布，交流会到此结束。今天承蒙各位远道而来，谨致谢意！"
+      },
+      {
+        "speaker": "对话",
+        "jp": "今日は，私ののために，このようなすばらしい会を設けていただき，ありがとうございました。",
+        "reading": "今日ha，私nonotameni，konoyounasubarashii会wo設keteitadaki，arigatougozaimashita。",
+        "meaning": "今天，承蒙大家为我举行如此盛大的宴会，我衷心表示感谢！"
+      },
+      {
+        "speaker": "对话",
+        "jp": "中国には白頭偕老という言葉があります。",
+        "reading": "中国niha白頭偕老toiu言葉gaarimasu。",
+        "meaning": "中国有一句\"白头偕老\"。"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d16-05",
+    "title": "結婚披露宴",
+    "scene": "会后寒暄",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "どうもありがとうございました。",
+        "reading": "doumoarigatougozaimashita。",
+        "meaning": "非常感谢。",
+        "note": "对致辞者的回应"
+      }
+    ]
+  },
+  {
+    "id": "sn3-d16-06",
+    "title": "結婚披露宴",
+    "scene": "惯用句精选",
+    "lines": [
+      {
+        "speaker": "对话",
+        "jp": "手に取るように分かる。",
+        "reading": "手ni取ruyouni分karu。",
+        "meaning": "了如指掌"
+      },
+      {
+        "speaker": "对话",
+        "jp": "わらににもすがる。——急不暇择`r`n- 峠を越す。",
+        "reading": "waraninimosugaru。——急不暇择`r`n- 峠wo越su。",
+        "meaning": "渡过难关、已过全盛时期"
+      },
+      {
+        "speaker": "对话",
+        "jp": "ピリオドを打つ。",
+        "reading": "piriodowo打tsu。",
+        "meaning": "告终、画上句号"
+      },
+      {
+        "speaker": "对话",
+        "jp": "お茶を濁す。",
+        "reading": "o茶wo濁su。",
+        "meaning": "含糊其词"
+      },
+      {
+        "speaker": "对话",
+        "jp": "友人の肩を持つ。",
+        "reading": "友人no肩wo持tsu。",
+        "meaning": "袒护朋友"
+      },
+      {
+        "speaker": "对话",
+        "jp": "話を聞いて，頭に来た。",
+        "reading": "話wo聞ite，頭ni来ta。",
+        "meaning": "生气了"
+      },
+      {
+        "speaker": "对话",
+        "jp": "せっかくの誘いを袖にした。",
+        "reading": "sekakuno誘iwo袖nishita。",
+        "meaning": "拒绝了别人的特意邀请"
+      },
+      {
+        "speaker": "对话",
+        "jp": "目に浮かぶ。",
+        "reading": "目ni浮kabu。",
+        "meaning": "浮现眼前"
+      },
+      {
+        "speaker": "对话",
+        "jp": "目にづく。",
+        "reading": "目nizuku。",
+        "meaning": "引人注目"
+      },
+      {
+        "speaker": "对话",
+        "jp": "鼻が高い。",
+        "reading": "鼻ga高i。",
+        "meaning": "洋洋得意"
+      },
+      {
+        "speaker": "对话",
+        "jp": "耳がいたい。",
+        "reading": "耳gaitai。",
+        "meaning": "不爱听、刺耳"
+      },
+      {
+        "speaker": "对话",
+        "jp": "手が届く。",
+        "reading": "手ga届ku。",
+        "meaning": "力所能及"
+      },
+      {
+        "speaker": "对话",
+        "jp": "手がかかる。",
+        "reading": "手gakakaru。",
+        "meaning": "费事、麻烦"
+      },
+      {
+        "speaker": "对话",
+        "jp": "腹が立つ。",
+        "reading": "腹ga立tsu。",
+        "meaning": "生气、发怒"
+      },
+      {
+        "speaker": "对话",
+        "jp": "胸が痛む。",
+        "reading": "胸ga痛mu。",
+        "meaning": "痛心、伤心、难过"
+      }
+    ]
+  }
+]

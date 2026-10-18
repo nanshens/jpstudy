@@ -243,6 +243,22 @@
     ]
   },
   {
+    "id": "standard-n3",
+    "title": "标准日本语中级上",
+    "subtitle": "JLPT N3 / 标准日本语中级上",
+    "emoji": "📙",
+    "color": "from-amber-500 via-orange-500 to-rose-500",
+    "category": "exam",
+    "description": "N3标准日语中级上册（标日精讲精练，16课）",
+    "goals": [
+      "掌握中级上册 16 课的核心词汇",
+      "理解会话/表达框与语法要点",
+      "跟读会话实用短句,掌握职场寒暄表达",
+      "用 TTS 听力强化假名听辨",
+      "通过海量自测题巩固记忆"
+    ]
+  },
+  {
     "id": "standard-n4",
     "title": "标准日本语初级下",
     "subtitle": "JLPT N4 / 标准日本语初级下",

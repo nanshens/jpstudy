@@ -1,0 +1,8627 @@
+[
+  {
+    "id": "sn3-w0001",
+    "jp": "出会い",
+    "reading": "であい",
+    "romaji": "deai",
+    "meaning": "出会い",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0002",
+    "jp": "助かる",
+    "reading": "たすかる",
+    "romaji": "tasukaru",
+    "meaning": "获得帮助；得救",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "动1"
+    ],
+    "lesson": 1,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0003",
+    "jp": "すっかり",
+    "reading": "すっかり",
+    "romaji": "sukari",
+    "meaning": "完全，彻底",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "副"
+    ],
+    "lesson": 1,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0004",
+    "jp": "街",
+    "reading": "まち",
+    "romaji": "machi",
+    "meaning": "街道；城镇",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0005",
+    "jp": "変化",
+    "reading": "へんか",
+    "romaji": "henka",
+    "meaning": "变化",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0006",
+    "jp": "ついていく",
+    "reading": "ついていく",
+    "romaji": "tsuiteiku",
+    "meaning": "跟上，跟上去",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "动1"
+    ],
+    "lesson": 1,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0007",
+    "jp": "高層",
+    "reading": "こうそう",
+    "romaji": "kousou",
+    "meaning": "高层",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0008",
+    "jp": "高層〜",
+    "reading": "こうそうビル",
+    "romaji": "kousoubiru",
+    "meaning": "高楼，大厦",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0009",
+    "jp": "辺",
+    "reading": "へん",
+    "romaji": "hen",
+    "meaning": "一带，附近",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0010",
+    "jp": "ニューヨーク",
+    "reading": "ニューヨーク",
+    "romaji": "niゅyoku",
+    "meaning": "纽约",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "专"
+    ],
+    "lesson": 1,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0011",
+    "jp": "私鉄",
+    "reading": "してつ",
+    "romaji": "shitetsu",
+    "meaning": "私营铁路",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0012",
+    "jp": "公営",
+    "reading": "こうえい",
+    "romaji": "kouei",
+    "meaning": "公营",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0013",
+    "jp": "Japan Railways",
+    "reading": "ジャパンレールウェイズ",
+    "romaji": "jiゃpanreruuぇizu",
+    "meaning": "日本铁路",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "专"
+    ],
+    "lesson": 1,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0014",
+    "jp": "略",
+    "reading": "りゃく",
+    "romaji": "riゃku",
+    "meaning": "略，简略",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0015",
+    "jp": "国営",
+    "reading": "こくえい",
+    "romaji": "kokuei",
+    "meaning": "国营",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0016",
+    "jp": "民営",
+    "reading": "みんえい",
+    "romaji": "minei",
+    "meaning": "民营",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0017",
+    "jp": "路線",
+    "reading": "ろせん",
+    "romaji": "rosen",
+    "meaning": "线路",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0018",
+    "jp": "主要",
+    "reading": "しゅよう",
+    "romaji": "shiゅyou",
+    "meaning": "主要",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "形2"
+    ],
+    "lesson": 1,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0019",
+    "jp": "都市",
+    "reading": "とし",
+    "romaji": "toshi",
+    "meaning": "城市，都市",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0020",
+    "jp": "時速",
+    "reading": "じそく",
+    "romaji": "jisoku",
+    "meaning": "时速",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0021",
+    "jp": "東海道",
+    "reading": "とうかいどう",
+    "romaji": "toukaidou",
+    "meaning": "东海道",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "专"
+    ],
+    "lesson": 1,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0022",
+    "jp": "山陽",
+    "reading": "さんよう",
+    "romaji": "sanyou",
+    "meaning": "山阳",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "专"
+    ],
+    "lesson": 1,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0023",
+    "jp": "東北",
+    "reading": "とうほく",
+    "romaji": "touhoku",
+    "meaning": "东北",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "专"
+    ],
+    "lesson": 1,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0024",
+    "jp": "九州",
+    "reading": "きゅうしゅう",
+    "romaji": "kiゅushiゅu",
+    "meaning": "九州",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "专"
+    ],
+    "lesson": 1,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0025",
+    "jp": "延びる",
+    "reading": "のびる",
+    "romaji": "nobiru",
+    "meaning": "延伸，延长",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "动2"
+    ],
+    "lesson": 1,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0026",
+    "jp": "民間",
+    "reading": "みんかん",
+    "romaji": "minkan",
+    "meaning": "民间",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0027",
+    "jp": "経営〜",
+    "reading": "けいえいする",
+    "romaji": "keieisuru",
+    "meaning": "经营",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "动3"
+    ],
+    "lesson": 1,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0028",
+    "jp": "また",
+    "reading": "また",
+    "romaji": "mata",
+    "meaning": "另外，又，再，也",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "连"
+    ],
+    "lesson": 1,
+    "note": "[连]"
+  },
+  {
+    "id": "sn3-w0029",
+    "jp": "地方自治体",
+    "reading": "ちほうじちたい",
+    "romaji": "chihoujichitai",
+    "meaning": "地方自治团体",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0030",
+    "jp": "実用",
+    "reading": "じつよう",
+    "romaji": "jitsuyou",
+    "meaning": "实用",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0031",
+    "jp": "運行",
+    "reading": "うんこう",
+    "romaji": "unkou",
+    "meaning": "运行",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0032",
+    "jp": "方向",
+    "reading": "ほうこう",
+    "romaji": "houkou",
+    "meaning": "方向",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0033",
+    "jp": "表す",
+    "reading": "あらわす",
+    "romaji": "arawasu",
+    "meaning": "表示，表现，表达",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "动1"
+    ],
+    "lesson": 1,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0034",
+    "jp": "上り",
+    "reading": "のぼり",
+    "romaji": "nobori",
+    "meaning": "上，上行",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0035",
+    "jp": "下り",
+    "reading": "くだり",
+    "romaji": "kudari",
+    "meaning": "下，下行",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0036",
+    "jp": "本州",
+    "reading": "ほんしゅう",
+    "romaji": "honshiゅu",
+    "meaning": "本州",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "专"
+    ],
+    "lesson": 1,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0037",
+    "jp": "地方",
+    "reading": "ちほう",
+    "romaji": "chihou",
+    "meaning": "地方",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0038",
+    "jp": "方面",
+    "reading": "ほうめん",
+    "romaji": "houmen",
+    "meaning": "方向，方面",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0039",
+    "jp": "こんな",
+    "reading": "こんな",
+    "romaji": "konna",
+    "meaning": "这样的",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "连体"
+    ],
+    "lesson": 1,
+    "note": "[连体]"
+  },
+  {
+    "id": "sn3-w0040",
+    "jp": "なぞなぞ",
+    "reading": "なぞなぞ",
+    "romaji": "nazonazo",
+    "meaning": "谜语",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0041",
+    "jp": "答え",
+    "reading": "こたえ",
+    "romaji": "kotae",
+    "meaning": "回答，答案",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第1課",
+      "名"
+    ],
+    "lesson": 1,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0042",
+    "jp": "大山",
+    "reading": "おおやま",
+    "romaji": "ooyama",
+    "meaning": "大山",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "专"
+    ],
+    "lesson": 2,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0043",
+    "jp": "プロジェクト",
+    "reading": "プロジェクト",
+    "romaji": "purojiぇkuto",
+    "meaning": "项目，计划，企划",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0044",
+    "jp": "礼儀",
+    "reading": "れいぎ",
+    "romaji": "reigi",
+    "meaning": "礼仪，礼节，礼貌",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0045",
+    "jp": "腰",
+    "reading": "こし",
+    "romaji": "koshi",
+    "meaning": "腰",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0046",
+    "jp": "傾ける",
+    "reading": "かたむける",
+    "romaji": "katamukeru",
+    "meaning": "倾，倾斜；倾注",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "动2"
+    ],
+    "lesson": 2,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0047",
+    "jp": "角度",
+    "reading": "かくど",
+    "romaji": "kakudo",
+    "meaning": "角度",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0048",
+    "jp": "首",
+    "reading": "くび",
+    "romaji": "kubi",
+    "meaning": "头，脑袋；脖子",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0049",
+    "jp": "曲げる",
+    "reading": "まげる",
+    "romaji": "mageru",
+    "meaning": "弄弯，歪曲",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "动2"
+    ],
+    "lesson": 2,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0050",
+    "jp": "初対面",
+    "reading": "しょたいめん",
+    "romaji": "shiょtaimen",
+    "meaning": "初次见面",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0051",
+    "jp": "名刺",
+    "reading": "めいし",
+    "romaji": "meishi",
+    "meaning": "名片",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0052",
+    "jp": "受け取る",
+    "reading": "うけとる",
+    "romaji": "uketoru",
+    "meaning": "接，接收，接受",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "动1"
+    ],
+    "lesson": 2,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0053",
+    "jp": "決まり",
+    "reading": "きまり",
+    "romaji": "kimari",
+    "meaning": "规定，规矩；决定",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0054",
+    "jp": "目上",
+    "reading": "めうえ",
+    "romaji": "meue",
+    "meaning": "尊长，上司，长辈",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0055",
+    "jp": "次に",
+    "reading": "つぎに",
+    "romaji": "tsugini",
+    "meaning": "其次，接着",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "连"
+    ],
+    "lesson": 2,
+    "note": "[连]"
+  },
+  {
+    "id": "sn3-w0056",
+    "jp": "両手",
+    "reading": "りょうて",
+    "romaji": "riょute",
+    "meaning": "双手，两手",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0057",
+    "jp": "個人",
+    "reading": "こじん",
+    "romaji": "kojin",
+    "meaning": "私人，个人",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0058",
+    "jp": "場",
+    "reading": "ば",
+    "romaji": "ba",
+    "meaning": "场合，场面；场所",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0059",
+    "jp": "年",
+    "reading": "とし",
+    "romaji": "toshi",
+    "meaning": "年龄，岁数",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0060",
+    "jp": "不快",
+    "reading": "ふかい",
+    "romaji": "fukai",
+    "meaning": "不快，不高兴",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "形2"
+    ],
+    "lesson": 2,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0061",
+    "jp": "印象",
+    "reading": "いんしょう",
+    "romaji": "inshiょu",
+    "meaning": "印象",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0062",
+    "jp": "与える",
+    "reading": "あたえる",
+    "romaji": "ataeru",
+    "meaning": "给，给予，给与",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "动2"
+    ],
+    "lesson": 2,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0063",
+    "jp": "こもる",
+    "reading": "こもる",
+    "romaji": "komoru",
+    "meaning": "充满，包含",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "动1"
+    ],
+    "lesson": 2,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0064",
+    "jp": "予想",
+    "reading": "よそう",
+    "romaji": "yosou",
+    "meaning": "预料，预计，预想",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "名"
+    ],
+    "lesson": 2,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0065",
+    "jp": "伝わる",
+    "reading": "つたわる",
+    "romaji": "tsutawaru",
+    "meaning": "传，传达；传播，流传",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第2課",
+      "动1"
+    ],
+    "lesson": 2,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0066",
+    "jp": "支社",
+    "reading": "ししゃ",
+    "romaji": "shishiゃ",
+    "meaning": "分公司，分社",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0067",
+    "jp": "含める",
+    "reading": "ふくめる",
+    "romaji": "fukumeru",
+    "meaning": "包括，含有，包含",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "动2"
+    ],
+    "lesson": 3,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0068",
+    "jp": "野田",
+    "reading": "のだ",
+    "romaji": "noda",
+    "meaning": "野田",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "专"
+    ],
+    "lesson": 3,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0069",
+    "jp": "理恵",
+    "reading": "りえ",
+    "romaji": "rie",
+    "meaning": "理恵",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "专"
+    ],
+    "lesson": 3,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0070",
+    "jp": "主",
+    "reading": "おも",
+    "romaji": "omo",
+    "meaning": "主要，重要",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "形2"
+    ],
+    "lesson": 3,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0071",
+    "jp": "風",
+    "reading": "ふう",
+    "romaji": "fuu",
+    "meaning": "风",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "专"
+    ],
+    "lesson": 3,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0072",
+    "jp": "王様",
+    "reading": "おうさま",
+    "romaji": "ousama",
+    "meaning": "国王，大王",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0073",
+    "jp": "ホームページ",
+    "reading": "ホームページ",
+    "romaji": "homupeji",
+    "meaning": "网页，主页",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0074",
+    "jp": "中井",
+    "reading": "なかい",
+    "romaji": "nakai",
+    "meaning": "中井",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "专"
+    ],
+    "lesson": 3,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0075",
+    "jp": "加わる",
+    "reading": "くわわる",
+    "romaji": "kuwawaru",
+    "meaning": "参加，加，添加，增添",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "动1"
+    ],
+    "lesson": 3,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0076",
+    "jp": "浙江省",
+    "reading": "せっこうしょう",
+    "romaji": "sekoushiょu",
+    "meaning": "浙江省",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "专"
+    ],
+    "lesson": 3,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0077",
+    "jp": "紹興",
+    "reading": "しょうこう",
+    "romaji": "shiょukou",
+    "meaning": "绍兴",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "专"
+    ],
+    "lesson": 3,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0078",
+    "jp": "紹興酒",
+    "reading": "しょうこうしゅ",
+    "romaji": "shiょukoushiゅ",
+    "meaning": "绍兴酒",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0079",
+    "jp": "名字",
+    "reading": "みょうじ",
+    "romaji": "miょuji",
+    "meaning": "姓，姓氏",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0080",
+    "jp": "姓",
+    "reading": "せい",
+    "romaji": "sei",
+    "meaning": "姓",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0081",
+    "jp": "名",
+    "reading": "な",
+    "romaji": "na",
+    "meaning": "名",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0082",
+    "jp": "両方",
+    "reading": "りょうほう",
+    "romaji": "riょuhou",
+    "meaning": "两者，双方；两边",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0083",
+    "jp": "指す",
+    "reading": "さす",
+    "romaji": "sasu",
+    "meaning": "指，指示",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "动1"
+    ],
+    "lesson": 3,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0084",
+    "jp": "明治",
+    "reading": "めいじ",
+    "romaji": "meiji",
+    "meaning": "明治",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "专"
+    ],
+    "lesson": 3,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0085",
+    "jp": "当時",
+    "reading": "とうじ",
+    "romaji": "touji",
+    "meaning": "当时",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0086",
+    "jp": "政府",
+    "reading": "せいふ",
+    "romaji": "seifu",
+    "meaning": "政府",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0087",
+    "jp": "国民",
+    "reading": "こくみん",
+    "romaji": "kokumin",
+    "meaning": "国民",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0088",
+    "jp": "武士",
+    "reading": "ぶし",
+    "romaji": "bushi",
+    "meaning": "武士",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0089",
+    "jp": "貴族",
+    "reading": "きぞく",
+    "romaji": "kizoku",
+    "meaning": "贵族",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0090",
+    "jp": "人々",
+    "reading": "ひとびと",
+    "romaji": "hitobito",
+    "meaning": "人们；每个人",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0091",
+    "jp": "地名",
+    "reading": "ちめい",
+    "romaji": "chimei",
+    "meaning": "地名",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0092",
+    "jp": "地形",
+    "reading": "ちけい",
+    "romaji": "chikei",
+    "meaning": "地形",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0093",
+    "jp": "林",
+    "reading": "はやし",
+    "romaji": "hayashi",
+    "meaning": "林，树林",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0094",
+    "jp": "関係〜",
+    "reading": "かんけいする",
+    "romaji": "kankeisuru",
+    "meaning": "有关系，关系，关联",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "动3"
+    ],
+    "lesson": 3,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0095",
+    "jp": "谷",
+    "reading": "たに",
+    "romaji": "tani",
+    "meaning": "山谷，山沟",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0096",
+    "jp": "中谷",
+    "reading": "なかたに",
+    "romaji": "nakatani",
+    "meaning": "中谷",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "专"
+    ],
+    "lesson": 3,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0097",
+    "jp": "杉",
+    "reading": "すぎ",
+    "romaji": "sugi",
+    "meaning": "杉树",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0098",
+    "jp": "大杉",
+    "reading": "おおすぎ",
+    "romaji": "oosugi",
+    "meaning": "大杉",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "专"
+    ],
+    "lesson": 3,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0099",
+    "jp": "それでも",
+    "reading": "それでも",
+    "romaji": "soredemo",
+    "meaning": "即使那样，尽管如此，可是",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "连"
+    ],
+    "lesson": 3,
+    "note": "[连]"
+  },
+  {
+    "id": "sn3-w0100",
+    "jp": "多民族国家",
+    "reading": "たみんぞくこっか",
+    "romaji": "taminzokukoka",
+    "meaning": "多民族国家",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0101",
+    "jp": "数",
+    "reading": "かず",
+    "romaji": "kazu",
+    "meaning": "数量，数目",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0102",
+    "jp": "一方",
+    "reading": "いっぽう",
+    "romaji": "ipou",
+    "meaning": "另一方面；一方面",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "连"
+    ],
+    "lesson": 3,
+    "note": "[连]"
+  },
+  {
+    "id": "sn3-w0103",
+    "jp": "人数",
+    "reading": "にんずう",
+    "romaji": "ninzuu",
+    "meaning": "人数",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第3課",
+      "名"
+    ],
+    "lesson": 3,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0104",
+    "jp": "本社",
+    "reading": "ほんしゃ",
+    "romaji": "honshiゃ",
+    "meaning": "总部，总公司，本部",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0105",
+    "jp": "青木",
+    "reading": "あおき",
+    "romaji": "aoki",
+    "meaning": "青木",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "专"
+    ],
+    "lesson": 4,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0106",
+    "jp": "担当者",
+    "reading": "たんとうしゃ",
+    "romaji": "tantoushiゃ",
+    "meaning": "负责人，责任人，担当者",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0107",
+    "jp": "要望",
+    "reading": "ようぼう",
+    "romaji": "youbou",
+    "meaning": "迫切要求，迫切期望",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0108",
+    "jp": "推薦〜",
+    "reading": "すいせんする",
+    "romaji": "suisensuru",
+    "meaning": "推荐",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "动3"
+    ],
+    "lesson": 4,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0109",
+    "jp": "事情",
+    "reading": "じじょう",
+    "romaji": "jijiょu",
+    "meaning": "情况；缘故，缘由",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0110",
+    "jp": "近年",
+    "reading": "ぎんねん",
+    "romaji": "ginnen",
+    "meaning": "近年来，近些年",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0111",
+    "jp": "かつて",
+    "reading": "かつて",
+    "romaji": "katsute",
+    "meaning": "过去，以前，曾经",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "副"
+    ],
+    "lesson": 4,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0112",
+    "jp": "深夜",
+    "reading": "しんや",
+    "romaji": "shinya",
+    "meaning": "深夜",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0113",
+    "jp": "休日出勤",
+    "reading": "きゅうじつしゅっきん",
+    "romaji": "kiゅujitsushiゅkin",
+    "meaning": "节假日上班",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0114",
+    "jp": "当たり前",
+    "reading": "あたりまえ",
+    "romaji": "atarimae",
+    "meaning": "当然，理所当然",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "形2"
+    ],
+    "lesson": 4,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0115",
+    "jp": "週休２日制",
+    "reading": "しゅうきゅうふつかせい",
+    "romaji": "shiゅukiゅufutsukasei",
+    "meaning": "双休日制度",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0116",
+    "jp": "導入〜",
+    "reading": "どうにゅうする",
+    "romaji": "douniゅusuru",
+    "meaning": "引进，引入，导入",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "动1"
+    ],
+    "lesson": 4,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0117",
+    "jp": "労働",
+    "reading": "ろうどう",
+    "romaji": "roudou",
+    "meaning": "劳动",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0118",
+    "jp": "減らす",
+    "reading": "へらす",
+    "romaji": "herasu",
+    "meaning": "减少，减轻",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "动1"
+    ],
+    "lesson": 4,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0119",
+    "jp": "取り組み",
+    "reading": "とりくみ",
+    "romaji": "torikumi",
+    "meaning": "措施，举措，努力",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0120",
+    "jp": "実施〜",
+    "reading": "じっしする",
+    "romaji": "jishisuru",
+    "meaning": "实施，施行",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "动3"
+    ],
+    "lesson": 4,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0121",
+    "jp": "国家",
+    "reading": "こっか",
+    "romaji": "koka",
+    "meaning": "国家",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0122",
+    "jp": "公務員",
+    "reading": "こうむいん",
+    "romaji": "koumuin",
+    "meaning": "公务员",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0123",
+    "jp": "制度",
+    "reading": "せいど",
+    "romaji": "seido",
+    "meaning": "制度",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0124",
+    "jp": "％",
+    "reading": "パーセント",
+    "romaji": "pasento",
+    "meaning": "百分比",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0125",
+    "jp": "〜制度",
+    "reading": "フレックスタイムせいど",
+    "romaji": "furekusutaimuseido",
+    "meaning": "弹性工作时间制度",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0126",
+    "jp": "退勤",
+    "reading": "たいきん",
+    "romaji": "taikin",
+    "meaning": "下班",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0127",
+    "jp": "労働者",
+    "reading": "ろうどうしゃ",
+    "romaji": "roudoushiゃ",
+    "meaning": "劳动者，工人",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0128",
+    "jp": "バランス",
+    "reading": "バランス",
+    "romaji": "baransu",
+    "meaning": "平衡，均衡",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0129",
+    "jp": "設ける",
+    "reading": "もうける",
+    "romaji": "moukeru",
+    "meaning": "制定，设置，设立",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "动2"
+    ],
+    "lesson": 4,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0130",
+    "jp": "育児休暇",
+    "reading": "いくじきゅうか",
+    "romaji": "ikujikiゅuka",
+    "meaning": "育婴休假，产假",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0131",
+    "jp": "ほとんど",
+    "reading": "ほとんど",
+    "romaji": "hotondo",
+    "meaning": "基本上，几乎",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0132",
+    "jp": "得る",
+    "reading": "える",
+    "romaji": "eru",
+    "meaning": "得到，取得",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "动2"
+    ],
+    "lesson": 4,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0133",
+    "jp": "出世",
+    "reading": "しゅっせ",
+    "romaji": "shiゅse",
+    "meaning": "晋升，出人头地，出息，发迹",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0134",
+    "jp": "妨げ",
+    "reading": "さまたげ",
+    "romaji": "samatage",
+    "meaning": "妨碍，妨害",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "名"
+    ],
+    "lesson": 4,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0135",
+    "jp": "比べる",
+    "reading": "くらべる",
+    "romaji": "kuraberu",
+    "meaning": "相比，比较，对比",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "动2"
+    ],
+    "lesson": 4,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0136",
+    "jp": "追う",
+    "reading": "おう",
+    "romaji": "ou",
+    "meaning": "追，赶；催逼",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第4課",
+      "动1"
+    ],
+    "lesson": 4,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0137",
+    "jp": "コンテスト",
+    "reading": "コンテスト",
+    "romaji": "kontesuto",
+    "meaning": "比赛，会演",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0138",
+    "jp": "最高賞",
+    "reading": "さいこうしょう",
+    "romaji": "saikoushiょu",
+    "meaning": "最高奖",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0139",
+    "jp": "受賞〜",
+    "reading": "じゅしょうする",
+    "romaji": "jiゅshiょusuru",
+    "meaning": "获奖，得奖",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "动3"
+    ],
+    "lesson": 5,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0140",
+    "jp": "きっかけ",
+    "reading": "きっかけ",
+    "romaji": "kikake",
+    "meaning": "机会，开端，契机",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0141",
+    "jp": "金星",
+    "reading": "きんせい",
+    "romaji": "kinsei",
+    "meaning": "金星",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0142",
+    "jp": "金星",
+    "reading": "きんぼし",
+    "romaji": "kinboshi",
+    "meaning": "非凡功绩，大功",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0143",
+    "jp": "星",
+    "reading": "ほし",
+    "romaji": "hoshi",
+    "meaning": "行星，星星",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0144",
+    "jp": "相撲",
+    "reading": "すもう",
+    "romaji": "sumou",
+    "meaning": "相扑，日式摔跤",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0145",
+    "jp": "位",
+    "reading": "くらい",
+    "romaji": "kurai",
+    "meaning": "地位，职位，官位",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0146",
+    "jp": "力士",
+    "reading": "りきし",
+    "romaji": "rikishi",
+    "meaning": "力士",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0147",
+    "jp": "横綱",
+    "reading": "よこづな",
+    "romaji": "yokozuna",
+    "meaning": "横纲（相扑最高级别）",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0148",
+    "jp": "ボトル",
+    "reading": "ボトル",
+    "romaji": "botoru",
+    "meaning": "瓶子，酒瓶",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0149",
+    "jp": "間違いない",
+    "reading": "まちがいない",
+    "romaji": "machigainai",
+    "meaning": "一定，肯定，没错",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "形1"
+    ],
+    "lesson": 5,
+    "note": "[形1]"
+  },
+  {
+    "id": "sn3-w0150",
+    "jp": "語彙",
+    "reading": "ごい",
+    "romaji": "goi",
+    "meaning": "词，词汇",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0151",
+    "jp": "単語",
+    "reading": "たんご",
+    "romaji": "tango",
+    "meaning": "词汇，单词",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0152",
+    "jp": "元",
+    "reading": "もと",
+    "romaji": "moto",
+    "meaning": "原来，本来；根源，起源",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0153",
+    "jp": "分類〜",
+    "reading": "ぶんるいする",
+    "romaji": "bunruisuru",
+    "meaning": "划分，分类",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "动3"
+    ],
+    "lesson": 5,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0154",
+    "jp": "和語",
+    "reading": "わご",
+    "romaji": "wago",
+    "meaning": "和语词",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0155",
+    "jp": "漢語",
+    "reading": "かんご",
+    "romaji": "kango",
+    "meaning": "汉语词",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0156",
+    "jp": "外来語",
+    "reading": "がいらいご",
+    "romaji": "gairaigo",
+    "meaning": "外来词",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0157",
+    "jp": "混種語",
+    "reading": "こんしゅご",
+    "romaji": "konshiゅgo",
+    "meaning": "混合词",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0158",
+    "jp": "分ける",
+    "reading": "わける",
+    "romaji": "wakeru",
+    "meaning": "分，分开，分解",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "动2"
+    ],
+    "lesson": 5,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0159",
+    "jp": "もともと",
+    "reading": "もともと",
+    "romaji": "motomoto",
+    "meaning": "原本，本来，根本",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "副"
+    ],
+    "lesson": 5,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0160",
+    "jp": "取り入れる",
+    "reading": "とりいれる",
+    "romaji": "toriireru",
+    "meaning": "引进，引入，采用",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "动2"
+    ],
+    "lesson": 5,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0161",
+    "jp": "音読み",
+    "reading": "おんよみ",
+    "romaji": "onyomi",
+    "meaning": "音读",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0162",
+    "jp": "基づく",
+    "reading": "もとづく",
+    "romaji": "motozuku",
+    "meaning": "依据，根据，基于",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "动1"
+    ],
+    "lesson": 5,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0163",
+    "jp": "西洋",
+    "reading": "せいよう",
+    "romaji": "seiyou",
+    "meaning": "西方，西洋",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0164",
+    "jp": "中心",
+    "reading": "ちゅうしん",
+    "romaji": "chiゅushin",
+    "meaning": "中心",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0165",
+    "jp": "片仮名",
+    "reading": "かたかな",
+    "romaji": "katakana",
+    "meaning": "片假名",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0166",
+    "jp": "うち",
+    "reading": "うち",
+    "romaji": "uchi",
+    "meaning": "之中，当中",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0167",
+    "jp": "組み合わせる",
+    "reading": "くみあわせる",
+    "romaji": "kumiawaseru",
+    "meaning": "组合，编到一起",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "动2"
+    ],
+    "lesson": 5,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0168",
+    "jp": "生物",
+    "reading": "せいぶつ",
+    "romaji": "seibutsu",
+    "meaning": "生物",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0169",
+    "jp": "動物",
+    "reading": "どうぶつ",
+    "romaji": "doubutsu",
+    "meaning": "动物",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0170",
+    "jp": "植物",
+    "reading": "しょくぶつ",
+    "romaji": "shiょkubutsu",
+    "meaning": "植物",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0171",
+    "jp": "総称",
+    "reading": "そうしょう",
+    "romaji": "soushiょu",
+    "meaning": "总称",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0172",
+    "jp": "生物",
+    "reading": "なまもの",
+    "romaji": "namamono",
+    "meaning": "生的（食品），生鲜（食品）",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0173",
+    "jp": "煮る",
+    "reading": "にる",
+    "romaji": "niru",
+    "meaning": "煮，炖，熬，煨，焖",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "动2"
+    ],
+    "lesson": 5,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0174",
+    "jp": "文",
+    "reading": "ぶん",
+    "romaji": "bun",
+    "meaning": "句，句子；文章",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0175",
+    "jp": "違い",
+    "reading": "ちがい",
+    "romaji": "chigai",
+    "meaning": "不同，区别",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0176",
+    "jp": "宿泊施設",
+    "reading": "しゅくはくしせつ",
+    "romaji": "shiゅkuhakushisetsu",
+    "meaning": "住宿设施",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0177",
+    "jp": "たいてい",
+    "reading": "たいてい",
+    "romaji": "taitei",
+    "meaning": "大抵，大都",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "副"
+    ],
+    "lesson": 5,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0178",
+    "jp": "布団",
+    "reading": "ふとん",
+    "romaji": "futon",
+    "meaning": "被褥，铺盖",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "名"
+    ],
+    "lesson": 5,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0179",
+    "jp": "敷く",
+    "reading": "しく",
+    "romaji": "shiku",
+    "meaning": "铺，垫",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第5課",
+      "动1"
+    ],
+    "lesson": 5,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0180",
+    "jp": "竜虎酒造",
+    "reading": "りゅうこしゅぞう",
+    "romaji": "riゅukoshiゅzou",
+    "meaning": "龙虎酒厂",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "专"
+    ],
+    "lesson": 6,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0181",
+    "jp": "なんと",
+    "reading": "なんと",
+    "romaji": "nanto",
+    "meaning": "竟然、多么",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "副"
+    ],
+    "lesson": 6,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0182",
+    "jp": "キャプテン",
+    "reading": "キャプテン",
+    "romaji": "kiゃputen",
+    "meaning": "领队、队长",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0183",
+    "jp": "ふうん",
+    "reading": "ふうん",
+    "romaji": "fuun",
+    "meaning": "哼、哦",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "叹"
+    ],
+    "lesson": 6,
+    "note": "[叹]"
+  },
+  {
+    "id": "sn3-w0184",
+    "jp": "信頼～",
+    "reading": "しんらいする",
+    "romaji": "shinraisuru",
+    "meaning": "信赖",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "动3"
+    ],
+    "lesson": 6,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0185",
+    "jp": "お昼",
+    "reading": "おひる",
+    "romaji": "ohiru",
+    "meaning": "午饭",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0186",
+    "jp": "長引く",
+    "reading": "ながびく",
+    "romaji": "nagabiku",
+    "meaning": "拖延",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "动1"
+    ],
+    "lesson": 6,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0187",
+    "jp": "熱心",
+    "reading": "ねっしん",
+    "romaji": "neshin",
+    "meaning": "热心",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "形2"
+    ],
+    "lesson": 6,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0188",
+    "jp": "面倒",
+    "reading": "めんどう",
+    "romaji": "mendou",
+    "meaning": "照顾、麻烦",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0189",
+    "jp": "まさに",
+    "reading": "まさに",
+    "romaji": "masani",
+    "meaning": "真正是、简直是",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "副"
+    ],
+    "lesson": 6,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0190",
+    "jp": "理想",
+    "reading": "りそう",
+    "romaji": "risou",
+    "meaning": "理想",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0191",
+    "jp": "さまざま",
+    "reading": "さまざま",
+    "romaji": "samazama",
+    "meaning": "各种各样",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "形2"
+    ],
+    "lesson": 6,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0192",
+    "jp": "フォーク",
+    "reading": "フォーク",
+    "romaji": "fuぉku",
+    "meaning": "叉子",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0193",
+    "jp": "洋食",
+    "reading": "ようしょく",
+    "romaji": "youshiょku",
+    "meaning": "西餐",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0194",
+    "jp": "和食",
+    "reading": "わしょく",
+    "romaji": "washiょku",
+    "meaning": "日餐",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0195",
+    "jp": "れんげ",
+    "reading": "れんげ",
+    "romaji": "renge",
+    "meaning": "汤匙",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0196",
+    "jp": "おわん",
+    "reading": "おわん",
+    "romaji": "owan",
+    "meaning": "碗",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0197",
+    "jp": "持ち上げる",
+    "reading": "もちあげる",
+    "romaji": "mochiageru",
+    "meaning": "端起",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "动2"
+    ],
+    "lesson": 6,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0198",
+    "jp": "口",
+    "reading": "くち",
+    "romaji": "kuchi",
+    "meaning": "嘴、口",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0199",
+    "jp": "具",
+    "reading": "ぐ",
+    "romaji": "gu",
+    "meaning": "配料",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0200",
+    "jp": "材料",
+    "reading": "ざいりょう",
+    "romaji": "zairiょu",
+    "meaning": "材料",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0201",
+    "jp": "地域",
+    "reading": "ちいき",
+    "romaji": "chiiki",
+    "meaning": "地域",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0202",
+    "jp": "竹",
+    "reading": "たけ",
+    "romaji": "take",
+    "meaning": "竹子",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0203",
+    "jp": "玉",
+    "reading": "ぎょく",
+    "romaji": "giょku",
+    "meaning": "玉",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0204",
+    "jp": "金属",
+    "reading": "きんぞく",
+    "romaji": "kinzoku",
+    "meaning": "金属",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0205",
+    "jp": "やや",
+    "reading": "やや",
+    "romaji": "yaya",
+    "meaning": "稍微",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "副"
+    ],
+    "lesson": 6,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0206",
+    "jp": "平ら",
+    "reading": "たいら",
+    "romaji": "taira",
+    "meaning": "扁平",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "形2"
+    ],
+    "lesson": 6,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0207",
+    "jp": "ステンレス",
+    "reading": "ステンレス",
+    "romaji": "sutenresu",
+    "meaning": "不锈钢",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0208",
+    "jp": "先",
+    "reading": "さき",
+    "romaji": "saki",
+    "meaning": "尖端",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0209",
+    "jp": "とがる",
+    "reading": "とがる",
+    "romaji": "togaru",
+    "meaning": "尖",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "动1"
+    ],
+    "lesson": 6,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0210",
+    "jp": "漆",
+    "reading": "うるし",
+    "romaji": "urushi",
+    "meaning": "漆",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0211",
+    "jp": "塗る",
+    "reading": "ぬる",
+    "romaji": "nuru",
+    "meaning": "涂",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "动1"
+    ],
+    "lesson": 6,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0212",
+    "jp": "専用",
+    "reading": "せんよう",
+    "romaji": "senyou",
+    "meaning": "专用",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0213",
+    "jp": "茶わん",
+    "reading": "ちゃわん",
+    "romaji": "chiゃwan",
+    "meaning": "茶碗",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0214",
+    "jp": "大皿",
+    "reading": "おおざら",
+    "romaji": "oozara",
+    "meaning": "大盘子",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0215",
+    "jp": "取りばし",
+    "reading": "とりばし",
+    "romaji": "toribashi",
+    "meaning": "公用筷",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0216",
+    "jp": "正式",
+    "reading": "せいしき",
+    "romaji": "seishiki",
+    "meaning": "正式",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "形2"
+    ],
+    "lesson": 6,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0217",
+    "jp": "マナー",
+    "reading": "マナー",
+    "romaji": "mana",
+    "meaning": "礼节",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0218",
+    "jp": "ベトナム",
+    "reading": "ベトナム",
+    "romaji": "betonamu",
+    "meaning": "越南",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "专"
+    ],
+    "lesson": 6,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0219",
+    "jp": "文化",
+    "reading": "ぶんか",
+    "romaji": "bunka",
+    "meaning": "文化",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "名"
+    ],
+    "lesson": 6,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0220",
+    "jp": "実に",
+    "reading": "じつに",
+    "romaji": "jitsuni",
+    "meaning": "实在、确实",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第6課",
+      "副"
+    ],
+    "lesson": 6,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0221",
+    "jp": "CM",
+    "reading": "シーエム",
+    "romaji": "shiemu",
+    "meaning": "广告",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0222",
+    "jp": "燕醸造",
+    "reading": "つばめじょうぞう",
+    "romaji": "tsubamejiょuzou",
+    "meaning": "燕酿酒厂",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "专"
+    ],
+    "lesson": 7,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0223",
+    "jp": "参考",
+    "reading": "さんこう",
+    "romaji": "sankou",
+    "meaning": "参考",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0224",
+    "jp": "制作",
+    "reading": "せいさく",
+    "romaji": "seisaku",
+    "meaning": "制作",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0225",
+    "jp": "感性",
+    "reading": "かんせい",
+    "romaji": "kansei",
+    "meaning": "感性",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0226",
+    "jp": "創作",
+    "reading": "そうさく",
+    "romaji": "sousaku",
+    "meaning": "创作",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0227",
+    "jp": "創作中華料理～",
+    "reading": "そうさくちゅうかりょうりコンテスト",
+    "romaji": "sousakuchiゅukariょurikontesuto",
+    "meaning": "创作中餐大赛",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "专"
+    ],
+    "lesson": 7,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0228",
+    "jp": "募集～",
+    "reading": "ぼしゅうする",
+    "romaji": "boshiゅusuru",
+    "meaning": "征集",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "动3"
+    ],
+    "lesson": 7,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0229",
+    "jp": "形式",
+    "reading": "けいしき",
+    "romaji": "keishiki",
+    "meaning": "形式",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0230",
+    "jp": "審査員",
+    "reading": "しんさいん",
+    "romaji": "shinsain",
+    "meaning": "评委",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0231",
+    "jp": "ノーストンホテル",
+    "reading": "ノーストンホテル",
+    "romaji": "nosutonhoteru",
+    "meaning": "诺斯顿酒店",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "专"
+    ],
+    "lesson": 7,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0232",
+    "jp": "華晶酒店",
+    "reading": "かしょうしゅてん",
+    "romaji": "kashiょushiゅten",
+    "meaning": "华晶酒店",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "专"
+    ],
+    "lesson": 7,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0233",
+    "jp": "スター",
+    "reading": "スター",
+    "romaji": "suta",
+    "meaning": "明星",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0234",
+    "jp": "話題",
+    "reading": "わだい",
+    "romaji": "wadai",
+    "meaning": "话题",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0235",
+    "jp": "なるほど",
+    "reading": "なるほど",
+    "romaji": "naruhodo",
+    "meaning": "原来如此",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "叹"
+    ],
+    "lesson": 7,
+    "note": "[叹]"
+  },
+  {
+    "id": "sn3-w0236",
+    "jp": "取り上げる",
+    "reading": "とりあげる",
+    "romaji": "toriageru",
+    "meaning": "报道",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "动2"
+    ],
+    "lesson": 7,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0237",
+    "jp": "それぞれ",
+    "reading": "それぞれ",
+    "romaji": "sorezore",
+    "meaning": "分别、各自",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0238",
+    "jp": "作法",
+    "reading": "さほう",
+    "romaji": "sahou",
+    "meaning": "礼节、规矩",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0239",
+    "jp": "手段",
+    "reading": "しゅだん",
+    "romaji": "shiゅdan",
+    "meaning": "手段",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0240",
+    "jp": "コミュニケーション",
+    "reading": "コミュニケーション",
+    "romaji": "komiゅnikeshiょn",
+    "meaning": "交流、沟通",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0241",
+    "jp": "件名",
+    "reading": "けんめい",
+    "romaji": "kenmei",
+    "meaning": "邮件主题",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0242",
+    "jp": "用件",
+    "reading": "ようけん",
+    "romaji": "youken",
+    "meaning": "事由",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0243",
+    "jp": "明確",
+    "reading": "めいかく",
+    "romaji": "meikaku",
+    "meaning": "明确",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "形2"
+    ],
+    "lesson": 7,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0244",
+    "jp": "宛て先",
+    "reading": "あてさき",
+    "romaji": "atesaki",
+    "meaning": "收件地址",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0245",
+    "jp": "株式会社",
+    "reading": "かぶしきがいしゃ",
+    "romaji": "kabushikigaishiゃ",
+    "meaning": "股份公司",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0246",
+    "jp": "始め",
+    "reading": "はじめ",
+    "romaji": "hajime",
+    "meaning": "开始",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0247",
+    "jp": "簡潔",
+    "reading": "かんけつ",
+    "romaji": "kanketsu",
+    "meaning": "简洁",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "形2"
+    ],
+    "lesson": 7,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0248",
+    "jp": "要点",
+    "reading": "ようてん",
+    "romaji": "youten",
+    "meaning": "要点",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0249",
+    "jp": "文字",
+    "reading": "もじ",
+    "romaji": "moji",
+    "meaning": "文字",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0250",
+    "jp": "改行～",
+    "reading": "かいぎょうする",
+    "romaji": "kaigiょusuru",
+    "meaning": "换行",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "动3"
+    ],
+    "lesson": 7,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0251",
+    "jp": "あける",
+    "reading": "あける",
+    "romaji": "akeru",
+    "meaning": "空出",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "动2"
+    ],
+    "lesson": 7,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0252",
+    "jp": "署名",
+    "reading": "しょめい",
+    "romaji": "shiょmei",
+    "meaning": "署名",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0253",
+    "jp": "所属",
+    "reading": "しょぞく",
+    "romaji": "shiょzoku",
+    "meaning": "所属单位",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第7課",
+      "名"
+    ],
+    "lesson": 7,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0254",
+    "jp": "キャンペーン",
+    "reading": "キャンペーン",
+    "romaji": "kiゃnpen",
+    "meaning": "宣传活动、促销活动",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0255",
+    "jp": "ターゲット",
+    "reading": "ターゲット",
+    "romaji": "tageto",
+    "meaning": "目标、对象",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0256",
+    "jp": "絞る",
+    "reading": "しぼる",
+    "romaji": "shiboru",
+    "meaning": "集中、榨、挤",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "动1"
+    ],
+    "lesson": 8,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0257",
+    "jp": "ほう",
+    "reading": "ほう",
+    "romaji": "hou",
+    "meaning": "哦、嚯",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "叹"
+    ],
+    "lesson": 8,
+    "note": "[叹]"
+  },
+  {
+    "id": "sn3-w0258",
+    "jp": "試飲会",
+    "reading": "しいんかい",
+    "romaji": "shiinkai",
+    "meaning": "试饮会",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0259",
+    "jp": "探る",
+    "reading": "さぐる",
+    "romaji": "saguru",
+    "meaning": "探寻、探访",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "动1"
+    ],
+    "lesson": 8,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0260",
+    "jp": "コーナー",
+    "reading": "コーナー",
+    "romaji": "kona",
+    "meaning": "栏目、角落",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0261",
+    "jp": "PR",
+    "reading": "ピーアール",
+    "romaji": "piaru",
+    "meaning": "公关宣传",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0262",
+    "jp": "取材",
+    "reading": "しゅざい",
+    "romaji": "shiゅzai",
+    "meaning": "采访、取材",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0263",
+    "jp": "そのような",
+    "reading": "そのような",
+    "romaji": "sonoyouna",
+    "meaning": "那样的",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "连体"
+    ],
+    "lesson": 8,
+    "note": "[连体]"
+  },
+  {
+    "id": "sn3-w0264",
+    "jp": "カップラーメン",
+    "reading": "カップラーメン",
+    "romaji": "kapuramen",
+    "meaning": "碗装方便面",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0265",
+    "jp": "注ぐ",
+    "reading": "そそぐ",
+    "romaji": "sosogu",
+    "meaning": "加入、注入",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "动1"
+    ],
+    "lesson": 8,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0266",
+    "jp": "日清食品",
+    "reading": "にっしんしょくひん",
+    "romaji": "nishinshiょkuhin",
+    "meaning": "日清食品",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "专"
+    ],
+    "lesson": 8,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0267",
+    "jp": "創業者",
+    "reading": "そうぎょうしゃ",
+    "romaji": "sougiょushiゃ",
+    "meaning": "开创者、创立者、创建者、创业者",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0268",
+    "jp": "安藤百福",
+    "reading": "あんどうももふく",
+    "romaji": "andoumomofuku",
+    "meaning": "安藤百福",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "专"
+    ],
+    "lesson": 8,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0269",
+    "jp": "インスタントラーメン",
+    "reading": "インスタントラーメン",
+    "romaji": "insutantoramen",
+    "meaning": "方便面",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0270",
+    "jp": "すでに",
+    "reading": "すでに",
+    "romaji": "sudeni",
+    "meaning": "已经、业已",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "副"
+    ],
+    "lesson": 8,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0271",
+    "jp": "試食～",
+    "reading": "ししょくする",
+    "romaji": "shishiょkusuru",
+    "meaning": "品尝、试餐",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "动3"
+    ],
+    "lesson": 8,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0272",
+    "jp": "すると",
+    "reading": "すると",
+    "romaji": "suruto",
+    "meaning": "于是、接着",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "连"
+    ],
+    "lesson": 8,
+    "note": "[连]"
+  },
+  {
+    "id": "sn3-w0273",
+    "jp": "どんぶり",
+    "reading": "どんぶり",
+    "romaji": "donburi",
+    "meaning": "大碗、海碗",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0274",
+    "jp": "代わり",
+    "reading": "かわり",
+    "romaji": "kawari",
+    "meaning": "代替、替代",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0275",
+    "jp": "紙～",
+    "reading": "かみコップ",
+    "romaji": "kamikopu",
+    "meaning": "纸杯",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0276",
+    "jp": "砕く",
+    "reading": "くだく",
+    "romaji": "kudaku",
+    "meaning": "掰碎、弄碎、打碎",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "动1"
+    ],
+    "lesson": 8,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0277",
+    "jp": "代わる",
+    "reading": "かわる",
+    "romaji": "kawaru",
+    "meaning": "代替",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "动1"
+    ],
+    "lesson": 8,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0278",
+    "jp": "販売～",
+    "reading": "はんばいする",
+    "romaji": "hanbaisuru",
+    "meaning": "销售、出售",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "动3"
+    ],
+    "lesson": 8,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0279",
+    "jp": "確信～",
+    "reading": "かくしんする",
+    "romaji": "kakushinsuru",
+    "meaning": "坚信、确信",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "动3"
+    ],
+    "lesson": 8,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0280",
+    "jp": "工夫",
+    "reading": "くふう",
+    "romaji": "kufuu",
+    "meaning": "下功夫、想办法",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0281",
+    "jp": "末",
+    "reading": "すえ",
+    "romaji": "sue",
+    "meaning": "结果；末尾、末了、结尾",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "名"
+    ],
+    "lesson": 8,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0282",
+    "jp": "採用～",
+    "reading": "さいようする",
+    "romaji": "saiyousuru",
+    "meaning": "采用、采纳",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "动3"
+    ],
+    "lesson": 8,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0283",
+    "jp": "滑り落ちる",
+    "reading": "すべりおちる",
+    "romaji": "suberiochiru",
+    "meaning": "滑落、滑下",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第8課",
+      "动2"
+    ],
+    "lesson": 8,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0284",
+    "jp": "手荷物係",
+    "reading": "てにもつがかり",
+    "romaji": "tenimotsugakari",
+    "meaning": "行李员",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0285",
+    "jp": "どのような",
+    "reading": "どのような",
+    "romaji": "donoyouna",
+    "meaning": "什么样的，怎样的",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "连体"
+    ],
+    "lesson": 9,
+    "note": "[连体]"
+  },
+  {
+    "id": "sn3-w0286",
+    "jp": "名札",
+    "reading": "なふだ",
+    "romaji": "nafuda",
+    "meaning": "姓名牌，名牌",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0287",
+    "jp": "よろしい",
+    "reading": "よろしい",
+    "romaji": "yoroshii",
+    "meaning": "行，好，可以",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "形1"
+    ],
+    "lesson": 9,
+    "note": "[形1]"
+  },
+  {
+    "id": "sn3-w0288",
+    "jp": "職員",
+    "reading": "しょくいん",
+    "romaji": "shiょkuin",
+    "meaning": "职员",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0289",
+    "jp": "呼び出し",
+    "reading": "よびだし",
+    "romaji": "yobidashi",
+    "meaning": "呼叫，传唤",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0290",
+    "jp": "アナウンス",
+    "reading": "アナウンス",
+    "romaji": "anaunsu",
+    "meaning": "广播；报告；通知",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0291",
+    "jp": "いったい",
+    "reading": "いったい",
+    "romaji": "itai",
+    "meaning": "究竟，到底",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "副"
+    ],
+    "lesson": 9,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0292",
+    "jp": "ロビー",
+    "reading": "ロビー",
+    "romaji": "robi",
+    "meaning": "大厅，休息厅",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0293",
+    "jp": "後ほど",
+    "reading": "のちほど",
+    "romaji": "nochihodo",
+    "meaning": "稍后，随后，过一会儿",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "副"
+    ],
+    "lesson": 9,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0294",
+    "jp": "日本航空",
+    "reading": "にほんこうくう",
+    "romaji": "nihonkoukuu",
+    "meaning": "日本航空",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "专"
+    ],
+    "lesson": 9,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0295",
+    "jp": "パリ",
+    "reading": "パリ",
+    "romaji": "pari",
+    "meaning": "巴黎",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "专"
+    ],
+    "lesson": 9,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0296",
+    "jp": "経由",
+    "reading": "けいゆ",
+    "romaji": "keiyu",
+    "meaning": "经由，路过",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0297",
+    "jp": "ローマ",
+    "reading": "ローマ",
+    "romaji": "roma",
+    "meaning": "罗马",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "专"
+    ],
+    "lesson": 9,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0298",
+    "jp": "成田",
+    "reading": "なりた",
+    "romaji": "narita",
+    "meaning": "成田",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "专"
+    ],
+    "lesson": 9,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0299",
+    "jp": "観光",
+    "reading": "かんこう",
+    "romaji": "kankou",
+    "meaning": "观光，游览",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0300",
+    "jp": "見学",
+    "reading": "けんがく",
+    "romaji": "kengaku",
+    "meaning": "参观学习",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0301",
+    "jp": "ナポリ",
+    "reading": "ナポリ",
+    "romaji": "napori",
+    "meaning": "那不勒斯",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "专"
+    ],
+    "lesson": 9,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0302",
+    "jp": "自由行動",
+    "reading": "じゆうこうどう",
+    "romaji": "jiyuukoudou",
+    "meaning": "自由活动",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0303",
+    "jp": "翌日",
+    "reading": "よくじつ",
+    "romaji": "yokujitsu",
+    "meaning": "次日，第二天",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0304",
+    "jp": "入国",
+    "reading": "にゅうこく",
+    "romaji": "niゅukoku",
+    "meaning": "入境，进入某个国家",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0305",
+    "jp": "不安",
+    "reading": "ふあん",
+    "romaji": "fuan",
+    "meaning": "担心，不安；不放心",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0306",
+    "jp": "にこにこ",
+    "reading": "にこにこ",
+    "romaji": "nikoniko",
+    "meaning": "微笑",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "副"
+    ],
+    "lesson": 9,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0307",
+    "jp": "ガイド",
+    "reading": "ガイド",
+    "romaji": "gaido",
+    "meaning": "导游；指南",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0308",
+    "jp": "起床",
+    "reading": "きしょう",
+    "romaji": "kishiょu",
+    "meaning": "起床",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0309",
+    "jp": "土産物屋",
+    "reading": "みやげものや",
+    "romaji": "miyagemonoya",
+    "meaning": "土特产店老板；土特产店，礼品店",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0310",
+    "jp": "呼びかける",
+    "reading": "よびかける",
+    "romaji": "yobikakeru",
+    "meaning": "呼唤，招呼",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "动2"
+    ],
+    "lesson": 9,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0311",
+    "jp": "黙る",
+    "reading": "だまる",
+    "romaji": "damaru",
+    "meaning": "不说话，沉默",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "动1"
+    ],
+    "lesson": 9,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0312",
+    "jp": "東洋人",
+    "reading": "とうようじん",
+    "romaji": "touyoujin",
+    "meaning": "东方人，亚洲人",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0313",
+    "jp": "順",
+    "reading": "じゅん",
+    "romaji": "jiゅn",
+    "meaning": "顺序",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0314",
+    "jp": "ポンペイ",
+    "reading": "ポンペイ",
+    "romaji": "ponpei",
+    "meaning": "庞贝古城",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "专"
+    ],
+    "lesson": 9,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0315",
+    "jp": "西暦",
+    "reading": "せいれき",
+    "romaji": "seireki",
+    "meaning": "公历，阳历",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0316",
+    "jp": "火山",
+    "reading": "かざん",
+    "romaji": "kazan",
+    "meaning": "火山",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0317",
+    "jp": "爆発",
+    "reading": "ばくはつ",
+    "romaji": "bakuhatsu",
+    "meaning": "爆发",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0318",
+    "jp": "埋まる",
+    "reading": "うまる",
+    "romaji": "umaru",
+    "meaning": "埋上，填满",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "动1"
+    ],
+    "lesson": 9,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0319",
+    "jp": "〜語",
+    "reading": "イタリアご",
+    "romaji": "itariago",
+    "meaning": "意大利语",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0320",
+    "jp": "隅",
+    "reading": "すみ",
+    "romaji": "sumi",
+    "meaning": "角落",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0321",
+    "jp": "グループ",
+    "reading": "グループ",
+    "romaji": "gurupu",
+    "meaning": "小组，团体",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "名"
+    ],
+    "lesson": 9,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0322",
+    "jp": "なんとなく",
+    "reading": "なんとなく",
+    "romaji": "nantonaku",
+    "meaning": "总觉得，不由得，无意中",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "副"
+    ],
+    "lesson": 9,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0323",
+    "jp": "ほっと",
+    "reading": "ほっと",
+    "romaji": "hoto",
+    "meaning": "放松，放心，松气",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "副"
+    ],
+    "lesson": 9,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0324",
+    "jp": "にっこり",
+    "reading": "にっこり",
+    "romaji": "nikori",
+    "meaning": "莞尔，微笑，嫣然一笑",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "副"
+    ],
+    "lesson": 9,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0325",
+    "jp": "相通じる",
+    "reading": "あいつうじる",
+    "romaji": "aitsuujiru",
+    "meaning": "相通，沟通",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第9課",
+      "动2"
+    ],
+    "lesson": 9,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0326",
+    "jp": "スケジュール",
+    "reading": "スケジュール",
+    "romaji": "sukejiゅru",
+    "meaning": "日程，日程表",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0327",
+    "jp": "ハード",
+    "reading": "ハード",
+    "romaji": "hado",
+    "meaning": "（日程）紧张，紧密；困难；硬，坚固",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "形2"
+    ],
+    "lesson": 10,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0328",
+    "jp": "とんでもない",
+    "reading": "とんでもない",
+    "romaji": "tondemonai",
+    "meaning": "没有的事儿，哪里的话",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "形1"
+    ],
+    "lesson": 10,
+    "note": "[形1]"
+  },
+  {
+    "id": "sn3-w0329",
+    "jp": "ファッション",
+    "reading": "ファッション",
+    "romaji": "fuぁshiょn",
+    "meaning": "时装，时尚，流行",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0330",
+    "jp": "観光地",
+    "reading": "かんこうち",
+    "romaji": "kankouchi",
+    "meaning": "观光胜地，旅游胜地",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0331",
+    "jp": "有馬温泉",
+    "reading": "ありまおんせん",
+    "romaji": "arimaonsen",
+    "meaning": "有马温泉",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "专"
+    ],
+    "lesson": 10,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0332",
+    "jp": "のんびり",
+    "reading": "のんびり",
+    "romaji": "nonbiri",
+    "meaning": "放松，轻松；悠闲自在，悠然自得",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "副"
+    ],
+    "lesson": 10,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0333",
+    "jp": "女将",
+    "reading": "おかみ",
+    "romaji": "okami",
+    "meaning": "老板娘，女主人，女掌柜",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0334",
+    "jp": "大国",
+    "reading": "たいこく",
+    "romaji": "taikoku",
+    "meaning": "大国，强国",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0335",
+    "jp": "全国",
+    "reading": "ぜんこく",
+    "romaji": "zenkoku",
+    "meaning": "全国",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0336",
+    "jp": "温泉地",
+    "reading": "おんせんち",
+    "romaji": "onsenchi",
+    "meaning": "温泉胜地",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0337",
+    "jp": "延べ",
+    "reading": "のべ",
+    "romaji": "nobe",
+    "meaning": "总计，共计",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0338",
+    "jp": "地中",
+    "reading": "ちちゅう",
+    "romaji": "chichiゅu",
+    "meaning": "地下，地里",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0339",
+    "jp": "湧き出る",
+    "reading": "わきでる",
+    "romaji": "wakideru",
+    "meaning": "喷涌，喷出，涌出",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "动2"
+    ],
+    "lesson": 10,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0340",
+    "jp": "規定",
+    "reading": "きてい",
+    "romaji": "kitei",
+    "meaning": "特定，规定",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0341",
+    "jp": "含む",
+    "reading": "ふくむ",
+    "romaji": "fukumu",
+    "meaning": "包含，含有",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "动1"
+    ],
+    "lesson": 10,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0342",
+    "jp": "透明",
+    "reading": "とうめい",
+    "romaji": "toumei",
+    "meaning": "透明",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "形2"
+    ],
+    "lesson": 10,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0343",
+    "jp": "濁る",
+    "reading": "にごる",
+    "romaji": "nigoru",
+    "meaning": "混浊，污浊",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "动1"
+    ],
+    "lesson": 10,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0344",
+    "jp": "神経痛",
+    "reading": "しんけいつう",
+    "romaji": "shinkeitsuu",
+    "meaning": "神经痛",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0345",
+    "jp": "皮膚病",
+    "reading": "ひふびょう",
+    "romaji": "hifubiょu",
+    "meaning": "皮肤病",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0346",
+    "jp": "高血圧",
+    "reading": "こうけつあつ",
+    "romaji": "kouketsuatsu",
+    "meaning": "高血压",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0347",
+    "jp": "治療",
+    "reading": "ちりょう",
+    "romaji": "chiriょu",
+    "meaning": "治疗",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0348",
+    "jp": "変える",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "meaning": "换，改变",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "动2"
+    ],
+    "lesson": 10,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0349",
+    "jp": "露天風呂",
+    "reading": "ろてんぶろ",
+    "romaji": "rotenburo",
+    "meaning": "露天温泉，露天浴池",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0350",
+    "jp": "たっぷり",
+    "reading": "たっぷり",
+    "romaji": "tapuri",
+    "meaning": "满……，充分，足够",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "形2"
+    ],
+    "lesson": 10,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0351",
+    "jp": "つかる",
+    "reading": "つかる",
+    "romaji": "tsukaru",
+    "meaning": "浸泡，泡澡",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "动1"
+    ],
+    "lesson": 10,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0352",
+    "jp": "リラックスする",
+    "reading": "リラックスする",
+    "romaji": "rirakususuru",
+    "meaning": "放松，松弛；轻松",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "动3"
+    ],
+    "lesson": 10,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0353",
+    "jp": "宿泊〜",
+    "reading": "しゅくはくする",
+    "romaji": "shiゅkuhakusuru",
+    "meaning": "住宿，投宿",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "动3"
+    ],
+    "lesson": 10,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0354",
+    "jp": "入浴施設",
+    "reading": "にゅうよくしせつ",
+    "romaji": "niゅuyokushisetsu",
+    "meaning": "洗浴设施",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0355",
+    "jp": "日帰り",
+    "reading": "ひがえり",
+    "romaji": "higaeri",
+    "meaning": "当天往返",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0356",
+    "jp": "入浴",
+    "reading": "にゅうよく",
+    "romaji": "niゅuyoku",
+    "meaning": "洗浴，入浴",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0357",
+    "jp": "施設",
+    "reading": "しせつ",
+    "romaji": "shisetsu",
+    "meaning": "设施，设备",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0358",
+    "jp": "銭湯",
+    "reading": "ぜんとう",
+    "romaji": "zentou",
+    "meaning": "公共澡堂，洗浴中心",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0359",
+    "jp": "ころ",
+    "reading": "ころ",
+    "romaji": "koro",
+    "meaning": "时候，时期",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0360",
+    "jp": "〜銭湯",
+    "reading": "スーパーぜんとう",
+    "romaji": "supazentou",
+    "meaning": "超级洗浴中心",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0361",
+    "jp": "マッサージ",
+    "reading": "マッサージ",
+    "romaji": "masaji",
+    "meaning": "按摩",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0362",
+    "jp": "エステ",
+    "reading": "エステ",
+    "romaji": "esute",
+    "meaning": "美容，全身美容",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0363",
+    "jp": "楽しむ",
+    "reading": "たのしむ",
+    "romaji": "tanoshimu",
+    "meaning": "享受，欣赏",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "动1"
+    ],
+    "lesson": 10,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0364",
+    "jp": "ちょっとした",
+    "reading": "ちょっとした",
+    "romaji": "chiょtoshita",
+    "meaning": "一点点，有点，稍微",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "连体"
+    ],
+    "lesson": 10,
+    "note": "[连体]"
+  },
+  {
+    "id": "sn3-w0365",
+    "jp": "いやし",
+    "reading": "いやし",
+    "romaji": "iyashi",
+    "meaning": "安慰，享受；医治，治疗",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第10課",
+      "名"
+    ],
+    "lesson": 10,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0366",
+    "jp": "一心",
+    "reading": "いっしん",
+    "romaji": "ishin",
+    "meaning": "一心",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "专"
+    ],
+    "lesson": 11,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0367",
+    "jp": "新作",
+    "reading": "しんさく",
+    "romaji": "shinsaku",
+    "meaning": "新作，新作品",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0368",
+    "jp": "公開〜",
+    "reading": "こうかいする",
+    "romaji": "koukaisuru",
+    "meaning": "公映，公开，开映；开放",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动3"
+    ],
+    "lesson": 11,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0369",
+    "jp": "興行",
+    "reading": "こうぎょう",
+    "romaji": "kougiょu",
+    "meaning": "票房，公演，演出，上映",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0370",
+    "jp": "トップ",
+    "reading": "トップ",
+    "romaji": "topu",
+    "meaning": "第一位，首位，第一名",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0371",
+    "jp": "見込み",
+    "reading": "みこみ",
+    "romaji": "mikomi",
+    "meaning": "预料，估计；可能性",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0372",
+    "jp": "主演〜",
+    "reading": "しゅえんする",
+    "romaji": "shiゅensuru",
+    "meaning": "主演",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动3"
+    ],
+    "lesson": 11,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0373",
+    "jp": "アクション",
+    "reading": "アクション",
+    "romaji": "akushiょn",
+    "meaning": "动作片，武打剧；动作",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0374",
+    "jp": "評価〜",
+    "reading": "ひょうかする",
+    "romaji": "hiょukasuru",
+    "meaning": "评价",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动3"
+    ],
+    "lesson": 11,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0375",
+    "jp": "高まる",
+    "reading": "たかまる",
+    "romaji": "takamaru",
+    "meaning": "高涨，提高",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动1"
+    ],
+    "lesson": 11,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0376",
+    "jp": "そうすると",
+    "reading": "そうすると",
+    "romaji": "sousuruto",
+    "meaning": "于是，这么说来",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "连"
+    ],
+    "lesson": 11,
+    "note": "[连]"
+  },
+  {
+    "id": "sn3-w0377",
+    "jp": "わけ",
+    "reading": "わけ",
+    "romaji": "wake",
+    "meaning": "缘故，理由，原因",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0378",
+    "jp": "区別〜",
+    "reading": "くべつする",
+    "romaji": "kubetsusuru",
+    "meaning": "区别，区分",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动3"
+    ],
+    "lesson": 11,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0379",
+    "jp": "受け入れる",
+    "reading": "うけいれる",
+    "romaji": "ukeireru",
+    "meaning": "接受，采纳",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动2"
+    ],
+    "lesson": 11,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0380",
+    "jp": "彼ら",
+    "reading": "かれら",
+    "romaji": "karera",
+    "meaning": "他们",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "代"
+    ],
+    "lesson": 11,
+    "note": "[代]"
+  },
+  {
+    "id": "sn3-w0381",
+    "jp": "つかむ",
+    "reading": "つかむ",
+    "romaji": "tsukamu",
+    "meaning": "抓住，掌握住",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动1"
+    ],
+    "lesson": 11,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0382",
+    "jp": "口〜",
+    "reading": "くちコミ",
+    "romaji": "kuchikomi",
+    "meaning": "口碑，口头互传，口头推荐",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0383",
+    "jp": "映像",
+    "reading": "えいぞう",
+    "romaji": "eizou",
+    "meaning": "电影，影像",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0384",
+    "jp": "提供〜",
+    "reading": "ていきょうする",
+    "romaji": "teikiょusuru",
+    "meaning": "提供",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动3"
+    ],
+    "lesson": 11,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0385",
+    "jp": "夢中",
+    "reading": "むちゅう",
+    "romaji": "muchiゅu",
+    "meaning": "着迷，入迷",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0386",
+    "jp": "光景",
+    "reading": "こうけい",
+    "romaji": "koukei",
+    "meaning": "情景，景象，光景",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0387",
+    "jp": "成人",
+    "reading": "せいじん",
+    "romaji": "seijin",
+    "meaning": "成年人，大人",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0388",
+    "jp": "関〜",
+    "reading": "かんする",
+    "romaji": "kansuru",
+    "meaning": "关于，有关",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动3"
+    ],
+    "lesson": 11,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0389",
+    "jp": "クレヨンしんちゃん",
+    "reading": "クレヨンしんちゃん",
+    "romaji": "kureyonshinchiゃn",
+    "meaning": "蜡笔小新",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "专"
+    ],
+    "lesson": 11,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0390",
+    "jp": "ドラえもん",
+    "reading": "ドラえもん",
+    "romaji": "doraemon",
+    "meaning": "机器猫",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "专"
+    ],
+    "lesson": 11,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0391",
+    "jp": "ちびまる子ちゃん",
+    "reading": "ちびまるこちゃん",
+    "romaji": "chibimarukochiゃn",
+    "meaning": "樱桃小丸子",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "专"
+    ],
+    "lesson": 11,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0392",
+    "jp": "鉄腕〜",
+    "reading": "てつわんアトム",
+    "romaji": "tetsuwanatomu",
+    "meaning": "铁臂阿童木",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "专"
+    ],
+    "lesson": 11,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0393",
+    "jp": "画質",
+    "reading": "がしつ",
+    "romaji": "gashitsu",
+    "meaning": "图像质量，画面质量",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0394",
+    "jp": "比べもの",
+    "reading": "くらべもの",
+    "romaji": "kurabemono",
+    "meaning": "比较的事物",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0395",
+    "jp": "〜技術",
+    "reading": "デジタルぎじゅつ",
+    "romaji": "dejitarugijiゅtsu",
+    "meaning": "数码技术，数字技术",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0396",
+    "jp": "いきいき",
+    "reading": "いきいき",
+    "romaji": "ikiiki",
+    "meaning": "栩栩如生，生动；生气勃勃",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "副"
+    ],
+    "lesson": 11,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0397",
+    "jp": "生み出す",
+    "reading": "うみだす",
+    "romaji": "umidasu",
+    "meaning": "诞生，创作出，产生",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动1"
+    ],
+    "lesson": 11,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0398",
+    "jp": "〜番組",
+    "reading": "テレビばんぐみ",
+    "romaji": "terebibangumi",
+    "meaning": "电视节目",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0399",
+    "jp": "視聴率",
+    "reading": "しちょうりつ",
+    "romaji": "shichiょuritsu",
+    "meaning": "收视率",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0400",
+    "jp": "獲得〜",
+    "reading": "かくとくする",
+    "romaji": "kakutokusuru",
+    "meaning": "获得",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动3"
+    ],
+    "lesson": 11,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0401",
+    "jp": "やがて",
+    "reading": "やがて",
+    "romaji": "yagate",
+    "meaning": "后来，不久；大约",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "副"
+    ],
+    "lesson": 11,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0402",
+    "jp": "先端",
+    "reading": "せんたん",
+    "romaji": "sentan",
+    "meaning": "尖端，先进",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0403",
+    "jp": "映画館",
+    "reading": "えいがかん",
+    "romaji": "eigakan",
+    "meaning": "电影院",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0404",
+    "jp": "スクリーン",
+    "reading": "スクリーン",
+    "romaji": "sukurin",
+    "meaning": "屏幕，银幕，银屏",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0405",
+    "jp": "登場〜",
+    "reading": "とうじょうする",
+    "romaji": "toujiょusuru",
+    "meaning": "登场，出场",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "动3"
+    ],
+    "lesson": 11,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0406",
+    "jp": "娯楽",
+    "reading": "ごらく",
+    "romaji": "goraku",
+    "meaning": "娱乐",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0407",
+    "jp": "芸術",
+    "reading": "げいじゅつ",
+    "romaji": "geijiゅtsu",
+    "meaning": "艺术",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "名"
+    ],
+    "lesson": 11,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0408",
+    "jp": "次々",
+    "reading": "つぎつぎ",
+    "romaji": "tsugitsugi",
+    "meaning": "不断，接二连三，接踵而来",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "副"
+    ],
+    "lesson": 11,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0409",
+    "jp": "千と千尋の神隠し",
+    "reading": "ぜんとちひろのかみかくし",
+    "romaji": "zentochihironokamikakushi",
+    "meaning": "千与千寻",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第11課",
+      "专"
+    ],
+    "lesson": 11,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0410",
+    "jp": "いよいよ",
+    "reading": "いよいよ",
+    "romaji": "iyoiyo",
+    "meaning": "到底，终于",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "副"
+    ],
+    "lesson": 12,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0411",
+    "jp": "方言",
+    "reading": "ほうげん",
+    "romaji": "hougen",
+    "meaning": "方言，地方话",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "名"
+    ],
+    "lesson": 12,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0412",
+    "jp": "繁華街",
+    "reading": "はんかがい",
+    "romaji": "hankagai",
+    "meaning": "繁华区，繁华街，商业区",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "名"
+    ],
+    "lesson": 12,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0413",
+    "jp": "ミナミ",
+    "reading": "ミナミ",
+    "romaji": "minami",
+    "meaning": "大阪市南部商业繁华区名称",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "专"
+    ],
+    "lesson": 12,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0414",
+    "jp": "同行〜",
+    "reading": "どうこうする",
+    "romaji": "doukousuru",
+    "meaning": "同行，一起去",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "动3"
+    ],
+    "lesson": 12,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0415",
+    "jp": "披露宴",
+    "reading": "ひろうえん",
+    "romaji": "hirouen",
+    "meaning": "婚宴，喜宴",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "名"
+    ],
+    "lesson": 12,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0416",
+    "jp": "喜んで",
+    "reading": "よろこんで",
+    "romaji": "yorokonde",
+    "meaning": "高兴地，非常愿意地",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "副"
+    ],
+    "lesson": 12,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0417",
+    "jp": "共通語",
+    "reading": "きょうつうご",
+    "romaji": "kiょutsuugo",
+    "meaning": "通用语，普通话",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "名"
+    ],
+    "lesson": 12,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0418",
+    "jp": "民族",
+    "reading": "みんぞく",
+    "romaji": "minzoku",
+    "meaning": "民族；种族",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "名"
+    ],
+    "lesson": 12,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0419",
+    "jp": "異なる",
+    "reading": "ことなる",
+    "romaji": "kotonaru",
+    "meaning": "不一样，不同",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "动1"
+    ],
+    "lesson": 12,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0420",
+    "jp": "文法",
+    "reading": "ぶんぽう",
+    "romaji": "bunpou",
+    "meaning": "语法",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "名"
+    ],
+    "lesson": 12,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0421",
+    "jp": "アクセント",
+    "reading": "アクセント",
+    "romaji": "akusento",
+    "meaning": "声调，重音",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "名"
+    ],
+    "lesson": 12,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0422",
+    "jp": "関西",
+    "reading": "かんさい",
+    "romaji": "kansai",
+    "meaning": "关西",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "专"
+    ],
+    "lesson": 12,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0423",
+    "jp": "誤解",
+    "reading": "ごかい",
+    "romaji": "gokai",
+    "meaning": "误解，误会",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "名"
+    ],
+    "lesson": 12,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0424",
+    "jp": "投げる",
+    "reading": "なげる",
+    "romaji": "nageru",
+    "meaning": "投，扔，掷",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "动2"
+    ],
+    "lesson": 12,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0425",
+    "jp": "解釈〜",
+    "reading": "かいしゃくする",
+    "romaji": "kaishiゃkusuru",
+    "meaning": "解释，说明",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "动3"
+    ],
+    "lesson": 12,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0426",
+    "jp": "投げ返す",
+    "reading": "なげかえす",
+    "romaji": "nagekaesu",
+    "meaning": "扔回去，投回去",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "动1"
+    ],
+    "lesson": 12,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0427",
+    "jp": "保管〜",
+    "reading": "ほかんする",
+    "romaji": "hokansuru",
+    "meaning": "保管，管理",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "动3"
+    ],
+    "lesson": 12,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0428",
+    "jp": "聞き間違える",
+    "reading": "ききまちがえる",
+    "romaji": "kikimachigaeru",
+    "meaning": "听错，误听",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "动2"
+    ],
+    "lesson": 12,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0429",
+    "jp": "浸透〜",
+    "reading": "しんとうする",
+    "romaji": "shintousuru",
+    "meaning": "渗透，渗入",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第12課",
+      "动3"
+    ],
+    "lesson": 12,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0430",
+    "jp": "折り入って",
+    "reading": "おりいって",
+    "romaji": "oriite",
+    "meaning": "诚恳，特意",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "副"
+    ],
+    "lesson": 13,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0431",
+    "jp": "改まる",
+    "reading": "あらたまる",
+    "romaji": "aratamaru",
+    "meaning": "郑重其事，庄重",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "动1"
+    ],
+    "lesson": 13,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0432",
+    "jp": "自信",
+    "reading": "じしん",
+    "romaji": "jishin",
+    "meaning": "自信，信心",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0433",
+    "jp": "君",
+    "reading": "きみ",
+    "romaji": "kimi",
+    "meaning": "你",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "代"
+    ],
+    "lesson": 13,
+    "note": "[代]"
+  },
+  {
+    "id": "sn3-w0434",
+    "jp": "頼み",
+    "reading": "たのみ",
+    "romaji": "tanomi",
+    "meaning": "请求；信赖",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0435",
+    "jp": "引き受ける",
+    "reading": "ひきうける",
+    "romaji": "hikiukeru",
+    "meaning": "答应，接受；承担",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "动2"
+    ],
+    "lesson": 13,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0436",
+    "jp": "もしかして",
+    "reading": "もしかして",
+    "romaji": "moshikashite",
+    "meaning": "也许，或许，可能",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "副"
+    ],
+    "lesson": 13,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0437",
+    "jp": "どうしても",
+    "reading": "どうしても",
+    "romaji": "doushitemo",
+    "meaning": "无论如何也",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "副"
+    ],
+    "lesson": 13,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0438",
+    "jp": "出会う",
+    "reading": "であう",
+    "romaji": "deau",
+    "meaning": "遇见，碰上",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "动1"
+    ],
+    "lesson": 13,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0439",
+    "jp": "統計",
+    "reading": "とうけい",
+    "romaji": "toukei",
+    "meaning": "统计",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0440",
+    "jp": "減少〜",
+    "reading": "げんしょうする",
+    "romaji": "genshiょusuru",
+    "meaning": "减少",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "动3"
+    ],
+    "lesson": 13,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0441",
+    "jp": "現象",
+    "reading": "げんしょう",
+    "romaji": "genshiょu",
+    "meaning": "现象",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0442",
+    "jp": "傾向",
+    "reading": "けいこう",
+    "romaji": "keikou",
+    "meaning": "趋势，傾向",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0443",
+    "jp": "背景",
+    "reading": "はいけい",
+    "romaji": "haikei",
+    "meaning": "背景，背景形势",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0444",
+    "jp": "出産",
+    "reading": "しゅっさん",
+    "romaji": "shiゅsan",
+    "meaning": "生孩子",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0445",
+    "jp": "育児",
+    "reading": "いくじ",
+    "romaji": "ikuji",
+    "meaning": "育儿，抚育",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0446",
+    "jp": "対する",
+    "reading": "たいする",
+    "romaji": "taisuru",
+    "meaning": "对，对于",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "动3"
+    ],
+    "lesson": 13,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0447",
+    "jp": "晩婚",
+    "reading": "ばんこん",
+    "romaji": "bankon",
+    "meaning": "晚婚",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0448",
+    "jp": "控える",
+    "reading": "ひかえる",
+    "romaji": "hikaeru",
+    "meaning": "抑制，控制，节制",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "动2"
+    ],
+    "lesson": 13,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0449",
+    "jp": "出生",
+    "reading": "しゅっしょう",
+    "romaji": "shiゅshiょu",
+    "meaning": "出生，诞生",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0450",
+    "jp": "つながる",
+    "reading": "つながる",
+    "romaji": "tsunagaru",
+    "meaning": "牵涉；连接；排列",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "动1"
+    ],
+    "lesson": 13,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0451",
+    "jp": "上昇",
+    "reading": "じょうしょう",
+    "romaji": "jiょushiょu",
+    "meaning": "上涨，上升",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0452",
+    "jp": "額",
+    "reading": "がく",
+    "romaji": "gaku",
+    "meaning": "金额，数量",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0453",
+    "jp": "住宅問題",
+    "reading": "じゅうたくもんだい",
+    "romaji": "jiゅutakumondai",
+    "meaning": "住房问题，住宅问题",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0454",
+    "jp": "意志",
+    "reading": "いし",
+    "romaji": "ishi",
+    "meaning": "意愿，意志，意向",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0455",
+    "jp": "非婚",
+    "reading": "ひこん",
+    "romaji": "hikon",
+    "meaning": "不结婚；非婚，没结婚",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0456",
+    "jp": "年間",
+    "reading": "ねんかん",
+    "romaji": "nenkan",
+    "meaning": "一年；年间，年代",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0457",
+    "jp": "年月",
+    "reading": "ねんげつ",
+    "romaji": "nengetsu",
+    "meaning": "时间，光阴，年月，岁月",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第13課",
+      "名"
+    ],
+    "lesson": 13,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0458",
+    "jp": "恩師",
+    "reading": "おんし",
+    "romaji": "onshi",
+    "meaning": "恩师，老师",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0459",
+    "jp": "後藤",
+    "reading": "ごとう",
+    "romaji": "gotou",
+    "meaning": "后藤",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "专"
+    ],
+    "lesson": 14,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0460",
+    "jp": "福建省",
+    "reading": "ふっけんしょう",
+    "romaji": "fukenshiょu",
+    "meaning": "福建省",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "专"
+    ],
+    "lesson": 14,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0461",
+    "jp": "広告代理店",
+    "reading": "こうこくだいりてん",
+    "romaji": "koukokudairiten",
+    "meaning": "广告公司",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0462",
+    "jp": "やりがい",
+    "reading": "やりがい",
+    "romaji": "yarigai",
+    "meaning": "值得做，做的价值",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0463",
+    "jp": "金子",
+    "reading": "かねこ",
+    "romaji": "kaneko",
+    "meaning": "金子",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "专"
+    ],
+    "lesson": 14,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0464",
+    "jp": "高橋",
+    "reading": "たかはし",
+    "romaji": "takahashi",
+    "meaning": "高桥",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "专"
+    ],
+    "lesson": 14,
+    "note": "[专]"
+  },
+  {
+    "id": "sn3-w0465",
+    "jp": "旅行代理店",
+    "reading": "りょこうだいりてん",
+    "romaji": "riょkoudairiten",
+    "meaning": "旅行社，旅游代理公司",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0466",
+    "jp": "勤める",
+    "reading": "つとめる",
+    "romaji": "tsutomeru",
+    "meaning": "工作，做事",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "动2"
+    ],
+    "lesson": 14,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0467",
+    "jp": "就職活動",
+    "reading": "しゅうしょくかつどう",
+    "romaji": "shiゅushiょkukatsudou",
+    "meaning": "求职活动",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0468",
+    "jp": "志望動機",
+    "reading": "しぼうどうき",
+    "romaji": "shiboudouki",
+    "meaning": "志愿动机，志愿理由",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0469",
+    "jp": "自己PR",
+    "reading": "じこピーアール",
+    "romaji": "jikopiaru",
+    "meaning": "自我宣传",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0470",
+    "jp": "履歴書",
+    "reading": "りれきしょ",
+    "romaji": "rirekishiょ",
+    "meaning": "简历，履历",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0471",
+    "jp": "そのまま",
+    "reading": "そのまま",
+    "romaji": "sonomama",
+    "meaning": "就照原样，就那样",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0472",
+    "jp": "採用試験",
+    "reading": "さいようしけん",
+    "romaji": "saiyoushiken",
+    "meaning": "录用考试",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0473",
+    "jp": "清潔",
+    "reading": "せいけつ",
+    "romaji": "seiketsu",
+    "meaning": "整洁，干净；清洁",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0474",
+    "jp": "服装",
+    "reading": "ふくそう",
+    "romaji": "fukusou",
+    "meaning": "服装",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0475",
+    "jp": "一部",
+    "reading": "いちぶ",
+    "romaji": "ichibu",
+    "meaning": "一部分",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0476",
+    "jp": "学期",
+    "reading": "がっき",
+    "romaji": "gaki",
+    "meaning": "学期",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0477",
+    "jp": "リクルートスーツ",
+    "reading": "リクルートスーツ",
+    "romaji": "rikurutosutsu",
+    "meaning": "求职服装，求职套装",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0478",
+    "jp": "姿",
+    "reading": "すがた",
+    "romaji": "sugata",
+    "meaning": "打扮，装束；姿态，姿势",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0479",
+    "jp": "際",
+    "reading": "さい",
+    "romaji": "sai",
+    "meaning": "时候，时机",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0480",
+    "jp": "男女",
+    "reading": "だんじょ",
+    "romaji": "danjiょ",
+    "meaning": "男女",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0481",
+    "jp": "問う",
+    "reading": "とう",
+    "romaji": "tou",
+    "meaning": "问，打听",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "动1"
+    ],
+    "lesson": 14,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0482",
+    "jp": "黒",
+    "reading": "くろ",
+    "romaji": "kuro",
+    "meaning": "黑色，黑",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0483",
+    "jp": "紺",
+    "reading": "こん",
+    "romaji": "kon",
+    "meaning": "藏青，深蓝",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0484",
+    "jp": "灰色",
+    "reading": "はいいろ",
+    "romaji": "haiiro",
+    "meaning": "灰色；暗淡",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0485",
+    "jp": "氷河期",
+    "reading": "ひょうがき",
+    "romaji": "hiょugaki",
+    "meaning": "冰河期",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0486",
+    "jp": "職種",
+    "reading": "しょくしゅ",
+    "romaji": "shiょkushiゅ",
+    "meaning": "职业种类",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0487",
+    "jp": "自動車〜",
+    "reading": "じどうしゃメーカー",
+    "romaji": "jidoushiゃmeka",
+    "meaning": "汽车公司",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0488",
+    "jp": "ごく",
+    "reading": "ごく",
+    "romaji": "goku",
+    "meaning": "极，最，非常",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "副"
+    ],
+    "lesson": 14,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0489",
+    "jp": "選択〜",
+    "reading": "せんたくする",
+    "romaji": "sentakusuru",
+    "meaning": "选择",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "动3"
+    ],
+    "lesson": 14,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0490",
+    "jp": "申し込み",
+    "reading": "もうしこみ",
+    "romaji": "moushikomi",
+    "meaning": "报名，申请；提议",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0491",
+    "jp": "突破〜",
+    "reading": "とっぱする",
+    "romaji": "topasuru",
+    "meaning": "突破，冲破",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "动3"
+    ],
+    "lesson": 14,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0492",
+    "jp": "内定",
+    "reading": "ないてい",
+    "romaji": "naitei",
+    "meaning": "内定",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第14課",
+      "名"
+    ],
+    "lesson": 14,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0493",
+    "jp": "こっち",
+    "reading": "こっち",
+    "romaji": "kochi",
+    "meaning": "这边，这里",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "代"
+    ],
+    "lesson": 15,
+    "note": "[代]"
+  },
+  {
+    "id": "sn3-w0494",
+    "jp": "やあ",
+    "reading": "やあ",
+    "romaji": "yaa",
+    "meaning": "哎呀，啊，呀",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "叹"
+    ],
+    "lesson": 15,
+    "note": "[叹]"
+  },
+  {
+    "id": "sn3-w0495",
+    "jp": "ちっとも",
+    "reading": "ちっとも",
+    "romaji": "chitomo",
+    "meaning": "一点儿（也不），毫（无）",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "副"
+    ],
+    "lesson": 15,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0496",
+    "jp": "それはそうと",
+    "reading": "それはそうと",
+    "romaji": "sorehasouto",
+    "meaning": "此外，另外，顺便说一句",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "连"
+    ],
+    "lesson": 15,
+    "note": "[连]"
+  },
+  {
+    "id": "sn3-w0497",
+    "jp": "ねえ",
+    "reading": "ねえ",
+    "romaji": "nee",
+    "meaning": "喂",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "叹"
+    ],
+    "lesson": 15,
+    "note": "[叹]"
+  },
+  {
+    "id": "sn3-w0498",
+    "jp": "おすすめ",
+    "reading": "おすすめ",
+    "romaji": "osusume",
+    "meaning": "推荐品",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0499",
+    "jp": "水炊き",
+    "reading": "みずたき",
+    "romaji": "mizutaki",
+    "meaning": "鸡肉时蔬火锅，鸡肉汆锅",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0500",
+    "jp": "とり肉",
+    "reading": "とりにく",
+    "romaji": "toriniku",
+    "meaning": "鸡肉",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0501",
+    "jp": "温まる",
+    "reading": "あたたまる",
+    "romaji": "atatamaru",
+    "meaning": "暖和，温暖",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "动1"
+    ],
+    "lesson": 15,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0502",
+    "jp": "よし",
+    "reading": "よし",
+    "romaji": "yoshi",
+    "meaning": "好，对",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "叹"
+    ],
+    "lesson": 15,
+    "note": "[叹]"
+  },
+  {
+    "id": "sn3-w0503",
+    "jp": "盛り合わせ",
+    "reading": "もりあわせ",
+    "romaji": "moriawase",
+    "meaning": "拼盘（菜）",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0504",
+    "jp": "タコ",
+    "reading": "タコ",
+    "romaji": "tako",
+    "meaning": "章鱼",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0505",
+    "jp": "豆腐",
+    "reading": "とうふ",
+    "romaji": "toufu",
+    "meaning": "豆腐",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0506",
+    "jp": "大根",
+    "reading": "だいこん",
+    "romaji": "daikon",
+    "meaning": "萝卜",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0507",
+    "jp": "カクテル",
+    "reading": "カクテル",
+    "romaji": "kakuteru",
+    "meaning": "鸡尾酒，混合酒",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0508",
+    "jp": "〜料理",
+    "reading": "フランスりょうり",
+    "romaji": "furansuriょuri",
+    "meaning": "法国菜",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0509",
+    "jp": "禁煙席",
+    "reading": "きんえんせき",
+    "romaji": "kinenseki",
+    "meaning": "无烟席，禁烟席，禁烟区",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0510",
+    "jp": "焼きそば",
+    "reading": "やきそば",
+    "romaji": "yakisoba",
+    "meaning": "炒面",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0511",
+    "jp": "チャーハン",
+    "reading": "チャーハン",
+    "romaji": "chiゃhan",
+    "meaning": "炒饭",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0512",
+    "jp": "会計",
+    "reading": "かいけい",
+    "romaji": "kaikei",
+    "meaning": "结账，付款；会计",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0513",
+    "jp": "割り勘",
+    "reading": "わりかん",
+    "romaji": "warikan",
+    "meaning": "AA制，分摊费用，均摊费用",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0514",
+    "jp": "おごる",
+    "reading": "おごる",
+    "romaji": "ogoru",
+    "meaning": "请客，做东；奢华",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "动1"
+    ],
+    "lesson": 15,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0515",
+    "jp": "そっち",
+    "reading": "そっち",
+    "romaji": "sochi",
+    "meaning": "那边，那里",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "代"
+    ],
+    "lesson": 15,
+    "note": "[代]"
+  },
+  {
+    "id": "sn3-w0516",
+    "jp": "あっち",
+    "reading": "あっち",
+    "romaji": "achi",
+    "meaning": "那边，那里",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "代"
+    ],
+    "lesson": 15,
+    "note": "[代]"
+  },
+  {
+    "id": "sn3-w0517",
+    "jp": "どっち",
+    "reading": "どっち",
+    "romaji": "dochi",
+    "meaning": "哪边，哪里",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "代"
+    ],
+    "lesson": 15,
+    "note": "[代]"
+  },
+  {
+    "id": "sn3-w0518",
+    "jp": "ねえねえ",
+    "reading": "ねえねえ",
+    "romaji": "neenee",
+    "meaning": "喂喂，哎哎",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "叹"
+    ],
+    "lesson": 15,
+    "note": "[叹]"
+  },
+  {
+    "id": "sn3-w0519",
+    "jp": "よう",
+    "reading": "よう",
+    "romaji": "you",
+    "meaning": "哟，噢",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "叹"
+    ],
+    "lesson": 15,
+    "note": "[叹]"
+  },
+  {
+    "id": "sn3-w0520",
+    "jp": "虎",
+    "reading": "とら",
+    "romaji": "tora",
+    "meaning": "老虎，虎",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0521",
+    "jp": "少しも",
+    "reading": "すこしも",
+    "romaji": "sukoshimo",
+    "meaning": "一点也不（不）",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "副"
+    ],
+    "lesson": 15,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0522",
+    "jp": "商売",
+    "reading": "しょうばい",
+    "romaji": "shiょubai",
+    "meaning": "生意，买卖",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0523",
+    "jp": "口红",
+    "reading": "くちべに",
+    "romaji": "kuchibeni",
+    "meaning": "口红",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0524",
+    "jp": "鍋物",
+    "reading": "なべもの",
+    "romaji": "nabemono",
+    "meaning": "火锅",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0525",
+    "jp": "羊",
+    "reading": "ひつじ",
+    "romaji": "hitsuji",
+    "meaning": "羊，绵羊",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0526",
+    "jp": "しゃぶしゃぶ",
+    "reading": "しゃぶしゃぶ",
+    "romaji": "shiゃbushiゃbu",
+    "meaning": "涮锅，涮（牛羊肉片）火锅",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0527",
+    "jp": "専門店",
+    "reading": "せんもんてん",
+    "romaji": "senmonten",
+    "meaning": "专卖店",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0528",
+    "jp": "ハンバーガー",
+    "reading": "ハンバーガー",
+    "romaji": "hanbaga",
+    "meaning": "汉堡包",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0529",
+    "jp": "パスタ",
+    "reading": "パスタ",
+    "romaji": "pasuta",
+    "meaning": "意大利面条，意大利面食类",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0530",
+    "jp": "多様",
+    "reading": "たよう",
+    "romaji": "tayou",
+    "meaning": "多种多样，各式各样",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "形2"
+    ],
+    "lesson": 15,
+    "note": "[形2]"
+  },
+  {
+    "id": "sn3-w0531",
+    "jp": "おしぼり",
+    "reading": "おしぼり",
+    "romaji": "oshibori",
+    "meaning": "湿巾",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0532",
+    "jp": "無料",
+    "reading": "むりょう",
+    "romaji": "muriょu",
+    "meaning": "免费",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0533",
+    "jp": "メニュー",
+    "reading": "メニュー",
+    "romaji": "meniゅ",
+    "meaning": "菜单，菜谱",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0534",
+    "jp": "調理〜",
+    "reading": "ちゅうりする",
+    "romaji": "chiゅurisuru",
+    "meaning": "烹饪，调理",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "动3"
+    ],
+    "lesson": 15,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0535",
+    "jp": "載せる",
+    "reading": "のせる",
+    "romaji": "noseru",
+    "meaning": "放，搁；载，登载",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "动2"
+    ],
+    "lesson": 15,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0536",
+    "jp": "他人丼",
+    "reading": "たにんどん",
+    "romaji": "tanindon",
+    "meaning": "他人盖饭，猪（牛）肉鸡蛋盖饭",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0537",
+    "jp": "豚肉",
+    "reading": "ぶたにく",
+    "romaji": "butaniku",
+    "meaning": "猪肉",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0538",
+    "jp": "親子",
+    "reading": "おやこ",
+    "romaji": "oyako",
+    "meaning": "父母和子女",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0539",
+    "jp": "他人",
+    "reading": "たにん",
+    "romaji": "tanin",
+    "meaning": "他人，别人",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0540",
+    "jp": "キツネうどん",
+    "reading": "キツネうどん",
+    "romaji": "kitsuneudon",
+    "meaning": "狐狸乌冬，油炸豆腐乌冬面",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0541",
+    "jp": "決して",
+    "reading": "けっして",
+    "romaji": "keshite",
+    "meaning": "绝对（不），决（不），断然（不）",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "副"
+    ],
+    "lesson": 15,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0542",
+    "jp": "キツネ",
+    "reading": "キツネ",
+    "romaji": "kitsune",
+    "meaning": "狐狸",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0543",
+    "jp": "油揚げ",
+    "reading": "あぶらあげ",
+    "romaji": "aburaage",
+    "meaning": "油炸豆腐；油炸食品",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0544",
+    "jp": "好物",
+    "reading": "こうぶつ",
+    "romaji": "koubutsu",
+    "meaning": "爱吃的东西",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第15課",
+      "名"
+    ],
+    "lesson": 15,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0545",
+    "jp": "新郎",
+    "reading": "しんろう",
+    "romaji": "shinrou",
+    "meaning": "新郎",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0546",
+    "jp": "勤め",
+    "reading": "つとめ",
+    "romaji": "tsutome",
+    "meaning": "工作；就职",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0547",
+    "jp": "ともに",
+    "reading": "ともに",
+    "romaji": "tomoni",
+    "meaning": "一起，一同；共同",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "副"
+    ],
+    "lesson": 16,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0548",
+    "jp": "白髪",
+    "reading": "しらが",
+    "romaji": "shiraga",
+    "meaning": "白发",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0549",
+    "jp": "どうか",
+    "reading": "どうか",
+    "romaji": "douka",
+    "meaning": "请",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "副"
+    ],
+    "lesson": 16,
+    "note": "[副]"
+  },
+  {
+    "id": "sn3-w0550",
+    "jp": "祈る",
+    "reading": "いのる",
+    "romaji": "inoru",
+    "meaning": "祝愿，祈求",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "动1"
+    ],
+    "lesson": 16,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0551",
+    "jp": "指名",
+    "reading": "しめい",
+    "romaji": "shimei",
+    "meaning": "指名，指定",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0552",
+    "jp": "ひと言",
+    "reading": "ひとこと",
+    "romaji": "hitokoto",
+    "meaning": "几句话，三言两语",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0553",
+    "jp": "本日",
+    "reading": "ほんじつ",
+    "romaji": "honjitsu",
+    "meaning": "今日，今天",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0554",
+    "jp": "切れる",
+    "reading": "きれる",
+    "romaji": "kireru",
+    "meaning": "断绝关系；断开，中断",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "动2"
+    ],
+    "lesson": 16,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0555",
+    "jp": "別れる",
+    "reading": "わかれる",
+    "romaji": "wakareru",
+    "meaning": "分手，离别",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "动2"
+    ],
+    "lesson": 16,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0556",
+    "jp": "お開き",
+    "reading": "おびらき",
+    "romaji": "obiraki",
+    "meaning": "（婚宴）结束；散席，散会",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0557",
+    "jp": "招く",
+    "reading": "まねく",
+    "romaji": "maneku",
+    "meaning": "邀请，招待，款待",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "动1"
+    ],
+    "lesson": 16,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0558",
+    "jp": "助け合う",
+    "reading": "たすけあう",
+    "romaji": "tasukeau",
+    "meaning": "互相帮助，互助",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "动1"
+    ],
+    "lesson": 16,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0559",
+    "jp": "姉妹",
+    "reading": "しまい",
+    "romaji": "shimai",
+    "meaning": "姐妹",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0560",
+    "jp": "暖める",
+    "reading": "あたためる",
+    "romaji": "atatameru",
+    "meaning": "弄暖和；加热，加温",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "动2"
+    ],
+    "lesson": 16,
+    "note": "[动2]"
+  },
+  {
+    "id": "sn3-w0561",
+    "jp": "神社",
+    "reading": "じんじゃ",
+    "romaji": "jinjiゃ",
+    "meaning": "神社",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0562",
+    "jp": "神前結婚式",
+    "reading": "しんぜんけっこんしき",
+    "romaji": "shinzenkekonshiki",
+    "meaning": "神前式婚礼",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0563",
+    "jp": "教会",
+    "reading": "きょうかい",
+    "romaji": "kiょukai",
+    "meaning": "教堂，教会",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0564",
+    "jp": "ある",
+    "reading": "ある",
+    "romaji": "aru",
+    "meaning": "某，某个",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "连体"
+    ],
+    "lesson": 16,
+    "note": "[连体]"
+  },
+  {
+    "id": "sn3-w0565",
+    "jp": "〜教式結婚式",
+    "reading": "キリストきょうしきけっこんしき",
+    "romaji": "kirisutokiょushikikekonshiki",
+    "meaning": "基督教式婚礼",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0566",
+    "jp": "人前結婚式",
+    "reading": "じんぜんけっこんしき",
+    "romaji": "jinzenkekonshiki",
+    "meaning": "人前式婚礼",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0567",
+    "jp": "信者",
+    "reading": "じんじゃ",
+    "romaji": "jinjiゃ",
+    "meaning": "信徒，教徒；崇拜者",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0568",
+    "jp": "限る",
+    "reading": "かぎる",
+    "romaji": "kagiru",
+    "meaning": "限于，只限；限定，限制",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "动1"
+    ],
+    "lesson": 16,
+    "note": "[动1]"
+  },
+  {
+    "id": "sn3-w0569",
+    "jp": "ウエディングドレス",
+    "reading": "ウエディングドレス",
+    "romaji": "uedeぃngudoresu",
+    "meaning": "婚纱，女式结婚礼服",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0570",
+    "jp": "挙式〜",
+    "reading": "きょうしきする",
+    "romaji": "kiょushikisuru",
+    "meaning": "举行（结婚）仪式",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "动3"
+    ],
+    "lesson": 16,
+    "note": "[动3]"
+  },
+  {
+    "id": "sn3-w0571",
+    "jp": "好み",
+    "reading": "このみ",
+    "romaji": "konomi",
+    "meaning": "喜好，爱好，口味",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0572",
+    "jp": "宗教",
+    "reading": "しゅうきょう",
+    "romaji": "shiゅukiょu",
+    "meaning": "宗教",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0573",
+    "jp": "少数",
+    "reading": "しょうすう",
+    "romaji": "shiょusuu",
+    "meaning": "少数",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0574",
+    "jp": "結婚式場",
+    "reading": "けっこんしきじょう",
+    "romaji": "kekonshikijiょu",
+    "meaning": "婚礼会场",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "名"
+    ],
+    "lesson": 16,
+    "note": "[名]"
+  },
+  {
+    "id": "sn3-w0575",
+    "jp": "占める",
+    "reading": "しめる",
+    "romaji": "shimeru",
+    "meaning": "占，占据；占领",
+    "accent": "",
+    "tag": [
+      "N3",
+      "第16課",
+      "动2"
+    ],
+    "lesson": 16,
+    "note": "[动2]"
+  }
+]
