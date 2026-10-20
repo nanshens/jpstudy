@@ -592,9 +592,27 @@ function SpellingQuestion({ q, revealed, onSubmit }: BaseProps & { onSubmit: (ty
   const typedNorm = norm(val);
   const matched = accepted.some((a) => norm(a) === typedNorm);
   const correct = accepted[0];
+  // 不同题型给不同的提示文案与输入示例
+  const fmt = q.answerFormat ?? 'hiragana';
+  const labelMap: Record<string, string> = {
+    hiragana: '请写出下面词语的读音(假名):',
+    katakana: '请写出这个外来语的片假名:',
+    romaji: '请写出下面词语的罗马音:',
+    kanji: '请写出下面词语的汉字:',
+    sentence: '请把这句话翻译成日语:',
+    chinese: '请把这句话翻译成中文:',
+  };
+  const placeholderMap: Record<string, string> = {
+    hiragana: '输入假名…例如:いちじていし',
+    katakana: '输入片假名…例如:コンピュータ',
+    romaji: '输入罗马音…例如:ichiji',
+    kanji: '输入汉字…例如:辞典',
+    sentence: '输入完整的日语句子…',
+    chinese: '输入完整的中文句子…',
+  };
   return (
     <>
-      <p className="text-sm text-muted-foreground mb-2">请写出下面词语的读音(假名):</p>
+      <p className="text-sm text-muted-foreground mb-2">{labelMap[fmt] ?? labelMap.hiragana}</p>
       <div className="mb-4 rounded-md border-2 border-dashed bg-muted/30 p-6 text-center">
         <p className="text-2xl font-bold tracking-wider">{q.prompt || q.question}</p>
         {q.audio && (
@@ -615,7 +633,7 @@ function SpellingQuestion({ q, revealed, onSubmit }: BaseProps & { onSubmit: (ty
             ref={inputRef}
             value={val}
             onChange={(e) => setVal(e.target.value)}
-            placeholder="输入假名…例如:いちじていし"
+            placeholder={placeholderMap[fmt] ?? placeholderMap.hiragana}
             className="flex-1"
             autoComplete="off"
             autoCorrect="off"

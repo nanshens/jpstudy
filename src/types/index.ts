@@ -98,7 +98,7 @@ export interface QuizQuestion {
    */
   answer?: string;
   /** 拼写题答案格式,给用户做提示 */
-  answerFormat?: 'hiragana' | 'katakana' | 'romaji';
+  answerFormat?: 'hiragana' | 'katakana' | 'romaji' | 'kanji' | 'sentence' | 'chinese';
   explanation?: string;
 }
 

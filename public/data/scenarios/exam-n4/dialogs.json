@@ -1,0 +1,2550 @@
+[
+  {
+    "id": "n4-d21",
+    "title": "会話文（王さんの寮／寮のロビー）",
+    "scene": "寮のロビー／王小華、ダニエル",
+    "lines": [
+      {
+        "speaker": "松島",
+        "jp": "お邪魔します。へえ、とても綺麗ですね。",
+        "reading": "o邪魔shimasu。hee、totemo綺麗desune。",
+        "meaning": "打扰了。哇，真漂亮啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "他の留学生で「狭い」と言う人がいますけど、わたしにとっては、このほうが快適です。",
+        "reading": "他no留学生de「狭i」to言u人gaimasukedo、watashinitoteha、konohouga快適desu。",
+        "meaning": "有别的留学生说\"窄\"，但对我来说这样更舒适。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "日本では、この広さが平均的ですよ。それに新しくて内装のデザインもいいですし…。いいお部屋だと思いますよ。",
+        "reading": "日本deha、kono広saga平均的desuyo。soreni新shikute内装nodezainmoiidesushi…。iio部屋dato思imasuyo。",
+        "meaning": "在日本，这个面积算是平均的。而且又新，内部装修的设计也不错……我觉得是个好房间。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "ただ一つだけ不便な点があるんです。",
+        "reading": "tada一tsudake不便na点gaarundesu。",
+        "meaning": "只是有一个不方便的地方。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "と、言うと…どのような点が不便なんですか。",
+        "reading": "to、言uto…donoyouna点ga不便nandesuka。",
+        "meaning": "这么说……是什么样的地方不方便呢？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "トイレとお風呂場が共同で、奇数階にしかないんです。",
+        "reading": "toiretoo風呂場ga共同de、奇数階nishikanaindesu。",
+        "meaning": "厕所和浴室是公用的，而且只有在奇数层才有。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "なるほど。ここは二階だから、王さんの階にはないわけですね。",
+        "reading": "naruhodo。kokoha二階dakara、王sanno階nihanaiwakedesune。",
+        "meaning": "原来如此。这里是二楼，所以小王住的楼层没有啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "ところで、一つ相談してもいいですか。",
+        "reading": "tokorode、一tsu相談shitemoiidesuka。",
+        "meaning": "对了，可以跟你商量一件事吗？"
+      },
+      {
+        "speaker": "松島",
+        "jp": "ええ、何ですか。",
+        "reading": "ee、何desuka。",
+        "meaning": "嗯，什么事？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "もうすぐ夏休みですよね。わたし、京都と奈良へ旅行に行くつもりなんです。",
+        "reading": "mousugu夏休midesuyone。watashi、京都to奈良he旅行ni行kutsumorinandesu。",
+        "meaning": "快到暑假了吧。我打算去京都和奈良旅行。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "いいですね。でも、夏は京都も奈良も暑いと思いますよ。38度に達することもあるから…。",
+        "reading": "iidesune。demo、夏ha京都mo奈良mo暑ito思imasuyo。38度ni達surukotomoarukara…。",
+        "meaning": "真好啊。不过，我想夏天京都和奈良都很热哦。因为气温有时也会达到38度……"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そうなんですか。でも、やっぱり行きたいですね。わたしの目的は日中友好の所縁の地を旅することなんです。",
+        "reading": "sounandesuka。demo、yapari行kitaidesune。watashino目的ha日中友好no所縁no地wo旅surukotonandesu。",
+        "meaning": "是吗。不过还是想去呢。我的目的是游历与日中友好有缘的地方。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "京都も奈良も千数百年の歴史を持った古都ですからね。",
+        "reading": "京都mo奈良mo千数百年no歴史wo持ta古都desukarane。",
+        "meaning": "因为京都和奈良都是拥有一千几百年历史的古都啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "わたし、やっぱり京都と奈良にいくことにします。",
+        "reading": "watashi、yapari京都to奈良niikukotonishimasu。",
+        "meaning": "我还是决定去京都和奈良。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "王さん、夏休みを利用して、京都と奈良にいくことにしたそうですね。",
+        "reading": "王san、夏休miwo利用shite、京都to奈良niikukotonishitasoudesune。",
+        "meaning": "小王，听说你决定利用暑假去京都和奈良呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "噂が広まるのは早いですね。",
+        "reading": "噂ga広marunoha早idesune。",
+        "meaning": "消息传得真快啊。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "とても素晴らしいですよ。僕も去年行きました。本当は二週間くらい旅行するつもりでしたが、相棒が風邪をひいて、たった一週間で東京に戻ることになったんです。",
+        "reading": "totemo素晴rashiidesuyo。僕mo去年行kimashita。本当ha二週間kurai旅行surutsumorideshitaga、相棒ga風邪wohiite、tata一週間de東京ni戻rukotoninatandesu。",
+        "meaning": "那很棒哦。我去年也去过。本来打算旅行两周左右的，但搭档感冒了，结果只待了一周就回了东京。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "それは残念でしたね。そういうこともあると思って、わたしは一人で行くことにしたんです。",
+        "reading": "soreha残念deshitane。souiukotomoaruto思te、watashiha一人de行kukotonishitandesu。",
+        "meaning": "那真遗憾呢。想到也会有这种事，所以我决定一个人去。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "女の子一人で行くんですか。",
+        "reading": "女no子一人de行kundesuka。",
+        "meaning": "女孩子一个人去吗？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "松島さんが京都と奈良のお友達を紹介してくれたんです。",
+        "reading": "松島sanga京都to奈良noo友達wo紹介shitekuretandesu。",
+        "meaning": "松岛给我介绍了京都和奈良的朋友。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "なるほど。それは、よかったですね。",
+        "reading": "naruhodo。soreha、yokatadesune。",
+        "meaning": "原来如此。那太好了。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "まず、新幹線で京都に行きます。松島さんのお友達が京都駅まで迎えに来てくれるので、大丈夫だと思います。",
+        "reading": "mazu、新幹線de京都ni行kimasu。松島sannoo友達ga京都駅made迎eni来tekurerunode、大丈夫dato思imasu。",
+        "meaning": "首先坐新干线去京都。松岛的朋友会到京都站来接我，所以我想没问题。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "気をつけていってきくださいね。",
+        "reading": "気wotsuketeitekikudasaine。",
+        "meaning": "路上小心啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "はい、ありがとうございます。",
+        "reading": "hai、arigatougozaimasu。",
+        "meaning": "好的，谢谢。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d22",
+    "title": "会話文（京都駅／駅ビル／電車の中）",
+    "scene": "電車の中",
+    "lines": [
+      {
+        "speaker": "藤原",
+        "jp": "あのう…王小華さんですか。",
+        "reading": "anou…王小華sandesuka。",
+        "meaning": "那个……您是王小华吗？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "はい、そうです。藤原さんですか。",
+        "reading": "hai、soudesu。藤原sandesuka。",
+        "meaning": "是的。是藤原吗？"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "はい。松島さんの高校時代に同じクラスだった藤原と言います。",
+        "reading": "hai。松島sanno高校時代ni同jikurasudata藤原to言imasu。",
+        "meaning": "是的。我是松岛高中时代同班的藤原。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "よろしくお願いします。",
+        "reading": "yoroshikuo願ishimasu。",
+        "meaning": "请多关照。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "こちらこそ。わたしは大学院で中国について調べたり、論文を書いたりしているんです。色々教えてくださいね。疲れているでしょう。まず、駅ビルで昼食でもとりましょうか。",
+        "reading": "kochirakoso。watashiha大学院de中国nitsuite調betari、論文wo書itarishiteirundesu。色々教etekudasaine。疲reteirudeshou。mazu、駅birude昼食demotorimashouka。",
+        "meaning": "彼此彼此。我在研究生院查中国的资料、写论文。请多教我哦。你累了吧。先去车站大楼吃点午饭吧？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "お気遣いありがとうございます。",
+        "reading": "o気遣iarigatougozaimasu。",
+        "meaning": "谢谢您的关心。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "何を食べたいですか。",
+        "reading": "何wo食betaidesuka。",
+        "meaning": "想吃什么？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "京都駅も綺麗で大きいですね。せっかくですから、京都ならではのものを食べたいですね。",
+        "reading": "京都駅mo綺麗de大kiidesune。sekakudesukara、京都naradehanomonowo食betaidesune。",
+        "meaning": "京都站又漂亮又大啊。好不容易来一趟，想吃京都特有的东西呢。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "それでは、この京料理のレストランに入りましょう。",
+        "reading": "soredeha、kono京料理noresutoranni入rimashou。",
+        "meaning": "那么，进这家京都料理餐厅吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "東京もそうですけど、日本の電車の中は本当に静かですよね。ほとんど話し声がしません。",
+        "reading": "東京mosoudesukedo、日本no電車no中ha本当ni静kadesuyone。hotondo話shi声gashimasen。",
+        "meaning": "东京也是，日本电车里面真是安静啊。几乎听不到说话声。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "みんな漫画本や雑誌を見たり、新聞を読んだりしていますからね。",
+        "reading": "minna漫画本ya雑誌wo見tari、新聞wo読ndarishiteimasukarane。",
+        "meaning": "因为大家都在看漫画书、杂志，读报纸啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "わたしたちが乗った電車は、どこに着きますか。",
+        "reading": "watashitachiga乗ta電車ha、dokoni着kimasuka。",
+        "meaning": "我们坐的这趟车到哪里？"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "JR奈良線の快速に乗りましたから、40分で奈良駅に着きます。",
+        "reading": "jr奈良線no快速ni乗rimashitakara、40分de奈良駅ni着kimasu。",
+        "meaning": "因为坐的是JR奈良线的快车，40分钟到奈良站。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "法隆寺へはどのように行きますか。",
+        "reading": "法隆寺hehadonoyouni行kimasuka。",
+        "meaning": "怎么去法隆寺呢？"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "奈良駅に着いた後で、乗り換えて法隆寺へ行きます。",
+        "reading": "奈良駅ni着ita後de、乗ri換ete法隆寺he行kimasu。",
+        "meaning": "到奈良站后换车去法隆寺。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そうですか。以前、法隆寺は「世界で一番古い木造建築物」と聞きました。",
+        "reading": "soudesuka。以前、法隆寺ha「世界de一番古i木造建築物」to聞kimashita。",
+        "meaning": "是吗。以前听说法隆寺是\"世界上最古老的木造建筑\"。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "そうですね。当時の建築技術や彫刻などが、そのまま残っていますから、じっくり見ると面白いと思いますよ。",
+        "reading": "soudesune。当時no建築技術ya彫刻nadoga、sonomama残teimasukara、jikuri見ruto面白ito思imasuyo。",
+        "meaning": "是啊。当时的建筑技术、雕刻等都原样保留了下来，所以仔细看的话会很有意思哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "聖徳太子とも関係があるんですよね。",
+        "reading": "聖徳太子tomo関係gaarundesuyone。",
+        "meaning": "也和圣德太子有关吧。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "法隆寺夢殿は聖徳太子の書斎だったそうです。太子が隋の煬帝に送った書簡に「日の出ずるところの王子」と自分の名前を書いたんです。そこから「日の本」という国名が生まれそうですよ。",
+        "reading": "法隆寺夢殿ha聖徳太子no書斎datasoudesu。太子ga隋no煬帝ni送ta書簡ni「日no出zurutokorono王子」to自分no名前wo書itandesu。sokokara「日no本」toiu国名ga生maresoudesuyo。",
+        "meaning": "据说法隆寺梦殿是圣德太子的书房。太子在给隋炀帝的书简上署名\"日出之处的王子\"。据说\"日之本（日本）\"这个国名就是由此诞生的哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "へぇ、そうだったんですか。",
+        "reading": "heぇ、soudatandesuka。",
+        "meaning": "诶，原来是这样啊。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d23",
+    "title": "会話文（唐招提寺／駅近くの喫茶店）",
+    "scene": "駅近くの喫茶店",
+    "lines": [
+      {
+        "speaker": "王小華",
+        "jp": "法隆寺も素晴らしかったですけど、唐招提寺も素晴らしいですね。",
+        "reading": "法隆寺mo素晴rashikatadesukedo、唐招提寺mo素晴rashiidesune。",
+        "meaning": "法隆寺也很棒，唐招提寺也很棒啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "でも、建物の形は昔のままなんですよね。",
+        "reading": "demo、建物no形ha昔nomamanandesuyone。",
+        "meaning": "不过，建筑物的形状还是保持原样呢。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "ははは、かたちも昔のままですが、材料も使用できるものは昔のままだそうですよ。",
+        "reading": "hahaha、katachimo昔nomamadesuga、材料mo使用dekirumonoha昔nomamadasoudesuyo。",
+        "meaning": "哈哈哈，形状是保持原样，而且据说材料也尽量使用原来的哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そうですか。日本の建物の保存技術は進んでいますね。",
+        "reading": "soudesuka。日本no建物no保存技術ha進ndeimasune。",
+        "meaning": "是吗。日本建筑物的保存技术很先进啊。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "材質が木だから、技術がないと保存できませんからね。",
+        "reading": "材質ga木dakara、技術ganaito保存dekimasenkarane。",
+        "meaning": "因为材质是木头，没有技术就保存不下来啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "唐招提寺を建てた鑑真もきっと喜んでいるでしょうね。",
+        "reading": "唐招提寺wo建teta鑑真mokito喜ndeirudeshoune。",
+        "meaning": "建了唐招提寺的鉴真一定也很高兴吧。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "鑑真を知っているんですか。",
+        "reading": "鑑真wo知teirundesuka。",
+        "meaning": "你了解鉴真啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "中国で、鑑真について勉強したことがあります。",
+        "reading": "中国de、鑑真nitsuite勉強shitakotogaarimasu。",
+        "meaning": "我在中国学习过鉴真（的事迹）。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "へえ、そうなんですか。",
+        "reading": "hee、sounandesuka。",
+        "meaning": "诶，是吗。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "揚州にある鑑真と所縁のあるお寺にも行ったことがあります。唐招提寺のとそっくりな鑑真像があるんですよ。",
+        "reading": "揚州niaru鑑真to所縁noaruo寺nimo行takotogaarimasu。唐招提寺notosokurina鑑真像gaarundesuyo。",
+        "meaning": "我还去过扬州与鉴真有缘的寺庙。那里有和唐招提寺一模一样的鉴真像哦。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "へえ、それは初めて知りました。",
+        "reading": "hee、soreha初mete知rimashita。",
+        "meaning": "诶，这我还是第一次听说。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "わたしが上海へ帰った後で、藤原さんもぜひ中国へ来てくださいね。揚州を案内しますから。",
+        "reading": "watashiga上海he帰ta後de、藤原sanmozehi中国he来tekudasaine。揚州wo案内shimasukara。",
+        "meaning": "我回上海以后，藤原你也一定要来中国哦。我带你游览扬州。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "今日は本当にありがとうございました。",
+        "reading": "今日ha本当niarigatougozaimashita。",
+        "meaning": "今天真的非常感谢。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "いいえ、こちらこそ勉強になりました。",
+        "reading": "iie、kochirakoso勉強ninarimashita。",
+        "meaning": "不，彼此彼此，我也学到了很多。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "鑑真の時代に海を渡るのはきっと大変だったでしょうね。",
+        "reading": "鑑真no時代ni海wo渡runohakito大変datadeshoune。",
+        "meaning": "鉴真那个时代渡海一定很辛苦吧。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "ええ、鑑真は何度も日本への航海に失敗したんですよね。",
+        "reading": "ee、鑑真ha何度mo日本heno航海ni失敗shitandesuyone。",
+        "meaning": "是啊，鉴真多次东渡日本都失败了。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "最後に日本に着いた時は、失明していました。",
+        "reading": "最後ni日本ni着ita時ha、失明shiteimashita。",
+        "meaning": "最后到达日本时，他已经失明了。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "それほどまでして、日本のために尽くしてくれたんですね。",
+        "reading": "sorehodomadeshite、日本notameni尽kushitekuretandesune。",
+        "meaning": "他吃了那么多苦，为日本尽了全力啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "今は、東京から上海まで飛行機で、たったの２時間半ですけど。また、当時は日本からも多くの留学生が中国へ来ていましたよね。",
+        "reading": "今ha、東京kara上海made飛行機de、tatano２時間半desukedo。mata、当時ha日本karamo多kuno留学生ga中国he来teimashitayone。",
+        "meaning": "现在从东京到上海坐飞机只要两个半小时。另外，当时也有许多日本留学生到中国来吧。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "遣隋使や遣唐使ですね。",
+        "reading": "遣隋使ya遣唐使desune。",
+        "meaning": "就是遣隋使和遣唐使吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "昔、西安へ旅行に行った時に、阿倍仲麻呂の記念碑を見たことがあります。",
+        "reading": "昔、西安he旅行ni行ta時ni、阿倍仲麻呂no記念碑wo見takotogaarimasu。",
+        "meaning": "以前去西安旅行时，我见过阿倍仲麻吕的纪念碑。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "鑑真や当時の旅人たちの勇気には本当に感動しますね。",
+        "reading": "鑑真ya当時no旅人tachino勇気niha本当ni感動shimasune。",
+        "meaning": "鉴真和当时旅人们的勇气真让我感动啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "彼らはまさに、日中友好を目指すわたしたちの大先輩ということができますね。今日、唐招提寺をこの目で見た感動を胸に残したまま、日本語の勉強を頑張りたいです。",
+        "reading": "彼rahamasani、日中友好wo目指suwatashitachino大先輩toiukotogadekimasune。今日、唐招提寺wokono目de見ta感動wo胸ni残shitamama、日本語no勉強wo頑張ritaidesu。",
+        "meaning": "他们真可以说是我们中日友好先行者的大前辈啊。今天想把亲眼看到唐招提寺的感动留在心中，努力学习日语。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d24",
+    "title": "会話文（電車の中／金閣寺の中）",
+    "scene": "金閣寺の中・藤原、王小華",
+    "lines": [
+      {
+        "speaker": "藤原",
+        "jp": "京都に着いたら、まずどうしますか。",
+        "reading": "京都ni着itara、mazudoushimasuka。",
+        "meaning": "到了京都，首先做什么呢？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "京都についたら、まず金閣寺を見たいですね。",
+        "reading": "京都nitsuitara、mazu金閣寺wo見taidesune。",
+        "meaning": "到了京都，首先想看金阁寺呢。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "金閣寺？どうしてですか。",
+        "reading": "金閣寺？doushitedesuka。",
+        "meaning": "金阁寺？为什么呢？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "小さい頃、日本のアニメ『一休さん』を見ていたんです。その時に将軍様のお屋敷として金閣寺がよく登場していましたよね。",
+        "reading": "小sai頃、日本noanime『一休san』wo見teitandesu。sono時ni将軍様noo屋敷toshite金閣寺gayoku登場shiteimashitayone。",
+        "meaning": "小时候看过日本动画片《一休》。那时金阁寺经常作为将军大人的宅邸出现呢。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "懐かしいですね。そう、そう、そうでした。",
+        "reading": "懐kashiidesune。sou、sou、soudeshita。",
+        "meaning": "真怀念啊。对对，是那样的。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あの将軍様のキャラクターがとても好きで、「いつか金閣寺を見てみたいなぁ」と思っていたんです。",
+        "reading": "ano将軍様nokyarakutagatotemo好kide、「itsuka金閣寺wo見temitainaぁ」to思teitandesu。",
+        "meaning": "我非常喜欢那位将军的角色，当时就想\"总有一天想去看看金阁寺啊\"。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "あの将軍様は実在の人物なんですよ。",
+        "reading": "ano将軍様ha実在no人物nandesuyo。",
+        "meaning": "那位将军是真实存在的人物哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "はい、知ってます。室町幕府三代将軍足利義満ですよね。",
+        "reading": "hai、知temasu。室町幕府三代将軍足利義満desuyone。",
+        "meaning": "嗯，我知道。是室町幕府第三代将军足利义满吧。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "本当によく知ってますね。",
+        "reading": "本当niyoku知temasune。",
+        "meaning": "你真是知道得很清楚啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "アニメを見ながら、気になって、本で調べたんです。中国と貿易も行っていたらしいですね。",
+        "reading": "animewo見nagara、気ninate、本de調betandesu。中国to貿易mo行teitarashiidesune。",
+        "meaning": "我一边看动画片，一边在意地查了书。据说他还与中国进行贸易呢。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "「日明貿易」ですね。現在の神戸が栄えるきっかけにもなったんですよ。",
+        "reading": "「日明貿易」desune。現在no神戸ga栄erukikakenimonatandesuyo。",
+        "meaning": "就是\"日明贸易\"啊。它也成了现在神户繁荣的契机哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "やはり、実物で見ると感動しますね。",
+        "reading": "yahari、実物de見ruto感動shimasune。",
+        "meaning": "果然，见到实物还是很感动啊。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "三層の建物は、それぞれ階によって、建て方が違うんですよ。一階が平安貴族の「寝殿造り」、二階が質素な「武家造り」、三階が中国式の「唐様」です。",
+        "reading": "三層no建物ha、sorezore階niyote、建te方ga違undesuyo。一階ga平安貴族no「寝殿造ri」、二階ga質素na「武家造ri」、三階ga中国式no「唐様」desu。",
+        "meaning": "三层的建筑，每层的建造方式都不同哦。一楼是平安贵族的\"寝殿造\"，二楼是朴素的\"武家造\"，三楼是中国式的\"唐样\"。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "へえ、ここにも「日中合作」の歴史があるんですね。",
+        "reading": "hee、kokonimo「日中合作」no歴史gaarundesune。",
+        "meaning": "诶，这里也有\"中日合作\"的历史啊。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "建物だけでなく、庭園もきれいでしょう。",
+        "reading": "建物dakedenaku、庭園mokireideshou。",
+        "meaning": "不光是建筑，庭园也很漂亮吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "奈良も京都も、古いお寺の庭園は、どこも個性がありますね。お寺によって、それぞれ違います。",
+        "reading": "奈良mo京都mo、古io寺no庭園ha、dokomo個性gaarimasune。o寺niyote、sorezore違imasu。",
+        "meaning": "无论是奈良还是京都，古老寺庙的庭园都各具个性。每个寺庙都不一样。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "金閣寺が建てられた時代の文化は、ここの地名から「北山文化」と言います。結構、華やかなぶんかです。",
+        "reading": "金閣寺ga建terareta時代no文化ha、kokono地名kara「北山文化」to言imasu。結構、華yakanabunkadesu。",
+        "meaning": "金阁寺建造时代的文化，因地名被称为\"北山文化\"。是相当华丽绚烂的文化呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "金色に輝く金閣寺が、その代表ですね。",
+        "reading": "金色ni輝ku金閣寺ga、sono代表desune。",
+        "meaning": "金光闪耀的金阁寺就是其代表啊。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "銀閣寺というお寺もあるんですが、その寺が建った時代は「東山文化」言って、素朴な文化なんです。",
+        "reading": "銀閣寺toiuo寺moarundesuga、sono寺ga建ta時代ha「東山文化」言te、素朴na文化nandesu。",
+        "meaning": "还有一座叫银阁寺的寺庙，它建造时代的文化叫做\"东山文化\"，是朴素的文化。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "確か、「書院造り」と言って、畳などの今の日本の住宅文化のルーツでしたよね。",
+        "reading": "確ka、「書院造ri」to言te、畳nadono今no日本no住宅文化norutsudeshitayone。",
+        "meaning": "我记得叫做\"书院造\"，是榻榻米等现代日本住宅文化的根源吧。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "王さん、そんなことまで知っているんですか。本当にすごいですね。",
+        "reading": "王san、sonnakotomade知teirundesuka。本当nisugoidesune。",
+        "meaning": "小王，你连这个都知道吗？真厉害啊。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d25",
+    "title": "会話文（王さんの寮／寮のロビー）",
+    "scene": "寮のロビー・王小華、松島さん、ダニエル",
+    "lines": [
+      {
+        "speaker": "王小華",
+        "jp": "松島さん、いらっしゃい。どうぞ、お入りください。",
+        "reading": "松島san、irashai。douzo、o入rikudasai。",
+        "meaning": "松岛，欢迎光临。请进。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "お邪魔します。",
+        "reading": "o邪魔shimasu。",
+        "meaning": "打扰了。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "松島さんのお友達の藤原さんにはすっかりお世話になりました。",
+        "reading": "松島sannoo友達no藤原sannihasukario世話ninarimashita。",
+        "meaning": "我受了您朋友藤原的很多照顾。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "昨日、藤原さんから電話をもらいました。天気もよくて、旅行は順調だったそうですね。",
+        "reading": "昨日、藤原sankara電話womoraimashita。天気moyokute、旅行ha順調datasoudesune。",
+        "meaning": "昨天我接到了藤原的电话。他说天气很好，旅行很顺利呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "お蔭様で。これは京都で買った松島さんへのお土産です。",
+        "reading": "o蔭様de。koreha京都de買ta松島sanhenoo土産desu。",
+        "meaning": "托您的福。这是在京都买的给松岛的礼物。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "そんな気を使わなくてもいいのに。",
+        "reading": "sonna気wo使wanakutemoiinoni。",
+        "meaning": "你不用这么客气的。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "たいしたものではありません。京都のお菓子「生八つ橋」ですよ。",
+        "reading": "taishitamonodehaarimasen。京都noo菓子「生八tsu橋」desuyo。",
+        "meaning": "不是什么贵重东西。是京都的点心\"生八桥\"哦。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "ああ、それ大好物なんですよね。じゃあ、遠慮なくいただきます。",
+        "reading": "aa、sore大好物nandesuyone。jaa、遠慮nakuitadakimasu。",
+        "meaning": "啊，那是我最爱吃的东西呢。那我就不客气地收下了。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "松島さんが「甘いものには目がない」のは知っていましたから。",
+        "reading": "松島sanga「甘imononiha目ganai」noha知teimashitakara。",
+        "meaning": "因为我知道松岛你\"特别喜欢甜食\"嘛。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "本当にありがとうございます。ああ、嬉しい！王さん、今一緒に食べましょうよ。",
+        "reading": "本当niarigatougozaimasu。aa、嬉shii！王san、今一緒ni食bemashouyo。",
+        "meaning": "真是太谢谢了。啊，真高兴！小王，现在一起吃吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "じゃあ、お茶でも入れますね。",
+        "reading": "jaa、o茶demo入remasune。",
+        "meaning": "那我泡点茶吧。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "王さん、松島さん。",
+        "reading": "王san、松島san。",
+        "meaning": "小王，松岛。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あ、ダニエルさん。こんにちは。",
+        "reading": "a、danierusan。konnichiha。",
+        "meaning": "啊，丹尼尔。你好。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "京都と奈良はどうでしたか。",
+        "reading": "京都to奈良hadoudeshitaka。",
+        "meaning": "京都和奈良怎么样？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "本当に素晴らしかったです。時間が全然足りませんでした。また行きたいですね。",
+        "reading": "本当ni素晴rashikatadesu。時間ga全然足rimasendeshita。mata行kitaidesune。",
+        "meaning": "真的太棒了。时间完全不够。还想再去呢。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "王さんたちの学校はいつから二学期が始まるんですか。",
+        "reading": "王santachino学校haitsukara二学期ga始marundesuka。",
+        "meaning": "你们的学校第二学期什么时候开始？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "いつでしたっけ…",
+        "reading": "itsudeshitake…",
+        "meaning": "是什么时候来着……"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "いやだなぁ、王さん。明日からですよ。",
+        "reading": "iyadanaぁ、王san。明日karadesuyo。",
+        "meaning": "真拿你没办法啊，小王。从明天开始哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "え！明日からもう学校に通わなければならないんですか。",
+        "reading": "e！明日karamou学校ni通wanakerebanaranaindesuka。",
+        "meaning": "诶！从明天起就必须上学了吗？"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "授業はないと思いますけど、始業式や宿題の提出があるはずですよ。",
+        "reading": "授業hanaito思imasukedo、始業式ya宿題no提出gaaruhazudesuyo。",
+        "meaning": "虽然应该没有课，但应该有开学典礼和作业提交哦。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "随分、始まるのが早いんですね。",
+        "reading": "随分、始marunoga早indesune。",
+        "meaning": "开始得真早啊。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "欧米の留学生がクリスマスの前は早く帰りたいので、それに合わせたらしいです。僕は年末年始は母国に帰りませんけど。",
+        "reading": "欧米no留学生gakurisumasuno前ha早ku帰ritainode、soreni合wasetarashiidesu。僕ha年末年始ha母国ni帰rimasenkedo。",
+        "meaning": "因为欧美的留学生想在圣诞节前早点回家，所以据说是配合他们（提前放假）的。不过我年末年初不回母国。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "冬休みは「あっと言う間」に終わってしまいますからね。",
+        "reading": "冬休miha「ato言u間」ni終wateshimaimasukarane。",
+        "meaning": "因为寒假\"一眨眼\"就结束了啊。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "はい。王さんはお隣の中国ですから問題ないですね。",
+        "reading": "hai。王sanhao隣no中国desukara問題naidesune。",
+        "meaning": "是啊。小王你就在邻邦中国（回家），所以没问题呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "誰でも買えるんですか。",
+        "reading": "誰demo買erundesuka。",
+        "meaning": "谁都能买吗？"
+      },
+      {
+        "speaker": "松島",
+        "jp": "あのう王さん、実は私も車を持っているんですよ。",
+        "reading": "anou王san、実ha私mo車wo持teirundesuyo。",
+        "meaning": "那个，小王，其实我也有车哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "日本はモータリゼーションが本当に進んでいますね。",
+        "reading": "日本hamotarizeshonga本当ni進ndeimasune。",
+        "meaning": "日本的汽车普及化真是先进啊。"
+      },
+      {
+        "speaker": "木村",
+        "jp": "でも、既に外資系自動車企業が揃っている中国もすぐにそうなると思いますよ。",
+        "reading": "demo、既ni外資系自動車企業ga揃teiru中国mosugunisounaruto思imasuyo。",
+        "meaning": "不过，外资企业已经齐备的中国，马上也会变成那样的吧。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "けれど、モータリゼーションはいいことばかりじゃないですよね。",
+        "reading": "keredo、motarizeshonhaiikotobakarijanaidesuyone。",
+        "meaning": "但是，汽车普及也不全是好事啊。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "日本もかつて公害に悩みましたし、今でも大都市では交通渋滞がひどいです。大国には大国の、島国には島国の発展の仕方があっていいはずです。全てアメリカの真似をすることはなかったんですよ。",
+        "reading": "日本mokatsute公害ni悩mimashitashi、今demo大都市deha交通渋滞gahidoidesu。大国niha大国no、島国niha島国no発展no仕方gaateiihazudesu。全teamerikano真似wosurukotohanakatandesuyo。",
+        "meaning": "日本过去也曾为公害所苦，即使现在，大城市的交通拥堵也很严重。大国应该有大国的发展方式，岛国有岛国的发展方式。也不是全都要模仿美国嘛。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "いつまでも、この美しい紅葉の景色を大切にしたいですね。",
+        "reading": "itsumademo、kono美shii紅葉no景色wo大切nishitaidesune。",
+        "meaning": "想永远珍惜这美丽的红叶景色啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "中国は日本の発展の部分だけでなく、過去の失敗も参考にしなければなりません。",
+        "reading": "中国ha日本no発展no部分dakedenaku、過去no失敗mo参考nishinakerebanarimasen。",
+        "meaning": "中国不但要参考日本的发展，也必须参考它过去的失败。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d30",
+    "title": "会話文（小学校／寮の喫茶室）",
+    "scene": "寮の喫茶室で・王小華、ダニエル、田中先生",
+    "lines": [
+      {
+        "speaker": "王小華",
+        "jp": "今日はお休みなのに、この学校はにぎやかですね。",
+        "reading": "今日hao休minanoni、kono学校hanigiyakadesune。",
+        "meaning": "今天休息，这所学校却很热闹啊。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "王さん、今日はどうして休みなのか知っていますか。",
+        "reading": "王san、今日hadoushite休minanoka知teimasuka。",
+        "meaning": "小王，你知道今天为什么放假吗？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "はい、「体育の日」ですよね。１９６４年の１０月１０日が東京オリンピックの開会式だったことを記念して。",
+        "reading": "hai、「体育no日」desuyone。１９６４年no１０月１０日ga東京orinpikuno開会式datakotowo記念shite。",
+        "meaning": "知道，是\"体育之日\"吧。是为了纪念1964年10月10日东京奥运会开幕。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "そんなんです。それで多くの学校で運動会をやっているんですよ。",
+        "reading": "sonnandesu。sorede多kuno学校de運動会woyateirundesuyo。",
+        "meaning": "是的。所以很多学校都在开运动会呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "それにしても、たくさんの人が見に来ていますね。",
+        "reading": "sorenishitemo、takusanno人ga見ni来teimasune。",
+        "meaning": "尽管如此，还是有很多人来看呢。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "小学校の子供のご両親たちですよ。",
+        "reading": "小学校no子供nogo両親tachidesuyo。",
+        "meaning": "都是小学生的父母们哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あ、みんなでお弁当を食べ始めましたね。",
+        "reading": "a、minnadeo弁当wo食be始memashitane。",
+        "meaning": "啊，大家一起开始吃盒饭了呢。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "日本の小学校では給食制度が徹底していて、多くの学校では毎日みんなの食べるものがおなじなんです。でも、今日だけはお母さんが持って来てくれた手作りのお弁当が食べられるんです。",
+        "reading": "日本no小学校deha給食制度ga徹底shiteite、多kuno学校deha毎日minnano食berumonogaonajinandesu。demo、今日dakehao母sanga持te来tekureta手作rinoo弁当ga食berarerundesu。",
+        "meaning": "日本的小学供餐制度很彻底，很多学校每天大家吃的东西都一样。但是只有今天才能吃到母亲带来的亲手做的盒饭。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "いいなぁ…なんだか故郷や両親のことが急に懐かしくなってきました。",
+        "reading": "iinaぁ…nandaka故郷ya両親nokotoga急ni懐kashikunatekimashita。",
+        "meaning": "真好啊……不知怎么，突然怀念起故乡和父母来了。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "王さん、ホームシックになっちゃいましたか。",
+        "reading": "王san、homushikuninachaimashitaka。",
+        "meaning": "小王，你是想家了吧。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "王さん、なにを書いているんですか。",
+        "reading": "王san、naniwo書iteirundesuka。",
+        "meaning": "小王，你在写什么呢？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "両親に手紙を出そうと思って…",
+        "reading": "両親ni手紙wo出souto思te…",
+        "meaning": "我想给父母寄封信……"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "インターネットを使えばいいじゃないですか。",
+        "reading": "intanetowo使ebaiijanaidesuka。",
+        "meaning": "用因特网不就行了。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "うちの両親はコンピュータに疎いんです。",
+        "reading": "uchino両親hakonpyutani疎indesu。",
+        "meaning": "我父母不太会用电脑。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "国際電話をかけてもいいし…",
+        "reading": "国際電話wokaketemoiishi…",
+        "meaning": "打国际长途也可以啊……"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "今まで一度も両親に手紙を書いたことがないんですよ。写真なんかも同封しようと思って…",
+        "reading": "今made一度mo両親ni手紙wo書itakotoganaindesuyo。写真nankamo同封shiyouto思te…",
+        "meaning": "我到现在一次也没给父母写过信呢。我想把照片什么的也一起寄过去……"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "ああ、なるほど。",
+        "reading": "aa、naruhodo。",
+        "meaning": "啊，原来如此。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "王さん、今日も熱心にお勉強ですか。",
+        "reading": "王san、今日mo熱心nio勉強desuka。",
+        "meaning": "小王，今天也在用功学习吗？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あ、先生。いえ、今は両親に手紙を書いているです。",
+        "reading": "a、先生。ie、今ha両親ni手紙wo書iteirudesu。",
+        "meaning": "啊，老师。不，我现在在给父母写信。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "それは感心ですね。",
+        "reading": "soreha感心desune。",
+        "meaning": "那真令人佩服啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "でも、いざ書いてみると、何を書こうかわからなくて…",
+        "reading": "demo、iza書itemiruto、何wo書koukawakaranakute…",
+        "meaning": "不过，真要写起来，却不知道写什么了……"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "王さんが元気なこと、東京の様子や学校生活の様子をお母さんに教えてあげればいいんじゃないですか。",
+        "reading": "王sanga元気nakoto、東京no様子ya学校生活no様子woo母sanni教eteagerebaiinjanaidesuka。",
+        "meaning": "把你身体健康、东京的情况和学校生活的情况告诉妈妈不就好了吗？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そうですね。ありがとうございます。",
+        "reading": "soudesune。arigatougozaimasu。",
+        "meaning": "是啊。谢谢老师。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d31",
+    "title": "会話文（書店／喫茶室）",
+    "scene": "日本語学校の喫茶室・王小華、キムヒョンヨル",
+    "lines": [
+      {
+        "speaker": "王小華",
+        "jp": "あのう…すみません。",
+        "reading": "anou…sumimasen。",
+        "meaning": "那个……打扰一下。"
+      },
+      {
+        "speaker": "店員",
+        "jp": "あ、王さん。こんにちは。ははは、また何か質問ですか。",
+        "reading": "a、王san。konnichiha。hahaha、mata何ka質問desuka。",
+        "meaning": "啊，小王。你好，哈哈哈，又有什么问题吗？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あそこに書いてある「読書の秋キャンペーン」って、どういう意味ですか。",
+        "reading": "asokoni書itearu「読書no秋kyanpen」te、douiu意味desuka。",
+        "meaning": "那边写的\"读书之秋活动\"是什么意思啊？"
+      },
+      {
+        "speaker": "店員",
+        "jp": "ああ、あれは「読書の秋だから本をたくさん読みましょう」という出版会社のキャンペーンですよ。",
+        "reading": "aa、areha「読書no秋dakara本wotakusan読mimashou」toiu出版会社nokyanpendesuyo。",
+        "meaning": "啊，那是出版社搞的\"因为是读书之秋，所以大家多读书\"的活动哦。"
+      },
+      {
+        "speaker": "店員",
+        "jp": "秋はすずしくて気候がおだやかですから、読書には一番いい季節だと言われているんです。",
+        "reading": "秋hasuzushikute気候gaodayakadesukara、読書niha一番ii季節dato言wareteirundesu。",
+        "meaning": "秋天凉爽、气候宜人，所以被称为最适合读书的季节。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "なるほど、そうなんですか。",
+        "reading": "naruhodo、sounandesuka。",
+        "meaning": "原来如此，是这样啊。"
+      },
+      {
+        "speaker": "店員",
+        "jp": "「読書の秋」のほかにも「スポーツの秋」とか「食欲の秋」とかもありますよ。",
+        "reading": "「読書no秋」nohokanimo「supotsuno秋」toka「食欲no秋」tokamoarimasuyo。",
+        "meaning": "除了\"读书之秋\"，还有\"运动之秋\"呀\"食欲之秋\"呀。"
+      },
+      {
+        "speaker": "店員",
+        "jp": "こちらの雑誌は「\"食欲の秋\"特集」ですよ。どうぞゆっくり見ていってください。",
+        "reading": "kochirano雑誌ha「\"食欲no秋\"特集」desuyo。douzoyukuri見teitekudasai。",
+        "meaning": "这边的杂志是\"食欲之秋特辑\"哦。请慢慢看。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "はい、ありがとうございます。",
+        "reading": "hai、arigatougozaimasu。",
+        "meaning": "好的，谢谢。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "王さん、こんにちは。何を読んでいるんですか。",
+        "reading": "王san、konnichiha。何wo読ndeirundesuka。",
+        "meaning": "小王，你好。在看什么呢？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "「食欲の秋」に関する雑誌です。",
+        "reading": "「食欲no秋」ni関suru雑誌desu。",
+        "meaning": "是关于\"食欲之秋\"的杂志。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "それにしても、どの写真も美味しそうですね。",
+        "reading": "sorenishitemo、dono写真mo美味shisoudesune。",
+        "meaning": "即便如此，哪张照片看起来都很好吃呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "わたしが日本へ来る前に暮らしていた上海にも日本料理店が多いんです。「秋刀魚」は大好きでよく食べていました。",
+        "reading": "watashiga日本he来ru前ni暮rashiteita上海nimo日本料理店ga多indesu。「秋刀魚」ha大好kideyoku食beteimashita。",
+        "meaning": "我来日本之前住的上海也有很多日本料理店。\"秋刀鱼\"是我的最爱，经常吃。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "僕も中国留学時代に上海はよく行きました。韓国料理店も多いんですよ。現地に住んでいる日本人や韓国人にとって上海っていう町は便利そうですよね。",
+        "reading": "僕mo中国留学時代ni上海hayoku行kimashita。韓国料理店mo多indesuyo。現地ni住ndeiru日本人ya韓国人nitote上海teiu町ha便利soudesuyone。",
+        "meaning": "我在中国留学的时候也常去上海。韩国料理店也很多哦。对住在当地的日本人和韩国人来说，上海这个城市好像很方便呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "上海の日本料理店で「松茸」の「土瓶蒸し」を食べたことがあるんです。でも、それほど美味しいとはおもわなかったなぁ。",
+        "reading": "上海no日本料理店de「松茸」no「土瓶蒸shi」wo食betakotogaarundesu。demo、sorehodo美味shiitohaomowanakatanaぁ。",
+        "meaning": "在上海的日本料理店吃过\"松茸\"的\"土瓶蒸\"。不过，我觉得没那么好吃啊。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "ははは、とっても薄い味付けですよね。でも、そういう味付けで素材のもともとの風味を楽しむのが日本料理の特徴ですからね。",
+        "reading": "hahaha、totemo薄i味付kedesuyone。demo、souiu味付kede素材nomotomotono風味wo楽shimunoga日本料理no特徴desukarane。",
+        "meaning": "哈哈哈，调味非常清淡呢。不过，享受食材原味正是日本料理的特征啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "キムさんは日本料理が好きそうですよね。",
+        "reading": "kimusanha日本料理ga好kisoudesuyone。",
+        "meaning": "小金你看起来很喜欢日本料理呢。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "大好きですよ。今度、外に食べに行きましょうよ。",
+        "reading": "大好kidesuyo。今度、外ni食beni行kimashouyo。",
+        "meaning": "非常喜欢。下次一起出去吃吧。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d32",
+    "title": "会話文（図書館／王小華の自室）",
+    "scene": "王小華の自室・王小華、陳敏さん",
+    "lines": [
+      {
+        "speaker": "陳敏",
+        "jp": "王さん、お隣いいですか。",
+        "reading": "王san、o隣iidesuka。",
+        "meaning": "小王，坐你旁边可以吗？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あ…はい、どうぞ。陳さんですよね。わたしの名前を覚えていてくれたんですか。",
+        "reading": "a…hai、douzo。陳sandesuyone。watashino名前wo覚eteitekuretandesuka。",
+        "meaning": "啊……好的，请。是小陈吧。你还记得我的名字啊。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "ええ。普段、教室でお話する機会がありませんけど、王さんは優秀な学生さんですから。",
+        "reading": "ee。普段、教室deo話suru機会gaarimasenkedo、王sanha優秀na学生sandesukara。",
+        "meaning": "嗯。平时在教室里没有说话的机会，但小王是优秀的学生嘛。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そんなことありませんよ。陳さんこそ、オーストラリアでMBAを取得したそうで…",
+        "reading": "sonnakotoarimasenyo。陳sankoso、osutorariadembawo取得shitasoude…",
+        "meaning": "没那回事。小陈你才是，听说你在澳大利亚取得了MBA……"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "それは関係ありませんよ。日本語は王さんに全然敵いません。いつも王さんが田中先生に質問している様子を見て「羨ましい」と思っていたんですよ。",
+        "reading": "soreha関係arimasenyo。日本語ha王sanni全然敵imasen。itsumo王sanga田中先生ni質問shiteiru様子wo見te「羨mashii」to思teitandesuyo。",
+        "meaning": "那没关系啦。我的日语完全比不上小王。我一直看到你向田中老师提问的样子，觉得很\"羡慕\"呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "陳さんから、そんなにほめられると恐縮してしまいます。",
+        "reading": "陳sankara、sonnanihomerareruto恐縮shiteshimaimasu。",
+        "meaning": "被你这么夸奖，我都不好意思了。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "図書館ではなんですから、今度王さんの部屋へお邪魔してもいいですか。日本語学習について聞きたいことがたくさんあるんです。",
+        "reading": "図書館dehanandesukara、今度王sanno部屋heo邪魔shitemoiidesuka。日本語学習nitsuite聞kitaikotogatakusanarundesu。",
+        "meaning": "在图书馆不太方便，下次我可以去打扰一下你的房间吗？有很多关于日语学习的事想请教。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "構いませんよ。もし、よろしければ今から如何ですか。ちょうど切りのいいところでしたから。",
+        "reading": "構imasenyo。moshi、yoroshikereba今kara如何desuka。choudo切rinoiitokorodeshitakara。",
+        "meaning": "没关系。如果可以的话，现在去怎么样？我正好看到一个段落的结尾。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "「スイカの種」でも食べませんか。先日、母に送ってもらったんです。",
+        "reading": "「suikano種」demo食bemasenka。先日、母ni送temoratandesu。",
+        "meaning": "吃点西瓜子吧。前几天母亲寄来的。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "うわぁ～懐かしい。チャイナタウンにもあるんですよ。",
+        "reading": "uwaぁ～懐kashii。chainataunnimoarundesuyo。",
+        "meaning": "哇～好怀念啊。唐人街也有卖的呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そうですか。華僑の方の生活も私たちと似ているところがあるんですね。",
+        "reading": "soudesuka。華僑no方no生活mo私tachito似teirutokorogaarundesune。",
+        "meaning": "是吗？华侨们的生活也有和我们相似的地方呢。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "で、今日は日本語学習の秘訣を聞きにきたんです。",
+        "reading": "de、今日ha日本語学習no秘訣wo聞kinikitandesu。",
+        "meaning": "那么，今天我是来听日语学习的秘诀的。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そんな、秘訣だなんて…わたしの日本語もたいしたことありませんし。",
+        "reading": "sonna、秘訣danante…watashino日本語motaishitakotoarimasenshi。",
+        "meaning": "哪里有什么秘诀……我的日语也没什么了不起的。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "いえ、お上手ですよ。日本へ来る前にも勉強していたんですか。",
+        "reading": "ie、o上手desuyo。日本he来ru前nimo勉強shiteitandesuka。",
+        "meaning": "不，你说得很好啊。来日本之前也学过日语吗？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "上海の語学学校で少しだけ。",
+        "reading": "上海no語学学校de少shidake。",
+        "meaning": "只在上海的语言学校学过一点。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "それで、そんなに話せるなんですごいですよ。",
+        "reading": "sorede、sonnani話serunandesugoidesuyo。",
+        "meaning": "只学过一点就能说这么好，真厉害啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "でも、１２月の日本語能力試験のことを考えると憂鬱です。",
+        "reading": "demo、１２月no日本語能力試験nokotowo考eruto憂鬱desu。",
+        "meaning": "不过，一想到12月的日语能力考试就郁闷。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "そうですよね。日本語を勉強し始めた時は「簡単だ」と思っていたのに、勉強すればするほど難しくなって…",
+        "reading": "soudesuyone。日本語wo勉強shi始meta時ha「簡単da」to思teitanoni、勉強surebasuruhodo難shikunate…",
+        "meaning": "是啊。刚开始学日语时觉得\"很简单\"，可是越学越难……"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "わたしも同感です。日本語は文法が複雑過ぎます。",
+        "reading": "watashimo同感desu。日本語ha文法ga複雑過gimasu。",
+        "meaning": "我也有同感。日语的语法太复杂了。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "１２月までもう時間がありません。何かいい方法はないでしょうか。",
+        "reading": "１２月mademou時間gaarimasen。何kaii方法hanaideshouka。",
+        "meaning": "到12月已经没时间了。有没有什么好办法呢？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "それにしても陳さんは英語も日本語も話せていいですね。",
+        "reading": "sorenishitemo陳sanha英語mo日本語mo話seteiidesune。",
+        "meaning": "话说回来，小陈你会英语又会日语，真好啊。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "それから、一応中国語も。",
+        "reading": "sorekara、一応中国語mo。",
+        "meaning": "然后，姑且还会中文。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "え？中国語も話せるんですか。",
+        "reading": "e？中国語mo話serundesuka。",
+        "meaning": "诶？你还会说中文吗？"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "ええ。オーストラリアの学校では英語ですけど、家では中国語をずっと使っていましたから。",
+        "reading": "ee。osutorariano学校deha英語desukedo、家deha中国語wozuto使teimashitakara。",
+        "meaning": "嗯。在澳大利亚的学校说英语，但在家里一直用中文。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "なんだ…わたしたち、中国語でコミュニケーションすればよかったのに。",
+        "reading": "nanda…watashitachi、中国語dekomyunikeshonsurebayokatanoni。",
+        "meaning": "什么呀……我们早知道用中文交流就好了。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d33",
+    "title": "会話文（教室／テスト会場までの道中）",
+    "scene": "テスト会場までの道中・王小華、陳敏さん、ダニエル",
+    "lines": [
+      {
+        "speaker": "田中先生",
+        "jp": "日本語能力試験まで、あと一週間ですね。皆さん、合格するために一生懸命に準備していますか。",
+        "reading": "日本語能力試験made、ato一週間desune。皆san、合格surutameni一生懸命ni準備shiteimasuka。",
+        "meaning": "离日语能力考试还有一周了呢。大家为了合格在拼命准备吗？"
+      },
+      {
+        "speaker": "キム",
+        "jp": "先生、何の問題が出るか、教えてください。",
+        "reading": "先生、何no問題ga出ruka、教etekudasai。",
+        "meaning": "老师，会出什么样的题，请告诉我吧。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "毎年、キムさんのような質問をされるのですが、先生は残念ながら、テストの作成には関わっていないんですよ。",
+        "reading": "毎年、kimusannoyouna質問wosarerunodesuga、先生ha残念nagara、tesutono作成niha関wateinaindesuyo。",
+        "meaning": "每年都有人像你这样问，遗憾的是，老师并不参与出题啊。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "あと一週間で、どんな準備をしておけばいいですか。",
+        "reading": "ato一週間de、donna準備woshiteokebaiidesuka。",
+        "meaning": "还剩一周，要提前做好什么样的准备才好呢？"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "ここまで来たら、あとは自分の力を信じることです。",
+        "reading": "kokomade来tara、atoha自分no力wo信jirukotodesu。",
+        "meaning": "到了这个地步，剩下的就是相信自己的力量了。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "そうは言っても…",
+        "reading": "souha言temo…",
+        "meaning": "话虽如此……"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "皆さんは今まで難しい中間・期末テストをずっと合格し続けてきたんです。日本語能力試験の合格基準は全体の六割をとればいいんですから、大丈夫です。",
+        "reading": "皆sanha今made難shii中間期末tesutowozuto合格shi続ketekitandesu。日本語能力試験no合格基準ha全体no六割wotorebaiindesukara、大丈夫desu。",
+        "meaning": "大家至今一直不断通过难的期中期末考试。日语能力考试的合格标准是拿到全体的六成就行，所以没问题的。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "でも、中間・期末と能力試験は出題形式が違います。",
+        "reading": "demo、中間期末to能力試験ha出題形式ga違imasu。",
+        "meaning": "但是，期中期末考试和能力考试的出题形式不同。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "王さん、四割失敗しても合格できるんですよ。",
+        "reading": "王san、四割失敗shitemo合格dekirundesuyo。",
+        "meaning": "小王，即使错四成也能合格的哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "理屈ではそうですけど…",
+        "reading": "理屈dehasoudesukedo…",
+        "meaning": "道理是那样……"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "テストですから、毎年の傾向と、その対策があります。これについては「傾向と対策」をまとめたプリントを作っておきましたから、テストの前に、見ておいてください。",
+        "reading": "tesutodesukara、毎年no傾向to、sono対策gaarimasu。korenitsuiteha「傾向to対策」womatometapurintowo作teokimashitakara、tesutono前ni、見teoitekudasai。",
+        "meaning": "既然是考试，每年都有出题倾向和对策。关于这个，我已经事先做好了\"倾向与对策\"的汇总资料，考试前请看一下。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "はい、ありがとうございます。",
+        "reading": "hai、arigatougozaimasu。",
+        "meaning": "好的，谢谢老师。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "ああ…緊張する。",
+        "reading": "aa…緊張suru。",
+        "meaning": "啊……好紧张。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "陳さん、昨日も一緒に田中先生からもらったプリントを復習したじゃないですか。ここまで来たら、自分を信じましょう。",
+        "reading": "陳san、昨日mo一緒ni田中先生karamoratapurintowo復習shitajanaidesuka。kokomade来tara、自分wo信jimashou。",
+        "meaning": "小陈，昨天我们不是一起复习了从田中老师那里拿的资料吗。到了这一步，要相信自己。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "おはようございます。",
+        "reading": "ohayougozaimasu。",
+        "meaning": "早上好。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あ、ダニエルさん。ダニエルさんはたしか、一級を受験するんでしたよね。",
+        "reading": "a、danierusan。danierusanhatashika、一級wo受験surundeshitayone。",
+        "meaning": "啊，丹尼尔。你好像是报考了一级吧。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "はい、「ダメもと」で申し込みました。",
+        "reading": "hai、「damemoto」de申shi込mimashita。",
+        "meaning": "嗯，抱着\"反正希望不大\"的心态报的。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "ダニエルさんなら大丈夫ですよ。きっと高得点で合格します。",
+        "reading": "danierusannara大丈夫desuyo。kito高得点de合格shimasu。",
+        "meaning": "丹尼尔的话没问题的。一定能以高分合格。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "いいなぁ、優秀な人は。",
+        "reading": "iinaぁ、優秀na人ha。",
+        "meaning": "真好啊，优秀的人。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "僕も初受験の時は緊張してもんです。四割も失敗してもいいんですから、焦らないで、落ち着いて問題を解いていくことです。",
+        "reading": "僕mo初受験no時ha緊張shitemondesu。四割mo失敗shitemoiindesukara、焦ranaide、落chi着ite問題wo解iteikukotodesu。",
+        "meaning": "我第一次考的时候也很紧张。错四成也没关系，所以不要焦急，要冷静地一道道解题。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "田中先生も同じようにはげましてくれました。",
+        "reading": "田中先生mo同jiyounihagemashitekuremashita。",
+        "meaning": "田中老师也这样鼓励过我。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "いつまでも、くよくよしててもしょうがないですね。ベストを尽くしましょう。",
+        "reading": "itsumademo、kuyokuyoshitetemoshouganaidesune。besutowo尽kushimashou。",
+        "meaning": "一直闷闷不乐也没用。尽力做到最好吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そうですよ。頑張りましょう。",
+        "reading": "soudesuyo。頑張rimashou。",
+        "meaning": "是啊。加油吧。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "じゃあ、試験が終わったら焼肉を食べに行きましょう。",
+        "reading": "jaa、試験ga終watara焼肉wo食beni行kimashou。",
+        "meaning": "那么，考试结束后去吃烤肉吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "いいですね。やる気がわいてきました。",
+        "reading": "iidesune。yaru気gawaitekimashita。",
+        "meaning": "好啊。干劲都涌上来了。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "あ、いいなぁ。僕も混ぜてくださいよ。",
+        "reading": "a、iinaぁ。僕mo混zetekudasaiyo。",
+        "meaning": "啊，真好啊。也算我一个吧。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d34",
+    "title": "会話文（銀座・歩行者天国／職員室）",
+    "scene": "職員室で・王小華、田中先生",
+    "lines": [
+      {
+        "speaker": "王小華",
+        "jp": "たくさんの人出ですね。まるで上海の南京路みたい。",
+        "reading": "takusanno人出desune。marude上海no南京路mitai。",
+        "meaning": "人真多啊。简直像上海的南京路。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "南京路の歩行者天国には行ったことがあります。でも、銀座は南京路と違って毎週日曜日だけ歩行者天国なんです。",
+        "reading": "南京路no歩行者天国niha行takotogaarimasu。demo、銀座ha南京路to違te毎週日曜日dake歩行者天国nandesu。",
+        "meaning": "我去过南京路步行街。不过银座和南京路不同，只有每周日才是步行街。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そうなんですか。それにしても、どのお店もクリスマスの装飾で賑やかですね。",
+        "reading": "sounandesuka。sorenishitemo、donoo店mokurisumasuno装飾de賑yakadesune。",
+        "meaning": "是吗。话说回来，每家店都装饰着圣诞饰品，真热闹啊。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "戦後、アメリカの影響を強く受けた日本はクリスマスの商業化もアメリカの次に進んでいるんじゃないですか。",
+        "reading": "戦後、amerikano影響wo強ku受keta日本hakurisumasuno商業化moamerikano次ni進ndeirunjanaidesuka。",
+        "meaning": "战后深受美国影响的日本，圣诞节的商业化程度恐怕仅次于美国吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そんなにすごいですか。",
+        "reading": "sonnanisugoidesuka。",
+        "meaning": "有那么厉害吗。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "クリスマスを過ごさない日本人はいないと思いますよ。特に子供のいる家庭では必ずクリスマスツリーが飾ってあります。",
+        "reading": "kurisumasuwo過gosanai日本人hainaito思imasuyo。特ni子供noiru家庭deha必zukurisumasutsuriga飾tearimasu。",
+        "meaning": "我想没有不过圣诞节的日本人哦。特别是有孩子的家庭，一定装饰着圣诞树。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "本当ですか。",
+        "reading": "本当desuka。",
+        "meaning": "真的吗？"
+      },
+      {
+        "speaker": "松島",
+        "jp": "クリスマスイブはカップルにとって大切な一日です。最も人気があるデートのスポットは東京ディズニーランドなんですよ。",
+        "reading": "kurisumasuibuhakapurunitote大切na一日desu。最mo人気gaarudetonosupotoha東京deぃzunirandonandesuyo。",
+        "meaning": "平安夜对情侣来说是很重要的一天。最受欢迎的约会地点是东京迪士尼乐园哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "いいなぁ、ロマンチックですね。わたしもいきたいなぁ。",
+        "reading": "iinaぁ、romanchikudesune。watashimoikitainaぁ。",
+        "meaning": "真好啊，真浪漫。我也想去。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "あら、王さん。だったら、その前に急いで彼氏を見つけないと。",
+        "reading": "ara、王san。datara、sono前ni急ide彼氏wo見tsukenaito。",
+        "meaning": "哎呀，小王。想去的话，得先赶紧找个男朋友才行哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "先生、ちょっと質問があるんですが。",
+        "reading": "先生、choto質問gaarundesuga。",
+        "meaning": "老师，我想问个问题。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "はい、なんですか。",
+        "reading": "hai、nandesuka。",
+        "meaning": "嗯，什么事？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "日本人は「無信仰」民族だと聞いていたんですが、クリスマスもあれば、お正月もありますよね。",
+        "reading": "日本人ha「無信仰」民族dato聞iteitandesuga、kurisumasumoareba、o正月moarimasuyone。",
+        "meaning": "听说日本是\"无信仰\"的民族，但既有圣诞节又有正月（新年）呢。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "はははは、その話ですか。外国人にとっては理解し難いでしょうね。",
+        "reading": "hahahaha、sono話desuka。外国人nitoteha理解shi難ideshoune。",
+        "meaning": "哈哈哈，你说这个啊。对外国人来说确实难以理解吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "教会でクリスマスソングを歌う人もたくさんいれば、初詣でに神社に行く人もたくさんいます。",
+        "reading": "教会dekurisumasusonguwo歌u人motakusanireba、初詣deni神社ni行ku人motakusanimasu。",
+        "meaning": "既有很多人在教堂唱圣诞歌，又有很多人去神社进行新年首次参拜。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "死んだら、お寺にお世話になりますしね。",
+        "reading": "死ndara、o寺nio世話ninarimasushine。",
+        "meaning": "死后还要受寺院的关照呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "どうして日本人はなんでもう受け入れるんですか。わかりやすく教えてください。",
+        "reading": "doushite日本人hanandemou受ke入rerundesuka。wakariyasuku教etekudasai。",
+        "meaning": "为什么日本人什么都接受呢？请给我讲得明白一点。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "う～ん、日本人は「無信仰」と考えるよりも「多信仰」と考えたほうがわかりやすいかもしれませんよ。",
+        "reading": "u～n、日本人ha「無信仰」to考eruyorimo「多信仰」to考etahougawakariyasuikamoshiremasenyo。",
+        "meaning": "嗯～，与其说日本人是\"无信仰\"，不如说\"多信仰\"更容易理解哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "ふ～ん、なるほど。",
+        "reading": "fu～n、naruhodo。",
+        "meaning": "嗯～，原来如此。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "もともと日本は小さな島国で、古代は中国・朝鮮半島から、近代以降は欧米から、積極的に外のものを受け入れ続けてきたんです。",
+        "reading": "motomoto日本ha小sana島国de、古代ha中国朝鮮半島kara、近代以降ha欧米kara、積極的ni外nomonowo受ke入re続ketekitandesu。",
+        "meaning": "日本原本是个小岛国，古代从中国、朝鲜半岛，近代以后从欧美，一直积极地接受外来的东西。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "その姿勢が技術大国の基礎にもなっているわけですね。",
+        "reading": "sono姿勢ga技術大国no基礎nimonateiruwakedesune。",
+        "meaning": "那种姿态也成为技术大国的基础了吧。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "僕は中国で先生している時に、大学で「中国は自国の伝統を大切にしている」と感じました。日本は一方で、そういう精神を中国から学んだほうがいいかもしれません。",
+        "reading": "僕ha中国de先生shiteiru時ni、大学de「中国ha自国no伝統wo大切nishiteiru」to感jimashita。日本ha一方de、souiu精神wo中国kara学ndahougaiikamoshiremasen。",
+        "meaning": "我在中国教书时，在大学里感到\"中国很珍惜自己国家的传统\"。而日本另一方面，或许应该向中国学习这种精神。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d35",
+    "title": "会話文（王さんの寮／日本語学校のロビー）",
+    "scene": "日本語学校のロビー・王小華、田中先生、鈴木先生、キムヒョンヨル、陳敏さん、松島さん",
+    "lines": [
+      {
+        "speaker": "松島",
+        "jp": "王さん、お蕎麦を食べに行きましょうよ。速く！",
+        "reading": "王san、o蕎麦wo食beni行kimashouyo。速ku！",
+        "meaning": "小王，去吃荞麦面吧。快点！"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "焦らせないでくださいよ。すみません、わたしはお蕎麦よりうどんのほうが好きなんですけど。",
+        "reading": "焦rasenaidekudasaiyo。sumimasen、watashihao蕎麦yoriudonnohouga好kinandesukedo。",
+        "meaning": "别催我嘛。不好意思，比起荞麦面我更喜欢乌冬面呢。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "あら。でも、今日だけはお蕎麦を食べないと駄目ですよ。",
+        "reading": "ara。demo、今日dakehao蕎麦wo食benaito駄目desuyo。",
+        "meaning": "哎呀。不过只有今天不吃荞麦面可不行哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "どうしてですか。",
+        "reading": "doushitedesuka。",
+        "meaning": "为什么呀？"
+      },
+      {
+        "speaker": "松島",
+        "jp": "今日は大晦日でしょう。大晦日にお蕎麦を食べるのは日本の習慣で、「年越し蕎麦」って言うんですよ。",
+        "reading": "今日ha大晦日deshou。大晦日nio蕎麦wo食berunoha日本no習慣de、「年越shi蕎麦」te言undesuyo。",
+        "meaning": "今天是除夕呀。除夕吃荞麦面是日本的习惯，叫做\"年越荞麦\"哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "「年を越すために食べるお蕎麦」というわけですね。",
+        "reading": "「年wo越sutameni食beruo蕎麦」toiuwakedesune。",
+        "meaning": "也就是说就是\"为了过年而吃的荞麦面\"啊。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "長生きできることを祈って、細くて長いお蕎麦を食べるんです。",
+        "reading": "長生kidekirukotowo祈te、細kute長io蕎麦wo食berundesu。",
+        "meaning": "为了祈祷长寿，所以吃又细又长的荞麦面。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "中国の誕生日に食べる「長寿面」に似ていますね。",
+        "reading": "中国no誕生日ni食beru「長寿面」ni似teimasune。",
+        "meaning": "和中国的生日吃的\"长寿面\"很相似呢。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "あれ？中国では春節に餃子を食べるんですよね。",
+        "reading": "are？中国deha春節ni餃子wo食berundesuyone。",
+        "meaning": "咦？中国春节吃饺子吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "はい。でも、それは北方によくある習慣ですね。わたしの故郷でも旧暦の1月1日は必ず餃子を食べます。じゃあ、今日は日本の習慣に従いましょうか。",
+        "reading": "hai。demo、soreha北方niyokuaru習慣desune。watashino故郷demo旧暦no1月1日ha必zu餃子wo食bemasu。jaa、今日ha日本no習慣ni従imashouka。",
+        "meaning": "是的。不过那是北方常见的习惯。我故乡农历正月初一也一定吃饺子。那么，今天我就遵从日本的风俗吧。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "駅前に手作りの蕎麦を食べさせるお店があるんです。",
+        "reading": "駅前ni手作rino蕎麦wo食besaseruo店gaarundesu。",
+        "meaning": "车站前有一家能吃到现做荞麦面的店哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "いいですね。ぜひ、そこへ行きましょう。",
+        "reading": "iidesune。zehi、sokohe行kimashou。",
+        "meaning": "真好。一定要去那里。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "今夜は日本語学校のロビーが開放されているんですよね。",
+        "reading": "今夜ha日本語学校norobiga開放sareteirundesuyone。",
+        "meaning": "今晚日语学校的大厅开放呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "ええ、みんなで「紅白歌合戦」を見るんです。松島さんも来ませんか。",
+        "reading": "ee、minnade「紅白歌合戦」wo見rundesu。松島sanmo来masenka。",
+        "meaning": "嗯，大家一起看\"红白歌会\"。松岛你也来吗？"
+      },
+      {
+        "speaker": "松島",
+        "jp": "面白そうですね。ぜひ。",
+        "reading": "面白soudesune。zehi。",
+        "meaning": "看起来很有意思。一定来。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "おや、松島さん。",
+        "reading": "oya、松島san。",
+        "meaning": "哎呀，松岛。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "あ、先生。今日は一緒に「紅白」を見てもいいですか。",
+        "reading": "a、先生。今日ha一緒ni「紅白」wo見temoiidesuka。",
+        "meaning": "啊，老师。今天可以一起看\"红白\"吗？"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "あ、ぜひぜひ。その後、「初詣で」も行くので、よろしければ一緒にどうぞ。",
+        "reading": "a、zehizehi。sono後、「初詣de」mo行kunode、yoroshikereba一緒nidouzo。",
+        "meaning": "啊，一定一定。之后还要去\"初詣\"，方便的话一起吧。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "王さん。こんばんは。",
+        "reading": "王san。konbanha。",
+        "meaning": "小王。晚上好。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あら、キムさんも「紅白」に関心があるんですか。",
+        "reading": "ara、kimusanmo「紅白」ni関心gaarundesuka。",
+        "meaning": "哎呀，小金你也关心\"红白\"吗？"
+      },
+      {
+        "speaker": "キム",
+        "jp": "韓国も中国と同じで、旧暦に正月を過ごすんですよ。だから今日は日本式で過ごします。",
+        "reading": "韓国mo中国to同jide、旧暦ni正月wo過gosundesuyo。dakara今日ha日本式de過goshimasu。",
+        "meaning": "韩国也和中国一样过农历新年。所以今天过日本式的新年。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "ははは、実は韓国歌手のＢｏＡを見るのが楽しみなんですけどね。",
+        "reading": "hahaha、実ha韓国歌手noｂｏａwo見runoga楽shiminandesukedone。",
+        "meaning": "哈哈哈，其实我是期待看到韩国歌手宝儿呢。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "わたしは何と言っても浜崎あゆみに注目！",
+        "reading": "watashiha何to言temo浜崎ayumini注目！",
+        "meaning": "不管怎么说我都关注滨崎步！"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あら、陳さんも日本の歌が好きなんですね。わたしは木村拓哉がいるＳＭＡＰが楽しみです。",
+        "reading": "ara、陳sanmo日本no歌ga好kinandesune。watashiha木村拓哉gairuｓｍａｐga楽shimidesu。",
+        "meaning": "哎呀，小陈你也喜欢日本歌啊。我期待有木村拓哉的SMAP。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "今年はどっちが勝つかなぁ。",
+        "reading": "今年hadochiga勝tsukanaぁ。",
+        "meaning": "今年哪边会赢呢？"
+      },
+      {
+        "speaker": "キム",
+        "jp": "僕は紅組。",
+        "reading": "僕ha紅組。",
+        "meaning": "我支持红组。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "わたしも紅。",
+        "reading": "watashimo紅。",
+        "meaning": "我也红队。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "今年は白組でしょう。",
+        "reading": "今年ha白組deshou。",
+        "meaning": "今年该是白组吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "わたしは白組だろうと思います。",
+        "reading": "watashiha白組darouto思imasu。",
+        "meaning": "我想是白组吧。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d36",
+    "title": "会話文（地下鉄の中／明治神宮）",
+    "scene": "明治神宮・王小華、松島さん、田中先生、鈴木先生、陳敏さん、キムヒョンヨルさん",
+    "lines": [
+      {
+        "speaker": "松島",
+        "jp": "それにしても、こんな遅くまですごい人ねぇ。",
+        "reading": "sorenishitemo、konna遅kumadesugoi人neぇ。",
+        "meaning": "话说回来，这么晚了人还真多啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "え？松島さんも始めての初詣でなんですか。",
+        "reading": "e？松島sanmo始meteno初詣denandesuka。",
+        "meaning": "诶？松岛你也是第一次初詣吗？"
+      },
+      {
+        "speaker": "松島",
+        "jp": "「紅白」を見てから、すぐ行くというのは初めてです。毎年、初詣でにはいきますけど、１月１日から３日までの間にのんびりいきますから。",
+        "reading": "「紅白」wo見tekara、sugu行kutoiunoha初metedesu。毎年、初詣denihaikimasukedo、１月１日kara３日madeno間ninonbiriikimasukara。",
+        "meaning": "看完红白立刻去还是第一次。每年我都去初詣，但都是在1月1日到3日之间悠闲地去。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "たまにはこういうのもいいでしょう。",
+        "reading": "tamanihakouiunomoiideshou。",
+        "meaning": "偶尔这样也不错啊。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "はい、新しい発見をしたという感じです。",
+        "reading": "hai、新shii発見woshitatoiu感jidesu。",
+        "meaning": "是啊，感觉有新发现。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "明治神宮へ着いたら、もっとびっくりしますよ。",
+        "reading": "明治神宮he着itara、motobikurishimasuyo。",
+        "meaning": "到了明治神宫，你会更吃惊的。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "明治神宮と言えば、日本で最も多く参拝客が集まる神社なんですよね。",
+        "reading": "明治神宮to言eba、日本de最mo多ku参拝客ga集maru神社nandesuyone。",
+        "meaning": "谈起明治神宫，它是日本参拜者最集中的神社呢。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "うわぁ、混んでいそう。",
+        "reading": "uwaぁ、混ndeisou。",
+        "meaning": "哇，好像很挤。"
+      },
+      {
+        "speaker": "鈴木先生",
+        "jp": "みんなで話していれば並んでいる間も退屈しませんよ。",
+        "reading": "minnade話shiteireba並ndeiru間mo退屈shimasenyo。",
+        "meaning": "大家一起聊天的话，排队的时候也不会无聊哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "参拝の順番が回ってきた時は、何をしますか。",
+        "reading": "参拝no順番ga回tekita時ha、何woshimasuka。",
+        "meaning": "轮到我们参拜的时候，要做什么呢？"
+      },
+      {
+        "speaker": "鈴木先生",
+        "jp": "お賽銭を投げて、それから合掌しながらお祈りします。",
+        "reading": "o賽銭wo投gete、sorekara合掌shinagarao祈rishimasu。",
+        "meaning": "投香钱，然后合掌祈祷。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "あ、小銭をもっていないなぁ。",
+        "reading": "a、小銭womoteinainaぁ。",
+        "meaning": "啊，我没带零钱啊。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "それは予め崩しておいたほうがいいでしょう。",
+        "reading": "soreha予me崩shiteoitahougaiideshou。",
+        "meaning": "那最好事先换好零钱哦。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "ははは、いいですよ。小銭くらい貸しますから。",
+        "reading": "hahaha、iidesuyo。小銭kurai貸shimasukara。",
+        "meaning": "哈哈哈，没关系。一点零钱我借你。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "うわぁ。こんな人込み、生まれてはじめて見た。",
+        "reading": "uwaぁ。konna人込mi、生maretehajimete見ta。",
+        "meaning": "哇。这么拥挤的人群，我有生以来第一次见。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "だから、もっとびっくりするって言ったでしょう。",
+        "reading": "dakara、motobikurisurute言tadeshou。",
+        "meaning": "所以我不是说了你会更吃惊的嘛。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "確かに上海南京路の人の多さも比べ物にならないくらいですね。すご過ぎます。",
+        "reading": "確kani上海南京路no人no多samo比be物ninaranaikuraidesune。sugo過gimasu。",
+        "meaning": "确实人多得上海南京路也没法比。太夸张了。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "ああ、お腹が空いてきたぁ。",
+        "reading": "aa、o腹ga空itekitaぁ。",
+        "meaning": "啊，我肚子饿了。"
+      },
+      {
+        "speaker": "鈴木先生",
+        "jp": "頑張ってください。参拝が終われば夜店のある参道へ遊びに行きますから。",
+        "reading": "頑張tekudasai。参拝ga終wareba夜店noaru参道he遊bini行kimasukara。",
+        "meaning": "请坚持一下。参拜结束后就去有夜市摊的参道玩哦。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "もう我慢できませんよ。",
+        "reading": "mou我慢dekimasenyo。",
+        "meaning": "我已经忍不住了。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "小銭はない、お腹は空いた…まったく、子供じゃあるまいし。",
+        "reading": "小銭hanai、o腹ha空ita…mataku、子供jaarumaishi。",
+        "meaning": "又没零钱、肚子又饿……真是的，你又不是小孩子了。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "あ、随分だなぁ。",
+        "reading": "a、随分danaぁ。",
+        "meaning": "啊，真过分啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "新年早々、喧嘩はよくないですよ。",
+        "reading": "新年早々、喧嘩hayokunaidesuyo。",
+        "meaning": "新年刚开始就吵架可不好哦。"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "そうですね。せっかくの初詣でですから楽しくやったほうがいいですね。",
+        "reading": "soudesune。sekakuno初詣dedesukara楽shikuyatahougaiidesune。",
+        "meaning": "是啊。难得来初詣，还是开心点好啊。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d37",
+    "title": "会話文（東京・池袋の喫茶店／立教大学構内）",
+    "scene": "立教大学の構内——王小華、松島、藤原、妹美香",
+    "lines": [
+      {
+        "speaker": "松島",
+        "jp": "藤原さん、こっち、こっち",
+        "reading": "藤原san、kochi、kochi",
+        "meaning": "藤原，这边，这边。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "ちょっと遅れちゃったかしら、ごめんなさい。",
+        "reading": "choto遅rechatakashira、gomennasai。",
+        "meaning": "好像稍微迟到了一点，对不起。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "慣れない土地だからね。久しぶりでしょう、東京。",
+        "reading": "慣renai土地dakarane。久shiburideshou、東京。",
+        "meaning": "因为（你）不熟悉这里嘛。很久没来东京了吧。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "そうね１年半ぶりかしら。あ、王さん。",
+        "reading": "soune１年半burikashira。a、王san。",
+        "meaning": "是啊，有一年半没见了吧。啊，小王。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "こんにちは。松島さんについてきちゃいました。",
+        "reading": "konnichiha。松島sannitsuitekichaimashita。",
+        "meaning": "你好。我是跟着松岛来的。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "その節はどうも。",
+        "reading": "sono節hadoumo。",
+        "meaning": "那时候实在太感谢你了。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "いえ、お世話になったのはこちらのほうです。",
+        "reading": "ie、o世話ninatanohakochiranohoudesu。",
+        "meaning": "不，受照顾的是我这边。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "とりあえず、飲み物、何にする？",
+        "reading": "toriaezu、飲mi物、何nisuru？",
+        "meaning": "先点点喝的，想喝什么？"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "普通のコーヒーでいいわ。",
+        "reading": "普通nokohideiiwa。",
+        "meaning": "普通咖啡就行。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "じゃ、コーヒーひとつ、追加で。",
+        "reading": "ja、kohihitotsu、追加de。",
+        "meaning": "那再来一杯咖啡。"
+      },
+      {
+        "speaker": "ウェイトレス",
+        "jp": "かしこまりました。",
+        "reading": "kashikomarimashita。",
+        "meaning": "好的，马上来。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "ところで、藤原さんは今回どうして東京へ？",
+        "reading": "tokorode、藤原sanha今回doushite東京he？",
+        "meaning": "对了，藤原这次为什么来东京？"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "調べ物をするために、国立国会図書館へ行きたいと思ったんです。",
+        "reading": "調be物wosurutameni、国立国会図書館he行kitaito思tandesu。",
+        "meaning": "为了查阅资料，想去国立国会图书馆。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "へえへえそれで、わざわざ",
+        "reading": "heeheesorede、wazawaza",
+        "meaning": "哦——所以特地（跑来东京）。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "新幹線代は高くても、そればっかりは東京に来なくちゃいけませんからね。",
+        "reading": "新幹線代ha高kutemo、sorebakariha東京ni来nakuchaikemasenkarane。",
+        "meaning": "即使新干线票价贵，可这也只能来东京才行啊。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "妹さんの成人式も見に来たんじゃないの？",
+        "reading": "妹sanno成人式mo見ni来tanjanaino？",
+        "meaning": "也来看妹妹的成人仪式了吧？"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "実は、そっちがメインだったりして。",
+        "reading": "実ha、sochigameindatarishite。",
+        "meaning": "说实在的，那才是真正的目的呢。"
+      },
+      {
+        "speaker": "王、松島",
+        "jp": "ははははは",
+        "reading": "hahahahaha",
+        "meaning": "哈哈哈。"
+      },
+      {
+        "speaker": "美香",
+        "jp": "お姉さん。",
+        "reading": "o姉san。",
+        "meaning": "姐姐。"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "来た、来た。",
+        "reading": "来ta、来ta。",
+        "meaning": "来了，来了。"
+      },
+      {
+        "speaker": "美香",
+        "jp": "遅れて、ごめんなさい。松島さん、ご無沙汰してます。",
+        "reading": "遅rete、gomennasai。松島san、go無沙汰shitemasu。",
+        "meaning": "来晚了，对不起。松岛，好久不见。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "お久しぶりです。和服姿、とってもきれいじゃない。",
+        "reading": "o久shiburidesu。和服姿、totemokireijanai。",
+        "meaning": "好久不见。你穿和服的样子，非常漂亮呢。"
+      },
+      {
+        "speaker": "美香",
+        "jp": "ありがとうございます。あのう",
+        "reading": "arigatougozaimasu。anou",
+        "meaning": "谢谢。那个……"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あ、わたしは中国から来た王です。松島さんと今、日本語と中国語の相互学習をしています。京都・奈良旅行の際には藤原さんにもお世話になりました。",
+        "reading": "a、watashiha中国kara来ta王desu。松島santo今、日本語to中国語no相互学習woshiteimasu。京都奈良旅行no際niha藤原sannimoo世話ninarimashita。",
+        "meaning": "啊，我是从中国来的小王。现在和松岛互相学习日语和汉语。去京都、奈良旅行的时候也多亏藤原照顾了。"
+      },
+      {
+        "speaker": "美香",
+        "jp": "王さん、はじめまして。わたしは藤原の妹で美香と言います。京都・奈良は如何でしたか。",
+        "reading": "王san、hajimemashite。watashiha藤原no妹de美香to言imasu。京都奈良ha如何deshitaka。",
+        "meaning": "小王，初次见面。我是藤原的妹妹，叫美香。京都、奈良（玩得）怎么样？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "とても素晴らしかったです。そんなことより、今日の和服、本当にきれいです。ご成人、おめでとうございます。",
+        "reading": "totemo素晴rashikatadesu。sonnakotoyori、今日no和服、本当nikireidesu。go成人、omedetougozaimasu。",
+        "meaning": "非常棒。不过话说回来，你今天穿的和服真的很漂亮。恭喜你成年。"
+      },
+      {
+        "speaker": "美香",
+        "jp": "ありがとうございます。",
+        "reading": "arigatougozaimasu。",
+        "meaning": "谢谢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "今日は成人式があるので、和服の若い人が多いですね。",
+        "reading": "今日ha成人式gaarunode、和服no若i人ga多idesune。",
+        "meaning": "今天有成人仪式，穿和服的年轻人很多呢。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "そうなんです。わたしも成人の時は来ましたよ。",
+        "reading": "sounandesu。watashimo成人no時ha来mashitayo。",
+        "meaning": "是啊。我成年的时候也来过呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "羨ましいです。わたしもチャンスがあったら着てみたいなぁ。",
+        "reading": "羨mashiidesu。watashimochansugaatara着temitainaぁ。",
+        "meaning": "真羡慕。我要是有机会也想穿穿看呢。"
+      },
+      {
+        "speaker": "美香",
+        "jp": "着物を着て写真を撮りたいなら、わたしのを着ますか。",
+        "reading": "着物wo着te写真wo撮ritainara、watashinowo着masuka。",
+        "meaning": "想穿和服拍照的话，穿我的怎么样？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "え、いいんですか。",
+        "reading": "e、iindesuka。",
+        "meaning": "哎，可以吗？"
+      },
+      {
+        "speaker": "美香",
+        "jp": "母から譲りうけたもので、姉も成人式の時は、これを着たんです。いいよね。お姉ちゃん。",
+        "reading": "母kara譲riuketamonode、姉mo成人式no時ha、korewo着tandesu。iiyone。o姉chan。",
+        "meaning": "这是从母亲那里传下来的。姐姐成人仪式的时候也穿过这件。行吧，姐姐？"
+      },
+      {
+        "speaker": "藤原",
+        "jp": "そうね。どうせ、あなた、東京で大学生やってるんだから、王さんと都合が合う時に、一緒に写真館へ行けばいいわ。",
+        "reading": "soune。douse、anata、東京de大学生yaterundakara、王santo都合ga合u時ni、一緒ni写真館he行kebaiiwa。",
+        "meaning": "是啊。反正你在东京上大学，跟小王时间方便的时候，一起去照相馆不就行了。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "ありがとうございます。嬉しい！",
+        "reading": "arigatougozaimasu。嬉shii！",
+        "meaning": "谢谢。太高兴了！"
+      }
+    ]
+  },
+  {
+    "id": "n4-d38",
+    "title": "会話文（寮のロビー）",
+    "scene": "２月３日、寮のロビーで——王小華、キムヒョンヨル、陳敏、ダニエル、鈴木先生",
+    "lines": [
+      {
+        "speaker": "ダニエル",
+        "jp": "王さん、こんにちは。何を見ているんですか。",
+        "reading": "王san、konnichiha。何wo見teirundesuka。",
+        "meaning": "小王，你好。在看什么呢？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あ、ダニエルさん。掲示板に書いてある「豆まき」って何ですか。",
+        "reading": "a、danierusan。掲示板ni書itearu「豆maki」te何desuka。",
+        "meaning": "啊，丹丹。留言板上写的\"撒豆\"是怎么一回事啊？"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "ああ、明日は２月３日じゃないですか。「節分」の「豆まき」のことですよ。",
+        "reading": "aa、明日ha２月３日janaidesuka。「節分」no「豆maki」nokotodesuyo。",
+        "meaning": "噢，明天不是2月3日吗，是\"节分\"时的\"撒豆\"啊。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "「鬼」を追い出すのに豆をまくんですよ。",
+        "reading": "「鬼」wo追i出sunoni豆womakundesuyo。",
+        "meaning": "为了把鬼赶出去而撒豆子噢。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "日本語の王さんでもわからないことがあるんですね。",
+        "reading": "日本語no王sandemowakaranaikotogaarundesune。",
+        "meaning": "连日语通小王也有不知道的事啊。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "もちろんですよ。わたしなんか知らないことだらけです。「節分」について教えてくれませんか。",
+        "reading": "mochirondesuyo。watashinanka知ranaikotodarakedesu。「節分」nitsuite教etekuremasenka。",
+        "meaning": "当然啦。像我这样不懂的事情多的是。就请你告诉我关于\"节分\"的事吧？"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "あ、ちょうどいい。鈴木先生がきましたよ。先生！",
+        "reading": "a、choudoii。鈴木先生gakimashitayo。先生！",
+        "meaning": "啊，正好。铃木老师来了。老师！"
+      },
+      {
+        "speaker": "鈴木",
+        "jp": "ああ、ダニエルくん。王さんも一緒ね。こんにちは。",
+        "reading": "aa、danierukun。王sanmo一緒ne。konnichiha。",
+        "meaning": "啊，小丹。小王也在一起呢，你好。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "王さんが「節分」について質問しただってるんです。",
+        "reading": "王sanga「節分」nitsuite質問shitadaterundesu。",
+        "meaning": "小王想问关于\"节分\"的问题。"
+      },
+      {
+        "speaker": "鈴木",
+        "jp": "明日、就寝時間前に寮のみんなで「豆まき」をするんですね。王さん、これも実は中国から伝わった風習なんですよ。",
+        "reading": "明日、就寝時間前ni寮nominnade「豆maki」wosurundesune。王san、koremo実ha中国kara伝wata風習nandesuyo。",
+        "meaning": "明天就寝时间前，宿舍的大家一起\"撒豆\"哦。小王，这其实是从中国传过来的风俗习惯哦。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "え？本当ですか。わたしの故郷では、こんな習慣ありません。",
+        "reading": "e？本当desuka。watashino故郷deha、konna習慣arimasen。",
+        "meaning": "诶？真的吗。在我的故乡没有这样的习惯。"
+      },
+      {
+        "speaker": "鈴木",
+        "jp": "つまり、「鬼」は「悪いこと」を意味するんです。まめをまくときに「鬼は外、福はうち」と叫んで、災いが家のそとへ、幸福が家の中へ来ることを願うんです。",
+        "reading": "tsumari、「鬼」ha「悪ikoto」wo意味surundesu。mamewomakutokini「鬼ha外、福hauchi」to叫nde、災iga家nosotohe、幸福ga家no中he来rukotowo願undesu。",
+        "meaning": "就是说，\"鬼\"意味着\"不好的事情\"。撒豆的时候喊着\"鬼出去、福进来\"，祝愿灾难到家的外面去，幸福来到家里。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "なるほど、わかりました。",
+        "reading": "naruhodo、wakarimashita。",
+        "meaning": "原来如此，我明白了。"
+      },
+      {
+        "speaker": "鈴木",
+        "jp": "王さんは明日の「豆まき」に参加しますか。",
+        "reading": "王sanha明日no「豆maki」ni参加shimasuka。",
+        "meaning": "小王明天参加\"撒豆\"吗？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "はい、ぜひ豆をまいてみたいと思います。",
+        "reading": "hai、zehi豆womaitemitaito思imasu。",
+        "meaning": "好，我一定也要参加撒豆试试。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "王さん、手加減してくださいね。今年の「鬼」の役は僕がやるんですから",
+        "reading": "王san、手加減shitekudasaine。今年no「鬼」no役ha僕gayarundesukara",
+        "meaning": "小王，请你手下留情啊。因为今年\"鬼\"的角色是我当的……"
+      },
+      {
+        "speaker": "全留学生",
+        "jp": "鬼は外！福はうち！（叫びながら豆を投げている）",
+        "reading": "鬼ha外！福hauchi！（叫binagara豆wo投geteiru）",
+        "meaning": "鬼出去！福进来！（一边叫喊着一边扔豆子）"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "痛い、痛い！もう、勘弁してくださいよ。",
+        "reading": "痛i、痛i！mou、勘弁shitekudasaiyo。",
+        "meaning": "痛啊、痛啊！饶了我吧，受不了了。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "まだ、まだ！去年は、あれだけ痛い目に遭ったんだ。",
+        "reading": "mada、mada！去年ha、aredake痛i目ni遭tanda。",
+        "meaning": "再来、再来！去年我遭了那么多难堪呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "去年の「鬼」はキムさんだったんですか。",
+        "reading": "去年no「鬼」hakimusandatandesuka。",
+        "meaning": "去年的\"鬼\"是小金啊。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "そうみたいですね。彼はすぐ子供みたいにキムになるから",
+        "reading": "soumitaidesune。彼hasugu子供mitainikimuninarukara",
+        "meaning": "估计是那样的。因为他马上像个孩子一样当真起来。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "鬼は外！福はうち！",
+        "reading": "鬼ha外！福hauchi！",
+        "meaning": "鬼出去！福进来！"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "痛い、痛い！あ～助けて～",
+        "reading": "痛i、痛i！a～助kete～",
+        "meaning": "痛啊、痛啊！啊～救命～"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "なんだか、「鬼」も可哀そうですね。",
+        "reading": "nandaka、「鬼」mo可哀soudesune。",
+        "meaning": "总觉得，\"鬼\"好像也挺可怜的。"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "彼の気が済むまで、この「豆まき」は終わりそうもないですね。",
+        "reading": "彼no気ga済mumade、kono「豆maki」ha終warisoumonaidesune。",
+        "meaning": "在他觉得满足为止，这个\"撒豆\"好像不会结束了。"
+      },
+      {
+        "speaker": "鈴木",
+        "jp": "あれ、まだ「豆まき」をしているんですか。",
+        "reading": "are、mada「豆maki」woshiteirundesuka。",
+        "meaning": "那个，还在撒豆吗？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "いえ、わたしたちは終わったところなんですけど",
+        "reading": "ie、watashitachiha終watatokoronandesukedo",
+        "meaning": "不，我们刚刚结束……"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "一人だけ「しているところ」の人が",
+        "reading": "一人dake「shiteirutokoro」no人ga",
+        "meaning": "只有一个人还在撒着呢。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "鬼は外！福はうち！",
+        "reading": "鬼ha外！福hauchi！",
+        "meaning": "鬼出去！福进来！"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "痛い、痛い、許して～",
+        "reading": "痛i、痛i、許shite～",
+        "meaning": "痛啊、痛啊，宽恕我吧～"
+      },
+      {
+        "speaker": "鈴木",
+        "jp": "あら、あら",
+        "reading": "ara、ara",
+        "meaning": "唉～唉～～"
+      }
+    ]
+  },
+  {
+    "id": "n4-d39",
+    "title": "会話文（池袋のデパートで／チョコレート売り場で）",
+    "scene": "池袋のデパートのチョコレート売り場で——王小華、松島、美香",
+    "lines": [
+      {
+        "speaker": "王小華",
+        "jp": "そう言えば、１月中旬くらいから、デパートやスーパーでチョコレート売り場がやたら目立つんですが…",
+        "reading": "sou言eba、１月中旬kuraikara、depatoyasupadechokoreto売ri場gayatara目立tsundesuga…",
+        "meaning": "那个说起来，从1月中旬左右开始，百货公司和超市里的巧克力柜台格外显眼了……"
+      },
+      {
+        "speaker": "松島",
+        "jp": "「バレンタインデー」よ。",
+        "reading": "「barentainde」yo。",
+        "meaning": "情人节噢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "「バレンタインデー」ですか。",
+        "reading": "「barentainde」desuka。",
+        "meaning": "情人节吗？"
+      },
+      {
+        "speaker": "松島",
+        "jp": "そうよ。中国でも、最近、２月１４日に恋人同士が一緒に過ごすようになったらしいじゃないですか。",
+        "reading": "souyo。中国demo、最近、２月１４日ni恋人同士ga一緒ni過gosuyouninatarashiijanaidesuka。",
+        "meaning": "对（是那样的）。即使（连）中国最近，情人们好像也一起过2月14日了是吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "はい。中国語で「情人节」と言います。",
+        "reading": "hai。中国語de「情人节」to言imasu。",
+        "meaning": "是的，汉语叫做情人节。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "その時、チョコレートは贈りませんか。",
+        "reading": "sono時、chokoretoha贈rimasenka。",
+        "meaning": "那个时候，送巧克力吗？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "いいえ、花を贈ったり、一緒に食事したりします。",
+        "reading": "iie、花wo贈tari、一緒ni食事shitarishimasu。",
+        "meaning": "不，又是送花又是一起吃饭。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "そうかな。やっぱり、チョコレートを贈るっていうのは日本のお菓子会社が作った習慣なのね…",
+        "reading": "soukana。yapari、chokoretowo贈ruteiunoha日本noo菓子会社ga作ta習慣nanone…",
+        "meaning": "那样啊，果然，像赠送巧克力这样的是日本的甜品公司弄出来的习惯啊。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "そうよ。２月１４日は女性が男性に贈る日なの。男性は３月１４日の「ホワイトデー」にお返しをするんです。",
+        "reading": "souyo。２月１４日ha女性ga男性ni贈ru日nano。男性ha３月１４日no「howaitode」nio返shiwosurundesu。",
+        "meaning": "是那样，2月14日是女生赠送给男生的日子，男生在3月14日白色情人节再回赠女生。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "へえ～、面白いですね。中国には女性が男性に何かをしてあげる日なんか決められていないですけどね。",
+        "reading": "hee～、面白idesune。中国niha女性ga男性ni何kawoshiteageru日nanka決merareteinaidesukedone。",
+        "meaning": "唉～好好玩噢。在中国没有规定那一天女生要对男生做什么。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あ、藤原さんの妹さんがいますよ。",
+        "reading": "a、藤原sanno妹sangaimasuyo。",
+        "meaning": "啊，滕原的妹妹也在呢。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "あら、偶然！美香ちゃん！",
+        "reading": "ara、偶然！美香chan！",
+        "meaning": "唉呀，真巧，美香！"
+      },
+      {
+        "speaker": "美香",
+        "jp": "あ…こ、こんにちは。",
+        "reading": "a…ko、konnichiha。",
+        "meaning": "啊，你……你（们）好！"
+      },
+      {
+        "speaker": "松島",
+        "jp": "何よ、おどおどしちゃって、美香ちゃんらしくないじゃない。あら、大きな大きなチョコレート…本命ね！",
+        "reading": "何yo、odoodoshichate、美香chanrashikunaijanai。ara、大kina大kinachokoreto…本命ne！",
+        "meaning": "什么嘛，一幅胆战心惊的样子，不像美香你的样子啊。唉呀！老大老大的巧克力……真命天子耶！"
+      },
+      {
+        "speaker": "美香",
+        "jp": "違いますよぉ。",
+        "reading": "違imasuyoぉ。",
+        "meaning": "不是啦。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "いいじゃない、隠さなくたって。",
+        "reading": "iijanai、隠sanakutate。",
+        "meaning": "不是的话，请不要遮遮掩掩了。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "なんですか？「本命」って…",
+        "reading": "nandesuka？「本命」te…",
+        "meaning": "真命天子那是什么东东？"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "「本当の彼氏」…え!? じゃあ、「嘘の彼氏」っていうのもいるんですか。",
+        "reading": "「本当no彼氏」…e!? jaa、「嘘no彼氏」teiunomoirundesuka。",
+        "meaning": "真的男友？那么，还有假的男友吗？"
+      },
+      {
+        "speaker": "美香",
+        "jp": "違うわ、王さん。わたしたち女性が本当に好きな人にあげるのが「本命」って言うんですけど、そうすると中には毎年、チョコをもらえない男性も出てきますよね。",
+        "reading": "違uwa、王san。watashitachi女性ga本当ni好kina人niagerunoga「本命」te言undesukedo、sousuruto中niha毎年、chokowomoraenai男性mo出tekimasuyone。",
+        "meaning": "才不是呢，小王，我们女生把给自己喜欢的人巧克力的称之为\"真命\"，所以每年都会有收不到巧克力的男生。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "それで、好きじゃない人にも「義理」チョコとしてプレゼントするんですよ。",
+        "reading": "sorede、好kijanai人nimo「義理」chokotoshitepurezentosurundesuyo。",
+        "meaning": "因此呢，也把\"义理\"巧克力作礼物送给并非喜欢的人（安慰奖）。"
+      },
+      {
+        "speaker": "美香",
+        "jp": "そう、そう、サークルやゼミの先輩にも買わないと…王さんのおかげで思い出しました。ありがとう、王さん。",
+        "reading": "sou、sou、sakuruyazemino先輩nimo買wanaito…王sannookagede思i出shimashita。arigatou、王san。",
+        "meaning": "是啊是啊，不给俱乐部和小组的学长买点也不行啊……多亏了小王让我想起来了，谢谢你小王。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "ということは…",
+        "reading": "toiukotoha…",
+        "meaning": "也就是说……"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "その大きな大きなチョコレート、やっぱり彼氏にあげるんですね！",
+        "reading": "sono大kina大kinachokoreto、yapari彼氏niagerundesune！",
+        "meaning": "那块老大老大的巧克力果然是给男朋友的。"
+      },
+      {
+        "speaker": "美香",
+        "jp": "ああ…ばれちゃった。お姉ちゃんには言わないでくださいね。",
+        "reading": "aa…barechata。o姉channiha言wanaidekudasaine。",
+        "meaning": "啊啊……被揭穿了，请不要到姐姐那边说。"
+      },
+      {
+        "speaker": "松島",
+        "jp": "そうね。藤原さんはちょっと真面目なところがあるから…妹が東京で彼氏を作ったって聞いたら失神しちゃうかも。",
+        "reading": "soune。藤原sanhachoto真面目natokorogaarukara…妹ga東京de彼氏wo作tate聞itara失神shichaukamo。",
+        "meaning": "那样啊，滕原是个很认真（保守）的人……听到妹妹在东京交了男朋友怕是要昏过去吧。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "わかりました。内緒にしますから、安心してくださいね。",
+        "reading": "wakarimashita。内緒nishimasukara、安心shitekudasaine。",
+        "meaning": "明白了，我会保守秘密的，请你放心吧。"
+      }
+    ]
+  },
+  {
+    "id": "n4-d40",
+    "title": "会話文（日本語学校のロビーで／終業式会場で）",
+    "scene": "終業式会場で——王小華、ダニエル、キム、陳敏、田中先生、鈴木先生",
+    "lines": [
+      {
+        "speaker": "ダニエル",
+        "jp": "王さん、ちょっと話したいことがあるんですが…",
+        "reading": "王san、choto話shitaikotogaarundesuga…",
+        "meaning": "小王，有些话想要在这跟你说……"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "ダニエルさん、こんにちは。何ですか、お話って…",
+        "reading": "danierusan、konnichiha。何desuka、o話te…",
+        "meaning": "阿丹，你好。怎么了，要说什么……"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "僕、今年の終業式が終わったらイギリスに戻ることになりました。",
+        "reading": "僕、今年no終業式ga終wataraigirisuni戻rukotoninarimashita。",
+        "meaning": "今年的毕业典礼结束后我就要回到英国去了。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "え、本当ですか。確か、東京で外資系金融会社に就職が決まった",
+        "reading": "e、本当desuka。確ka、東京de外資系金融会社ni就職ga決mata",
+        "meaning": "诶，真的吗？确切地说，不是决定了在东京的外资金融公司就职吗？"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "ええ、当初は東京で就職するつもりだったんですが、イギリスの実家へどうしても帰らなければいけない事情が発生して…",
+        "reading": "ee、当初ha東京de就職surutsumoridatandesuga、igirisuno実家hedoushitemo帰ranakerebaikenai事情ga発生shite…",
+        "meaning": "对对，当初是打算在东京就职的，但是英国老家发生了一些事情不得不回去。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そうですか、とても残念です。ダニエルさんは、まるでお兄さんのようにいつも色々と教えてくれましたから…",
+        "reading": "soudesuka、totemo残念desu。danierusanha、marudeo兄sannoyouniitsumo色々to教etekuremashitakara…",
+        "meaning": "那样啊，真遗憾。阿丹像兄长一样经常教我各种各样的东西……"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "そんな、たいしたことしてませんよ。",
+        "reading": "sonna、taishitakotoshitemasenyo。",
+        "meaning": "哪里，没这么了不起噢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "いいえ、今度、何かお礼をさせてください。",
+        "reading": "iie、今度、何kao礼wosasetekudasai。",
+        "meaning": "不不……这次请让我向你表示一点感谢吧。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "じゃあ、遠慮なく…学食でハンバーグ定食でもご馳走してもらいましょうか。",
+        "reading": "jaa、遠慮naku…学食dehanbagu定食demogo馳走shitemoraimashouka。",
+        "meaning": "那我就不客气了……请我在学校食堂吃一个汉堡套餐怎么样。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そんなんじゃなくて、もっとしっかりしたお礼をさせてください。",
+        "reading": "sonnanjanakute、motoshikarishitao礼wosasetekudasai。",
+        "meaning": "那怎么可以，请让我更郑重地表示谢意。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "でも、終業式まで時間もありませんよ。",
+        "reading": "demo、終業式made時間moarimasenyo。",
+        "meaning": "但是毕业典礼前也没有时间了。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "じゃあ、何か記念になるプレゼントを探しておきます。",
+        "reading": "jaa、何ka記念ninarupurezentowo探shiteokimasu。",
+        "meaning": "那么，我提前去找个什么能留做纪念的礼物吧。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "やさしいですね、王さん。ありがとうございます。",
+        "reading": "yasashiidesune、王san。arigatougozaimasu。",
+        "meaning": "太客气了，小王，谢谢你。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "先生方、そして在校生の皆さん。今までご指導とお励ましをいただきましてありがとうございました。長いようで短かった日本生活で、いろいろな思い出がございます。遠い異国の地で、慣れない言葉と習慣の中で、苦しんだこともございました。でも、そんな時、支えてくださったのは皆さんです。先生方がおっしゃった励ましのお言葉と、在校生の皆さんと共に育んだ思い出を胸に、わたしたちは巣立って参ります。わたしたち卒業生の中には、母国へ帰る者、引き続き日本で学ぶ者、働く者とそれぞれの進路がございますが、共通するのは、母国と日本との友好、そして全世界の平和のために自分の力を尽くしたいという思いであります。当校の卒業生として恥ずかしくないよう、今後も精進し、精一杯がんばって参る所存です。そして、卒業後も母校の益々の発展と、先生方および在校生の皆様のご健康とご多幸を祈っております。本当にありがとうございました。",
+        "reading": "先生方、soshite在校生no皆san。今madego指導too励mashiwoitadakimashitearigatougozaimashita。長iyoude短kata日本生活de、iroirona思i出gagozaimasu。遠i異国no地de、慣renai言葉to習慣no中de、苦shindakotomogozaimashita。demo、sonna時、支etekudasatanoha皆sandesu。先生方gaoshata励mashinoo言葉to、在校生no皆santo共ni育nda思i出wo胸ni、watashitachiha巣立te参rimasu。watashitachi卒業生no中niha、母国he帰ru者、引ki続ki日本de学bu者、働ku者tosorezoreno進路gagozaimasuga、共通surunoha、母国to日本tono友好、soshite全世界no平和notameni自分no力wo尽kushitaitoiu思idearimasu。当校no卒業生toshite恥zukashikunaiyou、今後mo精進shi、精一杯ganbate参ru所存desu。soshite、卒業後mo母校no益々no発展to、先生方oyobi在校生no皆様nogo健康togo多幸wo祈teorimasu。本当niarigatougozaimashita。",
+        "meaning": "各位尊敬的老师、还有各位同学们。到现在一直承蒙指导和鼓励非常感谢。漫长而又短暂的日本生活，让我思绪万千、百感交集。处在遥远的异国他乡和不习惯的语言及生活习惯中，非常的艰苦。但是，那样的时候，支撑着我的正是各位。老师鼓励的话语和学校同学们共同的成长的情谊，会一直在我心中。我们毕业生当中有（选择）回祖国，继续在日本求学，工作等各种人生道路的，共同的是，为了祖国与日本的友好，并且为了全世界的和平而想尽一份自己的力量。作为当校的毕业生要问心无愧，今后也要打算专心致志的，竭尽全力的去努力。并且毕业后也要祝愿母校发展的越来越好，老师和同学们健康而又幸福。真的非常感谢大家。"
+      },
+      {
+        "speaker": "キム",
+        "jp": "すごいなぁ、ダニエルくん！",
+        "reading": "sugoinaぁ、danierukun！",
+        "meaning": "厉害啊，阿丹！"
+      },
+      {
+        "speaker": "陳敏",
+        "jp": "でも、何を言ってるのか全然わからないわ…",
+        "reading": "demo、何wo言terunoka全然wakaranaiwa…",
+        "meaning": "但是，说了些什么啊，完全不明白……"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "これが、敬語かぁ…",
+        "reading": "korega、敬語kaぁ…",
+        "meaning": "这些（就是）敬语啊……"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "皆さんも、これから少しずつ習得していけますよ。",
+        "reading": "皆sanmo、korekara少shizutsu習得shiteikemasuyo。",
+        "meaning": "各位，从现在起每次都要学会一点。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そうでしょうか…",
+        "reading": "soudeshouka…",
+        "meaning": "是这样啊……"
+      },
+      {
+        "speaker": "田中先生",
+        "jp": "敬語は日本人にとっても難しいんです。先生の敬語は大学を卒業して就職後に少しずつ覚えたものですよ。",
+        "reading": "敬語ha日本人nitotemo難shiindesu。先生no敬語ha大学wo卒業shite就職後ni少shizutsu覚etamonodesuyo。",
+        "meaning": "敬语对于日本人来说也是很困难的。老师的敬语是在毕业就职后一点点记住的。"
+      },
+      {
+        "speaker": "鈴木先生",
+        "jp": "そうそう、わたしだってまだ勉強中なんですよ。",
+        "reading": "sousou、watashidatemada勉強中nandesuyo。",
+        "meaning": "是是，我也还在学习中呢。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "そんなに難しいんですか、日本の敬語…",
+        "reading": "sonnani難shiindesuka、日本no敬語…",
+        "meaning": "那么难啊，日本的敬语……"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "だから、外国人の僕たちは「そんなに緊張するな」、そして「しっかり勉強しなさい」って言うことですよ。",
+        "reading": "dakara、外国人no僕tachiha「sonnani緊張suruna」、soshite「shikari勉強shinasai」te言ukotodesuyo。",
+        "meaning": "所以，作为外国人的我们会说\"别那么紧张\"，并且\"要好好学习啊\"这样的话（来互相鼓励）。"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "あ、ダニエルさん。お疲れ様でした。",
+        "reading": "a、danierusan。o疲re様deshita。",
+        "meaning": "啊，阿丹，你辛苦了。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "王さんはきれいな日本語が話せるんですから、しっかり敬語をマスターすれば完璧です。頑張ってくださいね。",
+        "reading": "王sanhakireina日本語ga話serundesukara、shikari敬語womasutasureba完璧desu。頑張tekudasaine。",
+        "meaning": "小王因为说得一手漂亮的日语，假如再努力地掌握了敬语就完美了。请加油噢！"
+      },
+      {
+        "speaker": "王小華",
+        "jp": "はい。きっと、またどこかで会えますよね。その時、披露できるように頑張ります。",
+        "reading": "hai。kito、matadokokade会emasuyone。sono時、披露dekiruyouni頑張rimasu。",
+        "meaning": "是，一定的，我们会在别的地方再相遇吧。我要为了那个时候，能展示（敬语）而努力。"
+      },
+      {
+        "speaker": "ダニエル",
+        "jp": "頑張れ！王さん。",
+        "reading": "頑張re！王san。",
+        "meaning": "加油！小王。"
+      }
+    ]
+  }
+]
