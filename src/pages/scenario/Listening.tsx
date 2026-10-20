@@ -39,6 +39,7 @@ export function ListeningView({ data }: { data: ScenarioData }) {
         <Progress value={((idx + 1) / data.listening.length) * 100} />
       </Card>
       <ListeningPlayer
+        key={item.id}
         item={item}
         index={idx}
         total={data.listening.length}

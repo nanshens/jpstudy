@@ -359,16 +359,17 @@ export function QuizView({ data, onComplete }: Props) {
               <Settings2 className="h-3 w-3" /> 改设置
             </button>
           </div>
-          {type === 'spelling' && <SpellingQuestion q={q} revealed={revealed} onSubmit={commitSpelling} />}
-          {type === 'spell-audio' && <SpellAudioQuestion q={q} revealed={revealed} onSubmit={commitSpelling} />}
+          {/* key={q.id}: 切题时重建子组件,清掉上一题残留的输入内容 */}
+          {type === 'spelling' && <SpellingQuestion key={q.id} q={q} revealed={revealed} onSubmit={commitSpelling} />}
+          {type === 'spell-audio' && <SpellAudioQuestion key={q.id} q={q} revealed={revealed} onSubmit={commitSpelling} />}
           {(type === 'choice' || type === 'truefalse') && (
-            <ChoiceQuestion q={q} picked={picked} revealed={revealed} onPick={commitChoice} />
+            <ChoiceQuestion key={q.id} q={q} picked={picked} revealed={revealed} onPick={commitChoice} />
           )}
           {type === 'listening' && (
-            <ListeningQuestion q={q} picked={picked} revealed={revealed} onPick={commitChoice} />
+            <ListeningQuestion key={q.id} q={q} picked={picked} revealed={revealed} onPick={commitChoice} />
           )}
           {type === 'response' && (
-            <ResponseQuestion q={q} picked={picked} revealed={revealed} onPick={commitChoice} />
+            <ResponseQuestion key={q.id} q={q} picked={picked} revealed={revealed} onPick={commitChoice} />
           )}
 
           {revealed && q.explanation && (
